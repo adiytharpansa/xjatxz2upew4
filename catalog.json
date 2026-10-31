@@ -51991,6 +51991,76 @@
           "playlist": "d-frag/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "durarara-x2-ten",
+      "title": "Durarara!!x2 Ten",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3c6f04d5bc61fe4f43a4265066b5efad626cab15/durarara-x2-ten/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3c6f04d5bc61fe4f43a4265066b5efad626cab15/durarara-x2-ten/banner.jpg",
+      "synopsis": "In Ikebukuro, the lives of its citizens continue intertwining with each other as if their fates are predestined. Mikado Ryuugamine is now one step closer to his goal of living an exciting life, and in turn, delves deeper into the darker side of Ikebukuro. After gaining absolute control over a former rival, he uses his newfound power as he pleases, purging the Dollars from the inside to mold it into the ideal organization. This proves to be as challenging as it sounds as Mikado must now deal with unwanted outside interference, most notably a re-emerging and dearly missed friend. Meanwhile, Izaya Orihara still has some schemes up his sleeve, although a rival information exchange center has proven to be quite the hindrance, lurking within everyone’s favorite downtown district. Undoubtedly, sooner or later, chaos will strike again.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "663ae2d3bac0b9c323d6ed533c7300265e9b0959",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "durarara-x2-ten/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "durarara-x2-ten/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "durarara-x2-ten/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "durarara-x2-ten/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "durarara-x2-ten/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "durarara-x2-ten/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "durarara-x2-ten/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "durarara-x2-ten/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "durarara-x2-ten/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "durarara-x2-ten/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "durarara-x2-ten/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "durarara-x2-ten/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
