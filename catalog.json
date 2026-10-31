@@ -53646,6 +53646,128 @@
           "playlist": "kizumonogatari-part-2-nekketsu/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "log-horizon-2",
+      "title": "Log Horizon 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@16711d3c0dc0a374965eeca48facffbffc14e88b/log-horizon-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@16711d3c0dc0a374965eeca48facffbffc14e88b/log-horizon-2/banner.jpg",
+      "synopsis": "Veteran gamer Shiroe and other players have been trapped in the world of the online game Elder Tales for six months. The once chaotic city of Akibara has regained its everyday hustle and bustle following the formation of the self-governing organization Round Table Meeting. The earthlings, who are originally from the game world, have gained the trust of Shiroe by waging a defensive war against the Goblins in Zantleaf Region. This has led Princess Rayneshia of the Cowen family, the highest-ranking Earthling Aristocrats, to live in Akibara.\nIt's almost winter and the Adventurers are thinking about what they're going to do and what their goals are in this other world. Will they remain in Akibara or go to the city of the West? Or will they travel to the land of the North or another faraway country? The opinions of the Adventurers begin to diverge. What adventures await the members of the Shiroe team in this second series of Log Horizon?\n(Source: NHK Enterprises)",
+      "year": 2014,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Virtual Reality",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Politics"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "2b79fdcb3359137f0f7ac4839ec6b530c4b7ca2b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "log-horizon-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "log-horizon-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "log-horizon-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "log-horizon-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "log-horizon-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "log-horizon-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "log-horizon-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "log-horizon-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "log-horizon-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "log-horizon-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "log-horizon-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "log-horizon-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "log-horizon-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "log-horizon-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "log-horizon-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "log-horizon-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "log-horizon-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "log-horizon-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "log-horizon-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "log-horizon-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "log-horizon-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "log-horizon-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "log-horizon-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "log-horizon-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "log-horizon-2/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
