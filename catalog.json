@@ -52711,6 +52711,35 @@
           "playlist": "bakuman-2/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haikyuu-riku-vs-kuu",
+      "title": "Haikyuu!!: Riku vs Kuu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@01eeca95e1a3eb6da3cfde9414b966a2609c6c9d/haikyuu-riku-vs-kuu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@01eeca95e1a3eb6da3cfde9414b966a2609c6c9d/haikyuu-riku-vs-kuu/poster.jpg",
+      "synopsis": "The two-episode anime, adapting chapters from volumes 22 and 23, will first debut at the Jump Festa 2020 event, which runs on December 21 and 22. TOHO animation will ship the original video anime on Blu-ray and DVD on January 22, 2020.\n\n(Source: MAL News)",
+      "year": 2020,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Drama",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "fc7125f82c4b753005785b0db85fce75d6525e2b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haikyuu-riku-vs-kuu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haikyuu-riku-vs-kuu/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
