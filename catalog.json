@@ -52998,6 +52998,79 @@
           "playlist": "hellsing/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "megalobox",
+      "title": "MEGALOBOX",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cba5b2343a1e0c759ba89d425cc0b7586f4cc5c3/megalobox/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cba5b2343a1e0c759ba89d425cc0b7586f4cc5c3/megalobox/banner.jpg",
+      "synopsis": "An original story based on Takamori Asaki and Chiba Tetsuya's Ashita no Joe boxing manga.\n\nA desolate land stretches out from the city of poverty. A motorcycle speeds recklessly, blowing clouds of sand and dust. The rider is the protagonist of this story – he has neither a name nor a past.\n\nAll he has is his ring name, Junk Dog and a technique for rigging MEGALOBOX matches with his pal Nanbu Gansaku, which they use to support their hand-to-mouth lives. Although he has the skill, he isn't dissatisfied enough to change his ways- but he's not satisfied with his life either. JD is bored, resigned, and unfulfilled. He lives with frustration in a life of shadows beneath the lights of fame.\n\nMeanwhile, under the bright sun is Shirato Yukiko, the daughter of Shirato Konzern - the reigning family of the wealthy class. Yukiko decides to advance her career by using MEGALOBOX to organize a large fighting event, MEGALONIA: the tournament to determine the champion of MEGALOBOX. She creates a scenario: MEGALOBOXER Yuri, under her control, will win and become the champion to further promote the Shirato brand gear and expand business. Yuri has been the reigning champion of MEGALOBOX for the past few years. Driven by self-discipline and his strong will to practice, he has the skills and presence of a true champion. The man himself is a shining exemplar of virtuosity.\n\nThis is a story of JD and his rival, Yuri. An encounter between shadow and light; a fast-paced story begins when their paths cross.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Boxing",
+        "Action",
+        "Science Fiction",
+        "Steampunk",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "c0484e69e10776c05f2298e5541642cbd0342101",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "megalobox/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "megalobox/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "megalobox/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "megalobox/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "megalobox/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "megalobox/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "megalobox/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "megalobox/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "megalobox/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "megalobox/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "megalobox/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "megalobox/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "megalobox/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
