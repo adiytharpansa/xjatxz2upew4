@@ -51468,6 +51468,32 @@
           "playlist": "when-they-cry/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-secret-world-of-arrietty",
+      "title": "The Secret World of Arrietty",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@99781da20d647328a081bf64810ef069a7925819/the-secret-world-of-arrietty/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@99781da20d647328a081bf64810ef069a7925819/the-secret-world-of-arrietty/banner.jpg",
+      "synopsis": "Arrietty, a tiny but tenacious 14-year-old, lives with her parents in the recesses of a suburban garden home, unbeknownst to the homeowner and her housekeeper. Like all little people, Arrietty remains hidden from view, except during occasional covert ventures beyond the floorboards to \"borrow\" scrap supplies like sugar cubes from her human hosts. But when 12-year-old Shou, a human boy who comes to stay in the home, discovers his mysterious housemate one evening, a secret friendship blossoms. If discovered, their relationship could drive Arrietty's family from the home and straight into danger.\n\n(Source: Disney)",
+      "year": 2010,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Contemporary Fantasy",
+        "Japan",
+        "Plot Continuity",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "3114b6b1cfa6b52f3c911ac578b17e0bc7a9fead",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-secret-world-of-arrietty/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
