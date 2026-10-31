@@ -53109,6 +53109,32 @@
           "playlist": "nekomonogatari-black/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "perfect-blue",
+      "title": "Perfect Blue",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2527df6dab6331081f93cebb81792cf0ad4bbe75/perfect-blue/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2527df6dab6331081f93cebb81792cf0ad4bbe75/perfect-blue/banner.jpg",
+      "synopsis": "Perfect Blue revolves around the main protagonist, Mima Kirigoe, a member of a pop idol group named “CHAM!”. After evaluating her situation, she decides to give up her idol status to pursue a career as an actress, what she believes to be the next step in making a name for herself in the industry. However, one of her most hardcore fans, Me-Mania, is less than happy about the path she has decided to take.\nNow reborn as an actress, Mima accepts an interesting role, ignoring her manager, Rumi Hidaka's reservations about it. While on set, strange things begin to happen to people who are involved with the film. As time goes on, Mima begins to break down mentally, struggling to distinguish fantasy from reality.\nWill Mima be able to escape the grip of her stalker and turn in a break out performance, or will she descend into madness?",
+      "year": 1998,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Idol",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Performance"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "0966009ec7c2f4923698c7138b2f92b10736e470",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "perfect-blue/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
