@@ -51921,6 +51921,76 @@
           "playlist": "mushoku-tensei-jobless-reincarnation-part-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "d-frag",
+      "title": "D-Frag!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fe0d31c47352c338458c233c2d392f9b7e6bf1e7/d-frag/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fe0d31c47352c338458c233c2d392f9b7e6bf1e7/d-frag/banner.jpg",
+      "synopsis": "Kazama Kenji likes to believe he is something of a delinquent. Moreover, others seem to like to agree that he is. Of course, Kenji's gang finds their way to a group of four not-so-normal girls—Chitose, Sakura, Minami and Roka—and all at once, whatever reputation he may have is nothing compared to the outrageous behavior of the girls. Shanghaied into joining their club, what will happen to his everyday life from that point on?\n(Source: MU)",
+      "year": 2014,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Delinquent",
+        "Present",
+        "Earth",
+        "Absurdist Humour",
+        "Super Deformed"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "17340bba0036912b32781bb0370e83d4dfadaf14",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "d-frag/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "d-frag/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "d-frag/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "d-frag/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "d-frag/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "d-frag/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "d-frag/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "d-frag/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "d-frag/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "d-frag/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "d-frag/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "d-frag/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
