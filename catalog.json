@@ -52131,6 +52131,72 @@
           "playlist": "engaged-to-the-unidentified/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ping-pong-the-animation",
+      "title": "Ping Pong the Animation",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dfed041436fbcb11571d39a17cf2414666f1d833/ping-pong-the-animation/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dfed041436fbcb11571d39a17cf2414666f1d833/ping-pong-the-animation/banner.jpg",
+      "synopsis": "\"The hero comes. The hero comes. The hero comes. Chant these words in your mind, and I'll surely come to you...\" This mantra is what Makoto Tsukimoto repeats as a source of motivation when he fights through the stress of not only grueling ping pong matches, but also in situations of his life. Makoto doesn't fight alone; he and his friend, Yukata Hoshino, nicknamed Smile and Peco respectively, are two boys who have grown up playing ping pong together nearly every day. Peco, brimming with confidence, aims to be the best table tennis player in the world; Smile, on the other hand, shows little ambition. Nevertheless, the two have always stuck together, with a bond built upon their mutual love for this sport.\n\nEvery year, students from all across Japan gather for the inter-high table tennis competition to achieve national and international stardom. Through intense training and competition, only the very best persevere.\n\nFrom the avant-garde director of Tatami Galaxy, Masaaki Yuasa, Ping Pong The Animation serves a tale of ambition with its fair share of bumps along the way. Whatever the odds, Peco and Smile will face them together.\n\n(Source: MAL Rewrite)",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/xs4dfmpt2u3u",
+      "pin": "1836168a2130854099be327b96002e90f408bda1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ping-pong-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ping-pong-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ping-pong-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ping-pong-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ping-pong-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ping-pong-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ping-pong-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ping-pong-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ping-pong-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ping-pong-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ping-pong-the-animation/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
