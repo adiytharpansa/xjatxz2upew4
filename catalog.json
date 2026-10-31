@@ -53559,6 +53559,68 @@
           "playlist": "blood-lad/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "date-a-live-ii",
+      "title": "Date A Live II",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d298b3247562ed779ab8f17d9c500b80fb8a050/date-a-live-ii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d298b3247562ed779ab8f17d9c500b80fb8a050/date-a-live-ii/banner.jpg",
+      "synopsis": "Shido Itsuka, who used to be a normal high school student at Raizen High, meets the first Spirit, Tohka, and awakens his power to \"seal the Spirit's power\". Though they may be feared and hated beings due to their immense power, Spirits were always alone and knew only combat and death. Shido, the only one in the world with the power to seal the Spirits' might, hurls himself into life-threatening dates with the beautiful Spirits in order to save them.\n\n(Source: ANN)",
+      "year": 2014,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Mecha",
+        "Contemporary Fantasy",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "7f1627bf3a5072c9daa9623c06e14d3184a26179",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "date-a-live-ii/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "date-a-live-ii/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "date-a-live-ii/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "date-a-live-ii/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "date-a-live-ii/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "date-a-live-ii/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "date-a-live-ii/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "date-a-live-ii/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "date-a-live-ii/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "date-a-live-ii/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
