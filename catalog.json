@@ -52197,6 +52197,76 @@
           "playlist": "ping-pong-the-animation/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wolf-girl-black-prince",
+      "title": "Wolf Girl & Black Prince",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@68af946b5b026a959d896c8ed9d13a0f586949d8/wolf-girl-black-prince/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@68af946b5b026a959d896c8ed9d13a0f586949d8/wolf-girl-black-prince/banner.jpg",
+      "synopsis": "Erika Shinohara has taken to lying about her romantic exploits to earn the respect of her new friends. So when they ask for a picture of her \"boyfriend,\" she hastily snaps a photo of a handsome stranger, whom her friends recognize as the popular and kind-hearted Kyouya Sata.\nTrapped in her own web of lies and desperately trying to avoid humiliation, Erika explains her predicament to Kyouya, hoping he will pretend to be her boyfriend. But Kyouya is not the angel he appears to be: he is actually a mean-spirited sadist who forces Erika to become his \"dog\" in exchange for keeping her secret.\nBegrudgingly accepting his deal, Erika soon begins to see glimpses of the real Kyouya beneath the multiple layers of his outer persona. As she finds herself falling for him, she can't help but question if he will ever feel the same way about her. Will Kyouya finally make an honest woman out of Erika, or is she destined to be a \"wolf girl\" forever?\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "2ab2c0f77067fe2af83daf30233b0d31c7b37551",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wolf-girl-black-prince/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wolf-girl-black-prince/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wolf-girl-black-prince/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "wolf-girl-black-prince/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "wolf-girl-black-prince/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "wolf-girl-black-prince/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "wolf-girl-black-prince/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "wolf-girl-black-prince/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "wolf-girl-black-prince/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "wolf-girl-black-prince/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "wolf-girl-black-prince/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "wolf-girl-black-prince/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
