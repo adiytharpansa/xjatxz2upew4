@@ -53621,6 +53621,31 @@
           "playlist": "date-a-live-ii/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kizumonogatari-part-2-nekketsu",
+      "title": "Kizumonogatari Part 2: Nekketsu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b1a89a55419392f1cb5f29572b162c0c97a09d3d/kizumonogatari-part-2-nekketsu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b1a89a55419392f1cb5f29572b162c0c97a09d3d/kizumonogatari-part-2-nekketsu/banner.jpg",
+      "synopsis": "In the spring of his second year of high school, Koyomi Araragi met the beautiful vampire Kiss-shot Acerola-orion Heart-under-blade. Koyomi saved Kiss-shot, who was on the verge of death with all four of her limbs cut off, but only at the expense of becoming her minion and a vampire.\n\n\"In order to go back to being a human again, you must take back all of Kiss-shot's limbs.\" After receiving advice from Meme Oshino, an expert in the supernatural, Koyomi prepares to go into battle.\n\nAwaiting him are three powerful vampire hunters—Dramaturgy, a giant vampire hunter who is a vampire himself. Episode, a half-vampire who wields an enormous cross, and Guillotinecutter, a quiet man who specializes in killing vampires.\n\nWill Koyomi be able to take back Kiss-shot's limbs from the vampire hunters? Amidst the soft spring rain, the curtain rises on this fateful blood bath…\n\n(Source: Aniplex USA)",
+      "year": 2016,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Action",
+        "Fantasy",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "cb9f1781121ec0dbe9a02ddf8fe0a22e9ee16bcb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kizumonogatari-part-2-nekketsu/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
