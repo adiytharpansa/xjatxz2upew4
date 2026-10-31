@@ -52467,6 +52467,128 @@
           "playlist": "free-eternal-summer/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pandorahearts",
+      "title": "PandoraHearts",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@03616562fd30886755cee845fd65bda28f60498b/pandorahearts/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@03616562fd30886755cee845fd65bda28f60498b/pandorahearts/banner.jpg",
+      "synopsis": "To young Oz Vessalius, heir to the Vessalius Duke House, the perilous world called the Abyss is nothing more than a folktale used to scare misbehaving children. However, when Oz's coming-of-age ceremony is interrupted by the malicious Baskerville Clan intent on banishing him into the depths of the Abyss, the Vessalius heir realizes that his peaceful life of luxury is at its end. Now, he must confront the world of the Abyss and its dwellers, the monstrous \"Chains,\" which are both not quite as fake as he once believed.\nBased on the supernatural fantasy manga of the same name, Pandora Hearts tells the story of fifteen-year-old Oz's journey to discover the meaning behind the strange events that have overtaken his life. Assisted by a mysterious Chain named Alice, whose nickname is \"Bloodstained Black Rabbit,\" and members of a clandestine organization known as \"Pandora,\" Oz begins to realize his existence may have more meaning than he could have ever imagined.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "Contemporary Fantasy",
+        "Plot Continuity",
+        "Parallel Universe",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "2d52df7f4395cef5f11c1977d2be5f2218952403",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pandorahearts/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "pandorahearts/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "pandorahearts/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "pandorahearts/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "pandorahearts/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "pandorahearts/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "pandorahearts/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "pandorahearts/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "pandorahearts/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "pandorahearts/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "pandorahearts/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "pandorahearts/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "pandorahearts/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "pandorahearts/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "pandorahearts/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "pandorahearts/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "pandorahearts/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "pandorahearts/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "pandorahearts/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "pandorahearts/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "pandorahearts/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "pandorahearts/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "pandorahearts/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "pandorahearts/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "pandorahearts/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
