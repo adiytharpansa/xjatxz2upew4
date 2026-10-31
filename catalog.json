@@ -52393,6 +52393,80 @@
           "playlist": "hanasaku-iroha-blossoms-for-tomorrow/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "free-eternal-summer",
+      "title": "Free! - Eternal Summer",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@74ceebcdd07b73cce267684b432f612fe668f159/free-eternal-summer/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@74ceebcdd07b73cce267684b432f612fe668f159/free-eternal-summer/banner.jpg",
+      "synopsis": "The Iwatobi Swim Club returns!  As their third year begins, Haruka, Makoto and Rin are still swimming strong, but choosing plans for their futures loom, and as friends both new and old make their way into the picture, rivalries will take root once again. Will the team make it out stronger than before or sink under pressure?",
+      "year": 2014,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "76b61ae9cf80ae8e5491b6864a2c1eb66dbdc988",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "free-eternal-summer/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "free-eternal-summer/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "free-eternal-summer/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "free-eternal-summer/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "free-eternal-summer/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "free-eternal-summer/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "free-eternal-summer/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "free-eternal-summer/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "free-eternal-summer/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "free-eternal-summer/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "free-eternal-summer/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "free-eternal-summer/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "free-eternal-summer/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
