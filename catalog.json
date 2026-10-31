@@ -52061,6 +52061,76 @@
           "playlist": "durarara-x2-ten/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "engaged-to-the-unidentified",
+      "title": "Engaged to the Unidentified",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cb4507867498fbcaabb6a0062283ef6ba3ba5a4c/engaged-to-the-unidentified/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cb4507867498fbcaabb6a0062283ef6ba3ba5a4c/engaged-to-the-unidentified/banner.jpg",
+      "synopsis": "Just an ordinary teenager, Kobeni Yonomori receives quite the surprise on her 16th birthday—a fiancé and a sister-in-law she never even knew she had. As a result of an arrangement that her late grandfather made, Hakuya Mitsumine and his younger sister Mashiro have moved from their countryside home to the Yonomori household in order to deepen their relationship with their new family members.Mikakunin de Shinkoukei follows Kobeni's \"love life\" with Hakuya as she tries her best to adjust to the abrupt changes forced upon her. However, as some extraordinary secrets regarding the siblings come to light, Kobeni will find her life changed forever.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Stereotypes",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "2b213bdf83ceeb56a78c78f99eae22f072263f1a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "engaged-to-the-unidentified/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "engaged-to-the-unidentified/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "engaged-to-the-unidentified/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "engaged-to-the-unidentified/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "engaged-to-the-unidentified/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "engaged-to-the-unidentified/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "engaged-to-the-unidentified/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "engaged-to-the-unidentified/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "engaged-to-the-unidentified/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "engaged-to-the-unidentified/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "engaged-to-the-unidentified/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "engaged-to-the-unidentified/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
