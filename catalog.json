@@ -52589,6 +52589,128 @@
           "playlist": "pandorahearts/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bakuman-2",
+      "title": "Bakuman. 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8d57428c27b0a84353197e0dbae6b6a0dd7ea58/bakuman-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8d57428c27b0a84353197e0dbae6b6a0dd7ea58/bakuman-2/banner.jpg",
+      "synopsis": "With the serialization of their new manga, \"Detective Trap,\" the writer-artist team, Akito Takagi and Moritaka Mashiro, better known by their pseudonym Ashirogi Muto, are one step closer to becoming world-renowned mangaka. For Mashiro, however, serialization is just the first step. Having promised to marry his childhood sweetheart and aspiring voice actress, Azuki Miho, once his manga gets an anime adaptation, Mashiro must continue his to popularize Ashirogi's work. A tremendously competitive cast of ambitious mangaka—including the wild genius, Eiji Niizuma; the elegant student, Yuriko Aoki, and her older admirer and partner, Takurou Nakai; the lazy prodigy, Kazuya Hiramaru; and the abrasive artist, Shinta Fukuda—both support and compete against Ashirogi Muto in creating the next big hit.\nAs they adjust to their young and seemingly untested new editor, the dynamic duo struggle to maintain their current serialization, secure the top stop in Shounen Jack, and ultimately, achieve an anime adaptation of their manga. With new rivals and friends, Bakuman. 2nd Season continues Takagi and Mashiro's inspiring story of hard work and young love.\n[Written by MAL Rewrite] ",
+      "year": 2011,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "University",
+        "Japan",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "24af18ca4078773289ed635ba3fd71fc13bc1364",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bakuman-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bakuman-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bakuman-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bakuman-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bakuman-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bakuman-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bakuman-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bakuman-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bakuman-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bakuman-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bakuman-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bakuman-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "bakuman-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "bakuman-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "bakuman-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "bakuman-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "bakuman-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "bakuman-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "bakuman-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "bakuman-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "bakuman-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "bakuman-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "bakuman-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "bakuman-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "bakuman-2/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
