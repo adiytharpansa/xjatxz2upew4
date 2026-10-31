@@ -53768,6 +53768,128 @@
           "playlist": "log-horizon-2/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-season-4",
+      "title": "My Hero Academia Season 4",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06aca00acf94c753141622113998c71c6baf6369/my-hero-academia-season-4/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06aca00acf94c753141622113998c71c6baf6369/my-hero-academia-season-4/banner.jpg",
+      "synopsis": "The villain world teeters on the brink of war now that All For One is out of the picture. Shigaraki of the League of Villains squares off with Overhaul of the yakuza, vying for total control of the shadows. Meanwhile, Deku gets tangled in another dangerous internship as he struggles to keep pace with his upperclassman—Mirio.\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "947b77f68f69bfd6b76bd41fdad47923013af0d8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-season-4/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-hero-academia-season-4/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-hero-academia-season-4/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-hero-academia-season-4/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-hero-academia-season-4/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-hero-academia-season-4/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-hero-academia-season-4/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-hero-academia-season-4/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-hero-academia-season-4/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-hero-academia-season-4/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-hero-academia-season-4/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-hero-academia-season-4/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "my-hero-academia-season-4/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "my-hero-academia-season-4/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "my-hero-academia-season-4/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "my-hero-academia-season-4/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "my-hero-academia-season-4/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "my-hero-academia-season-4/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "my-hero-academia-season-4/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "my-hero-academia-season-4/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "my-hero-academia-season-4/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "my-hero-academia-season-4/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "my-hero-academia-season-4/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "my-hero-academia-season-4/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "my-hero-academia-season-4/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
