@@ -52924,6 +52924,80 @@
           "playlist": "great-pretender/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hellsing",
+      "title": "Hellsing",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@da21fef1ce7ebf11602219ad14f31a96d911c040/hellsing/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@da21fef1ce7ebf11602219ad14f31a96d911c040/hellsing/banner.jpg",
+      "synopsis": "Decades ago, the legendary Dr. Abraham Van Helsing and his companions defeated Count Dracula, one of the world's deadliest vampires. After this success his name was used in the founding of the Hellsing Organization, a British task force with the duty of eliminating supernatural threats.Hellsing follows the exploits of that very organization. Led by Integra Fairbrook Wingates Hellsing, the Hellsing Organization finds its trump card not in the power of man, but in the strength of a monster it has tamed. Alucard, one of the oldest and most powerful vampires in existence, now hunts his fellow monsters at Hellsing's bequest. Alongside new recruit Seras Victoria, Alucard will find that a new threat has arisen, one greater than anything the Hellsing Organization has ever dealt with before.",
+      "year": 2001,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "996793302a668a89d9b38bc3af0b4839fcdde8ba",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hellsing/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hellsing/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hellsing/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hellsing/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hellsing/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hellsing/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hellsing/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hellsing/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hellsing/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hellsing/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hellsing/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hellsing/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "hellsing/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
