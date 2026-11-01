@@ -61529,6 +61529,80 @@
           "playlist": "haibane-renmei/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "natsume-s-book-of-friends-season-4",
+      "title": "Natsume's Book of Friends Season 4",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c246ae4b7291d0484162f5933e18416fb2ae947a/natsume-s-book-of-friends-season-4/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c246ae4b7291d0484162f5933e18416fb2ae947a/natsume-s-book-of-friends-season-4/banner.jpg",
+      "synopsis": "Takashi Natsume, the timid youkai expert and master of the Book of Friends, continues his journey towards self-understanding and acceptance with the help of friends both new and old. His most important ally is still his gluttonous and sake-loving bodyguard, the arrogant but fiercely protective wolf spirit Madara—or Nyanko-sensei, as Madara is called when in his usual disguise of an unassuming, pudgy cat.\nNatsume, while briefly separated from Nyanko-sensei, is ambushed and kidnapped by a strange group of masked, monkey-like youkai, who have spirited him away to their forest as they desperately search for the Book of Friends. Realizing that his \"servant\" has been taken out from right under his nose, Nyanko-sensei enlists the help of Natsume's youkai friends and mounts a rescue operation. However, the forest of the monkey spirits holds many dangerous enemies, including the Matoba Clan, Natsume's old nemesis.\nStretching from the formidable hideout of the Matoba to Natsume's own childhood home, Natsume Yuujinchou Shi is a sweeping but familiar return to a world of danger and friendship, where Natsume will finally confront the demons of his own past.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "06154c420467349da73a12d95b89fdfe11ad1d8b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "natsume-s-book-of-friends-season-4/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "natsume-s-book-of-friends-season-4/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "natsume-s-book-of-friends-season-4/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "natsume-s-book-of-friends-season-4/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "natsume-s-book-of-friends-season-4/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "natsume-s-book-of-friends-season-4/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "natsume-s-book-of-friends-season-4/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "natsume-s-book-of-friends-season-4/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "natsume-s-book-of-friends-season-4/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "natsume-s-book-of-friends-season-4/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "natsume-s-book-of-friends-season-4/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "natsume-s-book-of-friends-season-4/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "natsume-s-book-of-friends-season-4/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
