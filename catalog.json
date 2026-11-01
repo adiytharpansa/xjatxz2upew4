@@ -54867,6 +54867,76 @@
           "playlist": "dr-stone-stone-wars/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "drifters",
+      "title": "Drifters",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8177cdb378b6613a4dc8276b15f9bf56d59c4692/drifters/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8177cdb378b6613a4dc8276b15f9bf56d59c4692/drifters/banner.jpg",
+      "synopsis": "Shimazu Toyohisa, whilst involved at the Battle of Sekigahara, manages to mortally wound Ii Naomasa, but is critically wounded in the process. As he walks from the field broken and bleeding, Toyohisa finds himself transported to a corridor of doors, where a bespectacled man at a desk waits for him. This man, Murasaki, sends Toyohisa into the nearest door where he wakes up in another world. There, Toyohisa meets other great warriors like him who have been transported as well, to be part of a group known as \"Drifters.\"\n(Source: Wikipedia)",
+      "year": 2016,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Elf",
+        "Swordplay",
+        "Historical",
+        "Dark Fantasy",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "0d28e3a7b8576f3e6506da5abd1a734a66dff8be",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "drifters/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "drifters/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "drifters/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "drifters/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "drifters/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "drifters/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "drifters/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "drifters/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "drifters/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "drifters/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "drifters/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "drifters/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
