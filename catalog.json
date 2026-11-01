@@ -54026,6 +54026,29 @@
           "playlist": "sekirei/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tamako-love-story",
+      "title": "Tamako Love Story",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@04992ea868dee4f4b7a4cef45cc2d2abba33f458/tamako-love-story/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@04992ea868dee4f4b7a4cef45cc2d2abba33f458/tamako-love-story/banner.jpg",
+      "synopsis": "As she edges toward the end of her high school life, the energetic but generally clueless third-year Tamako Kitashirakawa has only one major concern: pulling off a stunning baton performance at the Usagiyama Marching Festival. But all too soon, she is confronted by the reality that all her friends have big plans for their futures; she, on the other hand, just operates with the moderate goal of continuing to work at her family's restaurant.\n\nUnder the same brilliant sky, Mochizou Ooji intends to study at a university in Tokyo, leaving behind his family, friends, and most importantly, his first and only love Tamako. Unfortunately, the shy admirer cannot bring himself to declare his love, and Tamako is yet unaware that she is the source of such anguish. With time quickly running out, Mochizou must confess his feelings to Tamako soon, or his dream of romance will never be fulfilled.\n\n(Source: MyAnimeList)",
+      "year": 2014,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "a8687f3411518244de47418eb3b930e4e750603c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tamako-love-story/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
