@@ -65203,6 +65203,128 @@
           "playlist": "bungo-stray-dogs-2-walking-alone/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "air-gear",
+      "title": "Air Gear",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c0c37b61e9c1efed215ca4a9d2f0a7d5bb0b2c35/air-gear/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c0c37b61e9c1efed215ca4a9d2f0a7d5bb0b2c35/air-gear/banner.jpg",
+      "synopsis": "Minami Itsuki never thought about seriously riding Air Treck motorized roller blades, until he got his butt handed to him by a street gang of Storm Riders. That day, he discovered in a locked up room, a pair of AT's and a box of stickers belonging to the Sleeping Forest street gang. One thing leads to another, and Ikki dons the wheels and begins to ride. As his reputation builds in the AT street fighting/racing world, he begins to develop his own gang and participate in more fights, gaining more and more territory.",
+      "year": 2006,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Japan",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "504b56c6350dea45a6b577de8a185ed0f4ab88f4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "air-gear/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "air-gear/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "air-gear/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "air-gear/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "air-gear/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "air-gear/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "air-gear/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "air-gear/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "air-gear/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "air-gear/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "air-gear/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "air-gear/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "air-gear/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "air-gear/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "air-gear/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "air-gear/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "air-gear/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "air-gear/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "air-gear/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "air-gear/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "air-gear/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "air-gear/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "air-gear/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "air-gear/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "air-gear/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
