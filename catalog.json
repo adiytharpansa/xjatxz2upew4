@@ -66825,6 +66825,76 @@
           "playlist": "kiss-x-sis/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-ambition-of-oda-nobuna",
+      "title": "The Ambition of Oda Nobuna",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fceda00436755a8cf5ef24f44a5a4d98a9d53fa7/the-ambition-of-oda-nobuna/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fceda00436755a8cf5ef24f44a5a4d98a9d53fa7/the-ambition-of-oda-nobuna/banner.jpg",
+      "synopsis": "The historical romantic comedy follows 17-year-old high schooler Sagara Yoshiharu who one day time-travels to the Sengoku period, where all the major Samurai lords are cute girls. Yoshiharu meets Oda Nobuna, the female counterpart of Oda Nobunaga, and begins to serve her as a substitute of Kinoshita Tokichiro, who was killed. ",
+      "year": 2012,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Past",
+        "Alternative Past",
+        "Historical",
+        "Japan",
+        "Sengoku Period"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "56598484b37a436e5f80fecfecf58a160127473c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-ambition-of-oda-nobuna/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-ambition-of-oda-nobuna/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-ambition-of-oda-nobuna/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-ambition-of-oda-nobuna/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-ambition-of-oda-nobuna/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-ambition-of-oda-nobuna/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-ambition-of-oda-nobuna/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-ambition-of-oda-nobuna/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-ambition-of-oda-nobuna/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-ambition-of-oda-nobuna/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-ambition-of-oda-nobuna/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-ambition-of-oda-nobuna/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
