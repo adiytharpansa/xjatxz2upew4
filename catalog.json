@@ -58924,6 +58924,74 @@
           "playlist": "kaguya-sama-love-is-war-ultra-romantic/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "komi-can-t-communicate",
+      "title": "Komi Can’t Communicate",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b356d5f0dbce2c8d3591da376b1549d5d8cd0ed/komi-can-t-communicate/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b356d5f0dbce2c8d3591da376b1549d5d8cd0ed/komi-can-t-communicate/banner.jpg",
+      "synopsis": "At a high school full of unique characters, Tadano helps his shy and unsociable classmate Komi reach her goal of making friends with 100 people.\n\n(Source: Netflix)",
+      "year": 2021,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "0da496bae75a52c42508035023293d85ee0ba5e3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "komi-can-t-communicate/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "komi-can-t-communicate/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "komi-can-t-communicate/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "komi-can-t-communicate/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "komi-can-t-communicate/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "komi-can-t-communicate/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "komi-can-t-communicate/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "komi-can-t-communicate/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "komi-can-t-communicate/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "komi-can-t-communicate/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "komi-can-t-communicate/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "komi-can-t-communicate/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
