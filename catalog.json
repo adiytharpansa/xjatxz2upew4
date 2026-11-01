@@ -63017,6 +63017,80 @@
           "playlist": "mushi-shi-next-passage/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "natsume-s-book-of-friends-season-3",
+      "title": "Natsume's Book of Friends Season 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c000f9cc20a5a0999309a9f54e577399b8396d9d/natsume-s-book-of-friends-season-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c000f9cc20a5a0999309a9f54e577399b8396d9d/natsume-s-book-of-friends-season-3/banner.jpg",
+      "synopsis": "Natsume Yuujinchou San follows Takashi Natsume, a boy who is able to see youkai. Natsume and his bodyguard Madara, nicknamed Nyanko-sensei, continue on their quest to release youkai from their contracts in the \"Book of Friends.\"\nNatsume comes to terms with his ability to see youkai and stops thinking of it as a curse. As he spends more time with his human and youkai friends, he realizes how much he values them both and decides he doesn't have to choose between the spirit and human worlds to be happy.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "4937f588007447ec0071330f26c51a5cddb0fcdf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "natsume-s-book-of-friends-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "natsume-s-book-of-friends-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "natsume-s-book-of-friends-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "natsume-s-book-of-friends-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "natsume-s-book-of-friends-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "natsume-s-book-of-friends-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "natsume-s-book-of-friends-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "natsume-s-book-of-friends-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "natsume-s-book-of-friends-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "natsume-s-book-of-friends-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "natsume-s-book-of-friends-season-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "natsume-s-book-of-friends-season-3/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "natsume-s-book-of-friends-season-3/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
