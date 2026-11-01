@@ -68675,6 +68675,76 @@
           "playlist": "diabolik-lovers/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "oniai",
+      "title": "OniAi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9f64a741103a0890d5abaa9232095c8598d121ae/oniai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9f64a741103a0890d5abaa9232095c8598d121ae/oniai/banner.jpg",
+      "synopsis": "After six years of living separately, brother and sister Akiko and Akito Himenokouji are finally reunited. The two used to be quite close, until their parents died and they were sent to live with separate foster families. Now the two can live together and go to the same school as brother and extremely loving sister!\nIt doesn’t take long before it becomes abundantly clear that Akiko has a huge brother complex. Unfortunately for Akiko, her brother only sees her as a little sister he must protect. But that won’t stop her from trying to win her brother’s affections!\nThings are only complicated when more girls move in with the siblings, making Akiko even more determined than ever to keep her brother’s eyes only on her. That’s tough to do with other girls flaunting their swimsuit-clad bodies at Akito, fighting over who gets to take care of him, and otherwise meddling in Akiko's plans for her brother. This is going to be one fun household…!",
+      "year": 2012,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Japan",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Harem"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "0cd884a7ecbeeae20b94e559d06dc1cd202976a2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "oniai/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "oniai/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "oniai/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "oniai/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "oniai/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "oniai/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "oniai/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "oniai/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "oniai/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "oniai/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "oniai/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "oniai/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
