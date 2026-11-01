@@ -61013,6 +61013,74 @@
           "playlist": "sailor-moon/ep46/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "aho-girl",
+      "title": "AHO-GIRL",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ad986bbb2194a0441933bb8bba978a23f0ce0c5/aho-girl/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ad986bbb2194a0441933bb8bba978a23f0ce0c5/aho-girl/banner.jpg",
+      "synopsis": "She is Hanabatake Yoshiko, and she's an idiot through and through. She loves bananas, and she loves her childhood friend Akkun. That is all! Summer 2017, Aho Girl gets its long-awaited anime! Watching it will surely cheer you up, probably? \n\n(Source: Crunchyroll)",
+      "year": 2017,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "0199f21e4f02d45f4f73bba5953b987d357a4f06",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "aho-girl/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "aho-girl/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "aho-girl/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "aho-girl/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "aho-girl/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "aho-girl/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "aho-girl/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "aho-girl/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "aho-girl/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "aho-girl/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "aho-girl/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "aho-girl/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
