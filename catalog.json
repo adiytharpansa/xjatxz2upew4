@@ -60107,6 +60107,66 @@
           "playlist": "one-week-friends/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-first-girlfriend-is-a-gal",
+      "title": "My First Girlfriend is a Gal",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c2760bc2e0c5d7acd17f3417832b1de81e2c1c2b/my-first-girlfriend-is-a-gal/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c2760bc2e0c5d7acd17f3417832b1de81e2c1c2b/my-first-girlfriend-is-a-gal/banner.jpg",
+      "synopsis": "Spring. The “season of love” has arrived and it seems that finding himself a girlfriend was harder than Junichi believed. To break the status quo, Junichi’s friends have forced him into confessing to the gyaru, Yame Yukana. However, things do not go quite as he expected. A series of \"firsts\" begins!\n \n(Source: MU)",
+      "year": 2017,
+      "score": 6.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "4a3ab2282bdaf2cf9ce80ecce285396892b0524b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-first-girlfriend-is-a-gal/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-first-girlfriend-is-a-gal/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-first-girlfriend-is-a-gal/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-first-girlfriend-is-a-gal/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-first-girlfriend-is-a-gal/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-first-girlfriend-is-a-gal/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-first-girlfriend-is-a-gal/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-first-girlfriend-is-a-gal/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-first-girlfriend-is-a-gal/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-first-girlfriend-is-a-gal/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
