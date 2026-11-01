@@ -68255,6 +68255,80 @@
           "playlist": "majikoi-oh-samurai-girls/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wagnaria-2",
+      "title": "Wagnaria!!2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@12f5570791e6b323149c77d71a40444f204779a3/wagnaria-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@12f5570791e6b323149c77d71a40444f204779a3/wagnaria-2/banner.jpg",
+      "synopsis": "Life goes on at the Wagnaria family restaurant as its peculiar employees try to provide a good service despite their individual eccentricities.\n(Source: ANN)",
+      "year": 2011,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Waitress",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "08c47989a1bdaaba6115dabdc1db72f27227325c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wagnaria-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wagnaria-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wagnaria-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "wagnaria-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "wagnaria-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "wagnaria-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "wagnaria-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "wagnaria-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "wagnaria-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "wagnaria-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "wagnaria-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "wagnaria-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "wagnaria-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
