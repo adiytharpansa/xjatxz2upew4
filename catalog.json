@@ -55740,6 +55740,76 @@
           "playlist": "daily-lives-of-high-school-boys/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "maoyu-archenemy-hero",
+      "title": "Maoyu ~ Archenemy & Hero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8088b55c407fe6952f0bf615c410b6fba6088c37/maoyu-archenemy-hero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8088b55c407fe6952f0bf615c410b6fba6088c37/maoyu-archenemy-hero/banner.jpg",
+      "synopsis": "Fifteen years have passed since the war between humans and demons began. Dissatisfied with their slow advance into the Demon Realm, the Hero abandons his companions to quickly forge ahead towards the Demon Queen's castle. Upon his arrival at the royal abode, the Hero makes a startling discovery: not only is the Demon Queen a woman of unparalleled beauty, but she also seeks the Hero's help. Confused by this unexpected turn of events, the Hero refuses to ally himself with his enemy, claiming that the war the demons have waged is tearing the Southern Nations apart.\nHowever, the Demon Queen rebuts, arguing that the war has not only united humanity but has also brought them wealth and prosperity, providing evidence to support her claims. Furthermore, she explains that if the war were to end, the supplies sent by the Central Nations in aid to the Southern Nations would cease, leaving hundreds of thousands to starve. Fortunately, she offers the Hero a way to end the war while bringing hope not only to the Southern Nations, but also to the rest of the world, though she will need his assistance to make this a reality.\nFinally convinced, the Hero agrees to join his now former enemy in her quest. Vowing to stay together through sickness and health, they set off for the human world.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Fantasy World",
+        "Historical",
+        "Demon",
+        "Plot Continuity",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "f28c9e70666c072630bb0788c8b919122182ae66",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "maoyu-archenemy-hero/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "maoyu-archenemy-hero/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "maoyu-archenemy-hero/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "maoyu-archenemy-hero/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "maoyu-archenemy-hero/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "maoyu-archenemy-hero/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "maoyu-archenemy-hero/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "maoyu-archenemy-hero/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "maoyu-archenemy-hero/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "maoyu-archenemy-hero/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "maoyu-archenemy-hero/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "maoyu-archenemy-hero/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
