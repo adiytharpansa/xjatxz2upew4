@@ -66895,6 +66895,73 @@
           "playlist": "the-ambition-of-oda-nobuna/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "love-and-lies",
+      "title": "Love and Lies",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@85eedccdd91a9546ae402e3520adc11d687a6073/love-and-lies/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@85eedccdd91a9546ae402e3520adc11d687a6073/love-and-lies/banner.jpg",
+      "synopsis": "Lies are forbidden and love is doubly forbidden. In the near future, when young people in Japan turn sixteen, they are assigned a marriage partner by the government. People don't have to go through the trouble of looking for someone, and everyone accepts that the country will find a compatible partner to make them happy. Yukari Nejima is fifteen years old. He lives in a small corner of the country, and just can't seem to get ahead in life. Both academically and athletically he's below average. But within him, he hides a heart burning with passion! In this world in which love is forbidden, what will happen to him when he falls in love?\n\n(Source: Manga Box)",
+      "year": 2017,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "e470dceade4254780fcfd44b51cd55171fced119",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "love-and-lies/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "love-and-lies/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "love-and-lies/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "love-and-lies/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "love-and-lies/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "love-and-lies/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "love-and-lies/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "love-and-lies/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "love-and-lies/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "love-and-lies/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "love-and-lies/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "love-and-lies/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
