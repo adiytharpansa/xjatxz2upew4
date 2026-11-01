@@ -55600,6 +55600,76 @@
           "playlist": "tsukimonogatari/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-lagoon-the-second-barrage",
+      "title": "Black Lagoon: The Second Barrage",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80a9162453d6096237c147cbf6fdf8fc28d96ce0/black-lagoon-the-second-barrage/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80a9162453d6096237c147cbf6fdf8fc28d96ce0/black-lagoon-the-second-barrage/banner.jpg",
+      "synopsis": "Rokurou \"Rock\" Okajima has joined the Lagoon Company, a pirate mercenary group which operates out of Roanapur, Thailand. Despite his initial protests, this filthy slum of depraved souls and merciless criminals now serves as the former salaryman's home. Stranded, with nothing left of his past life but the clothes on his back and his inner morality, Rock is forced to perform jobs alongside the other members of the Lagoon crew. Berated for his lack of spine as he wades through the underbelly of society, he must decide whether to continue on amidst the gunfire and ruthlessness or risk everything he has in an attempt to be free. Whether he chooses the comfort of a familiar land or the freedom of being an outlaw, his decision will have lasting consequences on the crew who gave him a home.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Violence",
+        "Plot Continuity",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "4f8ccadd1a0f3386c8a210698e8928f4c7df37b3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-lagoon-the-second-barrage/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-lagoon-the-second-barrage/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "black-lagoon-the-second-barrage/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "black-lagoon-the-second-barrage/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "black-lagoon-the-second-barrage/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "black-lagoon-the-second-barrage/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "black-lagoon-the-second-barrage/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "black-lagoon-the-second-barrage/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "black-lagoon-the-second-barrage/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "black-lagoon-the-second-barrage/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "black-lagoon-the-second-barrage/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "black-lagoon-the-second-barrage/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
