@@ -59591,6 +59591,132 @@
           "playlist": "world-trigger/ep73/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "beck-mongolian-chop-squad",
+      "title": "Beck: Mongolian Chop Squad",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f3d4a97a6c08106afebff2d74f8c8ad1c15ac1ec/beck-mongolian-chop-squad/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f3d4a97a6c08106afebff2d74f8c8ad1c15ac1ec/beck-mongolian-chop-squad/banner.jpg",
+      "synopsis": "Tanaka Yukio, better known by his nickname Koyuki, is a 14-year-old who feels disconnected from life in general. Through the act of saving a mismatched dog, he meets guitarist Minami Ryuusuke, and becomes involved in Ryuusuke's new band BECK. Koyuki's life starts to change as the band struggles toward fame. ",
+      "year": 2004,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Musical Band",
+        "Idol",
+        "Present",
+        "Earth",
+        "Japan",
+        "Music"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "75054b90160cf3f312c520db8ebb8c9361521a99",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "beck-mongolian-chop-squad/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "beck-mongolian-chop-squad/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "beck-mongolian-chop-squad/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "beck-mongolian-chop-squad/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "beck-mongolian-chop-squad/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "beck-mongolian-chop-squad/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "beck-mongolian-chop-squad/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "beck-mongolian-chop-squad/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "beck-mongolian-chop-squad/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "beck-mongolian-chop-squad/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "beck-mongolian-chop-squad/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "beck-mongolian-chop-squad/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "beck-mongolian-chop-squad/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "beck-mongolian-chop-squad/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "beck-mongolian-chop-squad/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "beck-mongolian-chop-squad/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "beck-mongolian-chop-squad/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "beck-mongolian-chop-squad/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "beck-mongolian-chop-squad/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "beck-mongolian-chop-squad/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "beck-mongolian-chop-squad/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "beck-mongolian-chop-squad/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "beck-mongolian-chop-squad/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "beck-mongolian-chop-squad/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "beck-mongolian-chop-squad/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "beck-mongolian-chop-squad/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
