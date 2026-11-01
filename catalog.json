@@ -67188,6 +67188,34 @@
           "playlist": "the-anthem-of-the-heart/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "noragami-ova",
+      "title": "Noragami OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3623fdcb2672bd1b44d3a6fef80765cf8b3790dc/noragami-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3623fdcb2672bd1b44d3a6fef80765cf8b3790dc/noragami-ova/banner.jpg",
+      "synopsis": "Bundled with the limited editions of the 10th and 11th volumes of the manga.\n10th volume DVD adapts the 25th chapter of the manga.\n11th volume DVD adapts the popular cherry blossom-viewing arc.\n(Source: MAL News)",
+      "year": 2014,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Ghost",
+        "Contemporary Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "8016c4a79421406f9c388fda6d06248563883280",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "noragami-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "noragami-ova/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
