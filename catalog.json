@@ -64104,6 +64104,80 @@
           "playlist": "miss-kobayashi-s-dragon-maid-s/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "showa-genroku-rakugo-shinju",
+      "title": "Showa Genroku Rakugo Shinju",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f72c1384714a7c136faceee00060b463ce73b1f3/showa-genroku-rakugo-shinju/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f72c1384714a7c136faceee00060b463ce73b1f3/showa-genroku-rakugo-shinju/banner.jpg",
+      "synopsis": "Yotarou is a former yakuza member fresh out of prison and fixated on just one thing: rather than return to a life of crime, the young man aspires to take to the stage of Rakugo, a traditional Japanese form of comedic storytelling. Inspired during his incarceration by the performance of distinguished practitioner Yakumo Yuurakutei, he sets his mind on meeting the man who changed his life. After hearing Yotarou's desperate appeal for his mentorship, Yakumo is left with no choice but to accept his very first apprentice.\n\nAs he eagerly begins his training, Yotarou meets Konatsu, an abrasive young woman who has been under Yakumo's care ever since her beloved father Sukeroku Yuurakutei, another prolific Rakugo performer, passed away. Through her hidden passion, Yotarou is drawn to Sukeroku's unique style of Rakugo despite learning under contrasting techniques. Upon seeing this, old memories and feelings return to Yakumo who reminisces about a much earlier time when he made a promise with his greatest rival.\n\nShouwa Genroku Rakugo Shinjuu is a story set in both the past and present, depicting the art of Rakugo, the relationships it creates, and the lives and hearts of those dedicated to keeping the unique form of storytelling alive.\n\n(Source: MAL Rewrite)",
+      "year": 2016,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Performance",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "16933131c836e3eb28eecf9a71922ba0437e9d94",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "showa-genroku-rakugo-shinju/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "showa-genroku-rakugo-shinju/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "showa-genroku-rakugo-shinju/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "showa-genroku-rakugo-shinju/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "showa-genroku-rakugo-shinju/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "showa-genroku-rakugo-shinju/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "showa-genroku-rakugo-shinju/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "showa-genroku-rakugo-shinju/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "showa-genroku-rakugo-shinju/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "showa-genroku-rakugo-shinju/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "showa-genroku-rakugo-shinju/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "showa-genroku-rakugo-shinju/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "showa-genroku-rakugo-shinju/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
