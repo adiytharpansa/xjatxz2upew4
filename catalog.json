@@ -54049,6 +54049,71 @@
           "playlist": "tamako-love-story/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wotakoi-love-is-hard-for-otaku",
+      "title": "Wotakoi: Love Is Hard for Otaku",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d8d65800bd789818bc9ca94268e0a989db2ffae/wotakoi-love-is-hard-for-otaku/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d8d65800bd789818bc9ca94268e0a989db2ffae/wotakoi-love-is-hard-for-otaku/banner.jpg",
+      "synopsis": "After discovering that they work at the same company, a gaming crazed otaku and a fujoshi reunite for the first time since middle school. After some post-work drinking sessions they begin dating, but will it be a perfect relationship for the two?",
+      "year": 2018,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Office Lady",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Working Life"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "37435443c012a826d250d3c2d572f30c95c782a3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "wotakoi-love-is-hard-for-otaku/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
