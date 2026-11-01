@@ -57602,6 +57602,80 @@
           "playlist": "paranoia-agent/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "plastic-memories",
+      "title": "Plastic Memories",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@be41fa160e78859ff33449b7811d62f24bae1ace/plastic-memories/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@be41fa160e78859ff33449b7811d62f24bae1ace/plastic-memories/banner.jpg",
+      "synopsis": "Eighteen-year-old Tsukasa Mizugaki has failed his college entrance exams, but after pulling some strings, he manages to land a job at the Sion Artificial Intelligence Corporation. SAI Corp is responsible for the creation of \"Giftias\"—highly advanced androids which are almost indiscernible from normal humans. However, unlike humans, Giftias have a maximum lifespan of 81,920 hours, or around nine years and four months. Terminal Service One, the station Tsukasa was assigned to, is responsible for collecting Giftias that have met their expiration date, before they lose their memories and become hostile.\nPromptly after joining Terminal Service One, Tsukasa is partnered with a beautiful Giftia named Isla. She is a Terminal Service veteran and considered the best in Giftia retrievals, contrary to her petite figure and placid nature. Time is fleeting though, and Tsukasa must come to terms with his feelings for Isla before her time is up. No matter how much someone desires it, nothing lasts forever.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Robot",
+        "Future",
+        "Earth",
+        "Plot Continuity",
+        "Science Fiction"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "57f14004b86dc0163910d859322a9d98d08f4226",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "plastic-memories/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "plastic-memories/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "plastic-memories/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "plastic-memories/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "plastic-memories/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "plastic-memories/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "plastic-memories/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "plastic-memories/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "plastic-memories/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "plastic-memories/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "plastic-memories/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "plastic-memories/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "plastic-memories/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
