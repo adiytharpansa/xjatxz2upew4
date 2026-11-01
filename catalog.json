@@ -56020,6 +56020,76 @@
           "playlist": "oreimo/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "re-zero-starting-life-in-another-world-season-2-part-2",
+      "title": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06cbccc743c5fd063beeb5bb3d58832be480d0e3/re-zero-starting-life-in-another-world-season-2-part-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06cbccc743c5fd063beeb5bb3d58832be480d0e3/re-zero-starting-life-in-another-world-season-2-part-2/banner.jpg",
+      "synopsis": "After learning more about the Death Loop and Witches of Sin, Subaru vows to save Emilia and his friends from further doom.\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Violence",
+        "Fantasy",
+        "Thriller",
+        "Drama",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "b93737975a9d511a83db8344fa271608328c7c77",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "re-zero-starting-life-in-another-world-season-2-part-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
