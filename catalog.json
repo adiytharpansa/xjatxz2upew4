@@ -65351,6 +65351,31 @@
           "playlist": "one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatar/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "puella-magi-madoka-magica-the-movie-part-2-eternal",
+      "title": "Puella Magi Madoka Magica the Movie Part 2: Eternal",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@166abab0e998a0849e22c05c49a575975e60fd90/puella-magi-madoka-magica-the-movie-part-2-eternal/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@166abab0e998a0849e22c05c49a575975e60fd90/puella-magi-madoka-magica-the-movie-part-2-eternal/banner.jpg",
+      "synopsis": "Though Sayaka Miki's wish was fulfilled, the unforeseen consequences that came with it overwhelm her, causing her soul gem to become tainted as she succumbs to despair and eventually loses her humanity. Homura Akemi reveals to Kyouko Sakura and Madoka Kaname the ultimate fate of magical girls: once their soul gem becomes tainted, it transforms into a Grief Seed, and they are reborn as witches—a truth Homura learned only through repeating history countless times in a bid to prevent Madoka's tragedy.\nKyuubey only compounds their despair when he confesses his true intentions: to harness the energy created from magical girls and use it to prolong the life of the universe. As the threat of Walpurgisnacht, a powerful witch, looms overhead, Homura once again vows to protect Madoka and the world from a grim fate.  \nCaught between honoring Homura's wish and saving the world, which one will Madoka choose in the end?Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari is a story of inescapable destiny, and an unlikely hero who could change it all.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Thriller",
+        "Drama",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "cc1a828a13ac59c649871b66c14d06dd1722f9ff",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "puella-magi-madoka-magica-the-movie-part-2-eternal/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
