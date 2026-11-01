@@ -61207,6 +61207,40 @@
           "playlist": "hell-girl/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-lost-girls",
+      "title": "Attack on Titan: Lost Girls",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ba97b63ecdb44803c37ea8a4b70e384bbcda8c45/attack-on-titan-lost-girls/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ba97b63ecdb44803c37ea8a4b70e384bbcda8c45/attack-on-titan-lost-girls/banner.jpg",
+      "synopsis": "A three-part OVA adapting the \"Shingeki no Kyojin: Lost Girls\" spinoff novel that will be bundled with the 24th, 25th and 26th limited edition volumes of the manga.\n\nWall Sina, Goodbye:\nAnnie Leonhart has a job to do—and a resulting absence that must stay off her record at all costs. With no one else to turn to, she asks her comrade Hitch Dreyse to cover for her. She agrees but puts forward a single condition: Annie must solve the fruitless missing person case Hitch was assigned. The case revolves around Carly Stratmann, a university graduate and the daughter of wealthy businessman Elliot Stratmann. With only a single day to solve the case and the underground of the Stohess District crawling with thugs, Annie must put her all into finding this girl. Yet, every answer she uncovers only leads to further questions—how has the illegal drug coderoin found its way to Stohess, what is Elliot hiding, and where has Carly disappeared to?\n\nLost in the Cruel World:\nWith worry for Eren Yeager gripping her heart, Mikasa Ackerman begins to remember. She remembers her conversations with Armin Arlert, her concern for her friends, and most painfully, the time she had almost lost everything. As fear takes control, she begins to experience an alternate version of her past—some things can be changed, but are there events so inescapable that she can't even prevent them in her dreams?\n\n(Source: Anilist)",
+      "year": 2017,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Violence",
+        "Action",
+        "Angst",
+        "Fantasy",
+        "Adventure",
+        "Horror"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "25fe70fb50455a5026dba6ef339d0c30b84e9654",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-lost-girls/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-lost-girls/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan-lost-girls/ep3/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
