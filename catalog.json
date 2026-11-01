@@ -61729,6 +61729,76 @@
           "playlist": "phantom-requiem-for-the-phantom/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "infinite-stratos-2",
+      "title": "Infinite Stratos 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@810a38f0138833a70aa2c59c51d1a3bdd38914b1/infinite-stratos-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@810a38f0138833a70aa2c59c51d1a3bdd38914b1/infinite-stratos-2/banner.jpg",
+      "synopsis": "Second season of Infinite Stratos.",
+      "year": 2013,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Power Suit",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "2a261774d85e8e404803ac9dccf3d35bf1602ccc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "infinite-stratos-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "infinite-stratos-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "infinite-stratos-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "infinite-stratos-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "infinite-stratos-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "infinite-stratos-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "infinite-stratos-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "infinite-stratos-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "infinite-stratos-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "infinite-stratos-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "infinite-stratos-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "infinite-stratos-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
