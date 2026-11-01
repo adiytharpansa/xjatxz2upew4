@@ -65496,6 +65496,35 @@
           "playlist": "clannad-after-story-another-world/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-disastrous-life-of-saiki-k-final-arc",
+      "title": "The Disastrous Life of Saiki K. Final Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a87b4dc1e631b32ebe525ae13089634bf738d588/the-disastrous-life-of-saiki-k-final-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a87b4dc1e631b32ebe525ae13089634bf738d588/the-disastrous-life-of-saiki-k-final-arc/poster.jpg",
+      "synopsis": "Adaptation of the final chapters of the Saiki Kusuo no Ψ-nan manga. \n\n(Source: MAL)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "8d7da823385256e3cf367fa60cc66a3b7cb73fc1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-disastrous-life-of-saiki-k-final-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-disastrous-life-of-saiki-k-final-arc/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
