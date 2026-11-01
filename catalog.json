@@ -54426,6 +54426,31 @@
           "playlist": "kids-on-the-slope/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "puella-magi-madoka-magica-the-movie-rebellion",
+      "title": "Puella Magi Madoka Magica the Movie: Rebellion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7dfbc271edb3d34c4b40f75ff931eeca9d522c20/puella-magi-madoka-magica-the-movie-rebellion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7dfbc271edb3d34c4b40f75ff931eeca9d522c20/puella-magi-madoka-magica-the-movie-rebellion/banner.jpg",
+      "synopsis": "The young girls of Mitakihara happily live their lives, occasionally fighting off evil, but otherwise going about their peaceful, everyday routines. However, Homura Akemi feels that something is wrong with this unusually pleasant atmosphere—though the others remain oblivious, she can't help but suspect that there is more to what is going on than meets the eye: someone who should not exist is currently present to join in on their activities.Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari follows Homura in her struggle to uncover the painful truth behind the mysterious circumstances, as she selfishly and desperately fights for the sake of her undying love in this despair-ridden conclusion to the story of five magical girls.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Thriller",
+        "Drama",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "bc48cba9546d75b2511465c139bd852f736372fd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "puella-magi-madoka-magica-the-movie-rebellion/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
