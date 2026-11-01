@@ -56837,6 +56837,76 @@
           "playlist": "inuyashiki-last-hero/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "katanagatari",
+      "title": "Katanagatari",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@482f0f891fc4d0da3095a70a7ce1149dbc544a30/katanagatari/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@482f0f891fc4d0da3095a70a7ce1149dbc544a30/katanagatari/banner.jpg",
+      "synopsis": "In an Edo-era Japan lush with a variety of sword-fighting styles, Shichika Yasuri practices the most unique one: Kyotouryuu, a technique in which the user's own body is wielded as a blade. The enigmatic seventh head of the Kyotouryuu school, Shichika lives quietly in exile with his sister Nanami until one day—the wildly ambitious strategist Togame barges into their lives.\nTogame brazenly requests that Shichika help in her mission to collect twelve unique swords, known as the \"Deviant Blades,\" for the shogunate. Shichika accepts, interested in the girl herself rather than petty politics, and thus sets out on a journey. Standing in their way are the fierce wielders of these legendary weapons as well as other power-hungry entities who seek to thwart Togame's objective. In order to prevail against their enemies, the duo must become an unbreakable team as they forge ahead on a path of uncertainty and peril.\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Swordplay",
+        "Fantasy World",
+        "Alternative Past",
+        "Historical",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "aa0ca591d451601c7877e004ca074262ae5fced6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "katanagatari/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "katanagatari/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "katanagatari/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "katanagatari/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "katanagatari/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "katanagatari/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "katanagatari/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "katanagatari/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "katanagatari/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "katanagatari/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "katanagatari/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "katanagatari/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
