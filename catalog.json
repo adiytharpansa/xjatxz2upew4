@@ -56584,6 +56584,124 @@
           "playlist": "gamers/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "golden-time",
+      "title": "Golden Time",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0a38d4c2321f2364e93f13d6d1eadbd2b45f9484/golden-time/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0a38d4c2321f2364e93f13d6d1eadbd2b45f9484/golden-time/banner.jpg",
+      "synopsis": "Due to a tragic accident, Banri Tada is struck with amnesia, dissolving the memories of his hometown and past. However, after befriending Mitsuo Yanagisawa, he decides to move on and begin a new life at law school in Tokyo. But just as he is beginning to adjust to his college life, the beautiful Kouko Kaga dramatically barges into Banri's life, and their chance meeting marks the beginning of an unforgettable year. \nAfter having a glimpse of college life, Banri learns that he is in a new place and a new world - a place where he can be reborn, to have new friends, fall in love, makes mistakes and grow. And as he begins to discover who he was, the path he has chosen leads him towards a blindingly bright life that he will never want to forget.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "University",
+        "Japan",
+        "Tokyo",
+        "Unrequited Love"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "8d242e1ea7a2ef7ff589994abe5fc1a67f288d7d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "golden-time/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "golden-time/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "golden-time/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "golden-time/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "golden-time/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "golden-time/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "golden-time/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "golden-time/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "golden-time/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "golden-time/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "golden-time/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "golden-time/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "golden-time/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "golden-time/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "golden-time/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "golden-time/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "golden-time/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "golden-time/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "golden-time/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "golden-time/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "golden-time/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "golden-time/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "golden-time/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "golden-time/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
