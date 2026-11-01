@@ -55385,6 +55385,72 @@
           "playlist": "k/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "laid-back-camp",
+      "title": "Laid-Back Camp",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@448d778df2702a307cd49513ad1c9fba1975e2a1/laid-back-camp/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@448d778df2702a307cd49513ad1c9fba1975e2a1/laid-back-camp/banner.jpg",
+      "synopsis": "Rin likes to go camping by herself along the lakes that provide a scenic view of Mt. Fuji. Nadeshiko loves to take cycling trips by herself to places where she can see Mt. Fuji. After they meet, Rin and Nadeshiko take camping trips, eat cup ramen together, and enjoy the scenery.\n\n(Source: ANN)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "fe6bb1d9915d3722d17b402c418d3ddaa7b8dfb8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "laid-back-camp/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "laid-back-camp/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "laid-back-camp/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "laid-back-camp/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "laid-back-camp/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "laid-back-camp/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "laid-back-camp/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "laid-back-camp/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "laid-back-camp/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "laid-back-camp/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "laid-back-camp/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "laid-back-camp/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
