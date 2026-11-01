@@ -62069,6 +62069,132 @@
           "playlist": "kaiji-ultimate-survivor/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "little-busters",
+      "title": "Little Busters!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a6900350f05013cf9ac2186091e9575fd2880773/little-busters/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a6900350f05013cf9ac2186091e9575fd2880773/little-busters/banner.jpg",
+      "synopsis": "As a child, Riki Naoe shut himself from the world, thanks to a diagnosis of narcolepsy following the tragic deaths of his parents. However, Riki is saved when, one fateful day, a boy named Kyousuke recruits him into a team who call themselves the Little Busters. Accompanied by Masato, Kengo, and Rin, these misfits spend their childhood fighting evil and enjoying their youth.\nYears pass, and even in high school, the well-knit teammates remain together. Kyousuke decides to re-ignite the Little Busters by forming a baseball team as it will be his last school year with them. They have a problem though: there aren't enough members! The tables have turned, for it is now Riki's turn to reach out and recruit new friends into the Little Busters, just like Kyousuke had once done for him.\nThen, an omen surfaces—Rin finds a strange letter attached to her cat, assigning them the duty of uncovering the \"secret of this world\" by completing specific tasks. Just what is this secret, and why is it being hidden? It's up to the Little Busters to find out!\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Angst"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "e09e198f39ad80e8bddf78a78f519c97f822452e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "little-busters/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "little-busters/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "little-busters/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "little-busters/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "little-busters/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "little-busters/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "little-busters/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "little-busters/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "little-busters/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "little-busters/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "little-busters/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "little-busters/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "little-busters/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "little-busters/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "little-busters/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "little-busters/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "little-busters/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "little-busters/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "little-busters/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "little-busters/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "little-busters/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "little-busters/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "little-busters/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "little-busters/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "little-busters/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "little-busters/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
