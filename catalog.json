@@ -56300,6 +56300,76 @@
           "playlist": "watamote-no-matter-how-i-look-at-it-it-s-you-guys-fault-i-m-/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yuruyuri-happy-go-lily",
+      "title": "YuruYuri: Happy Go Lily",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ec573412707f34540f26633579ca703e5360dd4b/yuruyuri-happy-go-lily/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ec573412707f34540f26633579ca703e5360dd4b/yuruyuri-happy-go-lily/banner.jpg",
+      "synopsis": "After a year in grade school without her childhood friends, first year student Akari Akaza is finally reunited with second years Yui Funami and Kyouko Toshinou at their all-girls' middle school. During the duo's first year, Yui and Kyouko formed the \"Amusement Club\" which occupies the now nonexistent Tea Club's room. Shortly after Akari joins, one of her fellow classmates, Chinatsu Yoshikawa, pays the trio a visit under the impression that they are the Tea Club; it is only once the three girls explain that the Tea Club has been disbanded that they can convince Chinatsu to join the Amusement Club—a group with no purpose other than to provide entertainment for its members.\nBased on the slice-of-life manga by Namori, Yuru Yuri is an eccentric comedy about a group of girls who spend their spare time drinking tea and fawning over each other, all while completely failing to even notice the supposed main character Akari amongst them.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Middle School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Shoujo Ai"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "385461addd5a854aef2989dc3e2ec520caf9e569",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yuruyuri-happy-go-lily/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yuruyuri-happy-go-lily/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yuruyuri-happy-go-lily/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yuruyuri-happy-go-lily/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yuruyuri-happy-go-lily/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yuruyuri-happy-go-lily/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yuruyuri-happy-go-lily/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yuruyuri-happy-go-lily/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yuruyuri-happy-go-lily/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yuruyuri-happy-go-lily/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yuruyuri-happy-go-lily/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yuruyuri-happy-go-lily/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
