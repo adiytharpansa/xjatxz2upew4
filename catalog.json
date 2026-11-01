@@ -60167,6 +60167,32 @@
           "playlist": "my-first-girlfriend-is-a-gal/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-godfathers",
+      "title": "Tokyo Godfathers",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a05fcd6677bbf08eb75819d2be26f0a3ed4fd927/tokyo-godfathers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a05fcd6677bbf08eb75819d2be26f0a3ed4fd927/tokyo-godfathers/banner.jpg",
+      "synopsis": "It’s Christmas Eve and three homeless friends have experienced their own Christmas miracle: while rummaging in a dump for food, they discover a newborn baby. Despite having nothing, the three take the baby in and name her Kiyoko, meaning Pure One.\nThey embark in search of Kiyoko’s mother, based on the little they know about her from her meager belongings. But the night is young, and the city is vast. Before they know it, these three become entangled in a series of events including kidnapping, death, and a mysterious red envelope.\nKind transwoman Hana, runaway teenager Miyuki, and belligerent Gin make an unlikely trio as they care for the baby and try to find where she belongs. By finally looking towards the future, they are also able to confront their pasts, coming just a little bit closer to finding their own place in the world.",
+      "year": 2003,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Asia",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "bfd4a110fa95b1d8718f4f9c0aed15ff0a1c0187",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-godfathers/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
