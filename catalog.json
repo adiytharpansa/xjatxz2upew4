@@ -64035,6 +64035,75 @@
           "playlist": "asobi-asobase-workshop-of-fun/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "miss-kobayashi-s-dragon-maid-s",
+      "title": "Miss Kobayashi's Dragon Maid S",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4ace967f89c8618dd7af35209cc82a5d0e909072/miss-kobayashi-s-dragon-maid-s/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4ace967f89c8618dd7af35209cc82a5d0e909072/miss-kobayashi-s-dragon-maid-s/banner.jpg",
+      "synopsis": "A strange turn of events leads the Dragon, Tohru, to work as Miss Kobayashi's maid. She occasionally (that's a lie, she often) causes trouble for her beloved Miss Kobayashi while blending into human society and splendidly (that's a lie, only mediocrely) carrying out her maid duties. Her fellow dragons, Kanna, Lucoa, Fafnir, and Elma all find their own places to fit in as well and enjoy interspecies interactions with the humans. Yet while they're all enjoying that laid-back and occasionally turbulent left, the threat of a new Dragon swoops down upon Miss Kobayashi.\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Maid",
+        "Dragon",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "8544f1ab43c5ec81e1767d42678477f4379c12f9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "miss-kobayashi-s-dragon-maid-s/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
