@@ -62951,6 +62951,72 @@
           "playlist": "aldnoah-zero-2nd-season/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mushi-shi-next-passage",
+      "title": "MUSHI-SHI -Next Passage-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@860050f15d44b509bf45a2146e0359e9c9bd2393/mushi-shi-next-passage/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@860050f15d44b509bf45a2146e0359e9c9bd2393/mushi-shi-next-passage/banner.jpg",
+      "synopsis": "They existed long before anyone can remember. They are simple and strange in nature, not resembling any other plant or animal in this world. In ancient times, people revered these bizarre creatures and called them \"Mushi.\"\nPeople once again began to believe in the existence of these \"Mushi\" when they began affecting their lives in inexplicable ways.\nThe one who connects the world of \"Mushi\" to the world of humans—they were called the \"Mushi-shi.\"\nAll life exists not to hinder others in this world.\nThey are simply there to live as they were meant to.\n(Source: Aniplex USA)",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Countryside",
+        "Historical",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "6e84fa48819cb524d21d124e6e0fb5e9cf6c0ef5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mushi-shi-next-passage/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mushi-shi-next-passage/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mushi-shi-next-passage/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mushi-shi-next-passage/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mushi-shi-next-passage/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mushi-shi-next-passage/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mushi-shi-next-passage/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mushi-shi-next-passage/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mushi-shi-next-passage/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mushi-shi-next-passage/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mushi-shi-next-passage/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
