@@ -60193,6 +60193,32 @@
           "playlist": "tokyo-godfathers/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-punch-man-road-to-hero",
+      "title": "One-Punch Man: Road to Hero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c2443eab79aefcb1000595e2676439c99fe8647c/one-punch-man-road-to-hero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c2443eab79aefcb1000595e2676439c99fe8647c/one-punch-man-road-to-hero/banner.jpg",
+      "synopsis": "Bundled with the tenth volume of One Punch-Man manga.\n\nWhile Saitama is training to become a hero, he needs one more thing before he can become a real hero. The origins of his hero suit is revealed.",
+      "year": 2015,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Parody",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Superhero"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "e8e4b15d2d9402aa3f6ed39d5371a7160306170c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-punch-man-road-to-hero/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
