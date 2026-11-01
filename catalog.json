@@ -67032,6 +67032,32 @@
           "playlist": "blade-dance-of-the-elementalers/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "naruto-the-movie-ninja-clash-in-the-land-of-snow",
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6912ce54bca56ad0c0c67d900d5db7b5b1005cca/naruto-the-movie-ninja-clash-in-the-land-of-snow/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6912ce54bca56ad0c0c67d900d5db7b5b1005cca/naruto-the-movie-ninja-clash-in-the-land-of-snow/banner.jpg",
+      "synopsis": "A land forever covered in ice... A princess missing for ten years... And one high-spirited ninja named Naruto! \nNaruto and the rest of Squad 7 take on a new mission: bring popular movie star Yukie Fujikaze to the Land of Snow, where they're filming the final scenes of her latest movie. Trouble is, she's even more headstrong than Naruto, and she doesn't want to go! Her reluctance may be connected to what else lies in wait for them--three rogue Snow ninja and a tyrannical ruler seeking the key to a mysterious treasure...\n(Source: VIZ Media)",
+      "year": 2004,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Ninja",
+        "Super Power",
+        "Fantasy World",
+        "Historical",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "a76130c3362ea0c98744d9707195ca600be1c806",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "naruto-the-movie-ninja-clash-in-the-land-of-snow/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
