@@ -56702,6 +56702,76 @@
           "playlist": "golden-time/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-school-dxd-hero",
+      "title": "High School DxD Hero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@65c877b1d543fec65e3af90cf0a139a07ff65a19/high-school-dxd-hero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@65c877b1d543fec65e3af90cf0a139a07ff65a19/high-school-dxd-hero/banner.jpg",
+      "synopsis": "4th season of the High School DxD anime series.",
+      "year": 2018,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Harem"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "2de77f3720187f015704847eafd43f04bc178c78",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-school-dxd-hero/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-school-dxd-hero/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "high-school-dxd-hero/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "high-school-dxd-hero/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "high-school-dxd-hero/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "high-school-dxd-hero/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "high-school-dxd-hero/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "high-school-dxd-hero/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "high-school-dxd-hero/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "high-school-dxd-hero/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "high-school-dxd-hero/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "high-school-dxd-hero/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
