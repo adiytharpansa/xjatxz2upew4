@@ -67136,6 +67136,32 @@
           "playlist": "darker-than-black-kuro-no-keiyakusha-gaiden/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "naruto-shippuden-the-movie",
+      "title": "Naruto: Shippuden the Movie",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5ef53de8f31971412ccf746e87018725c30d1656/naruto-shippuden-the-movie/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5ef53de8f31971412ccf746e87018725c30d1656/naruto-shippuden-the-movie/banner.jpg",
+      "synopsis": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this \"prediction of death,\" but fails to prove Shion's prediction wrong and supposedly dies in vain.\n(Source: Wikipedia)",
+      "year": 2007,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Ninja",
+        "Super Power",
+        "Fantasy World",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "5d615792adcfaf04b7870d8b3dcf8548bedaea68",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "naruto-shippuden-the-movie/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
