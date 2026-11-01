@@ -60013,6 +60013,30 @@
           "playlist": "noragami-aragoto-ova/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "maquia-when-the-promised-flower-blooms",
+      "title": "Maquia: When the Promised Flower Blooms",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@90d9d34af8333c93111df737fa4103ee3b078678/maquia-when-the-promised-flower-blooms/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@90d9d34af8333c93111df737fa4103ee3b078678/maquia-when-the-promised-flower-blooms/banner.jpg",
+      "synopsis": "The people of Iolph have a lifespan of hundreds of years and maintain their teenage appearances for life, but when the peace of this town is shattered by those who want the secret to their longevity for themselves, a young girl named Maquia is forced to escape. Wandering the land alone, upon finding an orphaned baby she chooses to raise him, but as this boy grows up so the difference in their lifespans is thrown into ever-sharper relief.\n\n(Source: Anime Limited)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "9480b3e55cb7b3e4f2f9c5c69c7b9506d3f974be",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "maquia-when-the-promised-flower-blooms/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
