@@ -61293,6 +61293,76 @@
           "playlist": "patema-inverted/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-familiar-of-zero-f",
+      "title": "The Familiar of Zero F",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9648b02258f1ea587d93db017e766728eaef9385/the-familiar-of-zero-f/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9648b02258f1ea587d93db017e766728eaef9385/the-familiar-of-zero-f/poster.jpg",
+      "synopsis": "The fourth and final season of The Familiar of Zero. Saito and Louise feel their bond deepening as the days go on, and they feel it might be time to take the next step in their relationship... But before that, the Queen has a mission for them. She sends them to the pope, who has both Louise and Tiffania become holy maidens. And with all the interruptions around, by both friends and foes, Louise and Saito's love will be tested to the limit.\n(Source: ANN)",
+      "year": 2012,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Feudal Warfare",
+        "Plot Continuity",
+        "Parallel Universe"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "069b458235ebf50c3e55cdb37269d0fe9b9f7df4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-familiar-of-zero-f/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-familiar-of-zero-f/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-familiar-of-zero-f/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-familiar-of-zero-f/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-familiar-of-zero-f/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-familiar-of-zero-f/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-familiar-of-zero-f/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-familiar-of-zero-f/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-familiar-of-zero-f/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-familiar-of-zero-f/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-familiar-of-zero-f/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-familiar-of-zero-f/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
