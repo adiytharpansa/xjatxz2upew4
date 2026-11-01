@@ -54140,6 +54140,128 @@
           "playlist": "akira/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bakuman-3",
+      "title": "Bakuman. 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8c41985fdf12b0cc8b1a1164e6c6846672d59bcc/bakuman-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8c41985fdf12b0cc8b1a1164e6c6846672d59bcc/bakuman-3/banner.jpg",
+      "synopsis": "Onto their third serialization, manga duo Moritaka Mashiro and Akito Takagi—also known by their pen name, Muto Ashirogi—are ever closer to their dream of an anime adaption. However, the real challenge is only just beginning: if they are unable to compete with the artist Eiji Niizuma in the rankings within the span of six months, they will be cancelled. To top it off, numerous rivals are close behind and declaring war. They don't even have enough time to spare thinking about an anime!\nIn Bakuman. 3rd Season, Muto Ashirogi must find a way to stay atop the colossal mountain known as the Shounen Jack rankings. With new problems and new assistants, the pair continue to strive for their dream.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "d921a4605296848daad97e262eebeed2930869fc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bakuman-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bakuman-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bakuman-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bakuman-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bakuman-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bakuman-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bakuman-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bakuman-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bakuman-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bakuman-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bakuman-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bakuman-3/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "bakuman-3/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "bakuman-3/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "bakuman-3/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "bakuman-3/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "bakuman-3/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "bakuman-3/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "bakuman-3/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "bakuman-3/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "bakuman-3/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "bakuman-3/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "bakuman-3/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "bakuman-3/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "bakuman-3/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
