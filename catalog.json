@@ -66729,6 +66729,32 @@
           "playlist": "corpse-party-tortured-souls/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "psycho-pass-the-movie",
+      "title": "Psycho-Pass: The Movie",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3189cf53ddfb97f0d4d0af567d048596c09cf77d/psycho-pass-the-movie/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3189cf53ddfb97f0d4d0af567d048596c09cf77d/psycho-pass-the-movie/banner.jpg",
+      "synopsis": "Due to the incredible success of the Sibyl System, Japan has begun exporting the technology to other countries with the hope that it will one day be used all around the world. In order to test its effectiveness in a foreign location, the war-torn state of the South East Asian Union (SEAUn) decides to implement the system, hoping to bring peace and stability to the town of Shambala Float and keep the population in check.\nHowever, a group of anti-Sibyl terrorists arrive in Japan, and the Ministry of Welfare's Public Safety Bureau discovers significant evidence that the invaders are being aided by Shinya Kougami, a former Enforcer who went rogue. Because of their past relationship, Akane Tsunemori is sent to SEAUn to bring him back, but with their last meeting years in the past, their reunion might not go quite as planned.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Robot",
+        "Gunfights",
+        "Earth",
+        "Mecha",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "0121b3b03a38cf920e017632f68445bc1cab5de2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "psycho-pass-the-movie/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
