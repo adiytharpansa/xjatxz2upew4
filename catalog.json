@@ -67337,6 +67337,124 @@
           "playlist": "undefeated-bahamut-chronicle/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gankutsuou-the-count-of-monte-cristo",
+      "title": "Gankutsuou: The Count of Monte Cristo",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6c84867a582277799a2dcd082a5d1bb8c9891d4/gankutsuou-the-count-of-monte-cristo/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6c84867a582277799a2dcd082a5d1bb8c9891d4/gankutsuou-the-count-of-monte-cristo/banner.jpg",
+      "synopsis": "Gankutsuou is an anime loosely based on the novel The Count of Monte Cristo by Alexandre Dumas. It tells the story of Albert Morcerf, a young aristocrat who happens to befriend a wealthy nobleman, The Count of Monte Cristo, through a series of bizarre events. Fascinated by the Count's charm, Albert invites him to meet his friends and family, all of whom happen to be part of the upper class society of Paris, France. Unfortunately, little does Albert realize that the Count has ulterior motives in mind.\n[Written by MAL Rewrite]",
+      "year": 2004,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Earth",
+        "Plot Continuity",
+        "France",
+        "Europe",
+        "Science Fiction"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "0ef3519935d34f72f889d3686492124021e7aaad",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "gankutsuou-the-count-of-monte-cristo/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
