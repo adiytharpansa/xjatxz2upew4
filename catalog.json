@@ -58681,6 +58681,80 @@
           "playlist": "gabriel-dropout/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "brynhildr-in-the-darkness",
+      "title": "Brynhildr in the Darkness",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b005cbda7b3931b8fbe19e68a79f3b0f31f1ebbc/brynhildr-in-the-darkness/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b005cbda7b3931b8fbe19e68a79f3b0f31f1ebbc/brynhildr-in-the-darkness/banner.jpg",
+      "synopsis": "Ten years ago, Ryouta Murakami set out with his best friend Kuroneko to find proof of alien life. A tragic accident occurred, killing Kuroneko and injuring Ryouta. In honor of Kuroneko's memory, Ryouta now searches the night sky for alien signs, determined to prove that his friend had been right, and that aliens really do exist.\nThen one day, a new transfer student comes to his class and shatters everything he believes: her name is Kuroha Neko, and she looks exactly like the deceased Kuroneko. Kuroha denies being Ryouta's friend, but there’s something strange about her. She somehow aced a difficult test to transfer in, but doesn't know her multiplication tables. She possesses inhuman strength and strange abilities. And strangest of all, she predicts death.\nAfter Kuroha displays supernatural strength in saving his life, Ryouta becomes a part of Kuroha's life, learning about her past and the hidden forces that exist in the universe. As he sinks more and more into a world of artificially created witches and magic, Ryouta must allow his scientific mind to accept that Kuroha has a very real power - the kind of power some forces will stop at nothing to get a hold of.",
+      "year": 2014,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Human Enhancement",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "02356b54e80e8e261e0048235dc82a9e4ef2730d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "brynhildr-in-the-darkness/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "brynhildr-in-the-darkness/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "brynhildr-in-the-darkness/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "brynhildr-in-the-darkness/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "brynhildr-in-the-darkness/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "brynhildr-in-the-darkness/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "brynhildr-in-the-darkness/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "brynhildr-in-the-darkness/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "brynhildr-in-the-darkness/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "brynhildr-in-the-darkness/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "brynhildr-in-the-darkness/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "brynhildr-in-the-darkness/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "brynhildr-in-the-darkness/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
