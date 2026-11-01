@@ -60498,6 +60498,75 @@
           "playlist": "tokyo-magnitude-8-0/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "zombie-land-saga",
+      "title": "ZOMBIE LAND SAGA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d22de740be72ab116fbf497a18584cb2131b5e5a/zombie-land-saga/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d22de740be72ab116fbf497a18584cb2131b5e5a/zombie-land-saga/banner.jpg",
+      "synopsis": "A typical morning. The usual music. Their normal lives. The peace these seven girls experience will suddenly be destroyed. By the living dead... zombies. A reality that they never wanted a part of, an amazing and terrifying zombie world. They all share one wish: \"We want to live.\" These girls will struggle through this saga, in order to achieve a miracle. MAPPA, Avex Pictures, and Cygames team up to bring you a juicy, 100% original anime. A timeless shocker for all audiences, a brand new style of zombie anime, will soon rise.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Zombie",
+        "Idol",
+        "Music",
+        "Comedy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "0e3c438dd8d43d24ac3fb5a72e6ee32c9791f7e9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "zombie-land-saga/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "zombie-land-saga/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "zombie-land-saga/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "zombie-land-saga/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "zombie-land-saga/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "zombie-land-saga/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "zombie-land-saga/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "zombie-land-saga/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "zombie-land-saga/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "zombie-land-saga/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "zombie-land-saga/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "zombie-land-saga/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
