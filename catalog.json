@@ -54288,6 +54288,74 @@
           "playlist": "evangelion-3-0-you-can-not-redo/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "food-wars-the-third-plate-totsuki-railway-arc",
+      "title": "Food Wars! The Third Plate – Totsuki Railway Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ba56db22c5a76aa6d1bc4d50c01e172979222ad2/food-wars-the-third-plate-totsuki-railway-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ba56db22c5a76aa6d1bc4d50c01e172979222ad2/food-wars-the-third-plate-totsuki-railway-arc/banner.jpg",
+      "synopsis": "The second course of Shokugeki no Souma season 3.\n",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Ecchi",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "624af60f21c06dd74095308bc299e1d45f3cfe7a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "food-wars-the-third-plate-totsuki-railway-arc/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
