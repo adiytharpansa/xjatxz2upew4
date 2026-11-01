@@ -63899,6 +63899,76 @@
           "playlist": "school-babysitters/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ben-to",
+      "title": "Ben-To",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@75feaac5371dbec05b8198a3f7716dc2f92b1a62/ben-to/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@75feaac5371dbec05b8198a3f7716dc2f92b1a62/ben-to/banner.jpg",
+      "synopsis": "April 6th, 2011—that was the day that 15-year-old You Satou was knocked unconscious while reaching for a half-priced bento, a prepackaged meal sold at the supermarket. By the time he woke up on the ground, all the bento boxes were gone. He left the supermarket hungry and in pain, only for the same thing to happen the next day.\nYou soon learn that, in the world of Ben-To, discounted bentos are sacred and highly-sought after, and in order to get one, you needed to fight your way to the top. These bento brawls are fought by experienced fighters known as “Wolves”, who leave the inexperienced and weak “Dogs” like him lying on the ground in defeat. In a world where the weak are left hungry and only the strong can dine, You must train under the guidance of the silver-haired “Ice Queen”, Sen Yarizui, to become a bento-eating wolf himself. ",
+      "year": 2011,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Martial Arts",
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "5fbc84686493a41a94b133f8e871113140456e3b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ben-to/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ben-to/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ben-to/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ben-to/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ben-to/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ben-to/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ben-to/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ben-to/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ben-to/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ben-to/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ben-to/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ben-to/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
