@@ -54262,6 +54262,32 @@
           "playlist": "bakuman-3/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "evangelion-3-0-you-can-not-redo",
+      "title": "Evangelion: 3.0 You Can (Not) Redo",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3bbefe63c8e531e3fb3d576f2294e9edc649933f/evangelion-3-0-you-can-not-redo/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3bbefe63c8e531e3fb3d576f2294e9edc649933f/evangelion-3-0-you-can-not-redo/banner.jpg",
+      "synopsis": "Fourteen years after the Third Impact, the Earth is a post-apocalyptic wasteland, human civilization is in ruins, and the people Shinji knows are almost unrecognizable. Trapped inside Evangelion Unit-01, he is recovered from space by Asuka and Mari, only to find himself a prisoner of Wille, a military faction led by his former guardian Misato Katsuragi. Cold and bitter, his former allies view him with suspicion and refuse to support him as he comes to terms with the consequences of his actions.\n\nA hurt and confused Shinji is rescued from Wille by Rei and returned to Nerv headquarters. There, he meets and quickly befriends the enigmatic Kaworu Nagisa, who offers him warmth and insight into the state of Nerv's war with the Angels. But Shinji and Kaworu's brief respite lies on the eve of a new battle, one in which Shinji finds that his enemies are no longer Angels but former comrades. In this bitter confrontation to determine the future of the world, Shinji will learn first-hand that the past truly cannot be undone.\n\n(Source: MAL Rewrite)",
+      "year": 2012,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "4f25545dde2b9c8d46dbb7c48c434d6e6f6a7061",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "evangelion-3-0-you-can-not-redo/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
