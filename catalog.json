@@ -63373,6 +63373,36 @@
           "playlist": "death-billiards/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "angel-beats-specials",
+      "title": "Angel Beats! Specials",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fe110396ec10bb10ae472a3914a380ae1ee07069/angel-beats-specials/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fe110396ec10bb10ae472a3914a380ae1ee07069/angel-beats-specials/banner.jpg",
+      "synopsis": "Unaired episodes of Angel Beats! included in the seventh volume of the Blu-ray and DVD, and another included in the Blu-ray Box.",
+      "year": 2010,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Friendship",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "5920df68f008d40662f4623901b0100fdf87d487",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "angel-beats-specials/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "angel-beats-specials/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
