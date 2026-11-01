@@ -55107,6 +55107,84 @@
           "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hunter-x-hunter-greed-island-final",
+      "title": "Hunter x Hunter: Greed Island Final",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3ab5eb70637e8706f252b319311ee6b033c36ce3/hunter-x-hunter-greed-island-final/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3ab5eb70637e8706f252b319311ee6b033c36ce3/hunter-x-hunter-greed-island-final/banner.jpg",
+      "synopsis": "Continuing with their adventure at Greed Island, Gon and Killua train furiously under the guidance of Biscuit for better preparation at attempting the game. With their abilities vastly improving and the threat of player killers menacing Greed Island, Gon and company continue the game despite the dangers that they will face with the game activities and encounters with other players. Based on the manga by Togashi Yoshihiro.",
+      "year": 2004,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Alternative Present",
+        "Virtual Reality",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "9d0fed5ad22fa61585df2158fc3bb7ce7c4979f9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hunter-x-hunter-greed-island-final/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hunter-x-hunter-greed-island-final/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hunter-x-hunter-greed-island-final/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hunter-x-hunter-greed-island-final/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hunter-x-hunter-greed-island-final/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hunter-x-hunter-greed-island-final/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hunter-x-hunter-greed-island-final/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hunter-x-hunter-greed-island-final/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hunter-x-hunter-greed-island-final/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hunter-x-hunter-greed-island-final/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hunter-x-hunter-greed-island-final/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hunter-x-hunter-greed-island-final/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "hunter-x-hunter-greed-island-final/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "hunter-x-hunter-greed-island-final/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
