@@ -59861,6 +59861,128 @@
           "playlist": "arakawa-under-the-bridge/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-heroic-legend-of-arslan",
+      "title": "The Heroic Legend of Arslan",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fbefe6158e383571615d97a5ca0517d116f32525/the-heroic-legend-of-arslan/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fbefe6158e383571615d97a5ca0517d116f32525/the-heroic-legend-of-arslan/banner.jpg",
+      "synopsis": "The year is 320. Under the rule of the belligerent king Andragoras III, the prosperous kingdom of Pars is at war with the neighboring empire, Lusitania. Though different from his father in many aspects, the kind young prince Arslan sets out to prove his valor on the battlefield for the very first time. However, when the king is betrayed by one of his most trusted officials, the Parsian army is decimated and the capital city of Ecbatana is sieged. With the army in shambles and the Lusitanians out for his head, Arslan is forced to go on the run. With a respected general by his side, the loyal Daryun, Arslan soon sets off on a journey in search of allies that will help him take back his home.\nHowever, the enemies that the prince faces are far from limited to just those occupying his kingdom. Armies of other kingdoms stand ready to conquer Ecbatana. Moreover, the mastermind behind Lusitania's victory, an enigmatic man hiding behind a silver mask, poses a dangerous threat to Arslan and his company as he possesses a secret that could jeopardize Arslan's right to succession.\nWith the odds stacked against him, Arslan must find the strength and courage to overcome these obstacles and allies who will help him fight in the journey that will help prepare him for the day he becomes king.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Historical",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "79090a1dccd6eb13cb69c6125a50b33665aed268",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-heroic-legend-of-arslan/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-heroic-legend-of-arslan/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-heroic-legend-of-arslan/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-heroic-legend-of-arslan/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-heroic-legend-of-arslan/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-heroic-legend-of-arslan/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-heroic-legend-of-arslan/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-heroic-legend-of-arslan/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-heroic-legend-of-arslan/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-heroic-legend-of-arslan/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-heroic-legend-of-arslan/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-heroic-legend-of-arslan/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-heroic-legend-of-arslan/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "the-heroic-legend-of-arslan/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "the-heroic-legend-of-arslan/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "the-heroic-legend-of-arslan/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "the-heroic-legend-of-arslan/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "the-heroic-legend-of-arslan/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "the-heroic-legend-of-arslan/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "the-heroic-legend-of-arslan/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "the-heroic-legend-of-arslan/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "the-heroic-legend-of-arslan/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "the-heroic-legend-of-arslan/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "the-heroic-legend-of-arslan/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "the-heroic-legend-of-arslan/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
