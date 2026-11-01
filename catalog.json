@@ -63239,6 +63239,68 @@
           "playlist": "gintama-movie-2-kanketsu-hen-yorozuya-yo-eien-nare/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-eden-of-grisaia",
+      "title": "The Eden of Grisaia",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@798007c562bda1bb24f07e7b004b672d53d4f87b/the-eden-of-grisaia/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@798007c562bda1bb24f07e7b004b672d53d4f87b/the-eden-of-grisaia/banner.jpg",
+      "synopsis": "Grisaia no Rakuen begins right at the end of the previous installment, Grisaia no Meikyuu. Kazami Yuuji is arrested under suspicion for terrorism. A video showing apparently concrete proof that Yuuji committed these acts, and he is held in custody by Ichigaya.\nIchigaya knows full well that Yuuji didn't commit the crimes he has been accused of. But he did fail to assassinate Heath Oslo, who is the leader of the terrorist organization with an extremely devastating weapon in their possession. In fact, Ichigaya have their own plans for Yuuji... \nBut all may not be lost for Yuuji. The girls of the Mihama Academy are not about to let Yuuji be used for political gain, and neither may the mysterious new figure which appears before them.",
+      "year": 2015,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "Japan",
+        "Asia",
+        "Angst",
+        "Romance",
+        "Harem"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "ec792c050b710aa66d2b9789f01bf2e41cb67e8a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-eden-of-grisaia/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-eden-of-grisaia/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-eden-of-grisaia/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-eden-of-grisaia/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-eden-of-grisaia/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-eden-of-grisaia/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-eden-of-grisaia/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-eden-of-grisaia/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-eden-of-grisaia/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-eden-of-grisaia/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
