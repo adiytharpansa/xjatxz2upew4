@@ -64900,6 +64900,75 @@
           "playlist": "unbreakable-machine-doll/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wise-man-s-grandchild",
+      "title": "Wise Man's Grandchild",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6585a4992864c96a1b338abedcd284a5d09823fc/wise-man-s-grandchild/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6585a4992864c96a1b338abedcd284a5d09823fc/wise-man-s-grandchild/banner.jpg",
+      "synopsis": "A young man dies in a car accident and is reborn in a magical new world. The old, yet wise Merlin finds the boy, names him Shin, raises him from infancy, and teaches him combat and powerful magic along the way. 15 years later, Shin is ready to travel the globe on his own, but Merlin forgot to teach him something major—common sense!\n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "47a6833589307626ecb7c55994573022c695db45",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wise-man-s-grandchild/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wise-man-s-grandchild/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wise-man-s-grandchild/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "wise-man-s-grandchild/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "wise-man-s-grandchild/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "wise-man-s-grandchild/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "wise-man-s-grandchild/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "wise-man-s-grandchild/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "wise-man-s-grandchild/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "wise-man-s-grandchild/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "wise-man-s-grandchild/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "wise-man-s-grandchild/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
