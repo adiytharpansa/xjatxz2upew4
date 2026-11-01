@@ -58008,6 +58008,132 @@
           "playlist": "rosario-vampire-capu2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "azumanga-daioh-the-animation",
+      "title": "Azumanga Daioh: The Animation",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a10baa16f9488dc6ee4bae95a921aa67c0d21988/azumanga-daioh-the-animation/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a10baa16f9488dc6ee4bae95a921aa67c0d21988/azumanga-daioh-the-animation/banner.jpg",
+      "synopsis": "Chiyo Mihama begins her high school career as one of the strangest students in her freshman class—a tiny, 10-year-old academic prodigy with a fondness for plush dolls and homemade cooking. But her homeroom teacher, Yukari Tanizaki, is the kind of person who would hijack a student's bike to avoid being late, so \"strange\" is a relative word.\nThere certainly isn't a shortage of peculiar girls in Yukari-sensei's homeroom class. Accompanying Chiyo are students like Tomo Takino, an energetic tomboy with more enthusiasm than brains; Koyomi Mizuhara, Tomo's best friend whose temper has a fuse shorter than Chiyo; and Sakaki, a tall, athletic beauty whose intimidating looks hide a gentle personality and a painful obsession with cats. In addition, transfer student Ayumu Kasuga, a girl with her head stuck in the clouds, fits right in with the rest of the girls—and she has a few interesting theories about Chiyo's pigtails!\nTogether, this lovable group of girls experience the ups and downs of school life, their many adventures filled with constant laughter, surreal absurdity, and occasionally even touching commentary on the bittersweet, temporal nature of high school.\n[Written by MAL Rewrite]",
+      "year": 2002,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "567c535f4eecc6356585249523017d0e575fb6a7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "azumanga-daioh-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "azumanga-daioh-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "azumanga-daioh-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "azumanga-daioh-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "azumanga-daioh-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "azumanga-daioh-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "azumanga-daioh-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "azumanga-daioh-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "azumanga-daioh-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "azumanga-daioh-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "azumanga-daioh-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "azumanga-daioh-the-animation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "azumanga-daioh-the-animation/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "azumanga-daioh-the-animation/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "azumanga-daioh-the-animation/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "azumanga-daioh-the-animation/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "azumanga-daioh-the-animation/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "azumanga-daioh-the-animation/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "azumanga-daioh-the-animation/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "azumanga-daioh-the-animation/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "azumanga-daioh-the-animation/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "azumanga-daioh-the-animation/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "azumanga-daioh-the-animation/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "azumanga-daioh-the-animation/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "azumanga-daioh-the-animation/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "azumanga-daioh-the-animation/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
