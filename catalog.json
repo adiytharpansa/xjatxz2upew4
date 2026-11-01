@@ -58334,6 +58334,120 @@
           "playlist": "rainbow/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nodame-cantabile",
+      "title": "Nodame Cantabile",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@01d83ece7a8e4d07e59bc7070f1e804dc865887b/nodame-cantabile/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@01d83ece7a8e4d07e59bc7070f1e804dc865887b/nodame-cantabile/banner.jpg",
+      "synopsis": "Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist—not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.\nDuring his fourth year at Japan's top music university, Shinichi happens to meet Megumi Noda or, as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Shinichi hears Nodame play the piano for the first time, he is in awe of the kind of music she creates. Nevertheless, Shinichi is dismayed to discover that Nodame is his neighbor, and worse, she ends up falling head over heels in love with him.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Slapstick",
+        "University",
+        "Japan",
+        "Sudden Girlfriend Appearance"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "4de1defb15d0930f84648d7703d48a6d95a0ea21",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nodame-cantabile/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nodame-cantabile/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nodame-cantabile/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nodame-cantabile/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nodame-cantabile/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nodame-cantabile/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nodame-cantabile/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nodame-cantabile/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nodame-cantabile/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nodame-cantabile/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nodame-cantabile/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nodame-cantabile/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "nodame-cantabile/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "nodame-cantabile/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "nodame-cantabile/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "nodame-cantabile/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "nodame-cantabile/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "nodame-cantabile/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "nodame-cantabile/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "nodame-cantabile/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "nodame-cantabile/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "nodame-cantabile/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "nodame-cantabile/ep23/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
