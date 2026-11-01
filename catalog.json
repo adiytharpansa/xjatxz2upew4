@@ -66455,6 +66455,124 @@
           "playlist": "honey-and-clover/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "xxxholic",
+      "title": "xxxHOLiC",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@46a114785756732bf2fa50f817429e420da2cea3/xxxholic/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@46a114785756732bf2fa50f817429e420da2cea3/xxxholic/banner.jpg",
+      "synopsis": "Kimihiro Watanuki can see spirits and other assorted supernatural creatures, which is quite a bothersome ability he strongly dislikes. On the way home one day, while plagued by some spirits, he is inexplicably compelled to enter a strange house. There, he encounters Yuuko, a mysterious woman who claims to be able to rid him of the ability to see and attract the troublesome creatures—for a price. She demands that he work at her \"store\" that grants wishes to people, and thus begins Watanuki's adventures through weird and wonderful events.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "08b5dbf88e776ea5801057b5b9bcc90a11478d62",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "xxxholic/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "xxxholic/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "xxxholic/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "xxxholic/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "xxxholic/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "xxxholic/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "xxxholic/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "xxxholic/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "xxxholic/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "xxxholic/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "xxxholic/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "xxxholic/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "xxxholic/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "xxxholic/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "xxxholic/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "xxxholic/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "xxxholic/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "xxxholic/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "xxxholic/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "xxxholic/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "xxxholic/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "xxxholic/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "xxxholic/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "xxxholic/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
