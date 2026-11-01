@@ -61873,6 +61873,76 @@
           "playlist": "campione/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mononoke",
+      "title": "Mononoke",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5ccac36297f3a50e835646177d9c480a50130ccb/mononoke/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5ccac36297f3a50e835646177d9c480a50130ccb/mononoke/banner.jpg",
+      "synopsis": "The \"Medicine Seller\" is a deadly and mysterious master of the occult who travels across feudal Japan in search of malevolent spirits called \"mononoke\" to slay. When he locates one of these spirits, he cannot simply kill it; he must first learn its Form, its Truth, and its Reason in order to wield the mighty Exorcism Sword and fight against it. He must begin  his strange exorcisms with intense psychological analysis and careful investigative work—an extremely dangerous step, as he must first confront and learn about the mononoke before he even has the means to defeat it.\nThe Medicine Seller's journey leads him to an old-fashioned inn where Shino, a pregnant woman, has finally found a place to rest. The owner has reluctantly placed her in the last vacant room; however, as she settles in, it quickly becomes clear that the room is infested by a lethal band of mononoke, the Zashiki Warashi. With his hunter's intuition, the Medicine Seller begins his investigation to discover the Form, the Truth, and the Reason before the Zashiki Warashi can kill again.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Past",
+        "Earth",
+        "Historical",
+        "Demon",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "9f46ebaadb1aba87ea55f5e3a0f7b44212a739ae",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mononoke/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mononoke/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mononoke/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mononoke/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mononoke/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mononoke/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mononoke/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mononoke/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mononoke/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mononoke/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mononoke/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mononoke/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
