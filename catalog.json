@@ -58755,6 +58755,76 @@
           "playlist": "brynhildr-in-the-darkness/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "aria-the-scarlet-ammo",
+      "title": "Aria the Scarlet Ammo",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5b249cc001ec6c9e5f5b26267563a20a91fffddb/aria-the-scarlet-ammo/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5b249cc001ec6c9e5f5b26267563a20a91fffddb/aria-the-scarlet-ammo/banner.jpg",
+      "synopsis": "In response to the worsening crime rate, Japan creates Tokyo Butei High, an elite academy where \"Butei\" or armed detectives hone their deadly skills in hopes of becoming mercenary-like agents of justice. One particular Butei is Kinji Tooyama, an anti-social and curt sophomore dropout who was once a student of the combat-centric Assault Division. Kinji now lives a life of leisure studying logistics in order to cover up his powerful but embarrassing special ability. However, his peaceful days soon come to an end when he becomes the target of the infamous \"Butei Killer,\" and runs into an emotional hurricane and outspoken prodigy of the highest rank, Aria Holmes Kanzaki, who saves Kinji's life and demands that he become her partner after seeing what he is truly capable of.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Stereotypes",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "415b18fd73c0e970a403d3ba64ba1b242e26acd4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "aria-the-scarlet-ammo/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "aria-the-scarlet-ammo/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "aria-the-scarlet-ammo/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "aria-the-scarlet-ammo/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "aria-the-scarlet-ammo/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "aria-the-scarlet-ammo/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "aria-the-scarlet-ammo/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "aria-the-scarlet-ammo/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "aria-the-scarlet-ammo/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "aria-the-scarlet-ammo/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "aria-the-scarlet-ammo/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "aria-the-scarlet-ammo/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
