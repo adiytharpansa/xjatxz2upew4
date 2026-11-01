@@ -67162,6 +67162,32 @@
           "playlist": "naruto-shippuden-the-movie/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-anthem-of-the-heart",
+      "title": "The Anthem of the Heart",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1cbe82cefd2b777b27f6b4dce9098339f2724a43/the-anthem-of-the-heart/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1cbe82cefd2b777b27f6b4dce9098339f2724a43/the-anthem-of-the-heart/banner.jpg",
+      "synopsis": "Jun is a girl whose words have been sealed away. She was once a very happy girl, but because of a certain thing she said when she was very young, her family was torn apart. One day, the egg fairy appeared in front of her and sealed away her ability to talk in order to stop her from hurting anybody else. Since this traumatic experience, Jun lives in the shadows away from the limelight. But, one day, she is nominated to become an executive member of the \"community outreach council.\" On top of that, Jun is also appointed to play the main lead in their musical...\n(Source: Official website)",
+      "year": 2015,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "e543cf79dfa4840d075a8a2ef9f03f6e90f77644",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-anthem-of-the-heart/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
