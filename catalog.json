@@ -57830,6 +57830,76 @@
           "playlist": "the-garden-of-words/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "in-another-world-with-my-smartphone",
+      "title": "In Another World With My Smartphone",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7cab9e326561328121ed48d3b982dbe89d853207/in-another-world-with-my-smartphone/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7cab9e326561328121ed48d3b982dbe89d853207/in-another-world-with-my-smartphone/banner.jpg",
+      "synopsis": "When Touya Mochizuki is accidentally struck by lightning and killed, God apologizes by reviving him into a fantasy world and granting him one wish. Touya’s request? To keep his smartphone in the next world. In his second chance at life, Touya befriends many important figures, inherits the legacy of an ancient civilization, and travels around with incredible power and a harem of girls!\n\n(Source: Funimation)",
+      "year": 2017,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "539ac633f5c954471ce2afa4ccaa52a9b40e7bc4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "in-another-world-with-my-smartphone/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "in-another-world-with-my-smartphone/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "in-another-world-with-my-smartphone/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "in-another-world-with-my-smartphone/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "in-another-world-with-my-smartphone/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "in-another-world-with-my-smartphone/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "in-another-world-with-my-smartphone/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "in-another-world-with-my-smartphone/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "in-another-world-with-my-smartphone/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "in-another-world-with-my-smartphone/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "in-another-world-with-my-smartphone/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "in-another-world-with-my-smartphone/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
