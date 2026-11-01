@@ -57210,6 +57210,124 @@
           "playlist": "darker-than-black-gemini-of-the-meteor/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "full-metal-panic",
+      "title": "Full Metal Panic!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a605bde0eb324c08f1ebd3c4b175e606ae0544ed/full-metal-panic/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a605bde0eb324c08f1ebd3c4b175e606ae0544ed/full-metal-panic/banner.jpg",
+      "synopsis": "Equipped with cutting-edge weaponry and specialized troops, a private military organization named Mithril strives to extinguish the world's terrorism and all threats to peace on earth. The organization is powered by the \"Whispered,\" individuals who possess intuitive knowledge and the remarkable ability to create powerful devices and machinery.\nSeventeen-year-old Sousuke Sagara, a sergeant working for Mithril, has been assigned to protect Kaname Chidori, a Whispered candidate. He is ordered to join her high school class and be as close to her as possible to prevent her from falling into enemy hands—that is, if he can safely blend in with their fellow classmates without revealing his true identity.\nSousuke, who was raised on a battlefield and has very little knowledge of an average high school student's lifestyle, must adapt to a normal school life to safeguard Kaname. However, enemy forces have already begun making their move, and Sousuke is about to find out that the adversary coming for the Whispered girl may be a lot more familiar than he expects.\n[Written by MAL Rewrite]",
+      "year": 2002,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Earth",
+        "Mecha",
+        "Piloted Robot",
+        "Slapstick",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "15e66d709324d48b2cbedd2f0e034ab15d65e70d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "full-metal-panic/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "full-metal-panic/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "full-metal-panic/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "full-metal-panic/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "full-metal-panic/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "full-metal-panic/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "full-metal-panic/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "full-metal-panic/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "full-metal-panic/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "full-metal-panic/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "full-metal-panic/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "full-metal-panic/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "full-metal-panic/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "full-metal-panic/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "full-metal-panic/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "full-metal-panic/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "full-metal-panic/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "full-metal-panic/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "full-metal-panic/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "full-metal-panic/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "full-metal-panic/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "full-metal-panic/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "full-metal-panic/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "full-metal-panic/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
