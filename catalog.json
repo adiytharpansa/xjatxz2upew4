@@ -67781,6 +67781,80 @@
           "playlist": "the-king-s-avatar/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "code-breaker",
+      "title": "Code:Breaker",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5c7c6344e37d78410401fee1958d7b33671a636e/code-breaker/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5c7c6344e37d78410401fee1958d7b33671a636e/code-breaker/banner.jpg",
+      "synopsis": "Riding the bus one day, Sakurakouji Sakura looks out the window to see people being burned alive with a blue fire and a boy her age who's unharmed and standing over the people.\nShe comes back to the site the next day and there are no corpses or evidence of any kind of murder, just a small fire. She then goes to class to find there's a new transfer student, Oogami Rei, who looks exactly like the boy she saw before and wears a black glove only on his left hand.\nOogami is a Code Breaker, one who \"does not exist\". He is a seemingly cold-blooded killer who follows the principle of \"an eye for an eye\", to \"use evil against evil\". Convinced that killing is not right, Sakurakouji sets out to stop him and penetrate his icy heart.",
+      "year": 2012,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "Martial Arts",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Human Enhancement"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "f314ff3e004f235b35de98487cd12521331d947e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "code-breaker/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "code-breaker/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "code-breaker/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "code-breaker/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "code-breaker/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "code-breaker/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "code-breaker/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "code-breaker/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "code-breaker/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "code-breaker/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "code-breaker/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "code-breaker/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "code-breaker/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
