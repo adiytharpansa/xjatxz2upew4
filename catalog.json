@@ -64830,6 +64830,76 @@
           "playlist": "legend-of-the-galactic-heroes/ep110/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "unbreakable-machine-doll",
+      "title": "Unbreakable Machine-Doll",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2fcfc545fee9461125aefb4dd2717fb38fdbc0c6/unbreakable-machine-doll/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2fcfc545fee9461125aefb4dd2717fb38fdbc0c6/unbreakable-machine-doll/banner.jpg",
+      "synopsis": "The Walpurgis Royal Academy of Machinart was founded alongside the development of \"Machinart,\" machine magic capable of giving life and intelligence to mechanical dolls subsequently called as \"automaton.\" Its aim: train skilled puppeteers to control the automatons, as militaries across the globe have begun incorporating Machinart into their armies.\nAfter miserably failing the academy's entrance exams, Raishin Akabane and his humanoid automaton Yaya must defeat one of the top one hundred students to earn the right to take part in the Evening Party, a fight for supremacy between puppeteers using their automatons. The last one standing is bestowed the title of \"Wiseman\" and granted access to the powerful forbidden arts.\nThus, Raishin challenges Charlotte Belew and her automaton Sigmund to a duel, but before they even begin, Sigmund is attacked by other students. After saving his opponents from their assaulters, Raishin cancels the duel but is forced to search for a new way to gain access to the Party. Driven by the tragedies of his past, Raishin fights alongside Yaya to rise to the top and claim the title of Wiseman.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Magic",
+        "Earth",
+        "Mecha",
+        "Contemporary Fantasy",
+        "United Kingdom"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "82011080438eaef561972168bbc7a1bfe24d2a72",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "unbreakable-machine-doll/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "unbreakable-machine-doll/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "unbreakable-machine-doll/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "unbreakable-machine-doll/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "unbreakable-machine-doll/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "unbreakable-machine-doll/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "unbreakable-machine-doll/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "unbreakable-machine-doll/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "unbreakable-machine-doll/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "unbreakable-machine-doll/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "unbreakable-machine-doll/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "unbreakable-machine-doll/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
