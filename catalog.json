@@ -59065,6 +59065,76 @@
           "playlist": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "death-march-to-the-parallel-world-rhapsody",
+      "title": "Death March to the Parallel World Rhapsody",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f0f2345459ea21f45ff2c023f2329d16470d9d8a/death-march-to-the-parallel-world-rhapsody/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f0f2345459ea21f45ff2c023f2329d16470d9d8a/death-march-to-the-parallel-world-rhapsody/banner.jpg",
+      "synopsis": "29-year-old programmer Suzuki Ichirou finds himself transported into a fantasy RPG. Within the game, he's a 15-year-old named Satou. At first he thinks he's dreaming, but his experiences seem very real. Due to a powerful ability he possesses with limited use, he ends up wiping out an army of lizard men and becomes a high leveled adventurer. Satou decides to hide his level, and plans to live peacefully and meet new people. However, developments in the game's story, such as the return of a demon king, may cause a nuisance to Satou's plans.\n\n(Source: MAL News)",
+      "year": 2018,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Harem",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "9b2b5d40f6a3064f7c1c5bfaac41edefe9038158",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "death-march-to-the-parallel-world-rhapsody/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
