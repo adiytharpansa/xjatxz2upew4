@@ -61241,6 +61241,32 @@
           "playlist": "attack-on-titan-lost-girls/ep3/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fullmetal-alchemist-the-movie-conqueror-of-shamballa",
+      "title": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f3ed5b0dd7f0df4440a636ed0d1fc6fdef1b90e4/fullmetal-alchemist-the-movie-conqueror-of-shamballa/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f3ed5b0dd7f0df4440a636ed0d1fc6fdef1b90e4/fullmetal-alchemist-the-movie-conqueror-of-shamballa/banner.jpg",
+      "synopsis": "In desperation, Edward Elric sacrificed his body and soul to rescue his brother Alphonse, and is now displaced in the heart of Munich, Germany. He struggles to adapt to a world completely foreign to him in the wake of the economic crisis that followed the end of World War I. Isolated and unable to return home with his alchemy skills, Edward continues to research other methods of escaping the prison alongside colleagues who bear striking resemblances to many of the people he left behind. As dissent brews among the German citizenry, its neighbors also feel the unrest of the humiliated nation.\nMeanwhile, Alphonse continues to investigate Edward's disappearance, delving into the science of alchemy in the hopes of finally reuniting with his older brother. \n[Written by MAL Rewrite]",
+      "year": 2005,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Violence",
+        "Germany",
+        "Europe"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "4dd8c09fa0ce31c1594e49802322efc46eda37d6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fullmetal-alchemist-the-movie-conqueror-of-shamballa/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
