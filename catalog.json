@@ -55880,6 +55880,76 @@
           "playlist": "non-non-biyori/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nyaruko-crawling-with-love",
+      "title": "Nyaruko: Crawling With Love!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a8740a05a06ea7617b810a196fd55c29998f984d/nyaruko-crawling-with-love/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a8740a05a06ea7617b810a196fd55c29998f984d/nyaruko-crawling-with-love/banner.jpg",
+      "synopsis": "Mahiro Yasaka is just an ordinary high school student, until one day he is suddenly attacked by a dangerous monster. Just when everything seems to be lost, he is saved by a silver-haired girl named Nyaruko, who claims to be the shape-shifting deity Nyarlathotep from horror author H. P. Lovecraft's Cthulhu Mythos, sent by the Space Defense Agency to Earth. She explains to Mahiro that the creature chasing him was an alien called Nightgaunt, who had planned on abducting and selling him as a slave.\nAfter rescuing him from the alien, the Lovecraftian deity falls madly in love with Mahiro and forces herself into his household, much to his chagrin. Moreover, they are soon joined by two others from the fictional universe: Cthuko, a girl obsessed with Nyaruko, and Hasuta, a young boy easily mistaken for a beautiful female. Together, the three eccentric aliens protect Mahiro from the various extraterrestrial dangers that threaten both his and Earth's well-being, all the while making his life a living hell.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Magical Girl",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Super Deformed"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "8c4ed2528a060622c995edbef28cd3171e12b154",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nyaruko-crawling-with-love/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nyaruko-crawling-with-love/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nyaruko-crawling-with-love/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nyaruko-crawling-with-love/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nyaruko-crawling-with-love/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nyaruko-crawling-with-love/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nyaruko-crawling-with-love/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nyaruko-crawling-with-love/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nyaruko-crawling-with-love/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nyaruko-crawling-with-love/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nyaruko-crawling-with-love/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nyaruko-crawling-with-love/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
