@@ -54451,6 +54451,76 @@
           "playlist": "puella-magi-madoka-magica-the-movie-rebellion/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rokka-braves-of-the-six-flowers",
+      "title": "Rokka -Braves of the Six Flowers-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@74f4a7f258a601502f06d12ff727e158ef8ebc06/rokka-braves-of-the-six-flowers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@74f4a7f258a601502f06d12ff727e158ef8ebc06/rokka-braves-of-the-six-flowers/banner.jpg",
+      "synopsis": "Legend says, when the Evil God awakens from the deepest of darkness, the god of fate will summon Six Braves and grant them with the power to save the world. Adlet, who claims to be the strongest on the face of this earth, is chosen as one of the “Brave Six Flowers,” and sets out on a battle to prevent the resurrection of the Evil God. However, it turns out that there are Seven Braves who gathered at the promised land…\n\n(Source: Ponycan USA)",
+      "year": 2015,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Demon",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "98f7cbe655cf5f1a10f47684ef7f003dafe50df8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rokka-braves-of-the-six-flowers/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rokka-braves-of-the-six-flowers/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rokka-braves-of-the-six-flowers/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rokka-braves-of-the-six-flowers/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rokka-braves-of-the-six-flowers/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rokka-braves-of-the-six-flowers/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rokka-braves-of-the-six-flowers/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rokka-braves-of-the-six-flowers/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rokka-braves-of-the-six-flowers/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rokka-braves-of-the-six-flowers/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rokka-braves-of-the-six-flowers/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rokka-braves-of-the-six-flowers/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
