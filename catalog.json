@@ -67643,6 +67643,76 @@
           "playlist": "girls-last-tour/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sakura-trick",
+      "title": "Sakura Trick",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@00224a4d62166070c31ee5dc836ada39bb95adb7/sakura-trick/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@00224a4d62166070c31ee5dc836ada39bb95adb7/sakura-trick/banner.jpg",
+      "synopsis": "Love is in the air when the story of Sakura Trick begins. Haruka Takayama and Yuu Sonoda were best friends in middle school, and are now attending Misato West High School together. They are assigned to the same class in their first year, but are given seats on opposite sides of the room! If that wasn't enough, it is announced at the entrance ceremony that the school will be closed in three years. This doesn't bother either of them, as they still plan on having lots of fun together during their high school years.\nHaruka gets jealous of Yuu making new friends though, so the two decide to deepen their bond. \"Let's do something we'd never do with other girls,\" Yuu says, and they share a kiss in a vacant classroom after school one day. After that one kiss leads to many kisses, the two begin to realize that the relationship they share has changed completely. But what will happen to their relationship once a disapproving older sister begins to suspect that something is going on between the two?",
+      "year": 2014,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Shoujo Ai",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "e3a8c755338bb01dc44c4968a2537494f35144fa",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sakura-trick/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sakura-trick/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sakura-trick/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sakura-trick/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sakura-trick/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sakura-trick/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sakura-trick/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sakura-trick/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sakura-trick/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sakura-trick/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sakura-trick/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sakura-trick/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
