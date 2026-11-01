@@ -63757,6 +63757,76 @@
           "playlist": "pokemon-the-first-movie/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "full-metal-panic-fumoffu",
+      "title": "Full Metal Panic? Fumoffu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@370aec617c3da856366162f5af83644825ba98e8/full-metal-panic-fumoffu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@370aec617c3da856366162f5af83644825ba98e8/full-metal-panic-fumoffu/banner.jpg",
+      "synopsis": "It's back-to-school mayhem with Kaname Chidori and her war-freak classmate Sousuke Sagara as they encounter more misadventures in and out of Jindai High School. But when Kaname gets into some serious trouble, Sousuke takes the guise of Bonta-kun—the gun-wielding, butt-kicking mascot. And while he struggles to continue living as a normal teenager, Sousuke also has to deal with protecting his superior officer Teletha Testarossa, who has decided to take a vacation from Mithril and spend a couple of weeks as his and Kaname's classmate.\n(Source: ANN)",
+      "year": 2003,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "51d6cb9a7be80350aa743bc28da89b95da17296e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "full-metal-panic-fumoffu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "full-metal-panic-fumoffu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "full-metal-panic-fumoffu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "full-metal-panic-fumoffu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "full-metal-panic-fumoffu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "full-metal-panic-fumoffu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "full-metal-panic-fumoffu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "full-metal-panic-fumoffu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "full-metal-panic-fumoffu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "full-metal-panic-fumoffu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "full-metal-panic-fumoffu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "full-metal-panic-fumoffu/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
