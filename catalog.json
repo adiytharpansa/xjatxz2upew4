@@ -63969,6 +63969,72 @@
           "playlist": "ben-to/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "asobi-asobase-workshop-of-fun",
+      "title": "Asobi Asobase -workshop of fun-",
+      "poster": "https://media.kitsu.app/anime/poster_images/41149/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/41149/large.jpg",
+      "synopsis": "Three classmates play simple hand games. One of the girls is good at games, but hates them as she always lost to her older sister and forced to do chores while growing up. Another girl is of American descent, but raised in Japan, and who only pretends to be bad at Japanese. Another girl usually observes their games, and loses to the other girls.\n\n(Source: ANN)",
+      "year": 2018,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "293d55679895d98882a3f398d71c5d2ccf91ec4d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "asobi-asobase-workshop-of-fun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "asobi-asobase-workshop-of-fun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "asobi-asobase-workshop-of-fun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "asobi-asobase-workshop-of-fun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "asobi-asobase-workshop-of-fun/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "asobi-asobase-workshop-of-fun/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "asobi-asobase-workshop-of-fun/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "asobi-asobase-workshop-of-fun/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "asobi-asobase-workshop-of-fun/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "asobi-asobase-workshop-of-fun/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "asobi-asobase-workshop-of-fun/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "asobi-asobase-workshop-of-fun/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
