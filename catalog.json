@@ -54801,6 +54801,72 @@
           "playlist": "yamada-kun-and-the-seven-witches/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dr-stone-stone-wars",
+      "title": "Dr. Stone: Stone Wars",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8a482122ac8d27ab5472b045b07534256e5ba6a1/dr-stone-stone-wars/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8a482122ac8d27ab5472b045b07534256e5ba6a1/dr-stone-stone-wars/banner.jpg",
+      "synopsis": "Modern society is lost when a mysterious light leaves everyone petrified in stone. Thousands of years in the future, super genius Senku awakens and begins restoring civilization with his Kingdom of Science. Now as he sets down blueprints for a smartphone in the stone world, Tsukasa and his Empire of Might prepare for the upcoming war.\n\n(Source: Anime News Network)",
+      "year": 2021,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "f36e2a80bac38fe86957e87ef0d412527355ce4d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dr-stone-stone-wars/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dr-stone-stone-wars/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dr-stone-stone-wars/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dr-stone-stone-wars/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dr-stone-stone-wars/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dr-stone-stone-wars/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dr-stone-stone-wars/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dr-stone-stone-wars/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dr-stone-stone-wars/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dr-stone-stone-wars/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dr-stone-stone-wars/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
