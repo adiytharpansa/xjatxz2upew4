@@ -67573,6 +67573,76 @@
           "playlist": "special-a-s-a/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "girls-last-tour",
+      "title": "Girls' Last Tour",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2356a661daff267e3e68169f2bd5f6760fc9b745/girls-last-tour/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2356a661daff267e3e68169f2bd5f6760fc9b745/girls-last-tour/banner.jpg",
+      "synopsis": "Civilization is dead, but Chito and Yuuri are still alive. So they hop aboard their beloved Kettenkrad motorbike and aimlessly wander the ruins of the world they once knew. Day after hopeless day, they look for their next meal and fuel for their ride. But as long as the two are together, even an existence as bleak as theirs has a ray or two of sunshine in it, whether they're sucking down their fill of soup or hunting for machine parts to tinker with. For two girls in a world full of nothing, the experiences and feelings the two share give them something to live for…\n\n(Source: Yen Press)",
+      "year": 2017,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Robot",
+        "Future",
+        "Science Fiction",
+        "Adventure",
+        "Slice of Life",
+        "Post Apocalypse"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "406fc161b9c2c2084a83dd837422ed908f35d867",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "girls-last-tour/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "girls-last-tour/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "girls-last-tour/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "girls-last-tour/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "girls-last-tour/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "girls-last-tour/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "girls-last-tour/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "girls-last-tour/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "girls-last-tour/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "girls-last-tour/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "girls-last-tour/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "girls-last-tour/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
