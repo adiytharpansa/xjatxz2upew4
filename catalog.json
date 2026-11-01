@@ -60733,6 +60733,80 @@
           "playlist": "jormungand/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "arifureta-from-commonplace-to-world-s-strongest",
+      "title": "Arifureta: From Commonplace to World's Strongest",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6d16a293da0fd4b43c1319c941db013669298944/arifureta-from-commonplace-to-world-s-strongest/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6d16a293da0fd4b43c1319c941db013669298944/arifureta-from-commonplace-to-world-s-strongest/banner.jpg",
+      "synopsis": "Hajime Nagumo and his high school class are suddenly summoned to a fantastical land as heroes. But while most of his classmates have powerful stats and abilities, Hajime does not. Underappreciated and unprepared, he tumbles into the depths of a monster-infested dungeon where voracity and sacrifice are his only options. To thrive in this savage world, he’ll have no choice but to welcome the abyss.\n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Magic",
+        "Loli",
+        "Fantasy World",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "d9c5691bb479919c2d322c3b9c51c3e10d797ce1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "arifureta-from-commonplace-to-world-s-strongest/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
