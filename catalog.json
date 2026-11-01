@@ -62811,6 +62811,76 @@
           "playlist": "my-bride-is-a-mermaid/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "place-to-place",
+      "title": "Place to Place",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@63aa16c93652a3cc318b2c73293e443733b778f6/place-to-place/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@63aa16c93652a3cc318b2c73293e443733b778f6/place-to-place/banner.jpg",
+      "synopsis": "Tsumiki Miniwa, a small girl who packs a punch, is in love with her best friend, tall and easygoing Io Otonashi. The only problem is that she can't bring herself to come out and say it. And, despite the fact that he can otherwise read her like a book, Io doesn't seem to be able to pick up the obvious clues—even with all of their friends teasing that there's no one better suited for each other.Acchi Kocchi follows Tsumiki and her circle of friends as they go through their day-to-day lives. Between Mayoi the electronics nerd, Sakaki the good-natured prankster, and the nosebleed-prone Hime, Tsumiki's friends will never let her live down her crush. But only time will tell if Tsumiki will gain the courage to finally say how she truly feels.",
+      "year": 2012,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "Super Deformed",
+        "Japan",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "adbcaab643680d56b2fb0b26dfb3230efbbf7c73",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "place-to-place/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "place-to-place/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "place-to-place/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "place-to-place/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "place-to-place/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "place-to-place/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "place-to-place/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "place-to-place/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "place-to-place/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "place-to-place/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "place-to-place/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "place-to-place/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
