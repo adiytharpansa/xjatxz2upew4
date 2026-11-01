@@ -63827,6 +63827,78 @@
           "playlist": "full-metal-panic-fumoffu/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "school-babysitters",
+      "title": "School Babysitters",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1e9f1a0d6c5dd2e80475857cc06cda49a6ff6928/school-babysitters/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1e9f1a0d6c5dd2e80475857cc06cda49a6ff6928/school-babysitters/poster.jpg",
+      "synopsis": "Ryuichi and Kotaro are brothers who lost their parents in an airplane crash. They're taken in by the chairman of Morinomiya Academy, who lost her son and daughter-in-law in the same crash, on one condition: Ryuichi has to babysit the kids at the daycare room in the school! This room was opened to help the school's teachers who had kids to take care of, but it suffers from a lack of staff until Ryuichi becomes the first member of the babysitter club formed to solve that problem.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Shoujo"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "4151b5f0a5272577600da87f45b1b03c93ec91cf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "school-babysitters/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "school-babysitters/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "school-babysitters/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "school-babysitters/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "school-babysitters/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "school-babysitters/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "school-babysitters/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "school-babysitters/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "school-babysitters/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "school-babysitters/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "school-babysitters/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "school-babysitters/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "school-babysitters/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
