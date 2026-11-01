@@ -57452,6 +57452,78 @@
           "playlist": "monster-musume-everyday-life-with-monster-girls/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "orange",
+      "title": "Orange",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7c2027df5a089e455b55f38c5a9cc61f089f8840/orange/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7c2027df5a089e455b55f38c5a9cc61f089f8840/orange/banner.jpg",
+      "synopsis": "One day, Naho Takamiya receives a letter written to herself from ten years in the future. As Naho reads on, the letter recites the exact events of the day, including the transfer of a new student into her class named Kakeru Naruse.\nThe Naho from ten years later repeatedly states that she has many regrets, and she wants to fix these by making sure the Naho from the past can make the right decisions—especially regarding Kakeru. What's more shocking is that she discovers that ten years later, Kakeru will no longer be with them. Future Naho asks her to watch over him closely.\n(Source: Day of the River)",
+      "year": 2016,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "38fa7e1aed9a1aea5ecce8c9fcefab2b935aa642",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "orange/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "orange/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "orange/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "orange/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "orange/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "orange/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "orange/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "orange/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "orange/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "orange/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "orange/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "orange/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "orange/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
