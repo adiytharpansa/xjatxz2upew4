@@ -58448,6 +58448,32 @@
           "playlist": "nodame-cantabile/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-wind-rises",
+      "title": "The Wind Rises",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@581046eb0891a797f0b5f205b70e809ca5866f74/the-wind-rises/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@581046eb0891a797f0b5f205b70e809ca5866f74/the-wind-rises/banner.jpg",
+      "synopsis": "Although Jirou Horikoshi's nearsightedness prevents him from ever becoming a pilot, he leaves his hometown to study aeronautical engineering at Tokyo Imperial University for one simple purpose: to design and build planes just like his hero, Italian aircraft pioneer Giovanni Battista Caproni. His arrival in the capital coincides with the Great Kanto Earthquake of 1923, during which he saves a maid serving the family of a young girl named Naoko Satomi; this disastrous event marks the beginning of over two decades of social unrest and malaise leading up to Japan's eventual surrender in World War II.",
+      "year": 2013,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Asia",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xs4dfmpt2u3u",
+      "pin": "dc8092a54dcb981b9d5c24ab234990be79eed401",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-wind-rises/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
