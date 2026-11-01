@@ -57781,6 +57781,31 @@
           "playlist": "snow-white-with-the-red-hair-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-garden-of-words",
+      "title": "The Garden of Words",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@872b8b3573b52a485774163ccd74ea46c837ea24/the-garden-of-words/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@872b8b3573b52a485774163ccd74ea46c837ea24/the-garden-of-words/banner.jpg",
+      "synopsis": "On a rainy morning in Tokyo, Takao Akizuki, an aspiring shoemaker, decides to skip class to sketch designs in a beautiful garden. This is where he meets Yukari Yukino, a beautiful yet mysterious woman, for the very first time. Offering to make her new shoes, Takao continues to meet with Yukari throughout the rainy season, and without even realizing it, the two are able to alleviate the worries hidden in their hearts just by being with each other. However, their personal struggles have not disappeared completely, and as the end of the rainy season approaches, their relationship will be put to the test.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Angst",
+        "Romance",
+        "Slice of Life",
+        "Coming Of Age",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "bc2105fc0957b71fcfb6572d7c50e98cac132a0d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-garden-of-words/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
