@@ -57900,6 +57900,40 @@
           "playlist": "in-another-world-with-my-smartphone/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-ova",
+      "title": "Attack on Titan OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c24817c4339aba63faf5f66fbac4686d253b9602/attack-on-titan-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c24817c4339aba63faf5f66fbac4686d253b9602/attack-on-titan-ova/banner.jpg",
+      "synopsis": "Bundled with the 12th, 13th, and 14th limited-edition manga volumes.\n\nEpisode 1: An old journal is found by Hange with the help of Levi and Erwin when they conduct the surveillance operation outside the wall. The contents of \"Ilse's Journal\" result in some unexpected actions from Hange.\n\nEpisode 2: Another story of the 104th Trainee Squad.\n\nEpisode 3: Depicts a \"memorable episode before the 104th Training Corps became unified.\"\n\n(Source: MAL, ANN)",
+      "year": 2013,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Fantasy World",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Steampunk"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "b46458d8c07748f2b04cf9db87632c96b20fe21f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan-ova/ep3/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
