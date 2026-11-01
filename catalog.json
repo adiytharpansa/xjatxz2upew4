@@ -60243,6 +60243,60 @@
           "playlist": "the-future-diary-redial/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-rock-shooter",
+      "title": "Black Rock Shooter",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e884818d6a59b820bd2be3b654084b02c91eb7f9/black-rock-shooter/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e884818d6a59b820bd2be3b654084b02c91eb7f9/black-rock-shooter/banner.jpg",
+      "synopsis": "On the first day of junior high school, Mato Kuroi happens to run into Yomi Takanashi, a shy, withdrawn girl whom she immediately takes an interest in. Mato tries her best to make conversation with Yomi, wanting to befriend her. At first, she is avoided, but the ice breaks when Yomi happens to notice a decorative blue bird attached to Mato's phone, which is from the book \"Li'l Birds At Play.\" Discovering they have a common interest, the two form a strong friendship.\nIn an alternate universe, the young girls exist as parallel beings, Mato as Black★Rock Shooter, and Yomi as Dead Master. Somehow, what happens in one world seems to have an effect on the other, and unaware of this fact, the girls unknowingly become entangled by the threads of fate.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "9f1c768f93d5ac0e6d5bd51ea325ae4586e509cf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-rock-shooter/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-rock-shooter/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "black-rock-shooter/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "black-rock-shooter/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "black-rock-shooter/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "black-rock-shooter/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "black-rock-shooter/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "black-rock-shooter/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
