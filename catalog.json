@@ -61799,6 +61799,80 @@
           "playlist": "infinite-stratos-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "campione",
+      "title": "Campione!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06ce9566f3218188ac7fe58cb192152d1efd617e/campione/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06ce9566f3218188ac7fe58cb192152d1efd617e/campione/banner.jpg",
+      "synopsis": "Some people suddenly find religion, but for 16-year-old Kusanagi Godou, it's that REALLY old time religion that's found him! As the result of defeating the God of War in mortal combat, Godou's stuck with the unwanted position of Campione!, or God Slayer, whose duty is to fight Heretical Gods whenever they try to muscle in on the local turf. Not only is this likely to make Godou roadkill on the Highway to Heaven, it's also a job that comes with a lot of other problems. Like how to deal with the fact that his \"enhanced status\" is attracting a bevy of overly-worshippy female followers. After all, they're just there to aid him in his demi-godly duties, right? So why is it that their leader, the demonically manipulative sword-mistress Erica Blandelli, seems to have such a devilish interest in encouraging some VERY unorthodox activities? Get ready for immortal affairs, heavenly harems and lots of dueling deities taking pious in the face as the ultimate smash, bash and thrash of the Titans rocks both Heaven and Earth.\n(Source: Sentai Filmworks) ",
+      "year": 2012,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "86bd1bf03495c470a0c74155752bf34e01ae5acf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "campione/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "campione/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "campione/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "campione/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "campione/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "campione/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "campione/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "campione/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "campione/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "campione/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "campione/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "campione/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "campione/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
