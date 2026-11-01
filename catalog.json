@@ -55577,6 +55577,29 @@
           "playlist": "to-love-ru/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tsukimonogatari",
+      "title": "Tsukimonogatari",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c3bd9eb0bae90e801d1deb1c90b74a0430d6ad4e/tsukimonogatari/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c3bd9eb0bae90e801d1deb1c90b74a0430d6ad4e/tsukimonogatari/banner.jpg",
+      "synopsis": "Koyomi Araragi is studying hard in preparation for his college entrance exams when he begins to notice something very strange: his reflection no longer appears in a mirror, a characteristic of a true vampire. Worried about the state of his body, he enlists the help of the human-like doll Yotsugi Ononoki and her master Yozuru Kagenui, an immortal oddity specialist.\n\nQuickly realizing what is wrong with him, Yozuru gives him two choices: either abstain from using the vampiric abilities he received from Shinobu Oshino, or lose his humanity forever.\n\n(Source: MAL Rewrite)",
+      "year": 2014,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "458302fbbf99b0dcdf8bdca4813341fa88b06927",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tsukimonogatari/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
