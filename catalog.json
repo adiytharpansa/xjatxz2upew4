@@ -58208,6 +58208,132 @@
           "playlist": "baka-test-summon-the-beasts-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rainbow",
+      "title": "Rainbow",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b60e6f153459db1bad0ed25a973ede97c8b2904b/rainbow/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b60e6f153459db1bad0ed25a973ede97c8b2904b/rainbow/banner.jpg",
+      "synopsis": "Japan, 1955: Mario Minakami has just arrived at Shounan Special Reform School along with six other teenagers who have been arrested on serious criminal charges. All assigned to the same cell, they meet older inmate Rokurouta Sakuragi—a former boxer—with whom they establish a close bond. Under his guidance, and with the promise that they will meet again on the outside after serving their sentences, the delinquents begin to view their hopeless situation in a better light.Rainbow: Nisha Rokubou no Shichinin follows the seven cellmates as they struggle together against the brutal suffering and humiliation inflicted upon them by Ishihara, a sadistic guard with a grudge on Rokurouta, and Gisuke Sasaki, a doctor who takes pleasure in violating boys. Facing such hellish conditions, the seven inmates must scrape together all the strength they have to survive until their sentences are up; but even if they do, just what kind of lives are waiting for them on the other side?\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Delinquent",
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "World War II"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "0212baad8f971000717cd72990495392f0458e3b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rainbow/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rainbow/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rainbow/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rainbow/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rainbow/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rainbow/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rainbow/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rainbow/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rainbow/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rainbow/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rainbow/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rainbow/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "rainbow/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "rainbow/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "rainbow/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "rainbow/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "rainbow/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "rainbow/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "rainbow/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "rainbow/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "rainbow/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "rainbow/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "rainbow/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "rainbow/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "rainbow/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "rainbow/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
