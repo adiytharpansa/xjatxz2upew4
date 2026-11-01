@@ -55670,6 +55670,76 @@
           "playlist": "black-lagoon-the-second-barrage/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "daily-lives-of-high-school-boys",
+      "title": "Daily Lives of High School Boys",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e86f7317afcf151568d6a256826d0bcb48e2ead7/daily-lives-of-high-school-boys/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e86f7317afcf151568d6a256826d0bcb48e2ead7/daily-lives-of-high-school-boys/banner.jpg",
+      "synopsis": "Roaming the halls of the all-boys Sanada North High School are three close comrades: the eccentric ringleader with a hyperactive imagination Hidenori, the passionate Yoshitake, and the rational and prudent Tadakuni. Their lives are filled with giant robots, true love, and intense drama... in their colorful imaginations, at least. In reality, they are just an everyday trio of ordinary guys trying to pass the time, but who said everyday life couldn't be interesting? Whether it's an intricate RPG reenactment or an unexpected romantic encounter on the riverbank at sunset, Danshi Koukousei no Nichijou is rife with bizarre yet hilariously relatable situations that are anything but mundane.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Delinquent",
+        "Present",
+        "Slapstick",
+        "Parody",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "08315a5007a33ed920cf5547c1b19a7754b03007",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "daily-lives-of-high-school-boys/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "daily-lives-of-high-school-boys/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "daily-lives-of-high-school-boys/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "daily-lives-of-high-school-boys/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "daily-lives-of-high-school-boys/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "daily-lives-of-high-school-boys/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "daily-lives-of-high-school-boys/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "daily-lives-of-high-school-boys/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "daily-lives-of-high-school-boys/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "daily-lives-of-high-school-boys/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "daily-lives-of-high-school-boys/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "daily-lives-of-high-school-boys/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
