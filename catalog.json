@@ -56517,6 +56517,73 @@
           "playlist": "devilman-crybaby/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gamers",
+      "title": "Gamers!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c5713ec9dfad522190e68ecc2521d4e75f3c23c6/gamers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c5713ec9dfad522190e68ecc2521d4e75f3c23c6/gamers/banner.jpg",
+      "synopsis": "This is a story that revolves around certain students and one hobby. Amano Keita is our lonely protagonist who has a passion for gaming and is friends with Uehara Tasuku, who is secretly a fellow gamer and is someone who believes his life is perfect. We also have Karen Tendou, the club president of the video games club and Chiaki Hoshinomori, who constantly bickers with Keita. This is a story filled with a non-stop sequence of comedy scenes and misunderstandings. Our chaotic romantic comedy now begins!",
+      "year": 2017,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "3bf16651e81460256e00d10e29198e83b9cf2473",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gamers/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gamers/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gamers/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gamers/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gamers/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gamers/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gamers/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gamers/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gamers/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gamers/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gamers/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gamers/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
