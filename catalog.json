@@ -63091,6 +63091,128 @@
           "playlist": "natsume-s-book-of-friends-season-3/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-apocrypha",
+      "title": "Fate/Apocrypha",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5f987fc04afc6fff21a1284d4726ff030f96f564/fate-apocrypha/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5f987fc04afc6fff21a1284d4726ff030f96f564/fate-apocrypha/banner.jpg",
+      "synopsis": "There was once a Holy Grail War waged by seven Mages and Heroic Spirits in a town called Fuyuki. However, a certain Mage took advantage of the chaos of World War II to steal a Holy Grail. Several decades have passed, and the Yggdmillennia family, who took upon the Holy Grail as its symbol, defected from the Mages' Association and declared their independence. Furious, the Association sent a force to deal with the Yggdmillennia, but they were defeated by the summoned Servants. With the Holy Grail War system changed, war with seven versus seven, breaks out. And so, the curtain rises on the epoch-making Great Holy Grail War.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Historical",
+        "Contemporary Fantasy",
+        "Europe",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "25822188397f1fdfda4c1411c5a32a17a46d68aa",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-apocrypha/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-apocrypha/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-apocrypha/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-apocrypha/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-apocrypha/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-apocrypha/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-apocrypha/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-apocrypha/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-apocrypha/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-apocrypha/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fate-apocrypha/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fate-apocrypha/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fate-apocrypha/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "fate-apocrypha/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "fate-apocrypha/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "fate-apocrypha/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "fate-apocrypha/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "fate-apocrypha/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "fate-apocrypha/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "fate-apocrypha/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "fate-apocrypha/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "fate-apocrypha/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "fate-apocrypha/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "fate-apocrypha/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "fate-apocrypha/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
