@@ -67058,6 +67058,48 @@
           "playlist": "naruto-the-movie-ninja-clash-in-the-land-of-snow/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-lagoon-roberta-s-blood-trail",
+      "title": "Black Lagoon: Roberta's Blood Trail",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@528986fdb6aed24c1cfa2c52a5209e17c27c9d31/black-lagoon-roberta-s-blood-trail/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@528986fdb6aed24c1cfa2c52a5209e17c27c9d31/black-lagoon-roberta-s-blood-trail/banner.jpg",
+      "synopsis": "Roberta, the terrorist-turned-maid that made her appearence in the first season of Black Lagoon, returns in this five-episode OVA series—and this time, all bets are off!\nRoberta's benefactor, the patriarch of the Lovelace clan, is murdered during a political rally. The assassin's trail soon leads back to Roanapur—so now she has returned on a mission of vengeance! However, close behind her is the new patriarch, Garcia, as well as Roberta's apprentice (and maid), Fabiola Iglesias. As the body count of Roberta's bloody rampage mounts, forces from within the corrupt island (which includes the Lagoon Company), as well as overseas converge on what threatens to escalate into all-out war!",
+      "year": 2010,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Violence",
+        "Plot Continuity",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "58f1111a8865c32f1a5c9a144f4c42b9a17135ed",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-lagoon-roberta-s-blood-trail/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-lagoon-roberta-s-blood-trail/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "black-lagoon-roberta-s-blood-trail/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "black-lagoon-roberta-s-blood-trail/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "black-lagoon-roberta-s-blood-trail/ep5/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
