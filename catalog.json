@@ -55033,6 +55033,80 @@
           "playlist": "evangelion-2-0-you-can-not-advance/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-stay-night-unlimited-blade-works-2nd-season",
+      "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@057ae37cecb48454e2c1f5c73f5d462bd56c92eb/fate-stay-night-unlimited-blade-works-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@057ae37cecb48454e2c1f5c73f5d462bd56c92eb/fate-stay-night-unlimited-blade-works-2nd-season/banner.jpg",
+      "synopsis": "The Holy Grail war continues to rage on without a dejected Shiro Emiya, who has lost his means to participate and his ability to heal. Meanwhile, Rin Tohsaka has dissolved their partnership and, along with Archer, continues to battle the growing power of Caster who has stolen Saber from Shiro. However, Caster is not the only player in this dangerous game Rin must worry about. Shiro finds himself unable to just sit this one out with all that is at stake, even if it's suicidal for him to continue.\n\n(Source: ANN)",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Super Power",
+        "Contemporary Fantasy",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "871ae527836e9996e0d1537f64b6faedbeb7cdb5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fate-stay-night-unlimited-blade-works-2nd-season/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
