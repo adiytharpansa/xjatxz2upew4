@@ -60363,6 +60363,75 @@
           "playlist": "silver-spoon/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-quintessential-quintuplets-2",
+      "title": "The Quintessential Quintuplets 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f8695ce5597c34db573be40883e213952106e48f/the-quintessential-quintuplets-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f8695ce5597c34db573be40883e213952106e48f/the-quintessential-quintuplets-2/banner.jpg",
+      "synopsis": "Second season of 5-Toubun no Hanayome.",
+      "year": 2021,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "a1a7ce9d97298f9cfb6902f67bc3bfbff4891b65",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-quintessential-quintuplets-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-quintessential-quintuplets-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-quintessential-quintuplets-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-quintessential-quintuplets-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-quintessential-quintuplets-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-quintessential-quintuplets-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-quintessential-quintuplets-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-quintessential-quintuplets-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-quintessential-quintuplets-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-quintessential-quintuplets-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-quintessential-quintuplets-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-quintessential-quintuplets-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
