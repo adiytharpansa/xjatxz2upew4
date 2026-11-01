@@ -67216,6 +67216,32 @@
           "playlist": "noragami-ova/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "konosuba-god-s-blessings-on-these-wonderful-works-of-art",
+      "title": "KONOSUBA -God's Blessings on These Wonderful Works of Art!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d77486ba86f82f080bae1bbb80fc38b7c53aa6b9/konosuba-god-s-blessings-on-these-wonderful-works-of-art/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d77486ba86f82f080bae1bbb80fc38b7c53aa6b9/konosuba-god-s-blessings-on-these-wonderful-works-of-art/banner.jpg",
+      "synopsis": "Bundled with the 12th volume of the light novel.\n\nKazuma meets a novice adventurer called Ran who claims to be Kazuma's fan. A quest is proposed to Kazuma and his party in front of Ran, so he accepts the quest to look good in front of his fan; after some convincing, they all go to fight the metal golem.",
+      "year": 2017,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "4e20fa57ce527d3d750d9ed45e48a4da89ab87df",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "konosuba-god-s-blessings-on-these-wonderful-works-of-art/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
