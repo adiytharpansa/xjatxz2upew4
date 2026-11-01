@@ -58614,6 +58614,73 @@
           "playlist": "outbreak-company/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gabriel-dropout",
+      "title": "Gabriel DropOut",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@540e55538f2700f9ab57d503df4b7a99c181a84d/gabriel-dropout/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@540e55538f2700f9ab57d503df4b7a99c181a84d/gabriel-dropout/poster.jpg",
+      "synopsis": "For centuries, Heaven has required its young angels to live and study among humans in order to become full-fledged angels. This is no different for top-of-her-class Gabriel White Tenma, who believes it is her mission to be a great angel who will bring happiness to mankind. However, Gabriel grows addicted to video games on Earth and eventually becomes a hikikomori. Proclaiming herself a \"Faillen Angel,\" she is apathetic to everything else—much to the annoyance of Vignette April Tsukinose, a demon whom Gabriel befriended in her angelic early days on Earth.\n\nVignette's attempts to revert Gabriel back to her previous self are in vain, as Gabriel shoots down any attempt to change her precious lifestyle. As they spend their time on Earth, they meet two eccentric personalities: the angel Raphiel Ainsworth Shiraha, Gabriel's classmate with a penchant for sadism, and the demon Satanichia McDowell Kurumizawa, a clumsy self-proclaimed future ruler of the Underworld.\n\nGabriel DropOut follows these four friends' comedic lives as they utterly fail to understand what it truly means to be a demon or an angel.\n\n(Source: MAL Rewrite)",
+      "year": 2017,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "0b7a0557cad52b050d239cc04a8e692ebc14139b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gabriel-dropout/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gabriel-dropout/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gabriel-dropout/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gabriel-dropout/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gabriel-dropout/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gabriel-dropout/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gabriel-dropout/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gabriel-dropout/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gabriel-dropout/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gabriel-dropout/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gabriel-dropout/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gabriel-dropout/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
