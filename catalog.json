@@ -56455,6 +56455,68 @@
           "playlist": "angels-of-death/ep16/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "devilman-crybaby",
+      "title": "Devilman: Crybaby",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@64b05932d9a06f8a20709a736b3189ef3a06d959/devilman-crybaby/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@64b05932d9a06f8a20709a736b3189ef3a06d959/devilman-crybaby/banner.jpg",
+      "synopsis": "Akira Fudo is informed by his best friend Ryou Asuka that the demons will revive and reclaim the world from the humans. As the humans do not stand a chance against the supernatural power of the demons, Ryou suggests fusing with a demon. Akira becomes Devilman, with the power of a demon and the heart of a human.\n\n(Source: MAL News)",
+      "year": 2018,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Violence",
+        "Action",
+        "Horror",
+        "Drama",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "d4b2ab33293b0a8d98e517c061ec9acb6b0edeb7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "devilman-crybaby/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "devilman-crybaby/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "devilman-crybaby/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "devilman-crybaby/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "devilman-crybaby/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "devilman-crybaby/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "devilman-crybaby/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "devilman-crybaby/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "devilman-crybaby/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "devilman-crybaby/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
