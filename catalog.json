@@ -67100,6 +67100,42 @@
           "playlist": "black-lagoon-roberta-s-blood-trail/ep5/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "darker-than-black-kuro-no-keiyakusha-gaiden",
+      "title": "Darker than Black: Kuro no Keiyakusha Gaiden",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@63ec2e373a3461824d7c5f3f081f08537aba9693/darker-than-black-kuro-no-keiyakusha-gaiden/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@63ec2e373a3461824d7c5f3f081f08537aba9693/darker-than-black-kuro-no-keiyakusha-gaiden/banner.jpg",
+      "synopsis": "Tells the story of what happened to Yin and Hei between the first and second series.",
+      "year": 2010,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "901ebdc58a83f81c2bfe808b780215e7a5e0bd4c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "darker-than-black-kuro-no-keiyakusha-gaiden/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "darker-than-black-kuro-no-keiyakusha-gaiden/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "darker-than-black-kuro-no-keiyakusha-gaiden/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "darker-than-black-kuro-no-keiyakusha-gaiden/ep4/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
