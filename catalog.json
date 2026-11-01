@@ -61363,6 +61363,32 @@
           "playlist": "the-familiar-of-zero-f/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "anohana-the-flower-we-saw-that-day-the-movie",
+      "title": "anohana: The Flower We Saw That Day The Movie",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6f2f898be4f246eaa89b5d712eb81721f728f828/anohana-the-flower-we-saw-that-day-the-movie/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6f2f898be4f246eaa89b5d712eb81721f728f828/anohana-the-flower-we-saw-that-day-the-movie/banner.jpg",
+      "synopsis": "The TV series is retold through the different main characters' points of view with new additional material from their childhood, during the original series, and one year after the conclusion of the series.",
+      "year": 2013,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Ghost",
+        "Present",
+        "Earth",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Unrequited Love"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "066d45baadb5875c327040a6f5f3d3992503dc27",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "anohana-the-flower-we-saw-that-day-the-movie/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
