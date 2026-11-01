@@ -57328,6 +57328,60 @@
           "playlist": "full-metal-panic/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hunter-x-hunter-ova",
+      "title": "Hunter x Hunter OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8e7e9d725e1074d0d5515535d6ecf396b5e0747d/hunter-x-hunter-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8e7e9d725e1074d0d5515535d6ecf396b5e0747d/hunter-x-hunter-ova/banner.jpg",
+      "synopsis": "After reuniting with Gon and his friends, Kurapika explained to them the risks he bears because of his abilities. Believing that his target of revenge is no longer alive and the search for his fallen comrade's eyes could truly begin, Kurapika soon after receives a message informing him that all the Spiders still lived. After much discussion between his friends, Gon, Kurapika and company decided to hunt after the one Spider member who's ability could ultimately result in Kurapika's defeat and death. Based on the manga by Togashi Yoshihiro.",
+      "year": 2002,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Earth",
+        "Alternative Present",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "752596928376abad6efee7092f2d1b2e4c350bc9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hunter-x-hunter-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hunter-x-hunter-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hunter-x-hunter-ova/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hunter-x-hunter-ova/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hunter-x-hunter-ova/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hunter-x-hunter-ova/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hunter-x-hunter-ova/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hunter-x-hunter-ova/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
