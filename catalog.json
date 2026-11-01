@@ -57528,6 +57528,80 @@
           "playlist": "orange/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "paranoia-agent",
+      "title": "Paranoia Agent",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d37ba1e5b15361ad57171ba5f955a3367a6cc593/paranoia-agent/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d37ba1e5b15361ad57171ba5f955a3367a6cc593/paranoia-agent/banner.jpg",
+      "synopsis": "The infamous Shounen Bat (Lil' Slugger) is terrorizing the residents of Musashino City. Flying around on his rollerblades and beating people down with a golden baseball bat, the assailant seems impossible to catch—much less understand. His first victim, the well-known yet timid character designer Tsukiko Sagi, is suspected of orchestrating the attacks. Believed only by her anthropomorphic pink stuffed animal, Maromi, Tsukiko is just one of Shounen Bat's many victims.\nAs Shounen Bat continues his relentless assault on the town, detectives Keiichi Ikari and Mitsuhiro Maniwa begin to investigate the identity of the attacker. However, more and more people fall victim to the notorious golden bat, and news of the assailant begins circulating around the town. Paranoia starts to set in as chilling rumors spread amongst adults and children alike.\nWill the two detectives be able to unravel the truth behind Shounen Bat, or will the paranoia get to them first?\n[Written by MAL Rewrite]",
+      "year": 2004,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Asia",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "6866bc56b2c2f8fa593209361172396eee94d586",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "paranoia-agent/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "paranoia-agent/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "paranoia-agent/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "paranoia-agent/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "paranoia-agent/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "paranoia-agent/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "paranoia-agent/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "paranoia-agent/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "paranoia-agent/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "paranoia-agent/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "paranoia-agent/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "paranoia-agent/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "paranoia-agent/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
