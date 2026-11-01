@@ -65472,6 +65472,30 @@
           "playlist": "road-to-ninja-naruto-the-movie/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "clannad-after-story-another-world",
+      "title": "Clannad ~After Story~: Another World",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a787a8a1db0130b1f5b185f81d5d29553932ea78/clannad-after-story-another-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a787a8a1db0130b1f5b185f81d5d29553932ea78/clannad-after-story-another-world/banner.jpg",
+      "synopsis": "Included in the 8th and final DVD of Clannad ~After Story~ is an extra episode set in an alternate universe. Here, Fujibayashi Kyou is the main heroine in place of Furukawa Nagisa.\nLove can be wonderfully exciting, but also extremely painful. Fujibayashi Ryou, Kyou's sister, is in love with Okazaki Tomoya, the male protagonist. With the help of Kyou, Ryou manages to sum up the courage to ask him out and now Tomoya and Ryou are a couple. However, as things progress, Kyou begins to acknowledge her feelings for Tomoya, and a love-triangle is formed.\nAs everything is revealed, the sisters learn the pains of love and try to decide between the two loves of their life: Tomoya, or each other.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "School Life",
+        "Drama",
+        "Family"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "4413c37e2f51a76e22b75da29f1ee705365c938a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "clannad-after-story-another-world/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
