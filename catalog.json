@@ -60593,6 +60593,76 @@
           "playlist": "the-garden-of-sinners-chapter-5-paradox-paradigm/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blood-c",
+      "title": "BLOOD-C",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f0c8b0d1f0c246397c709e8ed81945b96a8425e5/blood-c/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f0c8b0d1f0c246397c709e8ed81945b96a8425e5/blood-c/banner.jpg",
+      "synopsis": "Peaceful schoolgirl by day, fearsome monster slayer by night, Saya Kisaragi is leading a split life. Equipped with a ceremonial sword given to her by her father for sacred tasks, she vanquishes every monster who dares threaten her quiet little village. But all too soon, Saya's reality and everything she believes to be true is tested, when she overhears the monsters speak of a broken covenant—something she knows nothing about. And then, unexpectedly, a strange dog appears; it asks her to whom she promised to protect the village, curious as to what would happen if she were to break that promise. Tormented by unexplainable visions and her world unraveling around her, we travel with Saya through her struggle to find a way to the truth in a village where nothing is as it seems.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Swordplay",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "92e3369bb9c2311a907f41e913e0c04bd227a939",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blood-c/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blood-c/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blood-c/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blood-c/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blood-c/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blood-c/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blood-c/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blood-c/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blood-c/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blood-c/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blood-c/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blood-c/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
