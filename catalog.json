@@ -65037,6 +65037,76 @@
           "playlist": "tonikawa-over-the-moon-for-you/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-asterisk-war-the-academy-city-on-the-water-2",
+      "title": "The Asterisk War: The Academy City on the Water",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b47648245f248e2b83550507775e22693226a467/the-asterisk-war-the-academy-city-on-the-water-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b47648245f248e2b83550507775e22693226a467/the-asterisk-war-the-academy-city-on-the-water-2/banner.jpg",
+      "synopsis": "Second season of Gakusen Toshi Asterisk.",
+      "year": 2016,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Super Power",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "794c851aeea9e5ee723643ded212dc6c19f38513",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-asterisk-war-the-academy-city-on-the-water-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
