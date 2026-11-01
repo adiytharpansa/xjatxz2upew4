@@ -66241,6 +66241,76 @@
           "playlist": "flying-witch/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "okami-san-and-her-seven-companions",
+      "title": "Okami-San and Her Seven Companions",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@428fff56a02ede3f25eaeeb01a12b4a1a849f49b/okami-san-and-her-seven-companions/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@428fff56a02ede3f25eaeeb01a12b4a1a849f49b/okami-san-and-her-seven-companions/banner.jpg",
+      "synopsis": "Ookami Ryouko is a spunky and, by some accounts, rather manly high school girl. She is tall, speaks in a traditionally masculine way and is very proficient in fighting. Ookami-san's best friend is the small and high-pitched voiced Akai Ringo. Incidentally, the two are rather flat-chested, a fact the Narrator (voiced by Arai \"Kuroko\" Satomi of Railgun fame) is all too eager to point out.\nOokami and Ringo are members of the Otogi Bank, a club in Otogi High School that assists students with their problems in return for their assistance on a different problem at a later date; thus the Otogi Bank is effectively a loan institute for problems where you can take out a loan for a solved problem but you have to repay it sooner or later.\nThe Otogi Bank is able to solve any problem and will go to any lengths to do so, often leading the members to danger or mayhem. Since most of the members of the club are female, another male is needed for the more dangerous assignments. Thus, the scopophobic (the fear of being looked at) Morino Ryoushi is inducted as a member, right after he confesses his love for Ookami...",
+      "year": 2010,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Delinquent",
+        "Present",
+        "Earth",
+        "Parody",
+        "School Clubs",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "e2e1966941a570ce142796e46ec3e4af859a19ec",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "okami-san-and-her-seven-companions/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "okami-san-and-her-seven-companions/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "okami-san-and-her-seven-companions/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "okami-san-and-her-seven-companions/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "okami-san-and-her-seven-companions/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "okami-san-and-her-seven-companions/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "okami-san-and-her-seven-companions/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "okami-san-and-her-seven-companions/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "okami-san-and-her-seven-companions/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "okami-san-and-her-seven-companions/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "okami-san-and-her-seven-companions/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "okami-san-and-her-seven-companions/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
