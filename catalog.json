@@ -58134,6 +58134,80 @@
           "playlist": "azumanga-daioh-the-animation/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "baka-test-summon-the-beasts-2",
+      "title": "Baka & Test – Summon the Beasts 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@76a8cd648e6455204d455549abdad29f93605cd2/baka-test-summon-the-beasts-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@76a8cd648e6455204d455549abdad29f93605cd2/baka-test-summon-the-beasts-2/banner.jpg",
+      "synopsis": "Goofball Yoshii's still leading his crew in Avatar battles against the brainier students in school, but the girls in Class F have grown way less concerned with improving their status on campus. Instead of moving up in the world, the girls are more interested in getting closer to the guys in the gang!\nOf course, some of the boys are totally oblivious to the romantic intentions of their female friends. That's to be expected in a group of dim-wits and misfits. Nonetheless, the femmes of Class F aren't giving up anytime soon. Because when love is on the line, even the biggest underachievers can find motivation – even if they can't spell it!\n(Source: Rightstuf)",
+      "year": 2011,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Stereotypes"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "e28497d57f59108f5fb1e14d009154cb30de7aad",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "baka-test-summon-the-beasts-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "baka-test-summon-the-beasts-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "baka-test-summon-the-beasts-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "baka-test-summon-the-beasts-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "baka-test-summon-the-beasts-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "baka-test-summon-the-beasts-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "baka-test-summon-the-beasts-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "baka-test-summon-the-beasts-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "baka-test-summon-the-beasts-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "baka-test-summon-the-beasts-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "baka-test-summon-the-beasts-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "baka-test-summon-the-beasts-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "baka-test-summon-the-beasts-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
