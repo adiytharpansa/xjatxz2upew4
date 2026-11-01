@@ -66171,6 +66171,76 @@
           "playlist": "shakugan-no-shana-season-ii/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "flying-witch",
+      "title": "Flying Witch",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d80421963b5b7f8b2c55ab0acd56bc542ba784f/flying-witch/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d80421963b5b7f8b2c55ab0acd56bc542ba784f/flying-witch/banner.jpg",
+      "synopsis": "Aomori, Japan.\nIn a land blessed by nature's bountiful beauty, bizarre things begin to take place. Makoto Kowata, 15 years old, is a professional witch. She left Yokohama with Chito, her black cat, to live in the house of her relatives in Aomori. This is where she begins to train as a witch.\nEven though Makoto's powers are still limited to just flying through the sky, she and her second cousins Kei and Chinatsu surely make the most out of each and every day.\n(Source: NTV)",
+      "year": 2016,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Present",
+        "Earth",
+        "Countryside",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "3f7c463948fdb77d4a164815a594212b1f875375",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "flying-witch/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "flying-witch/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "flying-witch/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "flying-witch/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "flying-witch/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "flying-witch/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "flying-witch/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "flying-witch/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "flying-witch/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "flying-witch/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "flying-witch/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "flying-witch/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
