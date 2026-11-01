@@ -60297,6 +60297,72 @@
           "playlist": "black-rock-shooter/ep8/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "silver-spoon",
+      "title": "Silver Spoon",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0f9548da228325d9fcaa8014bfda9958b6d10972/silver-spoon/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0f9548da228325d9fcaa8014bfda9958b6d10972/silver-spoon/banner.jpg",
+      "synopsis": "Hachiken Yuugo enrolled in Oezo Agricultural High School for the reason that he could live in a dorm there. In some ways he chose Oezo in an effort to escape the highly competitive prep schools he had attended previously, but he was faced with an entirely new set of difficulties at Oezo, surrounded by animals and Mother Nature. After growing up in an average family, he began to encounter clubs and training the likes of which he had never seen before.\n\n(Source: Crunchyroll)",
+      "year": 2013,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "87fbd5c5e87cfb26c9c2be8209bb130ae9e8d7cf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "silver-spoon/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "silver-spoon/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "silver-spoon/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "silver-spoon/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "silver-spoon/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "silver-spoon/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "silver-spoon/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "silver-spoon/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "silver-spoon/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "silver-spoon/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "silver-spoon/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
