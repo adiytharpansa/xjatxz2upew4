@@ -57714,6 +57714,73 @@
           "playlist": "samurai-x-trust-and-betrayal/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "snow-white-with-the-red-hair-2",
+      "title": "Snow White with the Red Hair 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d047a47ec951e7fd69fa22c15ec6f3b1435a1614/snow-white-with-the-red-hair-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d047a47ec951e7fd69fa22c15ec6f3b1435a1614/snow-white-with-the-red-hair-2/banner.jpg",
+      "synopsis": "In the second season of Akagami no Shirayuki-hime, Shirayuki continues her adventures, this time returning to her home country of Tanbarun. What adventures and misfortunes will befall her and her crew? Life is dangerous for those with rare red hair!",
+      "year": 2016,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "6bcecb2d74fc7b4a0d9bf1e82ac2a0ab176701d9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "snow-white-with-the-red-hair-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "snow-white-with-the-red-hair-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "snow-white-with-the-red-hair-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "snow-white-with-the-red-hair-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "snow-white-with-the-red-hair-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "snow-white-with-the-red-hair-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "snow-white-with-the-red-hair-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "snow-white-with-the-red-hair-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "snow-white-with-the-red-hair-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "snow-white-with-the-red-hair-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "snow-white-with-the-red-hair-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "snow-white-with-the-red-hair-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
