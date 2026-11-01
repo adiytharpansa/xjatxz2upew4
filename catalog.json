@@ -65647,6 +65647,76 @@
           "playlist": "chihayafuru-2/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hamatora-the-animation",
+      "title": "Hamatora The Animation",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1ee252623fe0910ed79ce0d225023c4e85f1d76b/hamatora-the-animation/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1ee252623fe0910ed79ce0d225023c4e85f1d76b/hamatora-the-animation/banner.jpg",
+      "synopsis": "The ability to create miracles is not just a supernatural phenomenon; it is a gift which manifests in a limited number of human beings. \"Minimum,\" or small miracles, are special powers that only selected people called \"Minimum Holders\" possess. The detective agency Yokohama Troubleshooting, or Hamatora for short, is composed of the \"Minimum Holder PI Duo,\" Nice and Murasaki. Their office is a lone table at Cafe Nowhere, where the pair and their coworkers await new clients.\nSuddenly, the jobs that they begin to receive seem to have strange connections to the serial killer whom their friend Art, a police officer, is searching for. The murder victims share a single similarity: they are all Minimum Holders. Nice and Murasaki, as holders themselves, are drawn to the case—but what exactly is the link between Nice and the one who orchestrates it all?\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "b4b0556285abf8ba21d307fd5387df316c28bfb9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hamatora-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hamatora-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hamatora-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hamatora-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hamatora-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hamatora-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hamatora-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hamatora-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hamatora-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hamatora-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hamatora-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hamatora-the-animation/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
