@@ -61455,6 +61455,80 @@
           "playlist": "c-control/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haibane-renmei",
+      "title": "Haibane Renmei",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bd47eacc71532ef8986fe5ae35d786cd0011c9d5/haibane-renmei/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bd47eacc71532ef8986fe5ae35d786cd0011c9d5/haibane-renmei/banner.jpg",
+      "synopsis": "All Rakka remembers before emerging from her cocoon is the sensation of falling. Confused, she is welcomed into this new world as one of the Haibane, a group of youth with small gray wings and bright halos. Together, they live in the Old Home on the outskirts of Grie, a quiet town where wingless, halo-less people live.\nThere are many rules governing the world of Haibane Renmei: the most important one being that Haibane cannot go near or touch the massive walls that surround the town. Only beings known as Toga may come and go as they please.\nAlthough her daily life is quiet, there is much Rakka and the other Haibane do not know, or are not allowed to know. Rakka will work through her own doubts and questions as she figures out what she is doing in this world, while working towards the goal of each Haibane: to get beyond the walls on their Day of Flight. But this is not a light task: failure means being branded as one who is Sin-bound.",
+      "year": 2002,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Angel",
+        "Fantasy World",
+        "Countryside",
+        "Alternative Present",
+        "Contemporary Fantasy",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "062f3d3f7e949d051521eb9d54e6bd9f6a89bec3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haibane-renmei/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haibane-renmei/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "haibane-renmei/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "haibane-renmei/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "haibane-renmei/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "haibane-renmei/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "haibane-renmei/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "haibane-renmei/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "haibane-renmei/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "haibane-renmei/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "haibane-renmei/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "haibane-renmei/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "haibane-renmei/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
