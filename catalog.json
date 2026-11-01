@@ -61603,6 +61603,132 @@
           "playlist": "natsume-s-book-of-friends-season-4/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "phantom-requiem-for-the-phantom",
+      "title": "Phantom: Requiem for the Phantom",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@24773b98fd69237034bb5b324008e18fa68b7a17/phantom-requiem-for-the-phantom/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@24773b98fd69237034bb5b324008e18fa68b7a17/phantom-requiem-for-the-phantom/banner.jpg",
+      "synopsis": "Mafia is rife in America where assassinations are a regular occurrence on the streets. Inferno, a mysterious company, is behind most of these dealings through the use of their near-invincible human weapon, \"Phantom.\"\nOne day, a Japanese tourist accidentally witnesses Phantom's latest murder. Desperate to escape, the tourist hides in a secluded building. However, Phantom, revealed to be a young woman named Ein, and the leader of Inferno \"Scythe Master\" captures the tourist and brainwashes him.\nGiven the name \"Zwei,\" this once peaceful tourist is now a puppet of Inferno with no memories. Drawn into a world of lies, deceit, and violence, Zwei must fight to survive, hopefully to one day regain his memories and escape from this world where he is constantly on the brink of death.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Assassin",
+        "Gunfights",
+        "Present",
+        "Violence",
+        "United States",
+        "Mafia"
+      ],
+      "repo": "adiytharpansa/xs4dfmpt2u3u",
+      "pin": "1e8f57ab6a03a05b7b751cca8cd8efd0c17cdf13",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "phantom-requiem-for-the-phantom/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "phantom-requiem-for-the-phantom/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "phantom-requiem-for-the-phantom/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "phantom-requiem-for-the-phantom/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "phantom-requiem-for-the-phantom/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "phantom-requiem-for-the-phantom/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "phantom-requiem-for-the-phantom/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "phantom-requiem-for-the-phantom/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "phantom-requiem-for-the-phantom/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "phantom-requiem-for-the-phantom/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "phantom-requiem-for-the-phantom/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "phantom-requiem-for-the-phantom/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "phantom-requiem-for-the-phantom/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "phantom-requiem-for-the-phantom/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "phantom-requiem-for-the-phantom/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "phantom-requiem-for-the-phantom/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "phantom-requiem-for-the-phantom/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "phantom-requiem-for-the-phantom/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "phantom-requiem-for-the-phantom/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "phantom-requiem-for-the-phantom/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "phantom-requiem-for-the-phantom/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "phantom-requiem-for-the-phantom/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "phantom-requiem-for-the-phantom/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "phantom-requiem-for-the-phantom/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "phantom-requiem-for-the-phantom/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "phantom-requiem-for-the-phantom/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
