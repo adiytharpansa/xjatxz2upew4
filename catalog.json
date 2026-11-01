@@ -64299,6 +64299,75 @@
           "playlist": "my-hero-academia-season-6/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "witch-craft-works",
+      "title": "Witch Craft Works",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1ec21e14bbea629f787e2a089082005539adf785/witch-craft-works/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1ec21e14bbea629f787e2a089082005539adf785/witch-craft-works/banner.jpg",
+      "synopsis": "Honoka Takamiya was perfectly happy with his completely average and normal life. His primary problem in life was the fact that he shared a school with the school's \"Princess,\" Ayaka Kagari. Both girls and boys fawn over her which makes Honoka's life difficult since he rides the same bus as her in the morning and sits next to her in class. What's worse is that if he even idly interacts with her her fan club takes him out back and beats him up!\nOne day while taking out the trash he looks up to see a school building falling on top of him! He is saved at the very last moment by the very same beautiful girl, Ayaka, that he's never even had a full conversation with. She finally speaks to him, revealing that she's been protecting him in secret, but now that someone is attacking him directly she no longer needs to do it covertly.\nIt turns out that Ayaka is a fire witch and there are other witches in the world who want to capture Honoka and use him for the power that he possesses inside of him.",
+      "year": 2014,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Super Power",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "89f77c03bb29d41005c2893bc7cee5556a17b464",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "witch-craft-works/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "witch-craft-works/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "witch-craft-works/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "witch-craft-works/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "witch-craft-works/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "witch-craft-works/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "witch-craft-works/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "witch-craft-works/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "witch-craft-works/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "witch-craft-works/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "witch-craft-works/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "witch-craft-works/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
