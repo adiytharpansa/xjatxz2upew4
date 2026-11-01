@@ -60432,6 +60432,72 @@
           "playlist": "the-quintessential-quintuplets-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-magnitude-8-0",
+      "title": "Tokyo Magnitude 8.0",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@90ae873a58993ad1f478cff7fd04406469051ef7/tokyo-magnitude-8-0/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@90ae873a58993ad1f478cff7fd04406469051ef7/tokyo-magnitude-8-0/banner.jpg",
+      "synopsis": "Middle school student Mirai Onozawa is dissatisfied with her family circumstances and, in a moment of frustration, wishes to tear everything apart. Unfortunately, these destructive thoughts seem to come true in the form of a magnitude 8.0 earthquake just a few moments later.\nWhen summer vacation begins, Mirai reluctantly takes her younger brother Yuuki to Odaiba, where a robot exhibition that he wanted to go to is being held. However, while they are in the exhibition center, the fury of a major earthquake shakes the Kanto region; helpless, both kids witness the devastating power of this natural disaster as it brings the city to its knees.\nIn its aftermath, they stumble upon Mari Kusakabe, a motorcyclist and single mother who decides to help the young siblings. Aiming to return to their homes and reunite with their families, the group sets off on a long and hard journey through the decimated city.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "3110b8789ff56148884471772357cac403bee4ec",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-magnitude-8-0/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-magnitude-8-0/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-magnitude-8-0/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-magnitude-8-0/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-magnitude-8-0/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-magnitude-8-0/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-magnitude-8-0/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-magnitude-8-0/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-magnitude-8-0/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-magnitude-8-0/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-magnitude-8-0/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
