@@ -55007,6 +55007,32 @@
           "playlist": "durarara-x2-ketsu/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "evangelion-2-0-you-can-not-advance",
+      "title": "Evangelion: 2.0 You Can (Not) Advance",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3bb71543e05fbfc30e0a4bf92db254789d8ed34e/evangelion-2-0-you-can-not-advance/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3bb71543e05fbfc30e0a4bf92db254789d8ed34e/evangelion-2-0-you-can-not-advance/banner.jpg",
+      "synopsis": "When the threat of the Angel menace escalates, mankind's defense force is pushed to its limits, with Nerv at the forefront of the struggle. Shinji Ikari and his partner Rei Ayanami are assisted by two new pilots: the fiery Asuka Langley Shikinami and the mysterious Mari Illustrious Makinami.\n\nWith the aid of their mechanized Evangelion units, equipped with weapons perfect for engaging their monstrous opponents, the four young souls fight desperately to protect their loved ones and prevent an impending apocalypse. But when startling secrets are brought to light, will the heroes' greatest challenge prove to be the monsters...or humanity itself?\n\n(Source: MAL Rewrite)",
+      "year": 2009,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "107f7a0affb200d044c007f1c3c2d666bd12dcef",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "evangelion-2-0-you-can-not-advance/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
