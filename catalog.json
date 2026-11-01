@@ -65376,6 +65376,76 @@
           "playlist": "puella-magi-madoka-magica-the-movie-part-2-eternal/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ch-os-head",
+      "title": "ChäoS;HEAd",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d850cd96af329b7fe86bef236b18bcf80f0fb85d/ch-os-head/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d850cd96af329b7fe86bef236b18bcf80f0fb85d/ch-os-head/banner.jpg",
+      "synopsis": "Shibuya, Japan, 2008. Takumi Nishijou, a high school student at the Private Suimei Academy, one day hears about the 'New Gen' murders that have been occurring around the city. Although dismissing the subject because it doesn't involve him, Takumi begins to experience strange mishaps around him, from a horrific picture he received while on his PC, to a mysterious Pink-Haired girl standing at a murder scene.\nFrom there on Takumi struggles to cope with the events unfolding around him, and is soon unaware of what is real or a delusion. As his fate opens up before him, the perpetrator behind the 'New Gen' events attempts to find him, leading him into a world where nothing is as it seems.",
+      "year": 2008,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Action",
+        "Angst"
+      ],
+      "repo": "adiytharpansa/xs4dfmpt2u3u",
+      "pin": "8cfbbf19b277622c3e1a91cd850c62aada9b5815",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ch-os-head/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ch-os-head/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ch-os-head/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ch-os-head/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ch-os-head/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ch-os-head/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ch-os-head/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ch-os-head/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ch-os-head/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ch-os-head/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ch-os-head/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ch-os-head/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
