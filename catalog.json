@@ -61389,6 +61389,72 @@
           "playlist": "anohana-the-flower-we-saw-that-day-the-movie/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "c-control",
+      "title": "C - Control",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e19977f7e0b4c787a83a7b6ecd47c95048074f91/c-control/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e19977f7e0b4c787a83a7b6ecd47c95048074f91/c-control/banner.jpg",
+      "synopsis": "Description: Kimimaro works two jobs to make ends meet. He could go from pauper to prince in a parallel world called the Financial District—if he’ll invest his future as collateral in a dangerous game. Winning gets you more wealth, but losing could erase you from existence. When the destructive forces at play compel Kimimaro to confront the most powerful player, can he save the real world from total collapse?",
+      "year": 2011,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Future",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "a5171bd2e2563871c79dc53c2fc699ddb6377be7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "c-control/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "c-control/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "c-control/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "c-control/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "c-control/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "c-control/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "c-control/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "c-control/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "c-control/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "c-control/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "c-control/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
