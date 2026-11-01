@@ -62195,6 +62195,244 @@
           "playlist": "little-busters/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "digimon-digital-monsters",
+      "title": "Digimon: Digital Monsters",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8b0649a6b86299cc112127869e4998e2a2848586/digimon-digital-monsters/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8b0649a6b86299cc112127869e4998e2a2848586/digimon-digital-monsters/banner.jpg",
+      "synopsis": "When a group of kids head out for summer camp, they don't expect it to snow in the middle of July. Out of nowhere, the kids receive strange devices which transport them to a very different world to begin their Digimon Adventure! Led by the plucky Taichi Yagami, the seven children must now survive in a realm far from home, filled with monsters and devoid of other humans.\nLuckily, they're not alone: each child is paired off with a companion digital monster called a Digimon. Together, the children and their new friends must overcome their insecurities, discover their inner strengths, and evolve into stronger fighters - literally.\nA force of evil is spreading through the Digital World, corrupting all the Digimon. The DigiDestined have arrived and it’s up to them to save the Digital World, if they ever want to see their home world again.",
+      "year": 1999,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Fantasy World",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Parallel Universe"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "9239ff3b7680057d3306aa704917b62eac6537d8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "digimon-digital-monsters/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "digimon-digital-monsters/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "digimon-digital-monsters/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "digimon-digital-monsters/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "digimon-digital-monsters/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "digimon-digital-monsters/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "digimon-digital-monsters/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "digimon-digital-monsters/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "digimon-digital-monsters/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "digimon-digital-monsters/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "digimon-digital-monsters/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "digimon-digital-monsters/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "digimon-digital-monsters/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "digimon-digital-monsters/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "digimon-digital-monsters/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "digimon-digital-monsters/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "digimon-digital-monsters/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "digimon-digital-monsters/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "digimon-digital-monsters/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "digimon-digital-monsters/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "digimon-digital-monsters/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "digimon-digital-monsters/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "digimon-digital-monsters/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "digimon-digital-monsters/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "digimon-digital-monsters/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "digimon-digital-monsters/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "digimon-digital-monsters/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "digimon-digital-monsters/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "digimon-digital-monsters/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "digimon-digital-monsters/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "digimon-digital-monsters/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "digimon-digital-monsters/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "digimon-digital-monsters/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "digimon-digital-monsters/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "digimon-digital-monsters/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "digimon-digital-monsters/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "digimon-digital-monsters/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "digimon-digital-monsters/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "digimon-digital-monsters/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "digimon-digital-monsters/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "digimon-digital-monsters/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "digimon-digital-monsters/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "digimon-digital-monsters/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "digimon-digital-monsters/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "digimon-digital-monsters/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "digimon-digital-monsters/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "digimon-digital-monsters/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "digimon-digital-monsters/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "digimon-digital-monsters/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "digimon-digital-monsters/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "digimon-digital-monsters/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "digimon-digital-monsters/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "digimon-digital-monsters/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "digimon-digital-monsters/ep54/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
