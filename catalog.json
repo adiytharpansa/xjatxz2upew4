@@ -65913,6 +65913,76 @@
           "playlist": "wolf-s-rain/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "freezing",
+      "title": "Freezing",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@78b6ecb661919d8a93ac6e86afb385da1e64b7a2/freezing/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@78b6ecb661919d8a93ac6e86afb385da1e64b7a2/freezing/banner.jpg",
+      "synopsis": "Decades into the future, humanity is under siege by an alien race known as the Novas. These inhuman beings leave devastation in their wake whenever they appear, with the efforts to stave them off becoming known as Nova Clashes. Young women known as \"Pandoras\" and young men known as \"Limiters\" are implanted with stigmata to give them superhuman powers and are trained in military academies, where they must learn to work together if humanity is to have a chance of surviving.\n\nFreezing tells the story of Kazuya Aoi as he sets out for his first day at the West Genetics military academy, right when a battle royale is being undertaken by the Pandoras. It is here that he mistakes Satellizer el Bridget—a powerful Pandora known as the \"Untouchable Queen\"—as his deceased sister and embraces her. Though he costs her the match, she finds that his touch doesn't drive her away and decides to take him as her Limiter. The only question is whether or not their partnership can survive the machinations of their upperclassmen and the impending battle with the Novas…",
+      "year": 2011,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Martial Arts",
+        "Super Power",
+        "Future",
+        "Earth",
+        "Human Enhancement"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "b629c7a3327538f5f58cab9a3071666b4e3debd3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "freezing/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "freezing/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "freezing/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "freezing/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "freezing/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "freezing/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "freezing/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "freezing/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "freezing/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "freezing/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "freezing/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "freezing/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
