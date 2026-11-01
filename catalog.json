@@ -65325,6 +65325,32 @@
           "playlist": "air-gear/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatar",
+      "title": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b9cdf2abe0c478afc2ae8183c4dd4f57172156a5/one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatar/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b9cdf2abe0c478afc2ae8183c4dd4f57172156a5/one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatar/banner.jpg",
+      "synopsis": "The story arcs aboard the Straw Hat Crew's first ship Going Merry (Merry Go in some adaptations) are recreated with brand-new animation, from Luffy and Usopp's fight and Robin's disappearance to the crew's final farewell to the ship. Going Merry is treated as another member of the Straw Hats as Luffy, Zoro, Nami, and the rest of the crew set sail for the legendary treasure, the One Piece.\n(Source: ANN)",
+      "year": 2013,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Pirate",
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "87b7714e4d50382137a97dfe70efb380a98aa2df",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatar/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
