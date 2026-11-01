@@ -67267,6 +67267,76 @@
           "playlist": "the-garden-of-sinners-chapter-3-remaining-sense-of-pain/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "undefeated-bahamut-chronicle",
+      "title": "Undefeated Bahamut Chronicle",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@47cfcf3aa4b8d471ce4fe33c1dabc788cc786815/undefeated-bahamut-chronicle/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@47cfcf3aa4b8d471ce4fe33c1dabc788cc786815/undefeated-bahamut-chronicle/banner.jpg",
+      "synopsis": "Lux, a former prince of an empire named Arcadia that was overthrown via a rebellion five years earlier, accidentally trespasses in a female dormitory's bathing area, sees the kingdom's new princess Lisesharte naked, incurring her wrath. Lisesharte then challenges Lux to a Drag-Ride duel. Drag-Rides are ancient armored mechanical weapons that have been excavated from ruins all around the world. Lux used to be called the strongest Drag-Knight, but now he's known as the \"undefeated weakest\" Drag-Knight because he will absolutely not attack in battle. After his duel with Lisesharte, Lux ends up attending the female-only academy that trains royals to be Drag-Knights. \n(Source: ANN)",
+      "year": 2016,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "b5c9a5763dce36588e18905683f6b980a0671ccc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "undefeated-bahamut-chronicle/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "undefeated-bahamut-chronicle/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "undefeated-bahamut-chronicle/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "undefeated-bahamut-chronicle/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "undefeated-bahamut-chronicle/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "undefeated-bahamut-chronicle/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "undefeated-bahamut-chronicle/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "undefeated-bahamut-chronicle/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "undefeated-bahamut-chronicle/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "undefeated-bahamut-chronicle/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "undefeated-bahamut-chronicle/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "undefeated-bahamut-chronicle/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
