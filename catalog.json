@@ -68329,6 +68329,284 @@
           "playlist": "wagnaria-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "shaman-king",
+      "title": "Shaman King",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f12148ff7e6c1818bdf17a5393876f3d6cba4bd0/shaman-king/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f12148ff7e6c1818bdf17a5393876f3d6cba4bd0/shaman-king/banner.jpg",
+      "synopsis": "A battle is about to begin in Tokyo: the Shaman Fight, a tournament held every five hundred years where shaman—those who can command spirits—confront each other in combat. The victor of this contest becomes the Shaman King and the only one who is able to contact and control the Great Spirit, allowing them to reshape the world as they please through its immense power.\nDuring a late night walk, Manta Oyamada runs into his classmate, the carefree You Asakura, who invites him to come stargazing with some friends, who, to Manta's horror, turn out to be ghosts from a local cemetery! However, the knowledge that Manta possesses—a rare sixth sense that allows Manta to see these spirits—endears the boy to You. So when You finds out that his new comrade has been beaten up by a local gang, he decides to avenge him with the help of Amidamaru, a samurai ghost whose tomb was broken by the gang leader. \nSoon Manta uncovers more about the world of spirits, including the Shaman Fight, in which his new friend You aims to claim victory.\n[Written by MAL Rewrite]",
+      "year": 2001,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Magic",
+        "Swordplay",
+        "Super Power",
+        "Present",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "622d1454d9ab4d9b9c70c8b0cf67ed6c72381e2b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "shaman-king/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "shaman-king/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "shaman-king/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "shaman-king/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "shaman-king/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "shaman-king/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "shaman-king/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "shaman-king/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "shaman-king/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "shaman-king/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "shaman-king/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "shaman-king/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "shaman-king/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "shaman-king/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "shaman-king/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "shaman-king/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "shaman-king/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "shaman-king/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "shaman-king/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "shaman-king/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "shaman-king/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "shaman-king/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "shaman-king/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "shaman-king/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "shaman-king/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "shaman-king/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "shaman-king/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "shaman-king/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "shaman-king/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "shaman-king/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "shaman-king/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "shaman-king/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "shaman-king/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "shaman-king/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "shaman-king/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "shaman-king/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "shaman-king/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "shaman-king/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "shaman-king/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "shaman-king/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "shaman-king/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "shaman-king/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "shaman-king/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "shaman-king/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "shaman-king/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "shaman-king/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "shaman-king/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "shaman-king/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "shaman-king/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "shaman-king/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "shaman-king/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "shaman-king/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "shaman-king/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "shaman-king/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "shaman-king/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "shaman-king/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "shaman-king/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "shaman-king/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "shaman-king/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "shaman-king/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "shaman-king/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "shaman-king/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "shaman-king/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "shaman-king/ep64/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
