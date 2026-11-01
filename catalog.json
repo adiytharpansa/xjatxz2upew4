@@ -56772,6 +56772,71 @@
           "playlist": "high-school-dxd-hero/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "inuyashiki-last-hero",
+      "title": "Inuyashiki: Last Hero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f50f726aedd6c6e122a4b656770ac4c0e70a88b/inuyashiki-last-hero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f50f726aedd6c6e122a4b656770ac4c0e70a88b/inuyashiki-last-hero/banner.jpg",
+      "synopsis": "Inuyashiki Ichirou is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he's constantly ignored and disrespected by his family despite all that he's done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn't get any worse, a blinding light in the night sky strikes the earth where Ichirou stands. He later wakes up to find himself unscathed, but he soon starts to notice that there's something... different about himself. However, it turns out that these strange, new changes are just what Ichirou needs to take a new lease on life and now it seems like there's nothing to stop him from being a hero worthy of the respect that he never had before... unless, that is, there was someone else out there with these same changes...\n\n(Source: Kodansha Comics)",
+      "year": 2017,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Action",
+        "Science Fiction",
+        "Drama",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "90b9b1f9b87c8326acaefe482569b3e66e15bc36",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "inuyashiki-last-hero/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "inuyashiki-last-hero/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "inuyashiki-last-hero/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "inuyashiki-last-hero/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "inuyashiki-last-hero/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "inuyashiki-last-hero/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "inuyashiki-last-hero/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "inuyashiki-last-hero/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "inuyashiki-last-hero/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "inuyashiki-last-hero/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "inuyashiki-last-hero/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
