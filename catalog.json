@@ -68607,6 +68607,74 @@
           "playlist": "shaman-king/ep64/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "diabolik-lovers",
+      "title": "Diabolik Lovers",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8e2bd25c4e85653707d1947a0142d347b1eb21af/diabolik-lovers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8e2bd25c4e85653707d1947a0142d347b1eb21af/diabolik-lovers/banner.jpg",
+      "synopsis": "At the behest of her father, Yui Komori goes to live in a secluded mansion, home to the six Sakamaki brothers—Shuu, Reiji, Ayato, Kanato, Laito, and Subaru—a family of vampires. Though at first the siblings are confused as to why the girl has arrived, they soon realize that she is to be their new \"sacrificial bride,\" not to mention their other, more carnal intentions for her. After meeting the brothers, Yui quickly begins to question why her father would have sent her here and why she feels a strange, new pain in her chest. With each brother more sadistic than the last, Yui's life as a captive takes a harrowing turn in her new home. As her days turn into endless nights, and each brother vows to make her his own, Yui falls deeper and deeper into madness and ecstasy.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 5.2,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Bishounen",
+        "Harem",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "c9463b810627353db00e696ef4fca0621b887a84",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "diabolik-lovers/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "diabolik-lovers/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "diabolik-lovers/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "diabolik-lovers/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "diabolik-lovers/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "diabolik-lovers/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "diabolik-lovers/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "diabolik-lovers/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "diabolik-lovers/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "diabolik-lovers/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "diabolik-lovers/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "diabolik-lovers/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
