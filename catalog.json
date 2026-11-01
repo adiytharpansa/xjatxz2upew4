@@ -56907,6 +56907,28 @@
           "playlist": "katanagatari/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ponyo",
+      "title": "Ponyo",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ae395f243ceb793836d1a9b6420e8e2be6016d8/ponyo/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ae395f243ceb793836d1a9b6420e8e2be6016d8/ponyo/banner.jpg",
+      "synopsis": "A lonely little boy named Sousuke lives with his mother by the sea, flashing messages across the water to his father's boat. One day, amid the detritus brought in with the tide, he stumbles upon a little goldfish. Delighted by this strange new friend, he takes her home and names her Ponyo. Sousuke comes to learn, however, that Ponyo is no ordinary fish. A visit from a strange man brings with it fantastical happenings that lead Sousuke and Ponyo on an enlightening adventure. \nIn Gake no Ue no Ponyo, magic and reality clash around Ponyo and Sousuke, testing their resolve. Despite the trials they face, Ponyo and Sousuke form a strong friendship. They meet many interesting characters, and learn just as many lessons from them.",
+      "year": 2008,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "f55377688e62d18f9e2a95123d33a4a08a369448",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ponyo/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
