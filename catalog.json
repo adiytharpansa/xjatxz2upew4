@@ -66573,6 +66573,124 @@
           "playlist": "xxxholic/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kanon-2006",
+      "title": "Kanon (2006)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e6aacdbb526149fb8ba5459f1e29f335ae131752/kanon-2006/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e6aacdbb526149fb8ba5459f1e29f335ae131752/kanon-2006/banner.jpg",
+      "synopsis": "As a young child, Aizawa Yuuichi had often visited his cousin in the city; however, something drastic happened to keep him away for seven long years. Now, Yuuichi returns, his memories of those days are simply gone.\nSettling into the wintry town, Yuuichi comes across several young girls, all of whom are connected to his past. As he befriends them and continues to interact with them, the long forgotten memories from his childhood begin to resurface...\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Stereotypes"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "17a3d0d5d022d63e72dbceadb82dd81088eec7be",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kanon-2006/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kanon-2006/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kanon-2006/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kanon-2006/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kanon-2006/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kanon-2006/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kanon-2006/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kanon-2006/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kanon-2006/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kanon-2006/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kanon-2006/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kanon-2006/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kanon-2006/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "kanon-2006/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "kanon-2006/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "kanon-2006/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "kanon-2006/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "kanon-2006/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "kanon-2006/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "kanon-2006/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "kanon-2006/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "kanon-2006/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "kanon-2006/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "kanon-2006/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
