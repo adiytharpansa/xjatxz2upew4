@@ -77961,6 +77961,124 @@
           "playlist": "nabari-no-ou/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kobato",
+      "title": "Kobato.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b1d4616a55d7614cb678d94bb7fef7aabc9f8ee/kobato/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b1d4616a55d7614cb678d94bb7fef7aabc9f8ee/kobato/banner.jpg",
+      "synopsis": "Sweet and naïve Hanato Kobato came to Earth on a mission to collect and fill a bottle with \"konpeito,\" which appear after healing a person's heart that is suffering. Kobato collects these because it is her wish to go to a certain place. Despite her strangeness, Kobato turns out to be well-suited for this mission as her heartfelt sincerity in helping others earns her the love and admiration of everyone she meets. However, she is not allowed to fall in love with anyone whose heart she heals.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "11874dc811fc10985fc8d897967bcad5e90f3bb2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kobato/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kobato/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kobato/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kobato/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kobato/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kobato/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kobato/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kobato/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kobato/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kobato/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kobato/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kobato/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kobato/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "kobato/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "kobato/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "kobato/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "kobato/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "kobato/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "kobato/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "kobato/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "kobato/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "kobato/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "kobato/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "kobato/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
