@@ -74595,6 +74595,31 @@
           "playlist": "from-up-on-poppy-hill/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pokemon-the-movie-2000",
+      "title": "Pokemon: The Movie 2000",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@38b82fd028aa9c69bef425f81baf8b52bb521a9c/pokemon-the-movie-2000/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@38b82fd028aa9c69bef425f81baf8b52bb521a9c/pokemon-the-movie-2000/banner.jpg",
+      "synopsis": "A greedy collector, Lawrence III, wants to capture the legendary Pokemon, Lugia. But in order to do so, he must capture the Titans of Fire, Ice, and Lightning. The titans are powerful bird-like Pokemon, and if they are disturbed they will wage a war against eachother which will ultimately result in earth's destruction. Ash, Misty, and Tracey get caught up in the situation when they end up being washed ashore onto Shamouti Island. Soon after, Ash meets a girl named Melody who sends him into a mission where he must collect the 3 Orbs which will quell the fighting, but first Ash must gain help from the Beast of the Sea, Lugia, if he's to suceed. \n(Source: ANN)",
+      "year": 1999,
+      "score": 7.2,
+      "genres": [
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Proxy Battles",
+        "Kids"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "5f08e4253b946c8f4e0af3850175109427f549ab",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pokemon-the-movie-2000/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
