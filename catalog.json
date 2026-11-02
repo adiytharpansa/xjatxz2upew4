@@ -75888,6 +75888,131 @@
           "playlist": "bocchi-the-rock/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gungrave",
+      "title": "Gungrave",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2609c1a16e496cdd672f22846465ea8e2a24a8fa/gungrave/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2609c1a16e496cdd672f22846465ea8e2a24a8fa/gungrave/banner.jpg",
+      "synopsis": "Brandon Heat and Harry MacDowel, two friends so close they could be called brothers, receive an abrupt and violent reminder one fateful day of how appallingly merciless the world around them can be. Their whole lives before then were simple and easygoing, consisting largely of local brawls, seducing women, and committing petty theft to make a living and pass the time. What they failed to realize is that in this cruel world, happiness is fleeting, and change is inevitable.\nEnter Millennion, the largest and most infamous mafia syndicate in the area, which accepts Brandon and Harry into their ranks and starts them at the bottom of the food chain. Harry has ambitions to ascend the ranks and one day replace Big Daddy as the supreme leader of Millennion, while Brandon only wishes to support his friend and appease Big Daddy who has taken custody of the woman Brandon loves.\nBased off the third-person shooter video game under the same name, Gungrave is an epic story of friendship, betrayal, and avarice that spans the course of several years, ultimately tying back to the gripping and foreboding first episode, all the while building up to the story's thrilling conclusion.\n\n[Written by MAL Rewrite]",
+      "year": 2003,
+      "score": 7.8,
+      "genres": [
+        "Gunfights",
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Contemporary Fantasy",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "83fc8f52297fed91da27d5e24edc060db1a4033e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gungrave/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gungrave/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gungrave/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gungrave/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gungrave/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gungrave/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gungrave/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gungrave/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gungrave/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gungrave/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gungrave/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gungrave/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gungrave/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "gungrave/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "gungrave/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "gungrave/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "gungrave/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "gungrave/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "gungrave/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "gungrave/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "gungrave/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "gungrave/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "gungrave/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "gungrave/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "gungrave/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "gungrave/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
