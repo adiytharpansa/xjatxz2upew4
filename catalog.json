@@ -73567,6 +73567,180 @@
           "playlist": "isekai-quartet/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yowamushi-pedal",
+      "title": "Yowamushi Pedal",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7f4526a50503ff6aec6f7cf43751286eb196cbd7/yowamushi-pedal/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7f4526a50503ff6aec6f7cf43751286eb196cbd7/yowamushi-pedal/banner.jpg",
+      "synopsis": "Sakamichi Onoda is a cheerful otaku looking to join his new school's anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycle, a weekly 90-kilometer ride he has been completing since fourth grade.\nThis is when he meets fellow first year student, Shunsuke Imaizumi, a determined cyclist who is using the school's steep incline for practice. Surprised by Onoda's ability to climb the hill with his specific type of bicycle, Imaizumi challenges him to a race, with the proposition of joining the anime club should Onoda win. And thus begins the young boy's first foray into the world of high school bicycle racing!\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Cycling",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "8271ad4ec78b18fac53bd430036acc8175a8ed60",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yowamushi-pedal/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yowamushi-pedal/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yowamushi-pedal/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yowamushi-pedal/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yowamushi-pedal/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yowamushi-pedal/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yowamushi-pedal/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yowamushi-pedal/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yowamushi-pedal/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yowamushi-pedal/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yowamushi-pedal/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yowamushi-pedal/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "yowamushi-pedal/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "yowamushi-pedal/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "yowamushi-pedal/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "yowamushi-pedal/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "yowamushi-pedal/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "yowamushi-pedal/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "yowamushi-pedal/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "yowamushi-pedal/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "yowamushi-pedal/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "yowamushi-pedal/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "yowamushi-pedal/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "yowamushi-pedal/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "yowamushi-pedal/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "yowamushi-pedal/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "yowamushi-pedal/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "yowamushi-pedal/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "yowamushi-pedal/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "yowamushi-pedal/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "yowamushi-pedal/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "yowamushi-pedal/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "yowamushi-pedal/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "yowamushi-pedal/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "yowamushi-pedal/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "yowamushi-pedal/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "yowamushi-pedal/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "yowamushi-pedal/ep38/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
