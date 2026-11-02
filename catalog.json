@@ -76526,6 +76526,127 @@
           "playlist": "kingdom/ep38/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "summer-time-rendering",
+      "title": "Summer Time Rendering",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cb2d733bcbe9bf3ee82635565eb62f701b5f8697/summer-time-rendering/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cb2d733bcbe9bf3ee82635565eb62f701b5f8697/summer-time-rendering/banner.jpg",
+      "synopsis": "A sci-fi, summer story filled with suspense set on a small island with Shinpei Aijiro, whose childhood friend Ushio Kofune died. He returns to his hometown for the first time in two years for the funeral. Sou Hishigata, his best friend, suspects something's off with Ushio's death, and that someone can die next.\n\nA sinister omen is heard as an entire family next door suddenly disappears the following day. Furthermore, Mio implicates a \"shadow\" three days before Ushio's death.\n\n(Source: Disney+)",
+      "year": 2022,
+      "score": 8.3,
+      "genres": [
+        "Island",
+        "Time Travel",
+        "Thriller",
+        "Conspiracy",
+        "Drama",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "e259494f07393defccac68fc9e36b4b5c7a90f48",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "summer-time-rendering/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "summer-time-rendering/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "summer-time-rendering/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "summer-time-rendering/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "summer-time-rendering/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "summer-time-rendering/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "summer-time-rendering/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "summer-time-rendering/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "summer-time-rendering/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "summer-time-rendering/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "summer-time-rendering/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "summer-time-rendering/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "summer-time-rendering/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "summer-time-rendering/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "summer-time-rendering/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "summer-time-rendering/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "summer-time-rendering/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "summer-time-rendering/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "summer-time-rendering/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "summer-time-rendering/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "summer-time-rendering/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "summer-time-rendering/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "summer-time-rendering/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "summer-time-rendering/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "summer-time-rendering/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
