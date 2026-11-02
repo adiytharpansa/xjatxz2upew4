@@ -80494,6 +80494,80 @@
           "playlist": "macross-frontier/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "midori-days",
+      "title": "Midori Days",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f324fc83174354bf0ac80c8fc14e7ebff78bfcec/midori-days/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f324fc83174354bf0ac80c8fc14e7ebff78bfcec/midori-days/banner.jpg",
+      "synopsis": "There isn't a single person in Sakuradamon High who hasn't heard the legends about Seiji \"The Mad Dog\" Sawamura's demonically powerful right hand. His reputation makes it fairly difficult for him to approach girls, and after being rejected 20 times straight, he half-jokingly vows to finish high school with his right hand for a girlfriend.\nMuch to his surprise, after waking up the next morning, Seiji discovers that his demon right hand has mysteriously turned into a miniature girl, Midori Kasugano, who reveals that she has had a crush on Seiji for the past three years. Because their situation is not ideal for either of them, Seiji attempts to return Midori to normal. But after causing a big misunderstanding at the Kasugano household, the pair decide to keep their predicament between them until a solution is found. Thus begins an odd relationship, and what could be the only chance for Midori to finally be with the one she loves.\n[Written by MAL Rewrite]",
+      "year": 2004,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Sudden Girlfriend Appearance"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "1e3ebb1c1f83ae88caa99ad21a92ec046dda3fee",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "midori-days/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "midori-days/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "midori-days/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "midori-days/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "midori-days/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "midori-days/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "midori-days/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "midori-days/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "midori-days/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "midori-days/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "midori-days/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "midori-days/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "midori-days/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
