@@ -68867,6 +68867,39 @@
           "playlist": "the-cat-returns/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "baccano-specials",
+      "title": "Baccano! Specials",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8765fcb6cc32c2472370229b365ca8755dfaddd4/baccano-specials/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8765fcb6cc32c2472370229b365ca8755dfaddd4/baccano-specials/banner.jpg",
+      "synopsis": "Three DVD-only episodes made from the light novels, which flesh out characters and plot events from the original series and establish closure to the story as Carol and the Vice President return to New York.",
+      "year": 2008,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "4c3691b40ed859fad0189d96b349cfbd7dc39a6c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "baccano-specials/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "baccano-specials/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "baccano-specials/ep3/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
