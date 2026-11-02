@@ -72585,6 +72585,76 @@
           "playlist": "fruits-basket-the-final/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "heaven-s-lost-property-forte",
+      "title": "Heaven's Lost Property: Forte",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9bd945870a26d56b9760d48ca52d85d5f52ae9f0/heaven-s-lost-property-forte/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9bd945870a26d56b9760d48ca52d85d5f52ae9f0/heaven-s-lost-property-forte/banner.jpg",
+      "synopsis": "Sakurai Tomoki has settled into his life with the two angeloids, Ikaros and Nymph, and is enjoying himself immensely.  However, he keeps having weird dreams and asks all of his friends to help him investigate the cause.\nNymph conjures up a device that enables people, but not angeloids, to enter other people's dreams.  The device malfunctions at first but eventually they get to what was supposed to be Tomoki's dream but discover that something is very wrong with it.\nLater, a meteor comes crashing down from the skies at the site of the large cherry blossom tree where Tomoki first discovered Ikaros.  An extremely well endowed blonde angeloid with a huge sword emerges from the meteor and sets off in search of Tomoki!",
+      "year": 2010,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Angel",
+        "Present",
+        "Earth",
+        "Countryside",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "3fd163455b8cc6a4cc640e4c3866c203d07b8c67",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "heaven-s-lost-property-forte/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "heaven-s-lost-property-forte/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "heaven-s-lost-property-forte/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "heaven-s-lost-property-forte/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "heaven-s-lost-property-forte/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "heaven-s-lost-property-forte/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "heaven-s-lost-property-forte/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "heaven-s-lost-property-forte/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "heaven-s-lost-property-forte/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "heaven-s-lost-property-forte/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "heaven-s-lost-property-forte/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "heaven-s-lost-property-forte/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
