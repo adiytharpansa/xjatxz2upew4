@@ -77298,6 +77298,72 @@
           "playlist": "deca-dence/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "castle-town-dandelion",
+      "title": "Castle Town Dandelion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6c8f7baa671c1e2885e87522c5211308a23cfd1b/castle-town-dandelion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6c8f7baa671c1e2885e87522c5211308a23cfd1b/castle-town-dandelion/banner.jpg",
+      "synopsis": "The Sakurada siblings live a normal life in a typical Japanese household. Well, that's what their father, the king, wants for them at least. As members of the royal family, each sibling possesses a unique ability, and over two thousand security cameras have been placed around town to make sure the children are safe and sound. Moreover, all nine of them have been designated as a potential successor to the throne with the decision that the next ruler will be selected through an election.\nHowever, for the timid Akane Sakurada, the third eldest daughter who wields the power to manipulate gravity, all of this attention is a complete nightmare. With all the cameras constantly monitoring the candidates and even broadcasting their actions on the Sakurada-dedicated news channel, she decides that if she becomes king, the cameras have got to go. But just how will she convince the public that she is the most suited to rule if she can't even overcome her own shyness?! Election season is in full swing as the search for the next king begins in Joukamachi no Dandelion.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.1,
+      "genres": [
+        "Super Power",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "343e1b29f066eb08d10b9095a4968c50565b8719",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "castle-town-dandelion/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "castle-town-dandelion/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "castle-town-dandelion/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "castle-town-dandelion/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "castle-town-dandelion/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "castle-town-dandelion/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "castle-town-dandelion/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "castle-town-dandelion/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "castle-town-dandelion/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "castle-town-dandelion/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "castle-town-dandelion/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "castle-town-dandelion/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
