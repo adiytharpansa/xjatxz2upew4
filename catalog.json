@@ -70005,6 +70005,132 @@
           "playlist": "the-world-is-still-beautiful/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "initial-d-first-stage",
+      "title": "Initial D First Stage",
+      "poster": "https://media.kitsu.app/anime/poster_images/162/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/162/large.jpg",
+      "synopsis": "Takumi Fujiwara is an aloof, spacey high-schooler who does delivery runs in his dad's Toyota AE86 in the dead of night. Despite working at a gas station and having friends who are car nuts, he doesn't know a single thing about cars.\nTakumi is introduced into the world of street racing and his natural talent draws attention from all across Gunma. Will Takumi face the challenges or back out from the call of the mountain passes?",
+      "year": 1998,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Motorsport",
+        "Street Racing",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "0056cab71f53e275c193b5ce233a3acb85b96c7b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "initial-d-first-stage/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "initial-d-first-stage/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "initial-d-first-stage/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "initial-d-first-stage/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "initial-d-first-stage/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "initial-d-first-stage/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "initial-d-first-stage/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "initial-d-first-stage/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "initial-d-first-stage/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "initial-d-first-stage/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "initial-d-first-stage/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "initial-d-first-stage/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "initial-d-first-stage/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "initial-d-first-stage/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "initial-d-first-stage/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "initial-d-first-stage/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "initial-d-first-stage/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "initial-d-first-stage/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "initial-d-first-stage/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "initial-d-first-stage/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "initial-d-first-stage/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "initial-d-first-stage/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "initial-d-first-stage/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "initial-d-first-stage/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "initial-d-first-stage/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "initial-d-first-stage/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
