@@ -73131,6 +73131,73 @@
           "playlist": "the-garden-of-sinners-chapter-4-the-hollow-shrine/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "just-because",
+      "title": "Just Because!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@95976db76acb860502ce88e8e159b002a1aa1edf/just-because/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@95976db76acb860502ce88e8e159b002a1aa1edf/just-because/banner.jpg",
+      "synopsis": "It is winter of their third year of high school, near the end of second semester, when students have very little time in high school left. Everyone is just waiting for graduation.\n\nUntil he suddenly came home.\n\nHe was their classmate in middle school who had moved far away. He transferred in at a peculiar time, which reunited them. It was as if a go signal rang out to the feelings of the students who had just thought their high school life would end without fanfare.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "c27ad30a2b1c11b7ec32006346de021cf654b868",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "just-because/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "just-because/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "just-because/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "just-because/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "just-because/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "just-because/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "just-because/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "just-because/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "just-because/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "just-because/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "just-because/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "just-because/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
