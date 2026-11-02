@@ -69589,6 +69589,76 @@
           "playlist": "white-album-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "magical-warfare",
+      "title": "Magical Warfare",
+      "poster": "https://media.kitsu.app/anime/poster_images/7879/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/7879/large.jpg",
+      "synopsis": "The world as we know it is actually just half the story, as Takeshi Nanase finds out abruptly one summer morning. On his way to kendo practice, Takeshi comes across an unconscious girl in a uniform he doesn't recognize. Takeshi does the decent thing and saves her, and in return the girl wakes up and accidentally turns him into a magic-user.\nAs Takeshi finds out, there is the world he lives in and the world of magic users. Most magic users just want to peacefully coexist with non-magicians, but there are some with bigger ambitions. Mui Aiba is a magician enrolled in the Subaru Magic Academy, where magic users can learn to control and channel their powers and how to live in peace with regular humans. After his fateful encounter with Mui, Takeshi and his newly magician friends Kurumi Isoshima and Kazumi Ida decide to enroll in the Magic Academy as well.\nAll three friends have different reasons for fighting on, whether they're fighting to escape the past or catch up to the future. They wield different kinds of powers, which they must learn to harness in order to fight off the Ghost Trailers, a group of magicians who are willing to use violence to assert their superiority over humans.\nPursued by the Ghost Trailers, Takeshi and his friends must train to become stronger, face the leader of the Trailers, and prevent the beginning of the Second Great Magic War.",
+      "year": 2014,
+      "score": 5.7,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "f92a98b73217e4e50896f0368ff4672792716ff6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "magical-warfare/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magical-warfare/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magical-warfare/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magical-warfare/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magical-warfare/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magical-warfare/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magical-warfare/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magical-warfare/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magical-warfare/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magical-warfare/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magical-warfare/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magical-warfare/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
