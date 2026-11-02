@@ -74156,6 +74156,80 @@
           "playlist": "strike-witches/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tari-tari",
+      "title": "Tari Tari",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@681e7e493d5a891ebe2c178f925ac626532f023f/tari-tari/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@681e7e493d5a891ebe2c178f925ac626532f023f/tari-tari/banner.jpg",
+      "synopsis": "At Shirahamazaka High School, a special recital is held every year in which music students are able to showcase their talents in front of professionals and other prestigious guests. A third year, Konatsu Miyamoto desperately wants to sing in her last high school recital, but because she screwed up the year before, the vice principal has barred her from participating.\nThat's when Konatsu comes up with a new plan to get involved; instead of joining the official choir, she'll form her own singing club with her friends! Unfortunately this proves to be harder than she imagined. Her friend Wakana Sakai, has given up on singing, for one, and Konatsu needed more than just two members. With only a month left until the recital, will Konatsu be able to find enough members for her club and actually be ready to sing at one of the most important events of the school year and graduate without regrets?",
+      "year": 2012,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "679660e33bf3b7b8ed813d402e6e0117efd3ab31",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tari-tari/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tari-tari/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tari-tari/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tari-tari/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tari-tari/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tari-tari/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tari-tari/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tari-tari/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tari-tari/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tari-tari/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tari-tari/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tari-tari/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tari-tari/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
