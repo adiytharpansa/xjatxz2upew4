@@ -77508,6 +77508,231 @@
           "playlist": "now-and-then-here-and-there/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "digimon-tamers",
+      "title": "Digimon Tamers",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@62c8883495f1f2c691d581dda69a0bc9f596cac4/digimon-tamers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@62c8883495f1f2c691d581dda69a0bc9f596cac4/digimon-tamers/banner.jpg",
+      "synopsis": "Digimon Tamers takes place in a world where the popular Digimon franchise is all the rage, consisting of a cartoon, video games, and the trading card game. Takato Matsuda is a huge Digimon fan that's particularly obsessed with the card game, and constantly daydreams about the universe therein. One day, he finds a mysterious blue card, which he slides through a scanner toy to use in the popular battle game. His toy suddenly glows and transforms into a Digivice, and Takato's fan-made design, Guilmon, materialises in front of him. Thrilled by the prospect of having a real-life Digimon, Takato embraces his new partner, and his adventures as a Digimon Tamer begin.\nTakato quickly discovers that being a Digimon Tamer is not all fun and games—in reality, it's much more dangerous than the card games he's accustomed to. Wild Digimon have begun to appear all across Japan, causing rampages that result in chaos and mayhem. Armed with his Digivice, which can scan trading cards to strengthen Guilmon, Takato and his new partner set out to combat the rogue Digimon. They are tasked with protecting the world from Digimon attacks, whilst a mysterious organization determined to eliminate all Digimon and their Tamers lurks in the shadows... ",
+      "year": 2001,
+      "score": 7.6,
+      "genres": [
+        "Present",
+        "Fantasy World",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Parallel Universe"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "46b562a0cb34d6d2e167c15dc1e8f16d11a8e1d1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "digimon-tamers/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "digimon-tamers/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "digimon-tamers/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "digimon-tamers/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "digimon-tamers/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "digimon-tamers/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "digimon-tamers/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "digimon-tamers/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "digimon-tamers/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "digimon-tamers/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "digimon-tamers/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "digimon-tamers/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "digimon-tamers/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "digimon-tamers/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "digimon-tamers/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "digimon-tamers/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "digimon-tamers/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "digimon-tamers/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "digimon-tamers/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "digimon-tamers/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "digimon-tamers/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "digimon-tamers/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "digimon-tamers/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "digimon-tamers/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "digimon-tamers/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "digimon-tamers/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "digimon-tamers/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "digimon-tamers/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "digimon-tamers/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "digimon-tamers/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "digimon-tamers/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "digimon-tamers/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "digimon-tamers/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "digimon-tamers/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "digimon-tamers/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "digimon-tamers/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "digimon-tamers/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "digimon-tamers/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "digimon-tamers/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "digimon-tamers/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "digimon-tamers/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "digimon-tamers/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "digimon-tamers/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "digimon-tamers/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "digimon-tamers/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "digimon-tamers/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "digimon-tamers/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "digimon-tamers/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "digimon-tamers/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "digimon-tamers/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "digimon-tamers/ep51/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
