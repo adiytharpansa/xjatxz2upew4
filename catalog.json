@@ -70725,6 +70725,32 @@
           "playlist": "love-tyrant/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bungou-stray-dogs-dead-apple",
+      "title": "Bungou Stray Dogs: Dead Apple",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@160fe57fdddfadf86c94cbb680e21dd214f583a0/bungou-stray-dogs-dead-apple/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@160fe57fdddfadf86c94cbb680e21dd214f583a0/bungou-stray-dogs-dead-apple/banner.jpg",
+      "synopsis": "The film's story involves a mystery case of power users around the world suddenly committing suicide one after another, in all cases after a strange fog appears at the scene. At a request from Ango Sakaguchi, the Armed Detective Agency head out to investigate Tatsuhiko Shibusawa, a power user who calls himself \"collector,\" and a man suspected of being tied to the incident.\n\n(Source: Anime News Network)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Historical",
+        "Mafia",
+        "Action",
+        "Crime",
+        "Conspiracy"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "22a0e4e209c6868a77a1b71c080bb5d5cdc42752",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bungou-stray-dogs-dead-apple/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
