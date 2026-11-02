@@ -80029,6 +80029,75 @@
           "playlist": "tokyo-ghoul-pinto/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-rise-invasion",
+      "title": "High-Rise Invasion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@67e6b6c6b7b8da0a03f76c481acf0c4146b91267/high-rise-invasion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@67e6b6c6b7b8da0a03f76c481acf0c4146b91267/high-rise-invasion/banner.jpg",
+      "synopsis": "Based on the manga by Miura Tsuina (Ajin) and Takahiro Oba (Box!), this is an unpredictable and frightening survival story set in high-rise buildings that don’t reach the ground. The protagonist, Yuri, decides to survive in order to destroy this illogical world and kill the enemy wearing the “mask,” but what will she do?\n\n(Souce: Netflix)",
+      "year": 2021,
+      "score": 7.0,
+      "genres": [
+        "Super Power",
+        "Violence",
+        "Action",
+        "Horror",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "88faea24e563440b2e68d197eff6575aa65c0986",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-rise-invasion/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-rise-invasion/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "high-rise-invasion/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "high-rise-invasion/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "high-rise-invasion/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "high-rise-invasion/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "high-rise-invasion/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "high-rise-invasion/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "high-rise-invasion/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "high-rise-invasion/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "high-rise-invasion/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "high-rise-invasion/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
