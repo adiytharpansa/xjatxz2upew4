@@ -78664,6 +78664,131 @@
           "playlist": "arakawa-under-the-bridge-x-bridge/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tenjho-tenge",
+      "title": "Tenjho Tenge",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b725d8f59bd47fec9f4ea50575b0c744cf2ede09/tenjho-tenge/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b725d8f59bd47fec9f4ea50575b0c744cf2ede09/tenjho-tenge/banner.jpg",
+      "synopsis": "For some people, high school represents the opportunity for a fresh start. You can take new classes and make new friends. For Souichiro Nagi and Bob Makihara, though, high school means something different: the chance to become the top fighters in the entire student body! Too bad Toudou Academy is the hardest possible place to realize their dreams. Their new high school is no ordinary academic institution. Rather than concentrating on classic subjects like math and science, Toudou Academy was created for the sole purpose of reviving the martial arts in Japan!\nAs a result, Souichiro's aspirations to become top dog are cut short when he runs afoul of Masataka Takayanagi and Maya Natsume. The two upperclassmen easily stop the freshmen duo's rampage across school, but rather than serving as a deterrent, it only stokes their competitive fire. What kind of monstrous fighters attend Toudou Academy? Are there any stronger than Masataka and Maya? And why in the world is Maya's younger sister stalking Souichiro? Learn the answers to these questions and more in Tenjou Tenge!",
+      "year": 2004,
+      "score": 6.7,
+      "genres": [
+        "High School",
+        "Delinquent",
+        "Martial Arts",
+        "Super Power",
+        "Present",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "1b571471e864fc5db427b0f540c0cb614439ef61",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tenjho-tenge/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tenjho-tenge/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tenjho-tenge/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tenjho-tenge/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tenjho-tenge/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tenjho-tenge/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tenjho-tenge/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tenjho-tenge/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tenjho-tenge/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tenjho-tenge/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tenjho-tenge/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tenjho-tenge/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tenjho-tenge/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "tenjho-tenge/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "tenjho-tenge/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "tenjho-tenge/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "tenjho-tenge/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "tenjho-tenge/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "tenjho-tenge/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "tenjho-tenge/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "tenjho-tenge/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "tenjho-tenge/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "tenjho-tenge/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "tenjho-tenge/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "tenjho-tenge/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "tenjho-tenge/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
