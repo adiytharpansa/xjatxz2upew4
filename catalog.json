@@ -72083,6 +72083,124 @@
           "playlist": "texhnolyze/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "carole-tuesday",
+      "title": "Carole & Tuesday",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7abd4216ed76139813283ce45cba9ba1330a97ed/carole-tuesday/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7abd4216ed76139813283ce45cba9ba1330a97ed/carole-tuesday/banner.jpg",
+      "synopsis": "Fifty years have passed since mankind began migrating to the new frontier: Mars. It's an age where most culture is produced by AI, and people are content to be passive consumers.\n\nThere's a girl. Scrapping a living in the metropolis of Alba City, she's working part time while trying to become a musician. She's always felt like something is missing. Her name is Carole.\n\nThere's a girl. Born to a wealthy family in the provincial town of Herschel City, she dreams of becoming a musician, but nobody around her understands. She feels like the loneliest person in the world. Her name is Tuesday.\n\nA chance meeting brings them together. They want to sing. They want to make music. Together, they feel like they just might have a chance. The two of them may only create a tiny wave. But that wave will eventually grow into something larger...\n\n(Source: Official page)",
+      "year": 2019,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Mars",
+        "Plot Continuity",
+        "Music",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "fc80b8e4893adbd25bd74bdeceb4be9997388e14",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "carole-tuesday/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "carole-tuesday/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "carole-tuesday/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "carole-tuesday/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "carole-tuesday/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "carole-tuesday/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "carole-tuesday/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "carole-tuesday/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "carole-tuesday/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "carole-tuesday/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "carole-tuesday/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "carole-tuesday/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "carole-tuesday/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "carole-tuesday/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "carole-tuesday/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "carole-tuesday/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "carole-tuesday/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "carole-tuesday/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "carole-tuesday/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "carole-tuesday/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "carole-tuesday/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "carole-tuesday/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "carole-tuesday/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "carole-tuesday/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
