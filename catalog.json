@@ -75257,6 +75257,75 @@
           "playlist": "cross-ange-rondo-of-angels-and-dragons/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kaiba",
+      "title": "Kaiba",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@35b661b9a61aa07ec8ba688bd6091eea693f6869/kaiba/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@35b661b9a61aa07ec8ba688bd6091eea693f6869/kaiba/banner.jpg",
+      "synopsis": "A boy with no name awakens with a hole through his chest, a strange marking on his belly, and no memories. The one link to his past is a locket containing a picture of a girl whose name he does not know. Within moments he meets Popo, who unlike the memoryless boy has a purpose. Through Popo, the boy learns that where he is a body without memory, in this world there are many who are only memories with no body. The rich harvest the choice bodies, leaving only the dregs for those down below. And yet even though he has no memories, there are many who seem to want his life. How does he fit into this world where not even memories might be real?\n\n(Source: Discotek Media)",
+      "year": 2008,
+      "score": 7.9,
+      "genres": [
+        "Future",
+        "Fantasy World",
+        "Space Travel",
+        "Other Planet",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "56aabb9720d2ee2315a9e73c6ad4850e4ff03ed8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kaiba/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kaiba/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kaiba/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kaiba/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kaiba/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kaiba/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kaiba/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kaiba/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kaiba/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kaiba/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kaiba/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kaiba/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
