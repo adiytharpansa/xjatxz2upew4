@@ -78789,6 +78789,75 @@
           "playlist": "tenjho-tenge/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sing-yesterday-for-me",
+      "title": "Sing \"Yesterday\" for Me",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f8cb4cc0ef20de8b70fcb9273666f4252a559288/sing-yesterday-for-me/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f8cb4cc0ef20de8b70fcb9273666f4252a559288/sing-yesterday-for-me/banner.jpg",
+      "synopsis": "Kei Toume's eighteen-year youth ensemble classic gets its long-awaited animated adaptation. A story of love and humanity, following four boys and girls trying to live their best lives through hardship and turmoil, in a small town on a private rail line just outside of Shinjuku. Minor misunderstandings lead to big complications, and their various feelings become entangled. A story of daily life lived 49% looking back, 51% looking forward.\n\n(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 6.9,
+      "genres": [
+        "Japan",
+        "Plot Continuity",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "cdeb59404da22378a70b00a6949db6fc8f8dc708",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sing-yesterday-for-me/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sing-yesterday-for-me/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sing-yesterday-for-me/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sing-yesterday-for-me/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sing-yesterday-for-me/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sing-yesterday-for-me/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sing-yesterday-for-me/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sing-yesterday-for-me/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sing-yesterday-for-me/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sing-yesterday-for-me/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sing-yesterday-for-me/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sing-yesterday-for-me/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
