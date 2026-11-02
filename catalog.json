@@ -69179,6 +69179,72 @@
           "playlist": "riddle-story-of-devil/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "darwin-s-game",
+      "title": "Darwin's Game",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eaaa83cf91083c6676fa06b7746afd1844724a22/darwin-s-game/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eaaa83cf91083c6676fa06b7746afd1844724a22/darwin-s-game/banner.jpg",
+      "synopsis": "An unknowing Sudou Kaname is invited to try out a new mysterious mobile app game called Darwin's Game, but later realizes that he's in for more than he's bargained for when he finds out that there's no way to quit the game.\n\n(Source: MU)",
+      "year": 2020,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Super Power",
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "5fb32908e0dfae4abe642535f1f3b074872a6134",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "darwin-s-game/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "darwin-s-game/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "darwin-s-game/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "darwin-s-game/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "darwin-s-game/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "darwin-s-game/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "darwin-s-game/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "darwin-s-game/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "darwin-s-game/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "darwin-s-game/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "darwin-s-game/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
