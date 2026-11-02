@@ -71451,6 +71451,76 @@
           "playlist": "interspecies-reviewers/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kancolle",
+      "title": "KanColle",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80926f30578d6a16b8864bbb90c659d017a078f8/kancolle/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80926f30578d6a16b8864bbb90c659d017a078f8/kancolle/banner.jpg",
+      "synopsis": "With the seas under constant threat from the hostile \"Abyssal Fleet,\" a specialized naval base is established to counter them. Rather than standard naval weaponry, however, the base is armed with \"Kanmusu\"—girls who harbor the spirits of Japanese warships—possessing the ability to don weaponized gear that allows them to harness the powerful souls within themselves. Fubuki, a young Destroyer-type Kanmusu, joins the base as a new recruit; unfortunately for her, despite her inexperience and timid nature, she is assigned to the famous Third Torpedo Squadron and quickly thrust into the heat of battle. When she is rescued from near annihilation, the rookie warship resolves to become as strong as the one who saved her.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Slice of Life",
+        "School Life",
+        "Military",
+        "Navy"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "212b8755823fbc960e11f5f335308687c0828077",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kancolle/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kancolle/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kancolle/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kancolle/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kancolle/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kancolle/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kancolle/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kancolle/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kancolle/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kancolle/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kancolle/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kancolle/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
