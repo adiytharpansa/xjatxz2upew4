@@ -68815,6 +68815,32 @@
           "playlist": "nyan-koi/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-exorcist-the-movie",
+      "title": "Blue Exorcist The Movie",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fc8dcf11eb5418c79b4d542cc77e631c4629b68d/blue-exorcist-the-movie/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fc8dcf11eb5418c79b4d542cc77e631c4629b68d/blue-exorcist-the-movie/banner.jpg",
+      "synopsis": "The atmosphere in True Cross Academy is lively and boisterous in the days leading up to the grand festival held once every 11 years. During this time, Okumura Rin is entrusted with the responsibility of suppressing the berserk Phantom Train. In the midst of his mission, he meets a devil whose appearance is that of a young boy.\n(Source: Official Site)",
+      "year": 2012,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "a2c62a5319b4622fba2da586f11e18faa5983256",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-exorcist-the-movie/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
