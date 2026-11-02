@@ -69028,6 +69028,36 @@
           "playlist": "fugou-keiji-balance-unlimited/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-school-dxd-ova",
+      "title": "High School DxD OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cb20996ff981ec2b98a0079da3d7acaeb6afa7e/high-school-dxd-ova/poster.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/6801/large.jpg",
+      "synopsis": "#1: Oppai, Minorimasu! (Episode 13)\nA rumor is going about the school about how girls are disappearing and coming back ill and with their breast size decreased.\n#2: Oppai, Motomemasu! (Episode 14)\nWhile observing how the others do their jobs so they can do theirs better, Issei and Asia go with Rias to see if a coffin is cursed. During the investigation Issei is possessed by an Egyptian magician named Unas, It just so happens that Unas is just as perverted as Issei. Unas will only leave Issei's body if they can release Unas from the curse placed on him by a devil that Unas tried to make his bride.",
+      "year": 2012,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Demon",
+        "Japan",
+        "Stereotypes"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "d948fe04c28afd6b8c594ffab1f42ebe49ed91d9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-school-dxd-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-school-dxd-ova/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
