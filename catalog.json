@@ -77162,6 +77162,75 @@
           "playlist": "a-certain-magical-index-iii/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2",
+      "title": "Sekai Ichi Hatsukoi - World's Greatest First Love 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d2353361ebf57fc27480eee0a281de92623d48e/sekai-ichi-hatsukoi-world-s-greatest-first-love-2/poster.jpg",
+      "banner": "",
+      "synopsis": "Second season of Sekaiichi Hatsukoi.",
+      "year": 2011,
+      "score": 8.0,
+      "genres": [
+        "Bishounen",
+        "Present",
+        "Earth",
+        "Japan",
+        "Shounen Ai",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "55aa909945d9d0776a5b77df9ed43f28b0fd7ee0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
