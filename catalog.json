@@ -79356,6 +79356,79 @@
           "playlist": "takt-op-destiny/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "aria-the-origination",
+      "title": "Aria The Origination",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@35ac93c78bddd3b5e289bf484d291df829a79dee/aria-the-origination/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@35ac93c78bddd3b5e289bf484d291df829a79dee/aria-the-origination/banner.jpg",
+      "synopsis": "As winter melts into spring, Akari, Aika and Alice continue to work hard to become Neo-Venezia's top gondoliers. Aika starts to take on more responsibility around Himeya, Alice travels up the challenging canal near Hope Hill, and even Akari spends a day working on a huge gondola called a traghetto! But there's still so much to learn... and the final test to become a Prima, which once seemed so far off in the future, might not be so far off anymore.\n\n(Source: Right Stuf)",
+      "year": 2008,
+      "score": 8.1,
+      "genres": [
+        "Future",
+        "Space",
+        "Slapstick",
+        "Other Planet",
+        "Mars",
+        "Science Fiction"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "c4ff200c2eabfabd79421ae0f895a52f5f9b7b32",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "aria-the-origination/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "aria-the-origination/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "aria-the-origination/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "aria-the-origination/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "aria-the-origination/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "aria-the-origination/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "aria-the-origination/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "aria-the-origination/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "aria-the-origination/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "aria-the-origination/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "aria-the-origination/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "aria-the-origination/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "aria-the-origination/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
