@@ -75683,6 +75683,75 @@
           "playlist": "ascendance-of-a-bookworm/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "izetta-the-last-witch",
+      "title": "Izetta: The Last Witch",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dc0087f07f148a85bc22b2a944070ec3f6e95e11/izetta-the-last-witch/poster.jpg",
+      "banner": "",
+      "synopsis": "The time is pre-World War II and the setting is a European-like imaginary world. A large-scale war erupts and bloody battles are taking place throughout the world. Eylstadt is a small country that lacks a strong military force and natural resources. Finé, who is the crown queen of Eylstadt, decides to use a secret weapon against larger countries, in a time where battling against larger countries was unthinkable. The secret weapon is a witch named Izetta, who uses her magical force to fight. The young witch Izetta is the last survivor of her kind, and is notable for her burning red hair.\n\n(Source: Crunchyroll)",
+      "year": 2016,
+      "score": 6.6,
+      "genres": [
+        "Magic",
+        "Past",
+        "Earth",
+        "Alternative Past",
+        "Historical",
+        "World War II"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "962fe5e2395e0f066734f2c6e516fadd38ae67c1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "izetta-the-last-witch/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "izetta-the-last-witch/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "izetta-the-last-witch/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "izetta-the-last-witch/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "izetta-the-last-witch/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "izetta-the-last-witch/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "izetta-the-last-witch/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "izetta-the-last-witch/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "izetta-the-last-witch/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "izetta-the-last-witch/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "izetta-the-last-witch/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "izetta-the-last-witch/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
