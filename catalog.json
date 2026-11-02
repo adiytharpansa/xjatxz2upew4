@@ -68900,6 +68900,68 @@
           "playlist": "baccano-specials/ep3/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cyberpunk-edgerunners",
+      "title": "CYBERPUNK: EDGERUNNERS",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b00308322f12affe93a66283feab90cd8e68f9cc/cyberpunk-edgerunners/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b00308322f12affe93a66283feab90cd8e68f9cc/cyberpunk-edgerunners/banner.jpg",
+      "synopsis": "An original anime series set in the universe of Cyberpunk 2077.\n\nIn a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.\n\n(Source: Netflix)\n\nNote: The first episode received a pre-screening at Anime Expo on July 2, 2022. The first 3 dubbed episodes were streamed on Twitch as part of a co-stream promotion on September 12, a day before the show’s premiere.",
+      "year": 2022,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Cyborg",
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Romance",
+        "Cyberpunk"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "49b20de200bc6b769a5bf1fcfd5d4769ce7fe9a6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cyberpunk-edgerunners/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cyberpunk-edgerunners/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cyberpunk-edgerunners/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cyberpunk-edgerunners/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cyberpunk-edgerunners/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cyberpunk-edgerunners/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cyberpunk-edgerunners/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cyberpunk-edgerunners/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cyberpunk-edgerunners/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cyberpunk-edgerunners/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
