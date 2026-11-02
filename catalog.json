@@ -79684,6 +79684,79 @@
           "playlist": "re-hamatora-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "uta-no-prince-sama",
+      "title": "Uta no Prince Sama",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@748e1c0fa3830314e2c46eda8a40d82e53040f10/uta-no-prince-sama/poster.jpg",
+      "banner": "",
+      "synopsis": "Haruka Nanami, an aspiring composer from the countryside, longs to write music for her beloved idol, Hayato Ichinose. Determined to accomplish this goal, she enrolls into Saotome Academy, a highly regarded vocational school for the performing arts.\nUpon her arrival, Haruka soon learns that everyone on staff, including the headmaster, is either an idol, a composer, or a poet. To top it all off, she is surrounded by incredibly talented future idols and composers, and the competition among the students is fierce; with the possibility of recruitment by the Shining Agency upon graduation, the stakes are incredibly high. As she strives to reach her dream at the academy, one fateful night, a series of events lead Haruka to a mysterious man standing in the moonlight, and he seems a bit familiar...\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 6.9,
+      "genres": [
+        "Bishounen",
+        "Idol",
+        "Present",
+        "Earth",
+        "Japan",
+        "Stereotypes"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "0dc8f591ab31c46f362a71d356002cc8c2362490",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "uta-no-prince-sama/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "uta-no-prince-sama/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "uta-no-prince-sama/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "uta-no-prince-sama/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "uta-no-prince-sama/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "uta-no-prince-sama/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "uta-no-prince-sama/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "uta-no-prince-sama/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "uta-no-prince-sama/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "uta-no-prince-sama/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "uta-no-prince-sama/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "uta-no-prince-sama/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "uta-no-prince-sama/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
