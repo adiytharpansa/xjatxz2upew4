@@ -76082,6 +76082,35 @@
           "playlist": "kemono-jihen/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-world-god-only-knows-tenri-arc",
+      "title": "The World God Only Knows: Tenri Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f0995e94ea77c9820ffeb8a647ada1f62c617217/the-world-god-only-knows-tenri-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f0995e94ea77c9820ffeb8a647ada1f62c617217/the-world-god-only-knows-tenri-arc/banner.jpg",
+      "synopsis": " It is summer break and Keima intends to spend all his time on video games. An old acquaintance, the timid girl Tenri, comes back into the neighborhood - and apparently has a lost soul inside her. It is up to Keima and Elysia to unravel the secrets of her heart.\n(Source: ANN)",
+      "year": 2012,
+      "score": 7.7,
+      "genres": [
+        "Present",
+        "Demon",
+        "Contemporary Fantasy",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "70e51f92b14b01997a7bb8d63c368fbabfb591b2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-world-god-only-knows-tenri-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-world-god-only-knows-tenri-arc/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
