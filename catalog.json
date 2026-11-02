@@ -73498,6 +73498,75 @@
           "playlist": "hayate-the-combat-butler/ep52/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "isekai-quartet",
+      "title": "ISEKAI QUARTET",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b519dd9f81feb796cf0d212aeab0b22c1ffaae49/isekai-quartet/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b519dd9f81feb796cf0d212aeab0b22c1ffaae49/isekai-quartet/banner.jpg",
+      "synopsis": "The button appeared out of nowhere. There weren’t any signs NOT to push it...so the solution is obvious, right? Is it a trap or the start of something new and exciting? The crews of Re:Zero, Overlord, Konosuba, and The Saga of Tanya the Evil will find out when they go from their world to another and get stuck in...class?! See what adorable chaos they’ll get up to in this collection of shorts!\n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Fantasy",
+        "Comedy",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "cdeb7e724dcd1c2622fac0a019cfd084465f67b8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "isekai-quartet/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "isekai-quartet/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "isekai-quartet/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "isekai-quartet/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "isekai-quartet/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "isekai-quartet/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "isekai-quartet/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "isekai-quartet/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "isekai-quartet/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "isekai-quartet/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "isekai-quartet/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "isekai-quartet/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
