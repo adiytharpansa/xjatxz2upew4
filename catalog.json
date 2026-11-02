@@ -80237,6 +80237,73 @@
           "playlist": "yozakura-quartet/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "qualidea-code",
+      "title": "Qualidea Code",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cb8ef05f49d776aa7b4d12a17f1aadfc241c2537/qualidea-code/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cb8ef05f49d776aa7b4d12a17f1aadfc241c2537/qualidea-code/banner.jpg",
+      "synopsis": "The story takes place in a world where people continue their war against the \"unknown\"—the enemy of humanity. Children who have been evacuated to a cold sleep facility during the invasion by the \"unknown\" several decades ago wake up from their slumber and learn that their bodies developed some supernatural forces. In order to protect the country from the \"unknown\" emerging from the Tokyo bay gate, the boys and girls wage battles in the defense the cities of Tokyo, Kanagawa, and Chiba.\n(Source: Official site)",
+      "year": 2016,
+      "score": 6.4,
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Action",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "aea194ef4e0ba84d1e81ccca7a8c398a26398abe",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "qualidea-code/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "qualidea-code/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "qualidea-code/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "qualidea-code/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "qualidea-code/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "qualidea-code/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "qualidea-code/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "qualidea-code/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "qualidea-code/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "qualidea-code/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "qualidea-code/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "qualidea-code/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
