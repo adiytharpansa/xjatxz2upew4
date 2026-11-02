@@ -73807,6 +73807,73 @@
           "playlist": "natsume-s-book-of-friends-season-5/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-helpful-fox-senko-san",
+      "title": "The Helpful Fox Senko-san",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@29c5b185bdbfb3ffdd657a4a9c4c56b76da9261e/the-helpful-fox-senko-san/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@29c5b185bdbfb3ffdd657a4a9c4c56b76da9261e/the-helpful-fox-senko-san/banner.jpg",
+      "synopsis": "Sometimes the cure to a hard day’s work is the tender love and care of...a fox girl?! Salaryman Nakano’s stressful life is suddenly intruded upon by the fox, Senko-san, who is eager to help him heal his exhaustion. Whether she’s cooking, cleaning, or finding other ways to care for Nakano, she’s there to take away his stress!\n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "034b80b021514f6a25442ff1457de97336d040fa",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-helpful-fox-senko-san/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-helpful-fox-senko-san/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-helpful-fox-senko-san/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-helpful-fox-senko-san/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-helpful-fox-senko-san/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-helpful-fox-senko-san/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-helpful-fox-senko-san/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-helpful-fox-senko-san/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-helpful-fox-senko-san/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-helpful-fox-senko-san/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-helpful-fox-senko-san/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-helpful-fox-senko-san/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
