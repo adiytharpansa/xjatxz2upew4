@@ -72511,6 +72511,80 @@
           "playlist": "ajin-2nd-season/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fruits-basket-the-final",
+      "title": "Fruits Basket: The Final",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@91a4c99034ae10d6f33b0cc1fb6a462179f28d82/fruits-basket-the-final/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@91a4c99034ae10d6f33b0cc1fb6a462179f28d82/fruits-basket-the-final/banner.jpg",
+      "synopsis": "Final season of Fruits Basket.",
+      "year": 2021,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Contemporary Fantasy",
+        "Reverse Harem",
+        "Fantasy",
+        "Romance",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "4dfb2af97c98fa84f3ded81c5533c90f26de80fb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fruits-basket-the-final/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fruits-basket-the-final/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fruits-basket-the-final/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fruits-basket-the-final/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fruits-basket-the-final/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fruits-basket-the-final/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fruits-basket-the-final/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fruits-basket-the-final/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fruits-basket-the-final/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fruits-basket-the-final/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fruits-basket-the-final/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fruits-basket-the-final/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fruits-basket-the-final/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
