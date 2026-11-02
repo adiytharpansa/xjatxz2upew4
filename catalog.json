@@ -75606,6 +75606,83 @@
           "playlist": "arpeggio-of-blue-steel-ars-nova/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ascendance-of-a-bookworm",
+      "title": "Ascendance of a Bookworm",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@25d625c1fdf39a97a3ab826e2d05388bd3d7617a/ascendance-of-a-bookworm/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@25d625c1fdf39a97a3ab826e2d05388bd3d7617a/ascendance-of-a-bookworm/banner.jpg",
+      "synopsis": "A certain college girl who's loved books ever since she was a little girl dies in an accident and is reborn in another world she knows nothing about. She is now Myne, the sickly five-year-old daughter of a poor soldier. To make things worse, the world she's been reborn in has a very low literacy rate and books mostly don't exist. She'd have to pay an enormous amounts of money to buy one. Myne resolves herself: If there aren't any books, she'll just have to make them! Her goal is to become a librarian. This story begins with her quest to make books so she can live surrounded by them! Dive into this biblio-fantasy written for book lovers and bookworms!\n\n(Source: J-Novel Club)",
+      "year": 2019,
+      "score": 8.0,
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "Religion"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "08c67f189dd6477f99729f935215da42cac696bc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ascendance-of-a-bookworm/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ascendance-of-a-bookworm/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ascendance-of-a-bookworm/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ascendance-of-a-bookworm/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ascendance-of-a-bookworm/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ascendance-of-a-bookworm/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ascendance-of-a-bookworm/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ascendance-of-a-bookworm/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ascendance-of-a-bookworm/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ascendance-of-a-bookworm/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ascendance-of-a-bookworm/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ascendance-of-a-bookworm/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ascendance-of-a-bookworm/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "ascendance-of-a-bookworm/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
