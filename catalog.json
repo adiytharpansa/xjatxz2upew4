@@ -74661,6 +74661,75 @@
           "playlist": "when-they-cry-rei/ep5/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "somali-and-the-forest-spirit",
+      "title": "Somali and the Forest Spirit",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1f7e1f873acabdbcf7cc58871fb8bd51551edba6/somali-and-the-forest-spirit/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1f7e1f873acabdbcf7cc58871fb8bd51551edba6/somali-and-the-forest-spirit/banner.jpg",
+      "synopsis": "The world is ruled by spirits, goblins and all manner of strange creatures.\n\nHuman beings are persecuted, to the very point of extinction.\n\nOne day, a golem and a lone human girl meet.\n\nThis is a record of the pair; one a member of a ruined race, the other a watchman of the forest. It tells of their travels together, and of the bond between father and daughter.\n\nEpisodes 1-2 were previewed at a screening in London on October 25, 2019. Regular broadcasting began on January 10.\nThe first episode also received an advance web distribution on January 3.",
+      "year": 2020,
+      "score": 7.8,
+      "genres": [
+        "Android",
+        "Fantasy World",
+        "Demon",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "ddc1b164f61f6965482f33df8d004cfc0f9dc929",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "somali-and-the-forest-spirit/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "somali-and-the-forest-spirit/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "somali-and-the-forest-spirit/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "somali-and-the-forest-spirit/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "somali-and-the-forest-spirit/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "somali-and-the-forest-spirit/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "somali-and-the-forest-spirit/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "somali-and-the-forest-spirit/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "somali-and-the-forest-spirit/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "somali-and-the-forest-spirit/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "somali-and-the-forest-spirit/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "somali-and-the-forest-spirit/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
