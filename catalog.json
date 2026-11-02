@@ -72275,6 +72275,75 @@
           "playlist": "food-wars-the-fifth-plate/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fuuka",
+      "title": "Fuuka",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aaa7f3e2f06f623ac366800cd96ab7fb6b9fd823/fuuka/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aaa7f3e2f06f623ac366800cd96ab7fb6b9fd823/fuuka/banner.jpg",
+      "synopsis": "Yuu Haruna just moved into town and loves to use Twitter. Out on his way to buy dinner, he bumps into a mysterious girl, Fuuka Akitsuki, who breaks his phone thinking he was trying to take a picture of her panties. How will his new life change now?\n\n(Source: MAL News)",
+      "year": 2017,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Music",
+        "Ecchi",
+        "Romance",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "452776bb67a09b3817ee838433537f6833263504",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fuuka/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fuuka/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fuuka/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fuuka/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fuuka/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fuuka/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fuuka/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fuuka/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fuuka/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fuuka/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fuuka/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fuuka/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
