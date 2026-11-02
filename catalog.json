@@ -70945,6 +70945,75 @@
           "playlist": "his-and-her-circumstances/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ssss-gridman",
+      "title": "SSSS.GRIDMAN",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4a5bde7aab53ead66cede0947bb616387d097c9a/ssss-gridman/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4a5bde7aab53ead66cede0947bb616387d097c9a/ssss-gridman/banner.jpg",
+      "synopsis": "Yuta Hibiki can’t remember who he is, and now he’s seeing and hearing things that others don’t! A voice from an old computer tells him to remember his calling, and he sees a massive, unmoving creature in the distance. Nothing’s making sense—until the behemoth springs to life! Suddenly, Yuta is pulled into the digital world, reappearing in the real one as the colossal hero—Gridman!\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Henshin",
+        "Super Robot"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "9dd75fd5916d1ca016a558057900fba53512507a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ssss-gridman/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ssss-gridman/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ssss-gridman/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ssss-gridman/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ssss-gridman/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ssss-gridman/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ssss-gridman/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ssss-gridman/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ssss-gridman/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ssss-gridman/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ssss-gridman/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ssss-gridman/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
