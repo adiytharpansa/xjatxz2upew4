@@ -71221,6 +71221,32 @@
           "playlist": "the-place-promised-in-our-early-days/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "eden-of-the-east-the-king-of-eden",
+      "title": "Eden of the East: The King of Eden",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f7627ffffb471723c8c89428e6c101b2ed8e251d/eden-of-the-east-the-king-of-eden/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f7627ffffb471723c8c89428e6c101b2ed8e251d/eden-of-the-east-the-king-of-eden/banner.jpg",
+      "synopsis": "The intrigue goes international in The King of Eden, a feature-length conspiracy thriller that continues the action of Eden of the East. The deadly game that began in Japan now intensifies on the streets of New York City. The rules are the same: do whatever it takes to win. Die if you lose.\n\nTakizawa prevented Japan's destruction - and then he vanished. Six months later, clues lead Saki to the Big Apple in search of her missing friend. Meanwhile, the remaining Selecao are plotting their final move. Some of them would prefer Takizawa dead and out of the way. Some might even be willing to help him achieve his goals. Unfortunately, some are prepared to destroy everything if it means claiming checkmate in Mr. Outside's puzzling game.\n\n(Source: Funimation Entertainment)",
+      "year": 2009,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "New York",
+        "United States"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "8118703bc1a8c3385a30e932be6a7b98891839cc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "eden-of-the-east-the-king-of-eden/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
