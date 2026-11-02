@@ -68745,6 +68745,76 @@
           "playlist": "oniai/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nyan-koi",
+      "title": "Nyan Koi!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f43a49cf0498f34a4f0be8d2f04e8a83cc154d53/nyan-koi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f43a49cf0498f34a4f0be8d2f04e8a83cc154d53/nyan-koi/banner.jpg",
+      "synopsis": "On his way home from school one day, Junpei Kousaka idly kicked a can into a trashcan, missed miserably, and broke off the head of a cat deity statue. Now he’s cursed. After incurring the wrath of the great cat guardian, Junpei can suddenly hear what all cats say, and it’s rarely anything nice.\nTo break the curse, Junpei must do 100 good deeds for cats. It doesn’t help that he’s allergic to cats, or that his crush Kaede Mizuno loves cats, but is terrible at dealing with them. As he works to atone for breaking the guardian cat statue, he must keep his curse a secret from others or it will grow stronger. He might have a thing for Kaede, but working through this curse makes him more aware of all the other wonderful people (and girls) around him.\nGuided by his fat cat Nyamusas and joined by a number of catty personalities around his neighborhood, Junpei works towards fulfilling 100 cat wishes, or he is doomed to become a cat himself－a fate which means certain death due to his allergies.",
+      "year": 2009,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Earth",
+        "Super Deformed",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "7ba7e694c1f4f11d2ea8b27e2fdbc947c15084d5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nyan-koi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nyan-koi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nyan-koi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nyan-koi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nyan-koi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nyan-koi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nyan-koi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nyan-koi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nyan-koi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nyan-koi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nyan-koi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nyan-koi/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
