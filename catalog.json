@@ -72867,6 +72867,76 @@
           "playlist": "ga-rei-zero/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "after-the-rain",
+      "title": "After the Rain",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0cce5335993dcce744ae280efced71ad59514f2a/after-the-rain/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0cce5335993dcce744ae280efced71ad59514f2a/after-the-rain/banner.jpg",
+      "synopsis": "Akira Tachibana is a soft-spoken high school student who used to be a part of the track and field club but, due to an injury, she is no longer able to run as fast as she once could. Working part-time at a family restaurant as a recourse, she finds herself inexplicably falling love with her manager, a divorced 45-year-old man with a young son.\n\nDespite the age gap, Akira wholeheartedly embraces his mannerisms and kind nature, which is seen as spinelessness by the other employees, and little by little, the two begin to understand each other. Although unable to explain why exactly she is attracted to him, Akira believes that a concrete reason is not needed to truly love someone. On a rainy day, she decides to finally tell her manager about how she feels...but just how will he react?\n\n(Source: MAL Rewrite)",
+      "year": 2018,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Slow When It Comes To Love",
+        "Romance",
+        "Slice of Life",
+        "Drama",
+        "Coming Of Age",
+        "Working Life"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "73bd5e88175ebfed1a05a75d0cfc8046cd9f06d7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "after-the-rain/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "after-the-rain/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "after-the-rain/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "after-the-rain/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "after-the-rain/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "after-the-rain/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "after-the-rain/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "after-the-rain/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "after-the-rain/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "after-the-rain/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "after-the-rain/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "after-the-rain/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
