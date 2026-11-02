@@ -78858,6 +78858,31 @@
           "playlist": "sing-yesterday-for-me/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fireworks",
+      "title": "Fireworks",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1eac79fb327838bc227bdd82418d9998dcc31d1/fireworks/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1eac79fb327838bc227bdd82418d9998dcc31d1/fireworks/banner.jpg",
+      "synopsis": "Schoolchildren Norimichi, Yuusuke, and Junichi want to know if fireworks look round or flat from the side. They make a plan to find the answer at a fireworks display, while Nazuna schemes to run away with Norimichi or Yuusuke, whoever wins at the pool. \n\n(Source: Tokyo International Film Festival)",
+      "year": 2017,
+      "score": 6.1,
+      "genres": [
+        "Time Travel",
+        "Science Fiction",
+        "Fantasy",
+        "Romance",
+        "Friendship",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "38095f3dc61d5d9b87671e9102b5f78fa5241777",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fireworks/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
