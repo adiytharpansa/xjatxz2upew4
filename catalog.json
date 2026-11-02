@@ -80982,6 +80982,75 @@
           "playlist": "mobile-suit-gundam-wing/ep49/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-mystic-archives-of-dantalian",
+      "title": "The Mystic Archives of Dantalian",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bd48f90dbb047a423ff979057d2734ea1d8502ea/the-mystic-archives-of-dantalian/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bd48f90dbb047a423ff979057d2734ea1d8502ea/the-mystic-archives-of-dantalian/banner.jpg",
+      "synopsis": "Hugh Anthony Disward inherits an old mansion and a personal library from his grandfather. In the basement of the mansion, he meets a mysterious girl, Dalian. She is a Dantalian and a gateway to \"Dantalian's bookshelf,\" which stores the prohibited books of the demons.\n\"Gensho (Illusory Books),\" the prohibited books, endanger the balance of the world, but people are fascinated by the taboo. Hugh and Dalian solve the cases involving Gensho with their ability to access the Dantalian bookshelf.",
+      "year": 2011,
+      "score": 7.1,
+      "genres": [
+        "Magic",
+        "Past",
+        "Historical",
+        "Contemporary Fantasy",
+        "Violence",
+        "United Kingdom"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "fb8997f7427ba3602d9c39c907e39a549be51c75",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-mystic-archives-of-dantalian/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-mystic-archives-of-dantalian/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-mystic-archives-of-dantalian/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-mystic-archives-of-dantalian/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-mystic-archives-of-dantalian/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-mystic-archives-of-dantalian/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-mystic-archives-of-dantalian/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-mystic-archives-of-dantalian/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-mystic-archives-of-dantalian/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-mystic-archives-of-dantalian/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-mystic-archives-of-dantalian/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-mystic-archives-of-dantalian/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
