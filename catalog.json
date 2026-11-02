@@ -69385,6 +69385,32 @@
           "playlist": "a-sister-s-all-you-need/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-the-movie-2-heroes-rising",
+      "title": "My Hero Academia the Movie 2: Heroes:Rising",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a7dd6ff2c07eeaa80419c16757fc9c2423297dd0/my-hero-academia-the-movie-2-heroes-rising/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a7dd6ff2c07eeaa80419c16757fc9c2423297dd0/my-hero-academia-the-movie-2-heroes-rising/banner.jpg",
+      "synopsis": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation … until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar, and it looks like Shigaraki had a hand in the plan. But with All Might retired and citizens' lives on the line, there's no time for questions. Deku and his friends are the next generation of heroes, and they're the island's only hope. \n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "4e82aedd4089c3911a4c20a88dbbcfd62a04cccb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-the-movie-2-heroes-rising/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
