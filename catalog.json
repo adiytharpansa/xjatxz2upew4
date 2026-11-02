@@ -74730,6 +74730,79 @@
           "playlist": "somali-and-the-forest-spirit/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "knight-s-magic",
+      "title": "Knight's & Magic",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d007981ccbc0f0f6911bad5987b5ee2fcf958d7d/knight-s-magic/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d007981ccbc0f0f6911bad5987b5ee2fcf958d7d/knight-s-magic/banner.jpg",
+      "synopsis": "A genius programmer and hardcore robot otaku is reborn into a world of knights and magic, where huge robots called Silhouette Knights roar across the land! Now reborn as Ernesti Echevalier, he uses his vast knowledge of machines and programming talents to begin to make his ultimate robot. But his actions have unexpected results...?! The dreams of a robot otaku will change the world!\n\n(Source: Crunchyroll)",
+      "year": 2017,
+      "score": 7.1,
+      "genres": [
+        "Magic",
+        "Mecha",
+        "Action",
+        "Fantasy",
+        "School Life",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "7c4f604a280d980ad47367f246adc8b2aeb2a592",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "knight-s-magic/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "knight-s-magic/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "knight-s-magic/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "knight-s-magic/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "knight-s-magic/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "knight-s-magic/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "knight-s-magic/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "knight-s-magic/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "knight-s-magic/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "knight-s-magic/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "knight-s-magic/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "knight-s-magic/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "knight-s-magic/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
