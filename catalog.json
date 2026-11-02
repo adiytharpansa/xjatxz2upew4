@@ -71799,6 +71799,128 @@
           "playlist": "kyousougiga/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mobile-suit-gundam-00",
+      "title": "Mobile Suit Gundam 00",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e333e05529fd612f3eb51c5a8b9c01541599371/mobile-suit-gundam-00/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e333e05529fd612f3eb51c5a8b9c01541599371/mobile-suit-gundam-00/banner.jpg",
+      "synopsis": "In the distant future, mankind's dependence on fossil fuels will lead to their complete depletion, an energy crisis unlike anything the world witnessed. Out of retaliation and fear, humanity began focusing at an alternative source of energy: solar power. Different nations have united together to form three major factions—the Union of Solar Energy and Free Nations, the Advanced European Union, and the Human Reform League. Each of these sectors has access to a solar power generator, which gives them limitless energy.\nAs a result, countries that were once dependent on the sale of fossil fuels are now plunged in poverty, leading to years of warfare and internal strife over the control of solar energy. Amid this chaos, an unknown paramilitary organization appeared identifying themselves as \"Celestial Being,\" aspire to end all warfare through armed intervention by using mysterious and technologically advanced Mobile Suits known as Gundams.Mobile Suit Gundam 00 follows the story of Celestial Being's Gundam Meisters Setsuna F. Seiei, Lockon Stratos, Allelujah Haptism, and Tieria Erde. These four dive into the devastating battle between the three superpowers to accomplish their goal of changing the world.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Mecha",
+        "Piloted Robot",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "91e22b9e1db25f7e35525152f92d106646ec2918",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mobile-suit-gundam-00/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mobile-suit-gundam-00/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mobile-suit-gundam-00/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mobile-suit-gundam-00/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mobile-suit-gundam-00/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mobile-suit-gundam-00/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mobile-suit-gundam-00/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mobile-suit-gundam-00/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mobile-suit-gundam-00/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mobile-suit-gundam-00/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mobile-suit-gundam-00/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mobile-suit-gundam-00/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mobile-suit-gundam-00/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "mobile-suit-gundam-00/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "mobile-suit-gundam-00/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "mobile-suit-gundam-00/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "mobile-suit-gundam-00/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "mobile-suit-gundam-00/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "mobile-suit-gundam-00/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "mobile-suit-gundam-00/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "mobile-suit-gundam-00/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "mobile-suit-gundam-00/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "mobile-suit-gundam-00/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "mobile-suit-gundam-00/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "mobile-suit-gundam-00/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
