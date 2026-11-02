@@ -77231,6 +77231,73 @@
           "playlist": "sekai-ichi-hatsukoi-world-s-greatest-first-love-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "deca-dence",
+      "title": "Deca-Dence",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a6449166a2fe8f691a1d64c3bc776546003edc08/deca-dence/poster.jpg",
+      "banner": "",
+      "synopsis": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000 meter-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.Denizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.This chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world.\n\n(Source: Funimation)",
+      "year": 2020,
+      "score": 7.3,
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Steampunk"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "82ffc8f15f800b4bb036ba1cbdbfefe07af6b13b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "deca-dence/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "deca-dence/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "deca-dence/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "deca-dence/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "deca-dence/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "deca-dence/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "deca-dence/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "deca-dence/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "deca-dence/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "deca-dence/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "deca-dence/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "deca-dence/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
