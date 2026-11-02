@@ -78591,6 +78591,79 @@
           "playlist": "utawarerumono/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "arakawa-under-the-bridge-x-bridge",
+      "title": "Arakawa Under the Bridge x Bridge",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ecc9f70bb1f87ecc3695e2fed6b6eda0a08eb93/arakawa-under-the-bridge-x-bridge/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ecc9f70bb1f87ecc3695e2fed6b6eda0a08eb93/arakawa-under-the-bridge-x-bridge/banner.jpg",
+      "synopsis": "In the dry riverbed of Arakawa River, undefeated elite Ichinomiya Kou (aka Ric) met the lovely homeless girl Nino, a self-declared Venusian. Their awkward love stirs up trouble among the other strange inhabitants of the riverbed.\n\n(Source: ANN)",
+      "year": 2010,
+      "score": 7.7,
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "3a4d19943c7e4de5a8af28fa967be633047fd564",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "arakawa-under-the-bridge-x-bridge/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
