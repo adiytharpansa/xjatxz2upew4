@@ -72201,6 +72201,80 @@
           "playlist": "carole-tuesday/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "food-wars-the-fifth-plate",
+      "title": "Food Wars: The Fifth Plate",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a074e4a55b4a9263d9b4da24aa170ff914544d4d/food-wars-the-fifth-plate/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a074e4a55b4a9263d9b4da24aa170ff914544d4d/food-wars-the-fifth-plate/banner.jpg",
+      "synopsis": "In the heated final season of Food Wars! Shokugeki no Soma, Yukihira Soma and the Totsuki Academy compete in The Blue!(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "aeee14522802d291d8486025484a236bc67d7f80",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "food-wars-the-fifth-plate/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "food-wars-the-fifth-plate/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "food-wars-the-fifth-plate/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "food-wars-the-fifth-plate/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "food-wars-the-fifth-plate/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "food-wars-the-fifth-plate/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "food-wars-the-fifth-plate/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "food-wars-the-fifth-plate/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "food-wars-the-fifth-plate/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "food-wars-the-fifth-plate/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "food-wars-the-fifth-plate/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "food-wars-the-fifth-plate/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "food-wars-the-fifth-plate/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
