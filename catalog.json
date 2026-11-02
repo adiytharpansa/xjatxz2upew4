@@ -81051,6 +81051,79 @@
           "playlist": "the-mystic-archives-of-dantalian/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yozakura-quartet-hana-no-uta",
+      "title": "Yozakura Quartet: Hana no Uta",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@04b3c14ba430a6682af0e4d4e8eb4c2e79ed6827/yozakura-quartet-hana-no-uta/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@04b3c14ba430a6682af0e4d4e8eb4c2e79ed6827/yozakura-quartet-hana-no-uta/banner.jpg",
+      "synopsis": "In a town where humans and demons co-exist, it takes more than a normal police force to maintain the peace. Enter the Hiizumi Life Counseling Office, a fantastic foursome of unique teenagers, each gifted with an amazing super power!",
+      "year": 2013,
+      "score": 7.5,
+      "genres": [
+        "Magic",
+        "Martial Arts",
+        "Super Power",
+        "Earth",
+        "Japan",
+        "Tokyo"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "f19c23bdbc966e04b2cb5adb505a6af3a9d55f8f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yozakura-quartet-hana-no-uta/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yozakura-quartet-hana-no-uta/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yozakura-quartet-hana-no-uta/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yozakura-quartet-hana-no-uta/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yozakura-quartet-hana-no-uta/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yozakura-quartet-hana-no-uta/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yozakura-quartet-hana-no-uta/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yozakura-quartet-hana-no-uta/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yozakura-quartet-hana-no-uta/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yozakura-quartet-hana-no-uta/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yozakura-quartet-hana-no-uta/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yozakura-quartet-hana-no-uta/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "yozakura-quartet-hana-no-uta/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
