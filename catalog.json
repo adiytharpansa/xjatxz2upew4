@@ -70201,6 +70201,68 @@
           "playlist": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-kaleid-liner-prisma-illya",
+      "title": "Fate/Kaleid Liner Prisma Illya",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@20cb46f03e1155c33d3fe07a92eb16425665146a/fate-kaleid-liner-prisma-illya/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@20cb46f03e1155c33d3fe07a92eb16425665146a/fate-kaleid-liner-prisma-illya/banner.jpg",
+      "synopsis": "Illyasviel von Einzbern is an ordinary elementary school student who becomes a magical girl when the magical Kaleidostick Ruby deems her a more suitable master than the sorceress, Rin Tohsaka. Rin, who had been tasked by the wizard Zelretch to collect the seven Class Cards containing the spirits of Heroic Spirits from legend, finds that she is unable to change Ruby's mind and must supervise Illya in completing the task of collecting the Class Cards. During Illya's adventures, she receives a friend and rival in a girl named Miyu, the contracted master of the Kaleidostick Sapphire, which similarly abandoned its original master and Rin's rival, Luvia Edelfelt.\n(Source: Wikipedia)",
+      "year": 2013,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Super Power",
+        "Plot Continuity",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "e0d712855dbd8037171f1aa62fbed5454c604103",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-kaleid-liner-prisma-illya/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
