@@ -73741,6 +73741,72 @@
           "playlist": "yowamushi-pedal/ep38/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "natsume-s-book-of-friends-season-5",
+      "title": "Natsume's Book of Friends Season 5",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d688c8773447038032706077c0d65dfeb20d3ee9/natsume-s-book-of-friends-season-5/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d688c8773447038032706077c0d65dfeb20d3ee9/natsume-s-book-of-friends-season-5/banner.jpg",
+      "synopsis": "Takashi Natsume is a boy who's been able to see youkai ever since he was a child. Ever since he inherited the \"Book of Friends\" from his grandmother Reiko, he and his self-proclaimed bodyguard Nyanko-sensei have spent their days returning names to the youkai who are bound by the book. As he meets the different youkai and people, he finds himself with many more things that he cares about. He wonders whether it's right to keep secrets to protect someone as little by little he works up the courage to build even more friendships.\n\n(Source: Crunchyroll)",
+      "year": 2016,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "29f7db0769a95109acf3197c15e2a32ddc547dbe",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "natsume-s-book-of-friends-season-5/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "natsume-s-book-of-friends-season-5/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "natsume-s-book-of-friends-season-5/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "natsume-s-book-of-friends-season-5/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "natsume-s-book-of-friends-season-5/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "natsume-s-book-of-friends-season-5/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "natsume-s-book-of-friends-season-5/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "natsume-s-book-of-friends-season-5/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "natsume-s-book-of-friends-season-5/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "natsume-s-book-of-friends-season-5/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "natsume-s-book-of-friends-season-5/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
