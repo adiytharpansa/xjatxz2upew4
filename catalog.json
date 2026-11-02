@@ -76232,6 +76232,127 @@
           "playlist": "07-ghost/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mr-osomatsu",
+      "title": "Mr. Osomatsu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e12ab9a40dccd472f88a4f903d9cc1125fb0f696/mr-osomatsu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e12ab9a40dccd472f88a4f903d9cc1125fb0f696/mr-osomatsu/banner.jpg",
+      "synopsis": "The majority of the Matsuno household is comprised of six identical siblings: self-centered leader Osomatsu, manly Karamatsu, voice of reason Choromatsu, cynical Ichimatsu, hyperactive Juushimatsu, and lovable Todomatsu. Despite each one of them being over the age of 20, they are incredibly lazy and have absolutely no motivation to get a job, choosing to live as NEETs instead. In the rare occurrence that they try to look for employment and are somehow able to land an interview, their unique personalities generally lead to their swift rejection.\n\nFrom trying to pick up girlfriends to finding the perfect job, the daily activities of the Matsuno brothers are never dull as they go on all sorts of crazy, and often downright bizarre, adventures. Though they desperately search for a way to improve their social standing, it won't be possible if they can't survive the various challenges that come with being sextuplets!\n\n(Source: MAL Rewrite)",
+      "year": 2015,
+      "score": 7.8,
+      "genres": [
+        "Earth",
+        "Slapstick",
+        "Parody",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "60ce7bb91b2048eaedef59e59a2ee80747f168ee",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mr-osomatsu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mr-osomatsu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mr-osomatsu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mr-osomatsu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mr-osomatsu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mr-osomatsu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mr-osomatsu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mr-osomatsu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mr-osomatsu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mr-osomatsu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mr-osomatsu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mr-osomatsu/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mr-osomatsu/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "mr-osomatsu/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "mr-osomatsu/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "mr-osomatsu/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "mr-osomatsu/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "mr-osomatsu/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "mr-osomatsu/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "mr-osomatsu/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "mr-osomatsu/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "mr-osomatsu/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "mr-osomatsu/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "mr-osomatsu/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "mr-osomatsu/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
