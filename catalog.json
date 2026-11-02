@@ -71737,6 +71737,68 @@
           "playlist": "yona-of-the-dawn-ova/ep3/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kyousougiga",
+      "title": "Kyousougiga",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@11df6c74f4bb213cd9ebb69da6876be71259bff2/kyousougiga/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@11df6c74f4bb213cd9ebb69da6876be71259bff2/kyousougiga/banner.jpg",
+      "synopsis": "In Kyoto, nothing changes. No, not *that* Kyoto, but rather the \"Mirror Capital\" Kyoto, the world inside of a painting! Colorful, beautiful, but static, the people of this world live an idyllic, if boring life. That is, until Koto appears, like a wrecking ball slamming into still waters. \n\nKoto's never met her mother, and in search of clues about her missing parent, she winds up in the very place she's supposed to be, yet least expected. What unfolds is a tale of a crazy, mixed-up family, where the father has mysterious powers, the mother is a goddess, and the siblings have an intense rivalry that will finally see its conclusion... even if that conclusion brings about the attention of the Shrine, an organization dedicated to protecting the multiverse.\n\n(Source: Discotek Media)",
+      "year": 2013,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Parallel Universe",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Anthropomorphism"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "055a76aa638fb0837d5caf2e00646adbfdbede2a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kyousougiga/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kyousougiga/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kyousougiga/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kyousougiga/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kyousougiga/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kyousougiga/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kyousougiga/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kyousougiga/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kyousougiga/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kyousougiga/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
