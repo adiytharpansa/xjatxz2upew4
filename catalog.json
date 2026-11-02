@@ -70441,6 +70441,32 @@
           "playlist": "robotics-notes/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-irregular-at-magic-high-school-the-movie-the-girl-who-su",
+      "title": "The Irregular at Magic High School The Movie: The Girl Who Summons the Stars",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3cff12cc336dbae798ff87ecfef471675e9ac850/the-irregular-at-magic-high-school-the-movie-the-girl-who-su/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3cff12cc336dbae798ff87ecfef471675e9ac850/the-irregular-at-magic-high-school-the-movie-the-girl-who-su/poster.jpg",
+      "synopsis": "In the story, the seasons have changed, and it will soon be the second spring. The poor student older brother Tatsuya and the honor student younger sister Miyuki have finished their first year at their magic high school, and are on their spring break. The two go to their villa on the Ogasawara Island archipelago. After only a small moment of peace, a lone young woman named Kokoa appears before them. She has abandoned the Naval base, and she tells Tatsuya her one wish.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "43bde83858e9be0a9e0c10917b43e962133af4d2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-irregular-at-magic-high-school-the-movie-the-girl-who-su/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
