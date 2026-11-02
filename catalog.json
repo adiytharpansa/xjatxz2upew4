@@ -74373,6 +74373,31 @@
           "playlist": "nyaruko-crawling-with-love-second-season/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "jin-roh-the-wolf-brigade",
+      "title": "Jin-Roh: The Wolf Brigade",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@81c5a45da75cfa9b5a6898ed1633b85a135b4055/jin-roh-the-wolf-brigade/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@81c5a45da75cfa9b5a6898ed1633b85a135b4055/jin-roh-the-wolf-brigade/banner.jpg",
+      "synopsis": "After witnessing the suicide bombing of a terrorist girl, Constable Kazuki Fuse becomes haunted by her image, and is forced to undergo retraining for his position in the Capital Police's Special Unit. However, unknown to him, he becomes a key player in a dispute between Capital and Local Police forces, as he finds himself increasingly involved with the sister of the very girl he saw die. ",
+      "year": 1999,
+      "score": 7.7,
+      "genres": [
+        "Gunfights",
+        "Past",
+        "Alternative Past",
+        "Japan",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "4bde7c04b3f6c0a8d4c67313c348514a89c698a7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "jin-roh-the-wolf-brigade/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
