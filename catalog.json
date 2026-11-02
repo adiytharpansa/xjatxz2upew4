@@ -72344,6 +72344,75 @@
           "playlist": "fuuka/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "golden-kamuy",
+      "title": "Golden Kamuy",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8e6f426c9bafc7c17e820836b24646e57ba4535/golden-kamuy/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8e6f426c9bafc7c17e820836b24646e57ba4535/golden-kamuy/banner.jpg",
+      "synopsis": "The story takes place in the mighty Northern field of Hokkaido, the time is in the turbulent late Meiji Era. A post war soldier Sugimoto, aka, “Immortal Sugimoto” was in need of large sums of money for a particular purpose…. What awaited Sugimoto, who stepped into Hokkaido’s Gold Rush with dreams of making a fortune, was a tattoo map leading to a hidden treasure based on hints inscribed on the bodies of convicts in Abashiri Prison?! The magnificent nature of Hokkaido vs vicious convicts and the meeting with a pure Ainu girl, Ashiripa!! A survival battle for a hidden treasure hunt begins!\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Japan",
+        "Action",
+        "Adventure",
+        "Seinen"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "78797cc234fa4de75e4cf45621f3fd212ddc28b1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "golden-kamuy/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "golden-kamuy/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "golden-kamuy/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "golden-kamuy/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "golden-kamuy/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "golden-kamuy/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "golden-kamuy/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "golden-kamuy/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "golden-kamuy/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "golden-kamuy/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "golden-kamuy/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "golden-kamuy/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
