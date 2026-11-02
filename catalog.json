@@ -76647,6 +76647,77 @@
           "playlist": "summer-time-rendering/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "odd-taxi",
+      "title": "Odd Taxi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@183d110f43963d14a88fcdb85040be8fa3031943/odd-taxi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@183d110f43963d14a88fcdb85040be8fa3031943/odd-taxi/banner.jpg",
+      "synopsis": "This town should look familiar, but suddenly, it's not. The taxi driver Odokawa lives a very mundane life. He has no family, doesn't really hang out with others, and he's an oddball who is narrow-minded and doesn't talk much. The only people he can call his friends are his doctor, Gouriki, and his classmate from high school, Kakibana. All of his patrons seem to be slightly odd themselves. The college student who wants to be noticed online, Kabasawa. A nurse with secrets, Shirakawa. A comedy duo, the Homosapiens... All these mundane conversations somehow lead to a girl who's gone missing.\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 8.2,
+      "genres": [
+        "Comedy",
+        "Anthropomorphism",
+        "Drama",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "3569bb928450cfa77d127fa429c171d6572836e8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "odd-taxi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "odd-taxi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "odd-taxi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "odd-taxi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "odd-taxi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "odd-taxi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "odd-taxi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "odd-taxi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "odd-taxi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "odd-taxi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "odd-taxi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "odd-taxi/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "odd-taxi/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
