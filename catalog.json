@@ -68962,6 +68962,72 @@
           "playlist": "cyberpunk-edgerunners/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fugou-keiji-balance-unlimited",
+      "title": "Fugou Keiji: Balance:Unlimited",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fdec13710ca9d696725d33ed9bba495927ec2d19/fugou-keiji-balance-unlimited/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fdec13710ca9d696725d33ed9bba495927ec2d19/fugou-keiji-balance-unlimited/banner.jpg",
+      "synopsis": "Detective Daisuke Kanbe has no problems using his own fortune to solve crimes even if he assesses human lives based on their financial worth. Compassionate Haru Katosees all life as sacred and is sickened by Daisuke’s materialistic ways. Can they stop butting heads and overcome their opposing world views for the sake of solving the toughest crimes in the precinct?\n\n(Source: Funimation)",
+      "year": 2020,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Crime",
+        "Drama",
+        "Detective",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "147402072dcb1d488baaf046ba2118bf181eae68",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fugou-keiji-balance-unlimited/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fugou-keiji-balance-unlimited/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fugou-keiji-balance-unlimited/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fugou-keiji-balance-unlimited/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fugou-keiji-balance-unlimited/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fugou-keiji-balance-unlimited/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fugou-keiji-balance-unlimited/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fugou-keiji-balance-unlimited/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fugou-keiji-balance-unlimited/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fugou-keiji-balance-unlimited/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fugou-keiji-balance-unlimited/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
