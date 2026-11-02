@@ -78466,6 +78466,131 @@
           "playlist": "the-sacred-blacksmith/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "utawarerumono",
+      "title": "Utawarerumono",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@81d772561a5c7190b490bb59d91f4367bde7e89f/utawarerumono/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@81d772561a5c7190b490bb59d91f4367bde7e89f/utawarerumono/banner.jpg",
+      "synopsis": "Everything about him is shrouded in mystery. The mask he can't remove. The past he can't unravel. And the very survival of the people who have chosen him as their leader. But what Hakuoro does know is this: he was gravely injured and left for dead in a forest. A kind young girl named Eruruu found him and nursed him back to health. He was welcomed into a barren land where strange creatures roam, an angry god seeks vengeance, an oppressive government slaughters the innocent, and a bloody war looms on the horizon. Will the masked hero liberate the people who saved him? Can he unlock the memories that elude him? Or will he remain a stranger even to himself? \n(Source: FUNimation)",
+      "year": 2006,
+      "score": 7.6,
+      "genres": [
+        "Swordplay",
+        "Future",
+        "Earth",
+        "Violence",
+        "Plot Continuity",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "1b95cea2d5c586ea4706fa9504aeb9744fb2307a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "utawarerumono/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "utawarerumono/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "utawarerumono/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "utawarerumono/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "utawarerumono/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "utawarerumono/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "utawarerumono/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "utawarerumono/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "utawarerumono/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "utawarerumono/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "utawarerumono/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "utawarerumono/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "utawarerumono/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "utawarerumono/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "utawarerumono/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "utawarerumono/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "utawarerumono/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "utawarerumono/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "utawarerumono/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "utawarerumono/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "utawarerumono/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "utawarerumono/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "utawarerumono/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "utawarerumono/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "utawarerumono/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "utawarerumono/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
