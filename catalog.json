@@ -75752,6 +75752,75 @@
           "playlist": "izetta-the-last-witch/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yuki-yuna-is-a-hero",
+      "title": "Yuki Yuna is a Hero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed27966a494e6028cf31af73e7e0a472d5bcbf67/yuki-yuna-is-a-hero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed27966a494e6028cf31af73e7e0a472d5bcbf67/yuki-yuna-is-a-hero/banner.jpg",
+      "synopsis": "In her everyday life, Yuuna Yuuki is a hero. As proof, she is in her middle school's Hero Club, where she does her best to help others and bring a smile to everyone's face.\nBut Yuuna, always up to any task, is about to become an even bigger hero. Mysterious destructive forces called Vertexes begin threatening the world she loves, and the Hero Club is called upon by a strange phone app to save it. Along with her best friend Mimori Tougou, as well as sisters Fuu and Itsuki Inubouzaki, they must transform into magical girls in order to battle the Vertexes.\nIn between studying and putting on shows for kids, Yuuna and the Hero Club must fight for the very existence of their world and face the harsh truths behind their own powers, all the while discovering what it truly means to be a hero.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.3,
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Contemporary Fantasy",
+        "Fantasy",
+        "Friendship",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "42868c637068ae5ac5079b72a1f25f4776b7235b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yuki-yuna-is-a-hero/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yuki-yuna-is-a-hero/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yuki-yuna-is-a-hero/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yuki-yuna-is-a-hero/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yuki-yuna-is-a-hero/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yuki-yuna-is-a-hero/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yuki-yuna-is-a-hero/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yuki-yuna-is-a-hero/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yuki-yuna-is-a-hero/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yuki-yuna-is-a-hero/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yuki-yuna-is-a-hero/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yuki-yuna-is-a-hero/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
