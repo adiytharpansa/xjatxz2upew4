@@ -68841,6 +68841,32 @@
           "playlist": "blue-exorcist-the-movie/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-cat-returns",
+      "title": "The Cat Returns",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bb3545bceddda384c027645b9b80e341102d46db/the-cat-returns/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bb3545bceddda384c027645b9b80e341102d46db/the-cat-returns/banner.jpg",
+      "synopsis": "Haru Yoshioka is your ordinary high school girl who has trouble making decisions for herself. One day, she spots a strange cat crossing the road with a small present... and a truck headed straight for it! Haru doesn’t even stop to think before jumping in front of the truck and getting them both to safety.\nThis one selfless act initiates a chain of events that sends Haru on an epic adventure. The cat she saved turns out to be no ordinary feline, but Lune, Prince of the Cats. In honour of her bravery and for saving his life, he offers to marry her. Haru mutters a reply which is taken to be a \"yes\", and for better or for worse, her fate is sealed. \n\nAlongside her cat companions Muta and the Baron, she's aided from above by a raven named Toto, and must travel to the cat world in order to rectify this misunderstanding. Her journey is tougher than it seems: If she cannot escape from the claws of the King of the Cats and find her true self, she will be turned into a cat forever.\n\nHaru may start off as an everyday girl, but after her descent into the world of cats, she returns a different beast entirely.",
+      "year": 2002,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Fantasy World",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "143e59287a8b9033f5033f6ad32190d5fea03463",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-cat-returns/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
