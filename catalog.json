@@ -69319,6 +69319,72 @@
           "playlist": "servant-x-service/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-sister-s-all-you-need",
+      "title": "A Sister's All You Need",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d35d5e266a391f5705b0c7ca713fd648cb07e9c8/a-sister-s-all-you-need/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d35d5e266a391f5705b0c7ca713fd648cb07e9c8/a-sister-s-all-you-need/banner.jpg",
+      "synopsis": "The story follows siscon novelist Itsuki Hashima, his perfect sibling Chihiro, obsessed genius illustrator Kani Nayuta, peer/friend Shirakawa Kyoto and other crazy figures from the publishing industry.\n\n(Source: Crunchyroll)",
+      "year": 2017,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "8559e3f522edee7a8fb2280948d2c2114e62f556",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-sister-s-all-you-need/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-sister-s-all-you-need/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-sister-s-all-you-need/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-sister-s-all-you-need/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-sister-s-all-you-need/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-sister-s-all-you-need/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-sister-s-all-you-need/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-sister-s-all-you-need/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-sister-s-all-you-need/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-sister-s-all-you-need/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-sister-s-all-you-need/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-sister-s-all-you-need/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
