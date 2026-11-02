@@ -73942,6 +73942,76 @@
           "playlist": "that-time-i-got-reincarnated-as-a-slime-ova/ep5/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sky-wizards-academy",
+      "title": "Sky Wizards Academy",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@290070936ca1fe3fa891fb25c32dff8855c73ea5/sky-wizards-academy/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@290070936ca1fe3fa891fb25c32dff8855c73ea5/sky-wizards-academy/banner.jpg",
+      "synopsis": "Forced to retreat to floating cities due to an invasion of armored insects, humanity must depend on Sky Wizards to battle the menace.\n\n(Source: Funimation)",
+      "year": 2015,
+      "score": 6.3,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Ecchi",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "6094d98f505905c6bf7848c71c80fe234c6a9320",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sky-wizards-academy/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sky-wizards-academy/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sky-wizards-academy/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sky-wizards-academy/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sky-wizards-academy/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sky-wizards-academy/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sky-wizards-academy/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sky-wizards-academy/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sky-wizards-academy/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sky-wizards-academy/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sky-wizards-academy/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sky-wizards-academy/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
