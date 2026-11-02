@@ -77836,6 +77836,131 @@
           "playlist": "fate-extra-last-encore/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nabari-no-ou",
+      "title": "Nabari no Ou",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@032e62c83d3213354e13f3b494a5f1f397ae39e3/nabari-no-ou/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@032e62c83d3213354e13f3b494a5f1f397ae39e3/nabari-no-ou/banner.jpg",
+      "synopsis": "Silent, apathetic, yet mischievous, 14-year-old Rokujou Miharu is the bearer of the hijutsu, \"Shinrabanshou,\" a powerful technique many ninja clans desire to possess to become the ruler of Nabari. Fellow classmate Kouichi and his English teacher Kumohira are both secretly Banten clan ninjas, pledging themselves to protect Miharu from his many attackers. Keeping apathetic, Miharu attempts to reject their invitation to join their ninja \"club.\" However, after numerous attacks, he finds no choice but to join their group as a means for his survival. Slowly, Miharu takes a step closer to becoming the ruler of Nabari.\n\n[Written by MAL Rewrite]",
+      "year": 2008,
+      "score": 7.0,
+      "genres": [
+        "Bishounen",
+        "Ninja",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "caea295a25e856525dc6d591f479a013187c4971",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nabari-no-ou/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nabari-no-ou/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nabari-no-ou/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nabari-no-ou/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nabari-no-ou/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nabari-no-ou/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nabari-no-ou/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nabari-no-ou/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nabari-no-ou/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nabari-no-ou/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nabari-no-ou/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nabari-no-ou/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "nabari-no-ou/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "nabari-no-ou/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "nabari-no-ou/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "nabari-no-ou/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "nabari-no-ou/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "nabari-no-ou/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "nabari-no-ou/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "nabari-no-ou/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "nabari-no-ou/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "nabari-no-ou/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "nabari-no-ou/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "nabari-no-ou/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "nabari-no-ou/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "nabari-no-ou/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
