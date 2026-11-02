@@ -77038,6 +77038,130 @@
           "playlist": "coppelion/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-certain-magical-index-iii",
+      "title": "A Certain Magical Index III",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8f708493e96cd35e23a6c2a4f10d97b267f22c0/a-certain-magical-index-iii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8f708493e96cd35e23a6c2a4f10d97b267f22c0/a-certain-magical-index-iii/banner.jpg",
+      "synopsis": "Third season of Toaru Majutsu no Index",
+      "year": 2018,
+      "score": 6.9,
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "0233f2f04a23678ef4b2ca94c91b4fff889fe09b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-certain-magical-index-iii/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-certain-magical-index-iii/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-certain-magical-index-iii/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-certain-magical-index-iii/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-certain-magical-index-iii/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-certain-magical-index-iii/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-certain-magical-index-iii/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-certain-magical-index-iii/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-certain-magical-index-iii/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-certain-magical-index-iii/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-certain-magical-index-iii/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-certain-magical-index-iii/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "a-certain-magical-index-iii/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "a-certain-magical-index-iii/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "a-certain-magical-index-iii/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "a-certain-magical-index-iii/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "a-certain-magical-index-iii/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "a-certain-magical-index-iii/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "a-certain-magical-index-iii/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "a-certain-magical-index-iii/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "a-certain-magical-index-iii/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "a-certain-magical-index-iii/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "a-certain-magical-index-iii/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "a-certain-magical-index-iii/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "a-certain-magical-index-iii/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "a-certain-magical-index-iii/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
