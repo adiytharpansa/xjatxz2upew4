@@ -80692,6 +80692,79 @@
           "playlist": "kono-oto-tomare-sounds-of-life/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gintama-slip-arc",
+      "title": "Gintama.: Slip Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a4529980110d82962d91b66f9ae92a95ebaf5870/gintama-slip-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a4529980110d82962d91b66f9ae92a95ebaf5870/gintama-slip-arc/banner.jpg",
+      "synopsis": "Sixth season of Gintama.",
+      "year": 2017,
+      "score": 8.2,
+      "genres": [
+        "Samurai",
+        "Historical",
+        "Parody",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "f56a17b3ca423b3c9bf582a0001fa26e3b3393d4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gintama-slip-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gintama-slip-arc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gintama-slip-arc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gintama-slip-arc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gintama-slip-arc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gintama-slip-arc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gintama-slip-arc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gintama-slip-arc/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gintama-slip-arc/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gintama-slip-arc/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gintama-slip-arc/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gintama-slip-arc/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gintama-slip-arc/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
