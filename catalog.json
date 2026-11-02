@@ -79429,6 +79429,75 @@
           "playlist": "aria-the-origination/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dramatical-murder",
+      "title": "DRAMAtical Murder",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@40dfe0644bd8c8ed4fe88776f304684d700953f7/dramatical-murder/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@40dfe0644bd8c8ed4fe88776f304684d700953f7/dramatical-murder/banner.jpg",
+      "synopsis": "Some time ago, the influential and powerful Toue Inc. bought the island of Midorijima, Japan, with the plans of building Platinum Jail—a luxurious utopian facility. Those who are lucky enough to call it home are the wealthiest citizens in the world. The original residents of the island, however, were forced to relocate to the Old Residential District; and after the completion of Platinum Jail, they were completely abandoned.\n\"Rib\" and \"Rhyme\" are the most common games played on the island. Rib is an old school game in which gangs engage in turf wars against each other, while Rhyme is a technologically advanced game wherein participants fight in a virtual reality. To be able to play Rhyme, you must have an \"All-Mate\" (an AI that typically looks like a pet), and the match must be mediated by an \"Usui.\"\nAoba Seragaki has no interest in playing either game; he prefers to live a peaceful life with his grandmother and All-Mate, Ren. However, after getting forcefully dragged into a dangerous Rhyme match and hearing rumors about disappearing Rib players, all of Aoba's hopes of living a normal life are completely abolished.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 5.9,
+      "genres": [
+        "Super Power",
+        "Shounen Ai",
+        "Virtual Reality",
+        "Action",
+        "Science Fiction",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "954b2d4fcccffc6c6780aec95f548ac6dd9bb606",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dramatical-murder/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dramatical-murder/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dramatical-murder/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dramatical-murder/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dramatical-murder/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dramatical-murder/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dramatical-murder/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dramatical-murder/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dramatical-murder/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dramatical-murder/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dramatical-murder/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dramatical-murder/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
