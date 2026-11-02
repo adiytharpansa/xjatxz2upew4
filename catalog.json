@@ -80098,6 +80098,31 @@
           "playlist": "high-rise-invasion/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "vampire-hunter-d-bloodlust",
+      "title": "Vampire Hunter D: Bloodlust",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7b7536c934d396d4783263ec2887ea7c533a4432/vampire-hunter-d-bloodlust/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7b7536c934d396d4783263ec2887ea7c533a4432/vampire-hunter-d-bloodlust/banner.jpg",
+      "synopsis": "The story revolves around D, the infamous \"dunpeal\" (born of a vampire father and a human mother) outcast and renowned vampire hunter. His prowess at hunting the creatures of the night allowing his acceptance among humans, he is called upon to locate Charlotte Elbourne, the lovely daughter of an affluent family who has been mysteriously kidnapped.\nWhen the sun sets, the hunt goes on! Charlotte`s father offers a rich bounty, be she dead or alive, a task D willingly accepts, even with notorious Markus brothers and their gang of bounty hunters seeking the prize as well. Amidst the chase and unknown to all lurks a sinister evil which has been secretly manipulating their every move and has set a chilling trap that none will expect and few will survive. With the tables turned and the secrets revealed, the hunters could quickly become the hunted!\n(Source: AniDB)",
+      "year": 2000,
+      "score": 7.9,
+      "genres": [
+        "Vampire",
+        "Bounty Hunter",
+        "Future",
+        "Fantasy World",
+        "Contemporary Fantasy",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "8fae8f1471e44dc8479d5f3b13b66d362a2a52ab",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "vampire-hunter-d-bloodlust/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
