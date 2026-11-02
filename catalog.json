@@ -72797,6 +72797,76 @@
           "playlist": "punch-line/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ga-rei-zero",
+      "title": "Ga-Rei-Zero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8011c4b5ba914268985fed50b415758ed8a15647/ga-rei-zero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8011c4b5ba914268985fed50b415758ed8a15647/ga-rei-zero/banner.jpg",
+      "synopsis": "\"Will you kill someone you love because of love?\"\nThe Japanese Ministry of Defense has an anti-paranormal special forces group called the Supernatural Disaster Prevention Office. They are the ones responsible to protect Japanese soil and its people from supernatural and paranormal events. However, things didn't go so well in one of their missions...\n(Source: ANN)",
+      "year": 2008,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Super Power",
+        "Present",
+        "Japan",
+        "Violence",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "679ff789aec5ed596d43a7a5574087b2e3216e44",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ga-rei-zero/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ga-rei-zero/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ga-rei-zero/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ga-rei-zero/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ga-rei-zero/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ga-rei-zero/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ga-rei-zero/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ga-rei-zero/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ga-rei-zero/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ga-rei-zero/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ga-rei-zero/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ga-rei-zero/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
