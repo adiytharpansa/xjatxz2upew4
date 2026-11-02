@@ -70263,6 +70263,74 @@
           "playlist": "fate-kaleid-liner-prisma-illya/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "is-the-order-a-rabbit",
+      "title": "Is the order a rabbit?",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44524512f9c7129a29a5dfa915e0ce7a7badd783/is-the-order-a-rabbit/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44524512f9c7129a29a5dfa915e0ce7a7badd783/is-the-order-a-rabbit/banner.jpg",
+      "synopsis": "Kokoa Hoto is a positive and energetic girl who becomes friends with anyone in just three seconds. After moving in with the Kafuu family in order to attend high school away from home, she immediately befriends the shy and precocious granddaughter of Rabbit House cafe's founder, Chino Kafuu, who is often seen with the talking rabbit, Tippy, on her head.\nAfter beginning to work as a waitress in return for room and board, Kokoa also befriends another part-timer, Rize Tedeza, who has unusual behavior and significant physical capabilities due to her military upbringing; Chiya Ujimatsu, a waitress from a rival cafe who does everything at her own pace; and Sharo Kirima, another waitress at a different cafe who has the air of a noblewoman despite being impoverished.\nWith fluffy silliness and caffeinated fun, Gochuumon wa Usagi Desu ka? is a heartwarming comedy about five young waitresses and their amusing adventures in the town they call home.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "Comedy",
+        "Friendship",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "f830cbfa5deb2c547b977eb89676c35fddfe8210",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "is-the-order-a-rabbit/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "is-the-order-a-rabbit/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "is-the-order-a-rabbit/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "is-the-order-a-rabbit/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "is-the-order-a-rabbit/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "is-the-order-a-rabbit/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "is-the-order-a-rabbit/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "is-the-order-a-rabbit/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "is-the-order-a-rabbit/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "is-the-order-a-rabbit/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "is-the-order-a-rabbit/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "is-the-order-a-rabbit/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
