@@ -71128,6 +71128,73 @@
           "playlist": "ranking-of-kings/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "juni-taisen-zodiac-war",
+      "title": "Juni Taisen: Zodiac War",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a2a83dbfb109ff61142d1b7767cc14d4eb50078e/juni-taisen-zodiac-war/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a2a83dbfb109ff61142d1b7767cc14d4eb50078e/juni-taisen-zodiac-war/banner.jpg",
+      "synopsis": "12 warriors who are burdened with the names of the 12 Chinese Zodiac members fight with each other's lives and pride at stake, all to grant just one wish.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Violence",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "714f35f9496346099305a59fd7ddc92a49c8501b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "juni-taisen-zodiac-war/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "juni-taisen-zodiac-war/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "juni-taisen-zodiac-war/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "juni-taisen-zodiac-war/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "juni-taisen-zodiac-war/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "juni-taisen-zodiac-war/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "juni-taisen-zodiac-war/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "juni-taisen-zodiac-war/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "juni-taisen-zodiac-war/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "juni-taisen-zodiac-war/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "juni-taisen-zodiac-war/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "juni-taisen-zodiac-war/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
