@@ -74520,6 +74520,31 @@
           "playlist": "bleach-the-movie-hell-verse/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mushishi-special-hihamukage",
+      "title": "Mushishi Special: Hihamukage",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ec2c0b61358994b61d097664b103eca70a84ad1f/mushishi-special-hihamukage/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ec2c0b61358994b61d097664b103eca70a84ad1f/mushishi-special-hihamukage/banner.jpg",
+      "synopsis": "A 45-minute special which adapts a two-chapter manga. Ginko finds himself in a village which falls victim to a mushi that blocks out the sun; however, one villager seems to benefit from this calamity.",
+      "year": 2014,
+      "score": 8.1,
+      "genres": [
+        "Past",
+        "Earth",
+        "Countryside",
+        "Alternative Past",
+        "Historical",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "f21c5bfa246d851a1735d78a5daa976f1a57fd6a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mushishi-special-hihamukage/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
