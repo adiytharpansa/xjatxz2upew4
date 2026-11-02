@@ -74570,6 +74570,31 @@
           "playlist": "clannad-the-motion-picture/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "from-up-on-poppy-hill",
+      "title": "From Up on Poppy Hill",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c333a045229d278a4f2205fe82fa99874686ae0c/from-up-on-poppy-hill/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c333a045229d278a4f2205fe82fa99874686ae0c/from-up-on-poppy-hill/banner.jpg",
+      "synopsis": "Yokohama, 1963. Umi is a high school student living in her family's hillside home overlooking the sea. Every morning she hoists two signal flags towards the bay, sending out a message. A poem about the flags is published in the school newspaper. Could the author be Shun, the daring newspaper editor who has drawn Umi's attention?\n\nWhile the two teenagers join in the campaign to save their school's old clubhouse, their budding relationship takes an unexpected turn when they discover a secret surrounding their past. In a Japan at the crossroads of tradition and modernization, Umi and Shun share a moving story of friendship, love and hope.\n\n(Source: New Video Group)",
+      "year": 2011,
+      "score": 7.9,
+      "genres": [
+        "High School",
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "6eb2380a39fe2a3df5116910a103dd82d2a9481e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "from-up-on-poppy-hill/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
