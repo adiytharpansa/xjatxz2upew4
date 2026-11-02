@@ -76943,6 +76943,28 @@
           "playlist": "boogiepop-and-others/ep18/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "darker-than-black-beneath-cherry-blossoms-in-full-bloom",
+      "title": "Darker than Black: Beneath Cherry Blossoms in Full Bloom...",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@833a716a7e9d8ae23ea8982ed072b34c73e0d9d0/darker-than-black-beneath-cherry-blossoms-in-full-bloom/poster.jpg",
+      "banner": "",
+      "synopsis": "A side story of Darker than BLACK, also known as Episode 26. A Contractor was killed and it was rumored that his corpse and possessions were buried under a Sakura tree. Hei and the others (including the Police) decide to investigate.",
+      "year": 2008,
+      "score": 7.5,
+      "genres": [
+        "Parody",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "27671d13d20707c189900d7abee21965566d1a40",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "darker-than-black-beneath-cherry-blossoms-in-full-bloom/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
