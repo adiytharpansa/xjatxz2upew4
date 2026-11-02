@@ -76353,6 +76353,179 @@
           "playlist": "mr-osomatsu/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kingdom",
+      "title": "Kingdom",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a851bcac9a67105a1c1a6131c568f8aa534d7d14/kingdom/poster.jpg",
+      "banner": "",
+      "synopsis": "China's Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy. Eventually, seven powerful states emerged from the endless cycle of warfare.\n\nIn the kingdom of Qin, Xin Li, a war-orphaned slave, trains vigorously with fellow slave and best friend, Piao, who shares his proud dream of one day becoming a Great General of the Heavens. However, the two are suddenly forced to part ways when Piao is recruited to work in the royal palace by a retainer of the King.\n\nAfter a fierce coup d'état unfolds, Piao returns to Xin, half dead, with a mission that will lead him to a meeting with China's young King, Zheng Ying, who bears a striking resemblance to Piao. Kingdom follows Xin as he takes his first steps into the great blood-soaked pages of China's history. He must carve his own path to glory on his long quest to become a Great General of the historic Seven Warring States.\n\n(Source: MAL Rewrite)",
+      "year": 2012,
+      "score": 7.6,
+      "genres": [
+        "Swordplay",
+        "Earth",
+        "Historical",
+        "China",
+        "Feudal Warfare",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "7f61da17d840263fdfd339ffcaee26c26088e42d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kingdom/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kingdom/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kingdom/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kingdom/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kingdom/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kingdom/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kingdom/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kingdom/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kingdom/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kingdom/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kingdom/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kingdom/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kingdom/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "kingdom/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "kingdom/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "kingdom/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "kingdom/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "kingdom/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "kingdom/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "kingdom/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "kingdom/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "kingdom/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "kingdom/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "kingdom/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "kingdom/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "kingdom/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "kingdom/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "kingdom/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "kingdom/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "kingdom/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "kingdom/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "kingdom/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "kingdom/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "kingdom/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "kingdom/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "kingdom/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "kingdom/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "kingdom/ep38/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
