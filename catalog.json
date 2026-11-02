@@ -80619,6 +80619,79 @@
           "playlist": "ghost-in-the-shell-stand-alone-complex-solid-state-society/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kono-oto-tomare-sounds-of-life",
+      "title": "Kono Oto Tomare!: Sounds of Life",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@754e674453ed9941d39c708038e7575269215317/kono-oto-tomare-sounds-of-life/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@754e674453ed9941d39c708038e7575269215317/kono-oto-tomare-sounds-of-life/banner.jpg",
+      "synopsis": "Down to its last member, the koto club will accept anyone who is interested in the traditional Japanese instrument. But when a delinquent and a prodigy player sign up, finding harmony isn’t going to be easy—especially not with ensemble competitions looming around the corner. With enough time and some incredible skill at the strings, perhaps this motley crew can strike a chord with the judges.\n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 7.8,
+      "genres": [
+        "Musical Band",
+        "Delinquent",
+        "School Clubs",
+        "Music",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "e0f8d528e449946db2502a9c1207af91019b1b6d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kono-oto-tomare-sounds-of-life/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
