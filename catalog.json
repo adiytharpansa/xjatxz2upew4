@@ -79615,6 +79615,75 @@
           "playlist": "nura-rise-of-the-yokai-clan-demon-capital/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "re-hamatora-season-2",
+      "title": "Re: Hamatora: Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@51acf3ed522d4077564e18acaf2c7313f03cb0a4/re-hamatora-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@51acf3ed522d4077564e18acaf2c7313f03cb0a4/re-hamatora-season-2/banner.jpg",
+      "synopsis": "It has been three months since the incident at Yokohama. Things have been settling down at Cafe Nowhere. Murasaki and Hajime have teamed up and started investigating again. After an unforeseen reunion, Art holds Nice at gunpoint. What are his real intentions? What will become of the connection between Art and Hamatora?\n(Source: Crunchyroll)",
+      "year": 2014,
+      "score": 7.2,
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "2b56f4d91646e1912b3591389cdfcbec0daac185",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "re-hamatora-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "re-hamatora-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "re-hamatora-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "re-hamatora-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "re-hamatora-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "re-hamatora-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "re-hamatora-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "re-hamatora-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "re-hamatora-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "re-hamatora-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "re-hamatora-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "re-hamatora-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
