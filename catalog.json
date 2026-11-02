@@ -70564,6 +70564,76 @@
           "playlist": "the-comic-artist-and-his-assistants/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "devil-may-cry-the-animated-series",
+      "title": "Devil May Cry: The Animated Series",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@24ce5ec6f4894258c1495d0a6c66a5b6b25b1867/devil-may-cry-the-animated-series/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@24ce5ec6f4894258c1495d0a6c66a5b6b25b1867/devil-may-cry-the-animated-series/banner.jpg",
+      "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to hell—especially when there's money to be made. The wildly popular video game is now a series, and this time, there's no sympathy for the devil.\n\n(Source: Crunchyroll)",
+      "year": 2007,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Swordplay",
+        "Present",
+        "Fantasy World",
+        "Alternative Present",
+        "Demon"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "08afbf4aaa27150a04877d20881b59be5b939fa3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "devil-may-cry-the-animated-series/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "devil-may-cry-the-animated-series/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "devil-may-cry-the-animated-series/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "devil-may-cry-the-animated-series/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "devil-may-cry-the-animated-series/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "devil-may-cry-the-animated-series/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "devil-may-cry-the-animated-series/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "devil-may-cry-the-animated-series/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "devil-may-cry-the-animated-series/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "devil-may-cry-the-animated-series/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "devil-may-cry-the-animated-series/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "devil-may-cry-the-animated-series/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
