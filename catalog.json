@@ -77775,6 +77775,67 @@
           "playlist": "our-love-has-always-been-10-centimeters-apart/ep6/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-extra-last-encore",
+      "title": "Fate/Extra: Last Encore",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c476de82a9ee28610f260cedde06b1fcc9041b87/fate-extra-last-encore/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c476de82a9ee28610f260cedde06b1fcc9041b87/fate-extra-last-encore/banner.jpg",
+      "synopsis": "Waking up in a strange virtual world with no recollection of the past, Hakuno finds himself forced to fight for survival in a war he does not understand for a prize beyond value; the opportunity to have one's wish granted. With only an enigmatic \"Servant\" by his side, Hakuno Kishinami will have to face both friends and foes in battles to the death in order to not only gain possession of a mysterious object known as the \"Holy Grail,\" but also to find the answer to the most important question of all: \"Who am I?\"\n\n(Source: Type-Moon Wikia)",
+      "year": 2018,
+      "score": 6.3,
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Swordplay",
+        "Contemporary Fantasy",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "9950eecc7c3bb75c2b6acd353849b7d3fa41e3af",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-extra-last-encore/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-extra-last-encore/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-extra-last-encore/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-extra-last-encore/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-extra-last-encore/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-extra-last-encore/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-extra-last-encore/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-extra-last-encore/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-extra-last-encore/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-extra-last-encore/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
