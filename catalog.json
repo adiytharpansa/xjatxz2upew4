@@ -78265,6 +78265,71 @@
           "playlist": "jojo-s-bizarre-adventure-stone-ocean/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "descending-stories-showa-genroku-rakugo-shinju",
+      "title": "Descending Stories: Showa Genroku Rakugo Shinju",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fd0a9e62f1dcbf393f4c39b97030559b96a9200d/descending-stories-showa-genroku-rakugo-shinju/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fd0a9e62f1dcbf393f4c39b97030559b96a9200d/descending-stories-showa-genroku-rakugo-shinju/banner.jpg",
+      "synopsis": "Ex-convict turned Rakugo apprentice Yotarou has finally taken the name of Yurakutei Sukeroku III, and with his master Yakumo's permission has attained the lofty rank of shin'uchi. He assumes the name at a critical time for Rakugo, with audiences fewer than ever. At the same time he has started acting as a husband to Konatsu, who is now a single mother. Yotarou thus begins the struggle to fill the role of Sukeroku, both as the future of Rakugo and as a part of Yakumo's and Konatsu's lives.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 8.0,
+      "genres": [
+        "Drama",
+        "Josei"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "f0a7d70b35be96211a8e2e1ff74c1551a18c287e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
