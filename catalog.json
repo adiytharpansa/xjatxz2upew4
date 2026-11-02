@@ -75010,6 +75010,75 @@
           "playlist": "c-cubexcursedxcurious/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kakushigoto-tv",
+      "title": "Kakushigoto (TV)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@209a9e8e6262690c934c0a77acd44c4ad4d84469/kakushigoto-tv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@209a9e8e6262690c934c0a77acd44c4ad4d84469/kakushigoto-tv/banner.jpg",
+      "synopsis": "The story of Kakushigoto follows the father-daughter unit, Kakushi and Hime Goto. Kakushi loves his daughter more than anything, but he doesn't want the 4th grade Hime to know that her father is the author of a somewhat vulgar and disreputable weekly manga series because he fears that Hime would resent him if she found out. With the help of his editors and assistants, Kakushi does his best to keep his profession a secret … with varying results.\n\n(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 7.9,
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Drama",
+        "Working Life",
+        "Family",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "3156189a6d2d91107015f2a20853ad30b8ad6c0d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kakushigoto-tv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kakushigoto-tv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kakushigoto-tv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kakushigoto-tv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kakushigoto-tv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kakushigoto-tv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kakushigoto-tv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kakushigoto-tv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kakushigoto-tv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kakushigoto-tv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kakushigoto-tv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kakushigoto-tv/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
