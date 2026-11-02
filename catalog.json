@@ -70331,6 +70331,116 @@
           "playlist": "is-the-order-a-rabbit/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "robotics-notes",
+      "title": "Robotics;Notes",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5f7d780eb05dfaac455cf5c1353d7be0b584d849/robotics-notes/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5f7d780eb05dfaac455cf5c1353d7be0b584d849/robotics-notes/banner.jpg",
+      "synopsis": "2019, Divergence Ratio 1.048596. The near future, where a device popularly called the PokeCom, packaged with PhoneDroid OS, spreads, bringing the Augmented Reality world close to existence. \nCentral Tanegashima High School's Robot Research Club is in danger of losing its club status. Kaito Yashio, one of only two members, is only obsessed with robot fighting games, showing no interest in the Robo Club even in this situation. The reckless, useless club head, Akiho Senomiya, aims to complete a giant robot, struggling hard to avoid losing the club's status. \nThen, one day, Kaito discovers the A.R. annotation that becomes the Kimijima Report. Written in that report is the indictment of someone named Kou Kimijima's conspiracy involving the world.\n\n(Source: VNdb)",
+      "year": 2012,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Future",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "21aa5353f5b88c40f51434395e38e03584da41c8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "robotics-notes/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "robotics-notes/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "robotics-notes/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "robotics-notes/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "robotics-notes/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "robotics-notes/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "robotics-notes/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "robotics-notes/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "robotics-notes/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "robotics-notes/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "robotics-notes/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "robotics-notes/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "robotics-notes/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "robotics-notes/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "robotics-notes/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "robotics-notes/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "robotics-notes/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "robotics-notes/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "robotics-notes/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "robotics-notes/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "robotics-notes/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "robotics-notes/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
