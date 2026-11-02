@@ -76013,6 +76013,75 @@
           "playlist": "gungrave/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kemono-jihen",
+      "title": "Kemono Jihen",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4f6056cf400a3752dded99d8d0d6e836ced65502/kemono-jihen/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4f6056cf400a3752dded99d8d0d6e836ced65502/kemono-jihen/banner.jpg",
+      "synopsis": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human.\n\n(Source: MU)",
+      "year": 2021,
+      "score": 7.5,
+      "genres": [
+        "Demon",
+        "Dark Fantasy",
+        "Action",
+        "Detective",
+        "Juujin",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "c88b9722a3c418d3286cadd7725a1283cbedfec1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kemono-jihen/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kemono-jihen/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kemono-jihen/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kemono-jihen/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kemono-jihen/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kemono-jihen/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kemono-jihen/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kemono-jihen/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kemono-jihen/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kemono-jihen/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kemono-jihen/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kemono-jihen/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
