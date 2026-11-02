@@ -75537,6 +75537,75 @@
           "playlist": "sabagebu-survival-game-club/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "arpeggio-of-blue-steel-ars-nova",
+      "title": "Arpeggio of Blue Steel -Ars Nova-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@db45ba71526bca1f8af774425289d42f4e45c382/arpeggio-of-blue-steel-ars-nova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@db45ba71526bca1f8af774425289d42f4e45c382/arpeggio-of-blue-steel-ars-nova/banner.jpg",
+      "synopsis": "By 2039, global warming had caused sea levels to rise and large amount of territory to be lost. As though in response, a mysterious group of warships clad in mist, \"the Fleet of Mist,\" appeared in every corner of the ocean, and began attacking human ships. In spite of humanity mustering all their strength, they were utterly defeated by the Mist's overwhelming force. All of humanity's trade routes were blockaded by the Fleet of Mist, their political economy was destroyed, and the human race was steadily beaten down. Seven years later, the Fleet of Mist's submarine I-401 appears before cadet Gunzo Chihaya. The humanoid life form that pilots the sub, who should be their enemy, is instead offering her services to mankind.\n(Source: ANN)",
+      "year": 2013,
+      "score": 7.3,
+      "genres": [
+        "Earth",
+        "Japan",
+        "Asia",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "033142e88397b2fffb54075c8da617b13dedca47",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "arpeggio-of-blue-steel-ars-nova/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
