@@ -73900,6 +73900,48 @@
           "playlist": "colorful-the-motion-picture/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "that-time-i-got-reincarnated-as-a-slime-ova",
+      "title": "That Time I Got Reincarnated as a Slime OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f19680d22195989c28668f46d78cd482b04bd6ea/that-time-i-got-reincarnated-as-a-slime-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f19680d22195989c28668f46d78cd482b04bd6ea/that-time-i-got-reincarnated-as-a-slime-ova/banner.jpg",
+      "synopsis": "Unaired episodes bundled with the 12th, 13th, 14th, 15th and 16th volumes of the manga.",
+      "year": 2019,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "a3ea2bad1dea8f7dff2eb6bd87bcdda0a5cd1e3c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "that-time-i-got-reincarnated-as-a-slime-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "that-time-i-got-reincarnated-as-a-slime-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "that-time-i-got-reincarnated-as-a-slime-ova/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "that-time-i-got-reincarnated-as-a-slime-ova/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "that-time-i-got-reincarnated-as-a-slime-ova/ep5/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
