@@ -79287,6 +79287,75 @@
           "playlist": "kokkoku/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "takt-op-destiny",
+      "title": "Takt Op. Destiny",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6f5ecb8036f577d76df4d34e7432cd210feacd0b/takt-op-destiny/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6f5ecb8036f577d76df4d34e7432cd210feacd0b/takt-op-destiny/banner.jpg",
+      "synopsis": "Music is the light that illuminates people's hearts-- and that \"light\" was suddenly taken from the world. The world changed the night the black \"Kuroya Meteorite\" fell. Grotesque monsters known as D2 emerged from the meteorite and began to overrun the land and people. As the D2 were drawn to melodies people played, eventually \"music\" itself became taboo.\n\nHowever, those who opposed the monsters appeared. They the \"Musicart,\" girls who draw power from music. They possess the great operas and musical scores of humanity history and use them to defeat the D2.\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 7.1,
+      "genres": [
+        "Alternative Present",
+        "Contemporary Fantasy",
+        "Performance",
+        "Music",
+        "Action",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "af2cb00f411e7ef45d0bc82231d91530802946e3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "takt-op-destiny/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "takt-op-destiny/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "takt-op-destiny/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "takt-op-destiny/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "takt-op-destiny/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "takt-op-destiny/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "takt-op-destiny/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "takt-op-destiny/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "takt-op-destiny/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "takt-op-destiny/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "takt-op-destiny/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "takt-op-destiny/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
