@@ -78079,6 +78079,123 @@
           "playlist": "kobato/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "basilisk",
+      "title": "Basilisk",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@565c326c8345815fb70c3f9aa1eb4f8067368123/basilisk/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@565c326c8345815fb70c3f9aa1eb4f8067368123/basilisk/banner.jpg",
+      "synopsis": "The heirs to the Kouga and Iga ninja clans, Gennosuke and Oboro, hoped the unsteady truce between their tribes would last—but fate denies the lovers, thrusting their people into war after centuries of peace. The terms are set on two scrolls. One bears a list of Kouga warriors. The other holds a list of those who fight for Iga. The names found on these scrolls can only be crossed out in blood.\n\n(Source: Funimation)",
+      "year": 2005,
+      "score": 7.5,
+      "genres": [
+        "Samurai",
+        "Martial Arts",
+        "Ninja",
+        "Swordplay",
+        "Past",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "d53812b60232f03fd3b8ce3123aca059db33636c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "basilisk/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "basilisk/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "basilisk/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "basilisk/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "basilisk/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "basilisk/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "basilisk/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "basilisk/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "basilisk/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "basilisk/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "basilisk/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "basilisk/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "basilisk/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "basilisk/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "basilisk/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "basilisk/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "basilisk/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "basilisk/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "basilisk/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "basilisk/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "basilisk/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "basilisk/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "basilisk/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "basilisk/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
