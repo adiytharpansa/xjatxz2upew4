@@ -81124,6 +81124,73 @@
           "playlist": "yozakura-quartet-hana-no-uta/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-period",
+      "title": "Blue Period",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7f749f10247613f35dbf07d84948828ee60d6f21/blue-period/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7f749f10247613f35dbf07d84948828ee60d6f21/blue-period/banner.jpg",
+      "synopsis": "Bored with life, popular high schooler Yatora Yaguchi jumps into the beautiful yet unrelenting world of art after finding inspiration in a painting.\n\n(Source: Netflix)\n\nNote: The anime had an early premiere on Netflix on Sep 25, 2021 in Japan. The TV broadcast started on Oct 2, 2021. International Netflix streaming began on Oct 9th, 2021.",
+      "year": 2021,
+      "score": 7.9,
+      "genres": [
+        "School Life",
+        "The Arts",
+        "Drama",
+        "Seinen"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "2ccaeaa8a059506154931418a008f686bbc91626",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-period/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blue-period/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blue-period/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blue-period/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blue-period/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blue-period/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blue-period/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blue-period/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blue-period/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blue-period/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blue-period/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blue-period/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
