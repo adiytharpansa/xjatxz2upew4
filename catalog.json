@@ -74803,6 +74803,79 @@
           "playlist": "knight-s-magic/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tenchi-muyo-war-on-geminar",
+      "title": "Tenchi Muyo! War on Geminar",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b6b971baa29e6c33c15009bec4b079b9919fe19f/tenchi-muyo-war-on-geminar/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b6b971baa29e6c33c15009bec4b079b9919fe19f/tenchi-muyo-war-on-geminar/banner.jpg",
+      "synopsis": "Mysteriously teleported from Earth, Kenshi Masaki finds himself ensnared by a mysterious organization in a world called Geminar, where male mecha pilots are extremely rare. With the promise of returning home, the 15 year-old agrees to pilot a mecha suit called a Sacred Mechanoid and assassinate the ruler of the Shtrayu Empire, Lashara Earth XVIII. However, things do not go according to plan, and Kenshi finds himself prisoner and an object of scrutiny by Lashara and her shipmates. After learning of Kenshi’s plight, Lashara offers him the chance to redeem himself by entering her employ. He will act as her servant, practically a slave, but also have a chance to once more pilot a mecha suit. Kenshi is willing to endure Geminar’s eccentricities if it means he may return home, but will he ever be able to do so? And what of this mysterious organization that brought him to Geminar to try to kill Lashara?",
+      "year": 2009,
+      "score": 7.8,
+      "genres": [
+        "Elf",
+        "Magic",
+        "Fantasy World",
+        "Mecha",
+        "Piloted Robot",
+        "Parallel Universe"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "01b691c0005093a1b33ea0976ba272e30b3651bf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tenchi-muyo-war-on-geminar/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tenchi-muyo-war-on-geminar/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tenchi-muyo-war-on-geminar/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tenchi-muyo-war-on-geminar/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tenchi-muyo-war-on-geminar/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tenchi-muyo-war-on-geminar/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tenchi-muyo-war-on-geminar/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tenchi-muyo-war-on-geminar/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tenchi-muyo-war-on-geminar/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tenchi-muyo-war-on-geminar/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tenchi-muyo-war-on-geminar/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tenchi-muyo-war-on-geminar/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tenchi-muyo-war-on-geminar/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
