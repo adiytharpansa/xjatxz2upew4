@@ -77435,6 +77435,79 @@
           "playlist": "d-gray-man-hallow/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "now-and-then-here-and-there",
+      "title": "Now and Then, Here and There",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0b527fe68cd5224ea8ed98eba782bd136b65b022/now-and-then-here-and-there/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0b527fe68cd5224ea8ed98eba782bd136b65b022/now-and-then-here-and-there/banner.jpg",
+      "synopsis": "Shu is a typical Japanese boy, but has an unbeatable, optimistic and determined attitude. However, when he sees a mysterious girl with strange eyes named Lala-Ru up on a smokestack, he is soon pulled into a strange desert world. Shu soon discovers the true terrors of war, which includes genocide, brutal torture, hunger, thirst, and child exploitation. Now Shu is trying to save Lala-Ru, as well as his hard earned, and often reluctant, new friends from the insane dictator, Hamdo. Whether Shu can possibly accomplish saving those he cares about while still holding up to his values remains to be seen.\n(Source: ANN)",
+      "year": 1999,
+      "score": 7.6,
+      "genres": [
+        "Future",
+        "Fantasy World",
+        "Dark Fantasy",
+        "Violence",
+        "Plot Continuity",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "0244d83a043aad6d08f20522fb26098dd7e1247c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "now-and-then-here-and-there/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "now-and-then-here-and-there/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "now-and-then-here-and-there/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "now-and-then-here-and-there/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "now-and-then-here-and-there/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "now-and-then-here-and-there/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "now-and-then-here-and-there/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "now-and-then-here-and-there/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "now-and-then-here-and-there/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "now-and-then-here-and-there/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "now-and-then-here-and-there/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "now-and-then-here-and-there/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "now-and-then-here-and-there/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
