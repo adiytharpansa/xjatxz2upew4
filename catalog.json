@@ -74545,6 +74545,31 @@
           "playlist": "mushishi-special-hihamukage/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "clannad-the-motion-picture",
+      "title": "Clannad The Motion Picture",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2931f7d98d74ca21401a507bd49cb61b5b91d144/clannad-the-motion-picture/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2931f7d98d74ca21401a507bd49cb61b5b91d144/clannad-the-motion-picture/banner.jpg",
+      "synopsis": "Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labors through high school. During his childhood, a tragedy had caused his father to seek solace in alcoholism and neglect his son. Yet, meaningful human interaction can be a benediction, as Tomoya learns when he meets the enigmatic Nagisa Furukawa. The odd girl offers a gesture of friendship to Tomoya, but he rejects the request, dismissing it as a trivial incident. However, as he soon realizes that he is encountering Nagisa more and more often during school, Tomoya drops his discompassions and befriends the girl.\nWhen he learns that Nagisa's dream is to revive the Drama Club, Tomoya decides to shed his detachment from the ordinary pleasures of life and dedicate himself to helping his new friend achieve her ambition. But what starts as a simple friendship may progress into something far more deep, intimate, and life-changing. As the pair face various hardships and afflictions, Tomoya and Nagisa gradually come to terms with the challenges of life.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 6.9,
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "6934c794bddecaf757a250ce24054ac5364ec9fb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "clannad-the-motion-picture/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
