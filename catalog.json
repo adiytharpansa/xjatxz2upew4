@@ -74423,6 +74423,31 @@
           "playlist": "berserk-the-golden-age-arc-i-the-egg-of-the-king/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-ova",
+      "title": "My Hero Academia OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@61a2557765e52729e92768f32428521143312959/my-hero-academia-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@61a2557765e52729e92768f32428521143312959/my-hero-academia-ova/banner.jpg",
+      "synopsis": "UA High School must regain the public's confidence after the surprise villain attack during class 1-A's training session. Although some of the teachers were gravely injured in the attack, Izuku \"Deku\" Midoriya and his classmates must continue to learn and train, and utilize their quirks in varying environments and circumstances.\n\nBoku no Hero Academia: Sukue! Kyuujo Kunren! follows class 1-A as they attempt to finally complete their training. However, there's a masked figure roaming around the training center. Have the villains responsible for the previous incident returned to finish the job? If so, are the students ready to fight back?\n\n(Source: MAL Rewrite)\n\n(Note: This OVA was initially screened at Jump Festa 2016 on November 27, 2016. The OVA was later bundled with the 13th volume of the manga, released on April 4, 2017.)",
+      "year": 2017,
+      "score": 7.5,
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "005db4e323a4ff19694518b8132f6d8625bc5de1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-ova/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
