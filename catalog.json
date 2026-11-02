@@ -80004,6 +80004,31 @@
           "playlist": "pretty-guardian-sailor-moon-crystal/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-ghoul-pinto",
+      "title": "Tokyo Ghoul: \"Pinto\"",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4317bd78ee0e2fb794c597e48c46a8d697fde4d0/tokyo-ghoul-pinto/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4317bd78ee0e2fb794c597e48c46a8d697fde4d0/tokyo-ghoul-pinto/banner.jpg",
+      "synopsis": "The OVA adapts the third story in the Tokyo Ghoul: Hibi novel when Shuu Tsukiyama and Chie Hori met.",
+      "year": 2015,
+      "score": 7.2,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Drama",
+        "Psychological",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "e35d52666403b31b66b46f0d5f15a6612a303fab",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-pinto/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
