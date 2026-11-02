@@ -69109,6 +69109,76 @@
           "playlist": "my-teen-romantic-comedy-snafu-ova/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "riddle-story-of-devil",
+      "title": "Riddle Story of Devil",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@73da1134d5a5786f89e3bd3724a837ded474f650/riddle-story-of-devil/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@73da1134d5a5786f89e3bd3724a837ded474f650/riddle-story-of-devil/banner.jpg",
+      "synopsis": "Tokaku Azuma has just transferred to the elite Myoujou Academy, a private girls' boarding school. But there's a catch: she, along with 11 of her fellow students in Class Black, is an assassin taking part in the challenge to kill their sweet-natured classmate, Haru Ichinose. Whoever succeeds will be granted their deepest desire, no matter the difficulty or cost. However, each assassin only gets one chance; if they fail to kill her, they will be expelled.\nDespite the extraordinary reward, Tokaku decides to take a different course of action. Though Haru is her target, the young assassin soon finds herself drawn to the very girl she is supposed to kill. With the entire class out for Haru, Tokaku refuses to let her friend die, vowing to protect her from a growing bloodlust.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Shoujo Ai",
+        "Action",
+        "Angst",
+        "School Life",
+        "Crime"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "a35b94e170108eeefc7d94b1c34017e0cacfc426",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "riddle-story-of-devil/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "riddle-story-of-devil/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "riddle-story-of-devil/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "riddle-story-of-devil/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "riddle-story-of-devil/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "riddle-story-of-devil/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "riddle-story-of-devil/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "riddle-story-of-devil/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "riddle-story-of-devil/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "riddle-story-of-devil/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "riddle-story-of-devil/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "riddle-story-of-devil/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
