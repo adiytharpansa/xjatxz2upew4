@@ -74473,6 +74473,28 @@
           "playlist": "i-ve-always-liked-you/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ansatsu-kyoushitsu-365-nichi-no-jikan",
+      "title": "Ansatsu Kyoushitsu: 365-nichi no Jikan",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1597318b58091c8d96bc1dd42a93ff3887de0bd6/ansatsu-kyoushitsu-365-nichi-no-jikan/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1597318b58091c8d96bc1dd42a93ff3887de0bd6/ansatsu-kyoushitsu-365-nichi-no-jikan/banner.jpg",
+      "synopsis": "A compilation film of the Ansatsu Kyoushitsu TV series, featuring anime-only epilogue scenes not originally in the manga.",
+      "year": 2016,
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "bbd2522c585cc9e57a77d6ae5e5e4ed06cd5a2c2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ansatsu-kyoushitsu-365-nichi-no-jikan/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
