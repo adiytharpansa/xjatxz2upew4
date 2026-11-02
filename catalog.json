@@ -69245,6 +69245,80 @@
           "playlist": "darwin-s-game/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "servant-x-service",
+      "title": "Servant x Service",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44a3fb149d42ad23163beff3c7deaeafa14cd25f/servant-x-service/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44a3fb149d42ad23163beff3c7deaeafa14cd25f/servant-x-service/banner.jpg",
+      "synopsis": "Imagine if three people suddenly found themselves as civil servants of the city Mitsuba. What sort of personalities and drives would they have to push them to seek out such careers? Lucy Yamagami, a serious young woman assigned to the Welfare Administrative Section, intends to use the job as a means of settling a vendetta against another civil servant. Yutaka Hasebe, a flirtatious young man assigned to the First Section of the Welfare Department, intends to slack off whenever he can and have a good time. And Saya Miyoshi, a college graduate assigned to the Second Section of the Welfare Department, intends to simply get through the first job she's had in her life as best she can.Servant x Service follows these three newcomers starting their jobs as government employees under their supervisor, Taishi Ichimiya, who is utterly clueless about how to direct them—despite having worked there for the last eight years. Nevertheless, he welcomes them as fellow civil servants and encourages them to work themselves like dogs for the sake of the citizens. We follow their day-to-day lives as they experience the rigors of government employment, including dealing with regulations, office romances, paperwork, and being the nearest punching bags when citizens need something to complain about.",
+      "year": 2013,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Japan",
+        "Stereotypes",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "bcdc70ef872658c8a78723f97b7f870e17833314",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "servant-x-service/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "servant-x-service/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "servant-x-service/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "servant-x-service/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "servant-x-service/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "servant-x-service/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "servant-x-service/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "servant-x-service/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "servant-x-service/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "servant-x-service/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "servant-x-service/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "servant-x-service/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "servant-x-service/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
