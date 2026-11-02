@@ -74495,6 +74495,31 @@
           "playlist": "ansatsu-kyoushitsu-365-nichi-no-jikan/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bleach-the-movie-hell-verse",
+      "title": "Bleach the Movie: Hell Verse",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e362573265ec6de7d71700cb3317139fdfa6df95/bleach-the-movie-hell-verse/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e362573265ec6de7d71700cb3317139fdfa6df95/bleach-the-movie-hell-verse/banner.jpg",
+      "synopsis": "\"Hell\" is the place where a person is sent to who committed violent crimes when they were alive. Shinigami are forbidden to go there. One day, prisoners revolt and make their escape to Karakura—the real world—where Ichigo and his friends live in. Ichigo and his friends are defeated one after the other by prisoners with overwhelming power. A mysterious man appears who comes to their rescue. With Kokutou leading the way, Ichigo, Rukia, Uryuu, and Renji marche into Hell to save the world.\nNote: Episode 299 of Bleach serves as a prologue to this movie.\n(Source: AniDB, edited)",
+      "year": 2010,
+      "score": 7.5,
+      "genres": [
+        "Super Power",
+        "Demon",
+        "Action",
+        "Comedy",
+        "Friendship",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "3e0663f348da1ee2b3745ba5d5c4fd13a2cd6012",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bleach-the-movie-hell-verse/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
