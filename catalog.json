@@ -78397,6 +78397,75 @@
           "playlist": "isekai-cheat-magician/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-sacred-blacksmith",
+      "title": "The Sacred Blacksmith",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@82b3a8b40331cb260ee255739fd9aef48681e740/the-sacred-blacksmith/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@82b3a8b40331cb260ee255739fd9aef48681e740/the-sacred-blacksmith/banner.jpg",
+      "synopsis": "Once upon a time, there was a tragic war, in which the power of the devils was involved. After the war, the devils' power was banned and the world was restored to peace. Cecily Campbell is a knight, who has been looking for a blacksmith to repair her old sword given by her father. One day, she saw a man fighting with a ruffian who used the tabooed devil's power. The man defeated him with one blow of his weirdly shaped sword. The man turned out to be a blacksmith called Luke. The fateful encounter was the beginning of the adventure.",
+      "year": 2009,
+      "score": 6.6,
+      "genres": [
+        "Swordplay",
+        "Present",
+        "Fantasy World",
+        "Earth",
+        "Demon",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "ff40a9b84645e2527c4bf8292b6641c1f043d9bf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-sacred-blacksmith/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-sacred-blacksmith/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-sacred-blacksmith/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-sacred-blacksmith/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-sacred-blacksmith/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-sacred-blacksmith/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-sacred-blacksmith/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-sacred-blacksmith/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-sacred-blacksmith/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-sacred-blacksmith/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-sacred-blacksmith/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-sacred-blacksmith/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
