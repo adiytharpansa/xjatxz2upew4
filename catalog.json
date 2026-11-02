@@ -72439,6 +72439,78 @@
           "playlist": "porco-rosso/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ajin-2nd-season",
+      "title": "Ajin 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b98057f7bc4a77f3485f2b6ede173c4b62a66838/ajin-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b98057f7bc4a77f3485f2b6ede173c4b62a66838/ajin-2nd-season/poster.jpg",
+      "synopsis": "Second cour of Ajin.",
+      "year": 2016,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "97a7e97200b3a907200867f82de3682834b1faf8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ajin-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ajin-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ajin-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ajin-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ajin-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ajin-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ajin-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ajin-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ajin-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ajin-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ajin-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ajin-2nd-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ajin-2nd-season/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
