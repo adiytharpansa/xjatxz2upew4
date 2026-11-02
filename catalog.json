@@ -77364,6 +77364,77 @@
           "playlist": "castle-town-dandelion/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "d-gray-man-hallow",
+      "title": "D.Gray-man HALLOW",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c5375e99f5f3897c7b226fd848b42e2f7cc449bd/d-gray-man-hallow/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c5375e99f5f3897c7b226fd848b42e2f7cc449bd/d-gray-man-hallow/banner.jpg",
+      "synopsis": "Toward the end of the 19th century, Allen Walker officially joins the organization of Exorcists that destroy the beings known as Akuma; mechanic weapons made by the Millennium Earl with the suffering souls of the dead. Allen has both a cursed eye and an anti-Akuma weapon as an arm, bearing the power of \"Innocence,\" a gift given to him as an apostle of God. Allen, along with his fellow Exorcists must put a stop to the Millennium Earl's ultimate plot that could lead to the destruction of the world and all who live on it.",
+      "year": 2016,
+      "score": 7.8,
+      "genres": [
+        "Super Power",
+        "Demon",
+        "Action",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "b28cf7e90c1540f5b9d0583d710522e461d9d1a3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "d-gray-man-hallow/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "d-gray-man-hallow/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "d-gray-man-hallow/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "d-gray-man-hallow/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "d-gray-man-hallow/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "d-gray-man-hallow/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "d-gray-man-hallow/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "d-gray-man-hallow/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "d-gray-man-hallow/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "d-gray-man-hallow/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "d-gray-man-hallow/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "d-gray-man-hallow/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "d-gray-man-hallow/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
