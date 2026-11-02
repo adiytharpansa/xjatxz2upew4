@@ -70494,6 +70494,76 @@
           "playlist": "durarara-specials/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-comic-artist-and-his-assistants",
+      "title": "The Comic Artist and His Assistants",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2a9e20050f51699766e559d45c2e2730210d5a70/the-comic-artist-and-his-assistants/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2a9e20050f51699766e559d45c2e2730210d5a70/the-comic-artist-and-his-assistants/banner.jpg",
+      "synopsis": "The story depicts the work-life of a perverted mangaka, Aito Yuuki, and his assistant, Ashisu Sahoto. Constantly pressured by his editor and lacking experience with girls, Aito asks Ashisu to act as a reference.\n(Source: AniDB)",
+      "year": 2014,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Stereotypes",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "d9f7b9ada67683029307842514d6431a0d90a3d4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-comic-artist-and-his-assistants/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-comic-artist-and-his-assistants/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-comic-artist-and-his-assistants/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-comic-artist-and-his-assistants/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-comic-artist-and-his-assistants/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-comic-artist-and-his-assistants/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-comic-artist-and-his-assistants/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-comic-artist-and-his-assistants/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-comic-artist-and-his-assistants/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-comic-artist-and-his-assistants/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-comic-artist-and-his-assistants/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-comic-artist-and-his-assistants/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
