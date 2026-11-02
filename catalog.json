@@ -69863,6 +69863,80 @@
           "playlist": "one-piece-film-gold/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "canaan",
+      "title": "Canaan",
+      "poster": "https://media.kitsu.app/anime/poster_images/4072/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/4072/large.jpg",
+      "synopsis": "Oosawa Maria is a Japanese photographer currently working in Shanghai, China. Along with her partner Mino, she searches for potential newsworthy stories throughout the city. When strange events occur at a local festival, Maria and Mino immediately investigate.  Quickly, the two are immersed in a battle between unknown masked men and a strange, white-haired woman.  Just when Maria is about to be caught in the crossfire, an old friend by the name of Canaan appears and helps Maria escape.  But a sinister plot over a deadly virus soon develops, and Canaan learns she must confront her past if she wants any chance at stopping the perpetrator and saving her friends.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Super Power",
+        "China",
+        "Violence",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "5b42fce9c924dfcd1cd35c6d7e6077ad8010650c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "canaan/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "canaan/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "canaan/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "canaan/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "canaan/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "canaan/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "canaan/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "canaan/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "canaan/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "canaan/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "canaan/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "canaan/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "canaan/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
