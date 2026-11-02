@@ -75326,6 +75326,79 @@
           "playlist": "kaiba/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "joshiraku",
+      "title": "Joshiraku",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1c14596284e5a628aeb8c2427c23f989fafcbb7/joshiraku/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1c14596284e5a628aeb8c2427c23f989fafcbb7/joshiraku/banner.jpg",
+      "synopsis": "An adaptation of a manga written by the author of Sayonara Zetsubou Sensei about group of girls who discuss random things and usually reach an unusual or humorous conclusion that's far from the initial discussion topic. ",
+      "year": 2012,
+      "score": 7.5,
+      "genres": [
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Parody",
+        "Japan",
+        "Tokyo"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "d52cc961fe582db265303255584399e0237bde1a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "joshiraku/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "joshiraku/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "joshiraku/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "joshiraku/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "joshiraku/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "joshiraku/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "joshiraku/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "joshiraku/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "joshiraku/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "joshiraku/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "joshiraku/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "joshiraku/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "joshiraku/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
