@@ -70634,6 +70634,29 @@
           "playlist": "devil-may-cry-the-animated-series/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-stay-night-heaven-s-feel-ii-lost-butterfly",
+      "title": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8daab6a2f58c146362feb700dbd654ad781be027/fate-stay-night-heaven-s-feel-ii-lost-butterfly/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8daab6a2f58c146362feb700dbd654ad781be027/fate-stay-night-heaven-s-feel-ii-lost-butterfly/banner.jpg",
+      "synopsis": "Second of three movies in an adaptation of the third route of Fate/stay night.",
+      "year": 2019,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "ed22083f67210cc8b54d3f84010e3ebcf164c972",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-stay-night-heaven-s-feel-ii-lost-butterfly/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
