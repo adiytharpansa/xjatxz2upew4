@@ -76965,6 +76965,79 @@
           "playlist": "darker-than-black-beneath-cherry-blossoms-in-full-bloom/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "coppelion",
+      "title": "Coppelion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@51e399934ece48020c6ff7039de34cba2c689fce/coppelion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@51e399934ece48020c6ff7039de34cba2c689fce/coppelion/banner.jpg",
+      "synopsis": "In 2016, a meltdown of a nuclear power plant creates a big catastrophe in Tokyo. 20 years later, the city has become a ghost town due to the high levels of radiation. From that area a distress signal is received. The Self Defense forces dispatch three girls from the special unit Coppelion to search for survivors. But why aren't they wearing any protection against radiation?\n(Source: MU, edited)",
+      "year": 2013,
+      "score": 6.1,
+      "genres": [
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Japan",
+        "Tokyo",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "b8cd13b161e5255ece1135b7a698278fec3647bd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "coppelion/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "coppelion/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "coppelion/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "coppelion/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "coppelion/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "coppelion/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "coppelion/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "coppelion/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "coppelion/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "coppelion/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "coppelion/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "coppelion/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "coppelion/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
