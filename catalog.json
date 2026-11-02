@@ -79077,6 +79077,75 @@
           "playlist": "cromartie-high-school/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "made-in-abyss-the-golden-city-of-the-scorching-sun",
+      "title": "Made in Abyss: The Golden City of the Scorching Sun",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1101f74f63bd3ec4dc04554e534edead1d6d23de/made-in-abyss-the-golden-city-of-the-scorching-sun/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1101f74f63bd3ec4dc04554e534edead1d6d23de/made-in-abyss-the-golden-city-of-the-scorching-sun/banner.jpg",
+      "synopsis": "The second season of Made in Abyss.\n\nDirectly after the events of Made in Abyss: Fukaki Tamashii no Reimei, the third installment of Made in Abyss covers the adventures of Reg, Riko, and Nanachi in the Sixth Layer, The Capital of the Unreturned.",
+      "year": 2022,
+      "score": 8.3,
+      "genres": [
+        "Human Enhancement",
+        "Dark Fantasy",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "e963154cccb043f30cbc64a82653c64c9d664cd3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "made-in-abyss-the-golden-city-of-the-scorching-sun/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
