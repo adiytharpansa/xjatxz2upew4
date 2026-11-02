@@ -75079,6 +75079,63 @@
           "playlist": "kakushigoto-tv/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fairy-tail-ova",
+      "title": "Fairy Tail OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e133d297a881348e421e1006e031f7f4993e2df3/fairy-tail-ova/poster.jpg",
+      "banner": "",
+      "synopsis": "OVAs bundled with the special edition of the 26th, 27th, 31st, 35th and 38th volumes of the manga.",
+      "year": 2011,
+      "score": 7.5,
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Stereotypes",
+        "Fantasy",
+        "Comedy",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "2ffd23819994368ecca1622577df78536aee744f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fairy-tail-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fairy-tail-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fairy-tail-ova/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fairy-tail-ova/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fairy-tail-ova/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fairy-tail-ova/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fairy-tail-ova/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fairy-tail-ova/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fairy-tail-ova/ep9/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
