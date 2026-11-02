@@ -74448,6 +74448,31 @@
           "playlist": "my-hero-academia-ova/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "i-ve-always-liked-you",
+      "title": "I've Always Liked You",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5fd4afd05693c244333ea29a04d6bf86b52ef7f3/i-ve-always-liked-you/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5fd4afd05693c244333ea29a04d6bf86b52ef7f3/i-ve-always-liked-you/banner.jpg",
+      "synopsis": "\"This is the last time I’m going to practice…\n\nNatsuki Enomoto, a third-year student at Sakuragaoka High School, has feelings of unrequited love for her childhood friend, Yu Setoguchi.\n\nUnable to be true to her own feelings, Natsuki tells Yu that she is merely using him as a stand-in to practice confessing her love to.\n\nAs Natsuki continues to pretend not having any feelings for Yu, her classmate Koyuki Ayase asks her out on a date.\n\nWill Natsuki ever be able to stop “practicing” and actually confess her love to Yu?\"\n\n(Source: Aniplex USA)",
+      "year": 2016,
+      "score": 7.1,
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Love Polygon",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "2900500c8625782223203849af61c48e0d664fcf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "i-ve-always-liked-you/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
