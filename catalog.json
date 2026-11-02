@@ -72937,6 +72937,80 @@
           "playlist": "after-the-rain/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "alderamin-on-the-sky",
+      "title": "Alderamin on the Sky",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c60a5577e930cce7843c141c7c34b70b37bc5eac/alderamin-on-the-sky/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c60a5577e930cce7843c141c7c34b70b37bc5eac/alderamin-on-the-sky/banner.jpg",
+      "synopsis": "The huge Katvana Empire is at war with the neighboring Kioka republic. In a corner of the empire, a young man is about be caught up in the flames of war. His name is Ikta Solork. He's lazy, a philanderer, and he hates war. He's about as far from a soldier as you can get. On his way towards the next stage of officer's qualification exams, he and his childhood friend Yatorishino Igsem encounter the nurse trainee Harouma Beckle, Mashuu Tetrijirch, a member of the old military faction, and Torwey Lemion....\n\n(Source: Crunchyroll)",
+      "year": 2016,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Steampunk"
+      ],
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "385b85552c836bdcb67f7c3da61ca5c9a15f6bf8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "alderamin-on-the-sky/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "alderamin-on-the-sky/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "alderamin-on-the-sky/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "alderamin-on-the-sky/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "alderamin-on-the-sky/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "alderamin-on-the-sky/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "alderamin-on-the-sky/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "alderamin-on-the-sky/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "alderamin-on-the-sky/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "alderamin-on-the-sky/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "alderamin-on-the-sky/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "alderamin-on-the-sky/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "alderamin-on-the-sky/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
