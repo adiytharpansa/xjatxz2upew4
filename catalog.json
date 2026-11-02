@@ -72655,6 +72655,78 @@
           "playlist": "heaven-s-lost-property-forte/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "iroduku-the-world-in-colors",
+      "title": "IRODUKU: The World in Colors",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c22ce881cd2836968441876e9830cb59ad5cbb15/iroduku-the-world-in-colors/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c22ce881cd2836968441876e9830cb59ad5cbb15/iroduku-the-world-in-colors/banner.jpg",
+      "synopsis": "In a world in the future where magic is still a part of everyday life, 17-year-old Hitomi Tsukishiro, a descendant of a family of mages, lost the ability to see colors when young and has grown up into a girl devoid of emotion.\n\n(Source: Prime Video)",
+      "year": 2018,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "School Clubs",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "2f02bb226a91a8a6f314575043f692e917c288af",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "iroduku-the-world-in-colors/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "iroduku-the-world-in-colors/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "iroduku-the-world-in-colors/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "iroduku-the-world-in-colors/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "iroduku-the-world-in-colors/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "iroduku-the-world-in-colors/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "iroduku-the-world-in-colors/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "iroduku-the-world-in-colors/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "iroduku-the-world-in-colors/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "iroduku-the-world-in-colors/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "iroduku-the-world-in-colors/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "iroduku-the-world-in-colors/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "iroduku-the-world-in-colors/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
