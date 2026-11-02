@@ -74230,6 +74230,80 @@
           "playlist": "tari-tari/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "space-dandy-2nd-season",
+      "title": "Space Dandy 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fc1d6832dc9417cf058286c167a6dedc1a3e9444/space-dandy-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fc1d6832dc9417cf058286c167a6dedc1a3e9444/space-dandy-2nd-season/banner.jpg",
+      "synopsis": "Second season of Space Dandy.\nSpace Dandy is a dandy guy, in space! This dreamy adventurer with a to-die-for pompadour travels across the galaxy in search of aliens no one has ever laid eyes on. Each new species he discovers earns him a hefty reward, but this dandy has to be quick on his feet because it's first come, first served! Accompanied by his sidekicks, a rundown robot named QT and Meow the cat-looking space alien, Dandy bravely explores unknown worlds inhabited by a variety of aliens. Join the best dressed alien hunter in all of space and time as he embarks on an adventure that ends at the edge of the universe!\n(Source: Bandai Visual)",
+      "year": 2014,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Future",
+        "Space",
+        "Space Travel",
+        "Absurdist Humour",
+        "Parody"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "d203883ef32aac56e98fa747d37c1bd2d04d5e16",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "space-dandy-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "space-dandy-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "space-dandy-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "space-dandy-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "space-dandy-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "space-dandy-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "space-dandy-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "space-dandy-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "space-dandy-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "space-dandy-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "space-dandy-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "space-dandy-2nd-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "space-dandy-2nd-season/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
