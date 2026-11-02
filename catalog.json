@@ -71705,6 +71705,38 @@
           "playlist": "true-tears/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yona-of-the-dawn-ova",
+      "title": "Yona of the Dawn OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@55e4678980aa6a6e93613476415af7e2bec0127a/yona-of-the-dawn-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@55e4678980aa6a6e93613476415af7e2bec0127a/yona-of-the-dawn-ova/banner.jpg",
+      "synopsis": "The first episode adapts two bonus chapters from Mizuho Kusanagi's 12th manga volume, titled \"On That Back\" and \"Kija.\" \"On That Back\" follows an incident at a hot spring hotel, and \"Kija\" depicts the past of the Hakuryuu Kija. The second two episodes adapt the rest of the Zeno Arc and were bundled with the 21st and 22nd volumes of the manga.\n\n(Source: ANN)",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Friendship"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "613419a4de83d7d6ea8fb403da8f2414b251645f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yona-of-the-dawn-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yona-of-the-dawn-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yona-of-the-dawn-ova/ep3/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
