@@ -80568,6 +80568,31 @@
           "playlist": "midori-days/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kuroko-s-basketball-the-greatest-present",
+      "title": "Kuroko's Basketball: The Greatest Present",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eecffb86c4a5e96bceba566af4b143c68e175a4a/kuroko-s-basketball-the-greatest-present/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eecffb86c4a5e96bceba566af4b143c68e175a4a/kuroko-s-basketball-the-greatest-present/banner.jpg",
+      "synopsis": "A few weeks after the Winter Cup, the five players of the Generation of Miracles as well as Kuroko have settled back into everyday life. But an invitation from Momoi arrives, proposing that the former Teikou Junior High players gather once again and play a game. Kuroko happily accepts the unexpected invitation. But Kagami is bothered when he learns about the game, because on that day, the Seirin High team was planning a birthday party for Kuroko! However, Kagami tells Kuroko that the birthday party won't be until the evening, which makes him glad. So on January 31st, Kuroko's best day begins!\n(Source: ANN)",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Basketball",
+        "Action",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "04588d9190d537b7ad1798bc3a498360b81e322f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kuroko-s-basketball-the-greatest-present/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
