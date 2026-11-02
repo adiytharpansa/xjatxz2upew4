@@ -74941,6 +74941,75 @@
           "playlist": "natsume-s-book-of-friends-season-6/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "c-cubexcursedxcurious",
+      "title": "C³ - CubexCursedxCurious",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@430835eaf974710e336e1b85bf280430f914ec0a/c-cubexcursedxcurious/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@430835eaf974710e336e1b85bf280430f914ec0a/c-cubexcursedxcurious/banner.jpg",
+      "synopsis": "From the light novel series written by Minase Hazuki, comes a story of love, action, and comedy. Yachi Haruaki is a high school boy who is naturally resistant to curses. After his father sends him a mysterious black cube, Haruaki awakes to find a nude girl named Fear standing in his kitchen. She’s the human form of the cursed black cube – and an instrument of torture! Utilizing her special abilities, Fear fights alongside Haruaki to defeat other cursed instruments and their owners.\n(Source: FUNimation)",
+      "year": 2011,
+      "score": 6.4,
+      "genres": [
+        "High School",
+        "Magic",
+        "Swordplay",
+        "Earth",
+        "Alternative Present",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "b18af43d064b79967a12955b343fe5556ba6da59",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "c-cubexcursedxcurious/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "c-cubexcursedxcurious/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "c-cubexcursedxcurious/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "c-cubexcursedxcurious/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "c-cubexcursedxcurious/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "c-cubexcursedxcurious/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "c-cubexcursedxcurious/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "c-cubexcursedxcurious/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "c-cubexcursedxcurious/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "c-cubexcursedxcurious/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "c-cubexcursedxcurious/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "c-cubexcursedxcurious/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
