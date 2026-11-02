@@ -78330,6 +78330,73 @@
           "playlist": "descending-stories-showa-genroku-rakugo-shinju/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "isekai-cheat-magician",
+      "title": "Isekai Cheat Magician",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@10ba36d68128b9247baa9a0e344786cbbb7f126a/isekai-cheat-magician/poster.jpg",
+      "banner": "",
+      "synopsis": "Nishimura Taichi is a typical, average high schooler, and Azuma Rin is a beautiful woman with the build of a model and excellent reflexes. The two live a normal high school life until one day they're suddenly enveloped in a mysterious magic circle and transported to an unknown land. That world is full of terrifying monsters, beastmen, dwarves, elves, and many other races right out of fantasy. In order to survive in this new world Taichi and Rin decide to become adventurers, but when they take the aptitude test they discover they both possess cheat level magic...\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 5.5,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "d201c7f23cbd3e31b9d2a6b64199cd71b8c0c17c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "isekai-cheat-magician/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "isekai-cheat-magician/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "isekai-cheat-magician/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "isekai-cheat-magician/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "isekai-cheat-magician/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "isekai-cheat-magician/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "isekai-cheat-magician/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "isekai-cheat-magician/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "isekai-cheat-magician/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "isekai-cheat-magician/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "isekai-cheat-magician/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "isekai-cheat-magician/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
