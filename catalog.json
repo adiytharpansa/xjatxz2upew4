@@ -69937,6 +69937,74 @@
           "playlist": "canaan/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-world-is-still-beautiful",
+      "title": "The World is Still Beautiful",
+      "poster": "https://media.kitsu.app/anime/poster_images/8258/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/8258/large.jpg",
+      "synopsis": "In the Sun Kingdom, sunshine is part of its citizens' everyday lives, and rain is something that they have never even heard of. However, in a faraway land called the Rain Dukedom, the weather is reversed, and everybody has the power to create rain with their voices.\nLivius Ifrikia has conquered the entire world and expanded the Sun Kingdom's influence in the three short years since he was crowned king. Upon learning about the powers to create rain, Livius decides to marry Nike Remercier, one of the princesses of the Rain Dukedom. However, those outside the Sun Kingdom have spread a rumor that Livius is a cruel, ruthless, and tyrannical ruler, and as word reaches the princess, she begins to prepare herself for the worst. But when she finally meets her fiancé, Nike discovers that he is an entirely different person from what she originally expected.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "3a6a16fb9b4130adc17cf57d9b4798916524d2cd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-world-is-still-beautiful/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-world-is-still-beautiful/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-world-is-still-beautiful/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-world-is-still-beautiful/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-world-is-still-beautiful/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-world-is-still-beautiful/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-world-is-still-beautiful/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-world-is-still-beautiful/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-world-is-still-beautiful/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-world-is-still-beautiful/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-world-is-still-beautiful/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-world-is-still-beautiful/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
