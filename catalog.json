@@ -88676,6 +88676,80 @@
           "playlist": "ride-your-wave/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "xxxholic-kei",
+      "title": "xxxHOLiC Kei",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b8a15dc54d59616b84cbabdb04c31ae495f3f409/xxxholic-kei/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b8a15dc54d59616b84cbabdb04c31ae495f3f409/xxxholic-kei/poster.jpg",
+      "synopsis": "Still working to get his wish complete, Watanuki finds himself into more mess than he can handle when certain facts about his everyday life gets revealed and when he needs to learn the lesson of Yuuko the hard way. \n(Source: ANN)",
+      "year": 2008,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "bc456b7191a15bca07f102f37b761f60dfddfb42",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "xxxholic-kei/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "xxxholic-kei/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "xxxholic-kei/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "xxxholic-kei/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "xxxholic-kei/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "xxxholic-kei/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "xxxholic-kei/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "xxxholic-kei/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "xxxholic-kei/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "xxxholic-kei/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "xxxholic-kei/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "xxxholic-kei/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "xxxholic-kei/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
