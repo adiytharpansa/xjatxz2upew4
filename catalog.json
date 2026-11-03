@@ -92665,6 +92665,72 @@
           "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nodame-cantabile-paris-hen",
+      "title": "Nodame Cantabile: Paris-hen",
+      "poster": "https://media.kitsu.app/anime/poster_images/3632/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/3632/large.jpg",
+      "synopsis": "Having been given the opportunity to study in Paris, Noda accompanies Chiaki to Europe as he strives to become the accomplished conductor he always dreamt to be.\n(Source: ANN)",
+      "year": 2008,
+      "score": 8.0,
+      "genres": [
+        "Present",
+        "Earth",
+        "Plot Continuity",
+        "Music",
+        "France",
+        "Europe"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "be42afaabc72b9bcc5df62c470763742798c742c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
