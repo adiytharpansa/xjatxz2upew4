@@ -92592,6 +92592,79 @@
         14,
         15
       ]
+    },
+    {
+      "id": "akiba-s-trip-the-animation",
+      "title": "Akiba's Trip The Animation",
+      "poster": "https://media.kitsu.app/anime/poster_images/12532/large.jpg",
+      "banner": "",
+      "synopsis": "Set in Akihabara, the shopping area has been invaded by creatures known as \"Synthisters\" who prey on the patrons of Akihabara, feasting on their social energy and will to live. These enemies can only be stopped by direct exposure to the air, meaning to defeat these synthisters their clothes need to be ripped off exposing their skin.",
+      "year": 2017,
+      "score": 6.5,
+      "genres": [
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Asia",
+        "Action",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "59c879afe0f66fc7f2351e807a74a22a17e06e9f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x43wdi1irrzu@59c879afe0f66fc7f2351e807a74a22a17e06e9f/akiba-s-trip-the-animation/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
