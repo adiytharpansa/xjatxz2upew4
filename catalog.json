@@ -91856,6 +91856,132 @@
           "playlist": "killing-bites/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "negima",
+      "title": "Negima!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@75ef7b65fead7eac6882ddf36d431250fff02a87/negima/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@75ef7b65fead7eac6882ddf36d431250fff02a87/negima/banner.jpg",
+      "synopsis": "10-year-old Negi Springfield is a wizard-in-training, and needs only to pass one more test in order to become a Master Wizard. Unfortunately, his final task is a bizarre one—to become a English teacher at an all-females boarding school. As soon as he arrives, he completely embarrasses one of his students, Asuna Kagurazaka, and replaces the teacher she loves, which garners her hatred. To make matters worse, Asuna learns that Negi is a wizard, and promises to tell unless he helps her out. But unfortunately, circumstances force them to work together to do many things, from fighting evil wizards to helping the class pass their final exam, with a lot of humor, magic, and romances thrown in.\n(Source: ANN, edited)",
+      "year": 2005,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Middle School",
+        "All Girls School",
+        "Magic",
+        "Super Power",
+        "Present",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "e337c640d2352ebe68bbc5feef0ea0da993c6b19",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "negima/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "negima/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "negima/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "negima/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "negima/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "negima/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "negima/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "negima/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "negima/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "negima/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "negima/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "negima/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "negima/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "negima/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "negima/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "negima/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "negima/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "negima/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "negima/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "negima/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "negima/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "negima/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "negima/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "negima/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "negima/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "negima/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
