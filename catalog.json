@@ -88123,6 +88123,76 @@
           "playlist": "sailor-moon-s/ep38/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-devil-is-a-part-timer-season-2",
+      "title": "The Devil is a Part-Timer! Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4995d83a6f3b9953d3d2cec5e0a965c014d6c829/the-devil-is-a-part-timer-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4995d83a6f3b9953d3d2cec5e0a965c014d6c829/the-devil-is-a-part-timer-season-2/banner.jpg",
+      "synopsis": "The second season of Hataraku Maou-sama!\n\nSadao Maou returns for more shifts, now having to take care of a small girl born from a golden apple!\n\n(Source: Crunchyroll)",
+      "year": 2022,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "547a35799d688abdd2997ae37ec8e88c6835debb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-devil-is-a-part-timer-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
