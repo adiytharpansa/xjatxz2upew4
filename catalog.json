@@ -86469,6 +86469,128 @@
           "playlist": "ghost-in-the-shell-2-0/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mobile-suit-gundam-00-second-season",
+      "title": "Mobile Suit Gundam 00: Second Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@718e1f421c0a606761bcef12ab878cd8ad59c810/mobile-suit-gundam-00-second-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@718e1f421c0a606761bcef12ab878cd8ad59c810/mobile-suit-gundam-00-second-season/banner.jpg",
+      "synopsis": "Mobile Suit Gundam 00 Second Season begins four years after the United Nations Forces were finally able to claim victory against Celestial Being. In order to prevent such an event from recurring, an independent military organization called the Autonomous Peace-Keeping Force, or A-Laws, has been formed in order to keep the ESF Army and other powerful organizations in check. Charged with the duties of eliminating terrorists and resistance groups as well as unifying the nations of the world for the benefit of all mankind, A-Laws seem to be the best solution to the people of the world.\nUnknown to the public, the A-Laws quickly began to abuse their power. Peoples all over the world and in space soon find themselves stripped of freedoms and forced to live under the A-Laws enforced doctrines all in the name of “unity” and “peace”. Aware of A-Laws misuse of power, Celestial Being reemerges with the intent of stopping the A-Laws and correcting their past mistakes. What is unknown to these two groups is that a third organization, the Innovators, lurks in the shadows, manipulating events to reshape humanity into their own image.",
+      "year": 2008,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "89076c5ab0e50de8138513ec0a3a8f9980836a79",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mobile-suit-gundam-00-second-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mobile-suit-gundam-00-second-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mobile-suit-gundam-00-second-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mobile-suit-gundam-00-second-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mobile-suit-gundam-00-second-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mobile-suit-gundam-00-second-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mobile-suit-gundam-00-second-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mobile-suit-gundam-00-second-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mobile-suit-gundam-00-second-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mobile-suit-gundam-00-second-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mobile-suit-gundam-00-second-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mobile-suit-gundam-00-second-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mobile-suit-gundam-00-second-season/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "mobile-suit-gundam-00-second-season/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "mobile-suit-gundam-00-second-season/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "mobile-suit-gundam-00-second-season/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "mobile-suit-gundam-00-second-season/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "mobile-suit-gundam-00-second-season/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "mobile-suit-gundam-00-second-season/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "mobile-suit-gundam-00-second-season/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "mobile-suit-gundam-00-second-season/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "mobile-suit-gundam-00-second-season/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "mobile-suit-gundam-00-second-season/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "mobile-suit-gundam-00-second-season/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "mobile-suit-gundam-00-second-season/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
