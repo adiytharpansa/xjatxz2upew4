@@ -87012,6 +87012,80 @@
           "playlist": "divine-gate/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "zoku-sayonara-zetsubou-sensei",
+      "title": "Zoku Sayonara Zetsubou Sensei",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b10dee967ffd255fa2b73ff87457aba526614b3/zoku-sayonara-zetsubou-sensei/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b10dee967ffd255fa2b73ff87457aba526614b3/zoku-sayonara-zetsubou-sensei/banner.jpg",
+      "synopsis": "More crazy antics abound as Nozomu Itoshiki (a.k.a Zetsubou-sensei), who is the worlds most negative person, tries to teach class 2-F about how life is filled with despair and darkness. A harder task than it first may seem, with his students being far from ordinary themselves, including the likes of the most positive girl he has ever met, his very own stalker, a foreign exchange student with split personalities and a perfectionist acting class president, due to the fact the real class president can't be seen by anyone, among others. \n(Source: ANN)",
+      "year": 2008,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Parody",
+        "Satire",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "862519fd0f6c015c0f82ffca63d19ed022ca8877",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "zoku-sayonara-zetsubou-sensei/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
