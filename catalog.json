@@ -90478,6 +90478,68 @@
           "playlist": "date-a-live-movie-mayuri-judgment/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "isuca",
+      "title": "Isuca",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e7069b8992e17412c309146931a5116c2f81e6f/isuca/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e7069b8992e17412c309146931a5116c2f81e6f/isuca/poster.jpg",
+      "synopsis": "Poor Shinichirou Asano has the worst of luck. His parents abandoned him and ran off to Europe. If that isn't bad enough on its own, they barely left him any money to take care of himself. In order to pay rent and keep a roof over his head, he has to work. Unfortunately, he was just fired from his last job and as a high school student, he doesn't have many other prospects.\nOne evening, he's attacked by a centipede monster on his way home. Shinichirou is saved by a mysterious girl with a bow and arrow, who he later discovers is Sakuya Shimazu, a beautiful student who attends his school. But when he later helps an injured girl, he discovers two things. First, the injured girl isn't human at all but rather a nekomata, a two-tailed demon cat. And second, Sakuya comes from a family of exorcists, who've protected humanity from rogue monsters and spirits for generations. Because Shinichirou was responsible for releasing the nekomata, Sakuya enlists his help in recapturing the demon, but that's just the beginning of Shinichirou's relationship with Sakuya. It turns out the Shimazu family needs a housekeeper and it just so happens that Shinichirou excels at cooking and likes to clean! It may not be his dream job, but if it pays the rent and puts food on the table...",
+      "year": 2015,
+      "score": 5.8,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Earth",
+        "Demon",
+        "Japan",
+        "Violence",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "c2315246a402e1e8aae6119cd3dcb395a85b7251",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "isuca/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "isuca/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "isuca/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "isuca/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "isuca/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "isuca/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "isuca/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "isuca/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "isuca/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "isuca/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
