@@ -85154,6 +85154,72 @@
           "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-roommate-is-a-cat",
+      "title": "My Roommate is a Cat",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c54dfcf3c469474028f10783e4bb29fdee22e64c/my-roommate-is-a-cat/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c54dfcf3c469474028f10783e4bb29fdee22e64c/my-roommate-is-a-cat/banner.jpg",
+      "synopsis": "The story of Mikazuki Subaru, a novelist who is shy and struggles in relationships with other people, and a cat who was dumped by humans and lived a tough life on the streets. Through a twist of fate, the two of them end up living together. This heartwarming tale illustrates day-to-day life through the eyes of both man and cat. These moments seem trivial, but as they build upon themselves, the two become family and find happiness in their life together.\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "953f9ef3a3377bfd5fdf1a78703cd597a34f70d2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-roommate-is-a-cat/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-roommate-is-a-cat/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-roommate-is-a-cat/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-roommate-is-a-cat/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-roommate-is-a-cat/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-roommate-is-a-cat/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-roommate-is-a-cat/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-roommate-is-a-cat/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-roommate-is-a-cat/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-roommate-is-a-cat/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-roommate-is-a-cat/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-roommate-is-a-cat/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
