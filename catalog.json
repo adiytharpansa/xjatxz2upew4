@@ -83404,6 +83404,123 @@
           "playlist": "unlimited-psychic-squad/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "heavy-object",
+      "title": "Heavy Object",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@97e56aae99a9d26ff0445ad8c99941cc4566f91e/heavy-object/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@97e56aae99a9d26ff0445ad8c99941cc4566f91e/heavy-object/banner.jpg",
+      "synopsis": "In the distant future, the nature of war has changed. \"Objects\"—massive, spherical tanks impermeable to standard weaponry and armed with destructive firepower—rule the battlefield; their very deployment ensures victory, rendering traditional armies useless. However, this new method of warfare is about to be turned on its head.\nQwenthur Barbotage, a student studying Object Design, and Havia Winchell, a radar analyst of noble birth, serve in the Legitimate Kingdom's 37th Mobile Maintenance Battalion, tasked with supporting the Baby Magnum, one of the nation's Objects. Unfortunately, a battle gone awry places the duo in a precarious situation: mere infantry stand face-to-face against the unfathomable might of an enemy Object. As they scramble to save themselves and their fellow soldiers, a glimmer of hope shines through, and the world's perception of Objects is changed forever.Heavy Object follows these two soldiers alongside Milinda Brantini, the Baby Magnum's pilot, and their commanding officer Frolaytia Capistrano as the unit treks all over the globe to fight battle after battle. Facing one impossible situation after another, they must summon all their wit and courage to overcome the insurmountable foes that are Objects.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.0,
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Ecchi",
+        "War"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "00fa2b7117e99f41872e68758223b80598db9abe",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "heavy-object/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "heavy-object/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "heavy-object/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "heavy-object/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "heavy-object/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "heavy-object/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "heavy-object/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "heavy-object/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "heavy-object/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "heavy-object/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "heavy-object/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "heavy-object/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "heavy-object/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "heavy-object/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "heavy-object/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "heavy-object/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "heavy-object/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "heavy-object/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "heavy-object/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "heavy-object/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "heavy-object/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "heavy-object/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "heavy-object/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "heavy-object/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
