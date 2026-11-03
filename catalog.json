@@ -91276,6 +91276,200 @@
           "playlist": "gantz-second-stage/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mobile-suit-gundam",
+      "title": "Mobile Suit Gundam",
+      "poster": "https://media.kitsu.app/anime/poster_images/59/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/59/large.jpg",
+      "synopsis": "It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as \"Sides.\" One of these Sides declares itself the \"Principality of Zeon\" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as \"mobile suits,\" Zeon quickly gains the upper hand.Nine months into the conflict, the Earth Federation has developed its own powerful mobile suit called the Gundam. When Zeon launches an attack on the colony holding the Gundam, a 15-year-old civilian named Amuro Ray suddenly finds himself thrown into a conflict that will take him all across Earth and space, pitting him against the enemy's ace pilot, Char Aznable.[Written by MAL Rewrite]",
+      "year": 1979,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Transforming Craft",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "b6b69e0cbb653560de7bce1d8bcb57bf5dfcf56d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mobile-suit-gundam/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mobile-suit-gundam/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mobile-suit-gundam/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mobile-suit-gundam/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mobile-suit-gundam/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mobile-suit-gundam/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mobile-suit-gundam/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mobile-suit-gundam/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mobile-suit-gundam/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mobile-suit-gundam/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mobile-suit-gundam/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mobile-suit-gundam/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mobile-suit-gundam/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "mobile-suit-gundam/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "mobile-suit-gundam/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "mobile-suit-gundam/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "mobile-suit-gundam/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "mobile-suit-gundam/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "mobile-suit-gundam/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "mobile-suit-gundam/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "mobile-suit-gundam/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "mobile-suit-gundam/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "mobile-suit-gundam/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "mobile-suit-gundam/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "mobile-suit-gundam/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "mobile-suit-gundam/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "mobile-suit-gundam/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "mobile-suit-gundam/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "mobile-suit-gundam/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "mobile-suit-gundam/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "mobile-suit-gundam/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "mobile-suit-gundam/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "mobile-suit-gundam/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "mobile-suit-gundam/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "mobile-suit-gundam/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "mobile-suit-gundam/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "mobile-suit-gundam/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "mobile-suit-gundam/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "mobile-suit-gundam/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "mobile-suit-gundam/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "mobile-suit-gundam/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "mobile-suit-gundam/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "mobile-suit-gundam/ep43/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
