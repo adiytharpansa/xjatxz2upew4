@@ -89740,6 +89740,122 @@
           "playlist": "heaven-s-lost-property-the-movie-the-angeloid-of-clockwork/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "platinum-end",
+      "title": "Platinum End",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6b255473ae2a70ae677826b47151ec88d47b1437/platinum-end/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6b255473ae2a70ae677826b47151ec88d47b1437/platinum-end/banner.jpg",
+      "synopsis": "When life becomes too much for Mirai to bear and attempts taking his own life, he’s saved by Nasse, a guardian angel who offers him a chance at becoming the new god. To do so, he must face off against 12 other candidates within 999 days. Mirai, who was once at rock bottom, now finds himself with supernatural powers in a battle royale for the highest title.\n\n(Source: Funimation)",
+      "year": 2021,
+      "score": 6.0,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Supernatural",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "84c9bf5f58a28ed75a0b917f593d8259023ef40a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "platinum-end/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "platinum-end/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "platinum-end/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "platinum-end/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "platinum-end/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "platinum-end/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "platinum-end/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "platinum-end/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "platinum-end/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "platinum-end/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "platinum-end/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "platinum-end/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "platinum-end/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "platinum-end/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "platinum-end/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "platinum-end/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "platinum-end/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "platinum-end/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "platinum-end/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "platinum-end/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "platinum-end/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "platinum-end/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "platinum-end/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "platinum-end/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
