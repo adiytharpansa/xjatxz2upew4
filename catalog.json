@@ -88193,6 +88193,32 @@
           "playlist": "the-devil-is-a-part-timer-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "deadman-wonderland-akai-knife-tsukai",
+      "title": "Deadman Wonderland: Akai Knife Tsukai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@df9b13eb3e3a484c7bc599d8139708a5677f77e7/deadman-wonderland-akai-knife-tsukai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@df9b13eb3e3a484c7bc599d8139708a5677f77e7/deadman-wonderland-akai-knife-tsukai/poster.jpg",
+      "synopsis": "OVA bundled with the eleventh volume of Deadman Wonderland manga. Focuses on Senji's past, with him as the main character.",
+      "year": 2011,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Horror"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "e13143b161f395f55b05744fed35ece3d9b1f99f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "deadman-wonderland-akai-knife-tsukai/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
