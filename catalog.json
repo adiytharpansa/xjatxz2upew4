@@ -88407,6 +88407,31 @@
           "playlist": "garo-the-animation/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "angel-s-egg",
+      "title": "Angel's Egg",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@de02116d3da0701697ea8d83c717f3001c8175d9/angel-s-egg/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@de02116d3da0701697ea8d83c717f3001c8175d9/angel-s-egg/banner.jpg",
+      "synopsis": "In a desolate and dark world full of shadows, lives one little girl who seems to do nothing but collect water in jars and protect a large egg she carries everywhere. A mysterious man enters her life... and they discuss the world around them. \n\n(Source: Anime News Network)",
+      "year": 1985,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Dark Fantasy",
+        "Fantasy",
+        "Post Apocalypse",
+        "Dementia"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "d02ffa2446201b97e718095fbe28b04f1648ad35",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "angel-s-egg/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
