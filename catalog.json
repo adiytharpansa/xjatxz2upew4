@@ -90727,6 +90727,32 @@
           "playlist": "a-town-where-you-live/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fighting-spirit-champion-road",
+      "title": "Fighting Spirit: Champion Road",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1ff7039fb3c22b918e5ad59642723826f9f555d0/fighting-spirit-champion-road/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1ff7039fb3c22b918e5ad59642723826f9f555d0/fighting-spirit-champion-road/banner.jpg",
+      "synopsis": "As the new Champion, Ippo must protect his title against some of the best boxers available.\nMakunouchi Ippo is the new Featherweight champion of Japan and is now ready for his first title defense. His opponent, the former Jr. Featherweight champion and a medical student, Sanada Kazuki. In addition to this feud, Sanada is being coached by Kamogawa's former rival, Hama Dankichi. What makes things worse is that Sanada works at the same hospital where Kumi is a nurse at and everybody at the hospital wants Sanada to win. Not only does Ippo have to defend his title, he has to reclaim his love. \n(Source: ANN)",
+      "year": 2003,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Boxing",
+        "Martial Arts",
+        "Present",
+        "Japan",
+        "Combat",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "3fd40513286a1d2fe8060de455ce6676c2759b0b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fighting-spirit-champion-road/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
