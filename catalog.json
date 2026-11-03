@@ -89856,6 +89856,80 @@
           "playlist": "platinum-end/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ikki-tousen",
+      "title": "Ikki Tousen",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ae7ec1c6d40ad28f8d84a0009990462375e6d35/ikki-tousen/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ae7ec1c6d40ad28f8d84a0009990462375e6d35/ikki-tousen/banner.jpg",
+      "synopsis": "In Ikkitousen, the Kanto region of Japan is locked in the middle of a turf war between seven different high schools. Among the students of these schools are a select few who are in possession of sacred beads. These magatama harbor the souls of warriors who fought during the Three Kingdoms Era of Chinese history. Not only are these students blessed with abilities that draw from the souls they are tied to, but they are also blessed, or maybe cursed, with the fates of these warriors from the past.\nOne of these students is Hakufu Sonsaku; a young, caring, dim-witted girl who has recently transferred into Nanyo Academy and will be living with her cousin, Koukin Shuyu. Hakufu’s arrival creates an almost immediate sense of tension due to her power as a fighter and the possibility that she may be the one who carries the spirit of the Chinese warlord, Sun Ce. The most powerful fighters at Nanyo, known as “The Big Four” are shaken by her presence and determined to stop Hakufu from achieving the goal given to her by her mother: to conquer those who challenge her and unite the seven schools.",
+      "year": 2003,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "68314a853f4942b419a8d571f2e3efc0926d2221",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ikki-tousen/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ikki-tousen/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ikki-tousen/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ikki-tousen/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ikki-tousen/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ikki-tousen/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ikki-tousen/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ikki-tousen/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ikki-tousen/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ikki-tousen/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ikki-tousen/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ikki-tousen/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ikki-tousen/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
