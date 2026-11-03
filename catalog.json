@@ -91786,6 +91786,76 @@
           "playlist": "yurikuma-arashi/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "killing-bites",
+      "title": "Killing Bites",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@776c78a4fd993100d885fdba44e074d48a073815/killing-bites/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@776c78a4fd993100d885fdba44e074d48a073815/killing-bites/banner.jpg",
+      "synopsis": "People have been created that are human-animal hybrids, and powerful businesses bet on the outcome of their duels. College student Nomoto Yuuya's casual acquaintances ask him to drive them around to pick up girls one day, which he soon finds out means by force. The girl they kidnap is an animal-human hybrid named Hitomi, who slaughters all of them except Yuuya. Hitomi is a honey badger, which has been called the most fearless of all animals. Now Hitomi is assigned to stay with Yuuya, for his protection. \n\n(Source: MangaHelpers)",
+      "year": 2018,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Horror",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "8b2223571deef1b7f6d6796d9e21c88af4e4ae6a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "killing-bites/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "killing-bites/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "killing-bites/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "killing-bites/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "killing-bites/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "killing-bites/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "killing-bites/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "killing-bites/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "killing-bites/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "killing-bites/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "killing-bites/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "killing-bites/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
