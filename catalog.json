@@ -85220,6 +85220,32 @@
           "playlist": "my-roommate-is-a-cat/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-resurrection-f",
+      "title": "Dragon Ball Z: Resurrection 'F'",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ea52ec591eb1b1c96542d97a446b21c74967e78d/dragon-ball-z-resurrection-f/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ea52ec591eb1b1c96542d97a446b21c74967e78d/dragon-ball-z-resurrection-f/banner.jpg",
+      "synopsis": "An Earth where peace has arrived. However, remnants of Frieza's army Sorbet and Tagoma (from the Japanese word for 'egg') arrive on the planet. Their goal is to revive Frieza with the dragon balls. Their dastardly wish is granted, the \"F\" that plans its revenge against the Saiyans is revived...! \n(Source: MAL)",
+      "year": 2015,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "a4e3dc30f093cd713bc61095f746dad1a4ae9d55",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-resurrection-f/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
