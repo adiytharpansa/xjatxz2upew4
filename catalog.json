@@ -89498,6 +89498,73 @@
           "playlist": "astarotte-s-toy/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hitori-no-shita-the-outcast",
+      "title": "Hitori no Shita - The Outcast",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1c714b6eb1617ccfe20758e4d3bf6577f31b930a/hitori-no-shita-the-outcast/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1c714b6eb1617ccfe20758e4d3bf6577f31b930a/hitori-no-shita-the-outcast/poster.jpg",
+      "synopsis": "One day, on his way to visit his grandfather's grave, Zhang Chulan is attacked by zombies in a graveyard. In the midst of that situation, he is saved by a mysterious girl, who wields kitchen knives in order to kill the enemies. The girl tells Chulan, who is relieved, to face his hardships head on and leaves. However, Chulan later sees that girl again at his university. From that moment, Zhang Chulan's destiny begins to move. There will be strangers with special powers appearing one by one, with battles involving those abilities. Each episode will bring a new mystery to light.",
+      "year": 2016,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Zombie",
+        "Super Power",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "6d147cf7c5b42c533108fcc3b156ad92ba439fe9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hitori-no-shita-the-outcast/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hitori-no-shita-the-outcast/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hitori-no-shita-the-outcast/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hitori-no-shita-the-outcast/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hitori-no-shita-the-outcast/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hitori-no-shita-the-outcast/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hitori-no-shita-the-outcast/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hitori-no-shita-the-outcast/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hitori-no-shita-the-outcast/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hitori-no-shita-the-outcast/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hitori-no-shita-the-outcast/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hitori-no-shita-the-outcast/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
