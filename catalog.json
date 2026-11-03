@@ -87454,6 +87454,74 @@
           "playlist": "rumbling-hearts/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "free-dive-to-the-future",
+      "title": "Free! Dive to the Future",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@caf6d67cc33693d435018364dd4f48c5e839c279/free-dive-to-the-future/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@caf6d67cc33693d435018364dd4f48c5e839c279/free-dive-to-the-future/banner.jpg",
+      "synopsis": "In the new series, Haruka, who is attending college in Tokyo, meets Asahi again and reawakens his memories from his middle school years, including those of Ikuya. Makoto is working toward a new dream while he is in Tokyo together with Haruka. Rin has an unexpected meeting in Sydney. As they await their new futures, will they see a new fight ahead? Or will they instead confront the past they left behind?\n\n(Source: ANN)",
+      "year": 2018,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "University",
+        "School Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "a397743643d96a6971506057d3fd038239efc734",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "free-dive-to-the-future/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "free-dive-to-the-future/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "free-dive-to-the-future/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "free-dive-to-the-future/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "free-dive-to-the-future/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "free-dive-to-the-future/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "free-dive-to-the-future/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "free-dive-to-the-future/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "free-dive-to-the-future/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "free-dive-to-the-future/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "free-dive-to-the-future/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "free-dive-to-the-future/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
