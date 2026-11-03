@@ -88289,6 +88289,124 @@
           "playlist": "denki-gai/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "garo-the-animation",
+      "title": "GARO THE ANIMATION",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b9ca96aea56eb8bd3c2aa3936ed57e91d9bea5a3/garo-the-animation/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b9ca96aea56eb8bd3c2aa3936ed57e91d9bea5a3/garo-the-animation/banner.jpg",
+      "synopsis": "In Garo: Honoo no Kokuin, Makai Knights and Alchemists, those who are able to keep supernatural enemies at bay, are feared and hated in the kingdom of Valiante. Encouraging this fear is the king’s trusted advisor, Mendoza, who convinces him to launch an all-out purge. Those of Makai blood are hunted and imprisoned or burned at the stake for so-called witchcraft. However, a dark omen is cast over Valiante when the execution of the last “witch” ends in the birth of her child who is saved from the flames by his father, a Makai Knight.\n\nGerman spirits the baby Leon away from Valiante and raises him as a Makai Knight of the Garo armor. Now, they have been recalled to Valiante by the ever-increasing swarm of Horrors preying on unsuspecting civilians. With no Makai Knights left to defend them, the people are desperate. In answer to this desperation, Valiante’s Prince Alfonso sets out for help. How will these two sides clash? Will Leon and German be able to save their homeland?",
+      "year": 2014,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Demon",
+        "High Fantasy",
+        "Dark Fantasy"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "0e71059d72eec9133245ce0dbff3b48b1695907a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "garo-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "garo-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "garo-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "garo-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "garo-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "garo-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "garo-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "garo-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "garo-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "garo-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "garo-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "garo-the-animation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "garo-the-animation/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "garo-the-animation/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "garo-the-animation/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "garo-the-animation/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "garo-the-animation/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "garo-the-animation/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "garo-the-animation/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "garo-the-animation/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "garo-the-animation/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "garo-the-animation/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "garo-the-animation/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "garo-the-animation/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
