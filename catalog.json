@@ -87875,6 +87875,80 @@
           "playlist": "dr-stone-new-world/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "please-teacher",
+      "title": "Please Teacher!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fa8cb918df23f1474bca58262e1fa4cc89a970da/please-teacher/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fa8cb918df23f1474bca58262e1fa4cc89a970da/please-teacher/banner.jpg",
+      "synopsis": "Kusanagi Kei, a high-school student living with his aunt and uncle, has an encounter with a female alien. This alien is revealed to be a new teacher at his school. Later, he is forced to marry this alien to preserve her secrets. From there, various romantically-inclined problems crop up repeatedly. \n(Source: ANN)",
+      "year": 2002,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Present",
+        "Earth",
+        "Japan",
+        "Humanoid Alien",
+        "Sudden Girlfriend Appearance"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "15a7f99a8d09985bb7a61ef82a3b675e8cd49a97",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "please-teacher/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "please-teacher/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "please-teacher/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "please-teacher/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "please-teacher/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "please-teacher/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "please-teacher/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "please-teacher/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "please-teacher/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "please-teacher/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "please-teacher/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "please-teacher/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "please-teacher/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
