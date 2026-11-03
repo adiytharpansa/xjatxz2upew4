@@ -92050,6 +92050,30 @@
           "playlist": "hitoribocchi-no-marumaruseikatsu/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "danganronpa-3-the-end-of-hope-s-peak-high-school-hope-arc",
+      "title": "Danganronpa 3: The End of Hope's Peak High School - Hope Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ced44cec5f8c9ea1083e22e02e298687a1bcbf35/danganronpa-3-the-end-of-hope-s-peak-high-school-hope-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ced44cec5f8c9ea1083e22e02e298687a1bcbf35/danganronpa-3-the-end-of-hope-s-peak-high-school-hope-arc/poster.jpg",
+      "synopsis": "Side: Hope of Danganronpa 3: The End of Kibougamine Gakuen. Kibou-hen serves as the finale for the entire Danganronpa 3 anime series.",
+      "year": 2016,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Horror",
+        "Psychological",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "e8716b05ec9dd423b423e5379528388fb1cf2a36",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "danganronpa-3-the-end-of-hope-s-peak-high-school-hope-arc/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
