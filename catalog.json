@@ -92390,6 +92390,76 @@
           "playlist": "noblesse/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "boogiepop-phantom",
+      "title": "Boogiepop Phantom",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cc90fe7d4c7519a86101a40830a737ff700ec062/boogiepop-phantom/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cc90fe7d4c7519a86101a40830a737ff700ec062/boogiepop-phantom/banner.jpg",
+      "synopsis": "Five years ago, a string of grisly murders shook the city to its core and now the rumors have begun once more. Boogiepop... Everyone knows about Boogiepop: meet her one dark night and you are taken. People tell each other the stories and laugh: no one believes that she can possibly exist in this day and age. Still, strange things appear to be going on and the darkness is taking on many forms. Something is out there. Are you safe?\n(Source: RightStuf) ",
+      "year": 2000,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "60b46386888585bfa1874ac47e2ed8af4fe565cb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "boogiepop-phantom/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "boogiepop-phantom/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "boogiepop-phantom/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "boogiepop-phantom/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "boogiepop-phantom/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "boogiepop-phantom/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "boogiepop-phantom/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "boogiepop-phantom/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "boogiepop-phantom/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "boogiepop-phantom/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "boogiepop-phantom/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "boogiepop-phantom/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
