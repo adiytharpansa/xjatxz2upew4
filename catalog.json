@@ -86443,6 +86443,32 @@
           "playlist": "initial-d-second-stage/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ghost-in-the-shell-2-0",
+      "title": "Ghost in the Shell 2.0",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@02050d2151f4e157c8177f3d29b2d60f1142f361/ghost-in-the-shell-2-0/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@02050d2151f4e157c8177f3d29b2d60f1142f361/ghost-in-the-shell-2-0/banner.jpg",
+      "synopsis": "Mamoru Oshii's first Ghost in the Shell cyberspace film will return to five Japanese theaters in an enhanced Ghost in the Shell 2.0 edition on July 12. The new edition will include new computer graphics and digital effects for some scenes and a reunion of most of the cast members for a new 6.1 surround sound recording. Academy-Award-winning sound mixer/editor Randy Thom (Ghost in the Shell 2: Innocence, The Incredibles, The Right Stuff) has overseen the new soundtrack with Kenji Kawai's original music and a final mix that has been produced at Thom and Lucas Digital's Skywalker Sound studio in California.\nIn the new edition, the enigmatic Puppet Master character will be played by Yoshiko Sakakibara (Ghost in the Shell 2: Innocence's Harraway, Ghost in the Shell: Stand Alone Complex's Prime Minister Yoko Kayabuki). Iemasa Kayumi (Giant Robo's Chief Chuujou Shizuo, RahXephon's Ernst Von Bähbem) played the role in the original edition.\nThe film will screen in Tokyo, Osaka, Nagoya, Fukuoka, and Sapporo. Not coincidentally, Oshii's latest film, The Sky Crawlers, will open one month after Ghost in the Shell 2.0 on August 2. \n(Source: ANN)",
+      "year": 2008,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Cyborg",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "8ae825dce38037afb4632e3199604191309404e9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ghost-in-the-shell-2-0/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
