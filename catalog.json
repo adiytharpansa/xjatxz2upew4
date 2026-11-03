@@ -82367,6 +82367,71 @@
           "playlist": "spy-x-family-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nodame-cantabile-finale",
+      "title": "Nodame Cantabile Finale",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c153f62bb3353f6cf2df2cfd84edba4eb550f7b7/nodame-cantabile-finale/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c153f62bb3353f6cf2df2cfd84edba4eb550f7b7/nodame-cantabile-finale/banner.jpg",
+      "synopsis": "The series continues the relationship between two aspiring classical musicians, Megumi \"Nodame\" Noda and Shinichi Chiaki, as students and after graduation.",
+      "year": 2010,
+      "score": 8.1,
+      "genres": [
+        "Present",
+        "Earth",
+        "Music",
+        "France",
+        "Europe",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "9abfd9ecff9a74dd0177427055221c5b7ca1c0b1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nodame-cantabile-finale/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nodame-cantabile-finale/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nodame-cantabile-finale/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nodame-cantabile-finale/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nodame-cantabile-finale/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nodame-cantabile-finale/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nodame-cantabile-finale/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nodame-cantabile-finale/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nodame-cantabile-finale/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nodame-cantabile-finale/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nodame-cantabile-finale/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
