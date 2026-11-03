@@ -83521,6 +83521,79 @@
           "playlist": "heavy-object/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "overlord-iv",
+      "title": "Overlord IV",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fccfab1cf3e6cc640abf29283b39f7ad2338f379/overlord-iv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fccfab1cf3e6cc640abf29283b39f7ad2338f379/overlord-iv/banner.jpg",
+      "synopsis": "The fourth season of Overlord.",
+      "year": 2022,
+      "score": 8.1,
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Virtual Reality",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "56dd73685a363ecad92b50e5c975d09c4c0d10db",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "overlord-iv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "overlord-iv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "overlord-iv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "overlord-iv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "overlord-iv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "overlord-iv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "overlord-iv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "overlord-iv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "overlord-iv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "overlord-iv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "overlord-iv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "overlord-iv/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "overlord-iv/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
