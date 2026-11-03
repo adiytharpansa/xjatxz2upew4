@@ -86369,6 +86369,80 @@
           "playlist": "the-hidden-dungeon-only-i-can-enter/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "initial-d-second-stage",
+      "title": "Initial D Second Stage",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@380047e50c29838e0ea9db2df30742a8b84f9c6f/initial-d-second-stage/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@380047e50c29838e0ea9db2df30742a8b84f9c6f/initial-d-second-stage/banner.jpg",
+      "synopsis": "Following his victory over RedSuns leader Ryosuke Takahashi, AE86 driver Takumi Fujiwara is challenged by the Lancer EVO-based \"Emperor,\" a group known for taking decals of racing teams they defeat, cutting them up and placing them on their cars like a fighter plane kill board. Takumi's undefeated streak is on the line as his AE86 is virtually no match against the more powerful and more agile four-wheel-drive EVOs of the Emperor team. \n(Source: ANN)",
+      "year": 1999,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Motorsport",
+        "Street Racing",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "60b130bf52192eaea32030da92c7410dae63d846",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "initial-d-second-stage/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "initial-d-second-stage/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "initial-d-second-stage/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "initial-d-second-stage/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "initial-d-second-stage/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "initial-d-second-stage/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "initial-d-second-stage/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "initial-d-second-stage/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "initial-d-second-stage/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "initial-d-second-stage/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "initial-d-second-stage/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "initial-d-second-stage/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "initial-d-second-stage/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
