@@ -90452,6 +90452,32 @@
           "playlist": "akane-iro-ni-somaru-saka/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "date-a-live-movie-mayuri-judgment",
+      "title": "Date A Live Movie: Mayuri Judgment",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e68251e9a63c8b5794f9b430340d13ec1386b26b/date-a-live-movie-mayuri-judgment/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e68251e9a63c8b5794f9b430340d13ec1386b26b/date-a-live-movie-mayuri-judgment/banner.jpg",
+      "synopsis": "The movie adaptation announced at the end of the final episode of Date A Live II. ",
+      "year": 2015,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Cross Dressing",
+        "Present",
+        "Alternative Present",
+        "Action",
+        "Science Fiction",
+        "Henshin"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "940ce81ac77232f629a0f8349ed5d173eef8a1b7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "date-a-live-movie-mayuri-judgment/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
