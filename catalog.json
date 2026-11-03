@@ -86274,6 +86274,32 @@
           "playlist": "tsukimichi-moonlit-fantasy/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "is-this-a-zombie-ova",
+      "title": "Is This a Zombie? OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f2aacbb62fe04996439afe08a9240e456aea487f/is-this-a-zombie-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f2aacbb62fe04996439afe08a9240e456aea487f/is-this-a-zombie-ova/banner.jpg",
+      "synopsis": "Two OVAs released with the 8th and 10th volumes of the original novel. They fall chronologically between the first and second seasons.",
+      "year": 2011,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Zombie",
+        "Magical Girl",
+        "Present",
+        "Earth",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "5e271d72ea533a23949283b2a306e531f4100f9e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "is-this-a-zombie-ova/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
