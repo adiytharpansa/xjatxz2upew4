@@ -92246,6 +92246,76 @@
           "playlist": "is-infinite-stratos-encore-a-sextet-yearning-for-love/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "senran-kagura",
+      "title": "Senran Kagura",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f2d733a4e157c8805063c4f97a096b0a7bb74db5/senran-kagura/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f2d733a4e157c8805063c4f97a096b0a7bb74db5/senran-kagura/banner.jpg",
+      "synopsis": "Super cute Asuka and her curvy companions appear to be your typical high school students, but they’ve got an outrageous secret: they’re learning the wild ways of the ninja! Get a lesson in action, naughtiness, and sexy slapstick fun as Asuka's gang takes on the toughest (and hottest) fighters in town! Fan service fanatics won’t want to miss a minute!\n\n(Source: Crunchyroll)",
+      "year": 2013,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Ninja",
+        "Swordplay",
+        "Super Power",
+        "Japan",
+        "Stereotypes",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "5f4c72709b8b3364a487452513629ff7b645b8e1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "senran-kagura/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "senran-kagura/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "senran-kagura/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "senran-kagura/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "senran-kagura/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "senran-kagura/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "senran-kagura/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "senran-kagura/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "senran-kagura/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "senran-kagura/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "senran-kagura/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "senran-kagura/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
