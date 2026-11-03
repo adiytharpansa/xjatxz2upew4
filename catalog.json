@@ -86871,6 +86871,80 @@
           "playlist": "mashiroiro-symphony-the-color-of-lovers/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "lycoris-recoil",
+      "title": "Lycoris Recoil",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@77b1465b0fcb28406c7e0d9f0e5c9d3969a5b9f1/lycoris-recoil/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@77b1465b0fcb28406c7e0d9f0e5c9d3969a5b9f1/lycoris-recoil/banner.jpg",
+      "synopsis": "“LycoReco” is a café with a traditional Japanese twist located in downtown Tokyo. But the delicious coffee and sugary sweets are not the only orders this café takes! From delivering packages short distances, to pick-ups and drop-offs on the lonely streets at night, to zombies and giant monster extermination…?! Whatever your problem, we're here to help! We will solve any kind of \"trouble\" you may have!\n\nWaiting for you are the ever-smiling poster-girl and the cool, serious newcomer. A petite girl who never wants to work and a young woman approaching thirty who wants to get married. And the manager is a nice guy who’s obsessed with Japan!\n\nWhatever your order is, leave it all up to us♪\n\n(Source: Official Site)",
+      "year": 2022,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Assassin",
+        "Gunfights",
+        "Action",
+        "Slice of Life",
+        "Crime",
+        "Conspiracy"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "6d9608a3b0baf904204c2733daec6fb0a05a50b5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "lycoris-recoil/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "lycoris-recoil/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "lycoris-recoil/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "lycoris-recoil/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "lycoris-recoil/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "lycoris-recoil/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "lycoris-recoil/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "lycoris-recoil/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "lycoris-recoil/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "lycoris-recoil/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "lycoris-recoil/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "lycoris-recoil/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "lycoris-recoil/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
