@@ -92731,6 +92731,128 @@
           "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/xm935w8jn01p@be42afaabc72b9bcc5df62c470763742798c742c/nodame-cantabile-paris-hen/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "star-driver",
+      "title": "Star Driver",
+      "poster": "https://media.kitsu.app/anime/poster_images/5538/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/5538/large.jpg",
+      "synopsis": "To the south of Japan, there lies a lush green island called Southern Cross Isle. One night, a boy by the name of Takuto Tsunashi washes up on the shore of the island. Having swum from the mainland alone and without any possessions, he enrolls in the senior high level in the school on the island - Southern Cross High School.\nWith his bright and positive personality, he starts to mix with various students in the school and builds relationships with many of them, including Wako Agemaki and Sugata Shindou. But this school hides a deep secret. There are sleeping giants hidden under the ground called \"Cybodies\".\nThere are about 20 of these giants, and they are just some of the various secrets kept by everyone on the island: The secret movements of the mysterious organization known as Glittering Crux. The songs of the shrine maidens. And even Takuto himself will soon come to embrace a great secret...\nThis island in the southern territories surrounded by the blue sea and the blue skies is the stage where the \"Eulogy of Youth\" filled with love, dreams and friendships, will begin. ",
+      "year": 2010,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "ff8d01b5246dec678b9977c0a5cc7ceac1d62b4a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "star-driver/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "star-driver/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "star-driver/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "star-driver/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "star-driver/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "star-driver/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "star-driver/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "star-driver/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "star-driver/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "star-driver/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "star-driver/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "star-driver/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "star-driver/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "star-driver/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "star-driver/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "star-driver/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "star-driver/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "star-driver/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "star-driver/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "star-driver/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "star-driver/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "star-driver/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "star-driver/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "star-driver/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "star-driver/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
