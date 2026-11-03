@@ -87322,6 +87322,60 @@
           "playlist": "ultimate-otaku-teacher/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "seitokai-yakuindomo-ova",
+      "title": "Seitokai Yakuindomo OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@737db594f3b5fb716d98e5aeb2ce3892034f5113/seitokai-yakuindomo-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@737db594f3b5fb716d98e5aeb2ce3892034f5113/seitokai-yakuindomo-ova/banner.jpg",
+      "synopsis": "It is the start of Takatoshi Tsuda's second year as the put-upon vice president of the student council and his sister Kotomi is entering school as a first year. New friends and double entendres are made.\n(Source: ANN)",
+      "year": 2011,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "9e571f8f4777edcf19af1c07bfee189481630cc1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "seitokai-yakuindomo-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "seitokai-yakuindomo-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "seitokai-yakuindomo-ova/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "seitokai-yakuindomo-ova/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "seitokai-yakuindomo-ova/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "seitokai-yakuindomo-ova/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "seitokai-yakuindomo-ova/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "seitokai-yakuindomo-ova/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
