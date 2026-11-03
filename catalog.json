@@ -90927,6 +90927,32 @@
           "playlist": "we-never-learn-bokuben-season-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-12-fusion-reborn",
+      "title": "Dragon Ball Z Movie 12: Fusion Reborn",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@494dd5c76e3a6ff0ec94305d34fc325e58453a79/dragon-ball-z-movie-12-fusion-reborn/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@494dd5c76e3a6ff0ec94305d34fc325e58453a79/dragon-ball-z-movie-12-fusion-reborn/banner.jpg",
+      "synopsis": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.\n(Source: ANN)",
+      "year": 1995,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "3e34a6169fd3f1bc9422ded9cd87b46606cacb61",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-12-fusion-reborn/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
