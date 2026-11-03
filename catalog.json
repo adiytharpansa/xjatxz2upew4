@@ -87557,6 +87557,125 @@
           "playlist": "free-take-your-marks/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sakura-quest",
+      "title": "Sakura Quest",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@186e8ae2af7ee5f98383c0066207423d88d564e0/sakura-quest/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@186e8ae2af7ee5f98383c0066207423d88d564e0/sakura-quest/banner.jpg",
+      "synopsis": "Five young women have one thing in common—the careers they planned for themselves weren’t working out. Job dissatisfaction, trying to make ends meet, and personal insecurities lead each of them to start working at a local tourism bureau where their lives become intertwined. As the girls experience their first year on the job, they learn a lot about their town, their industry, and themselves.\n\n(Source: Crunchyroll)",
+      "year": 2017,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Working Life"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "012f3ba0dd57b06e7f05af1f6e8ddfa9f2614c1b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sakura-quest/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sakura-quest/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sakura-quest/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sakura-quest/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sakura-quest/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sakura-quest/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sakura-quest/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sakura-quest/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sakura-quest/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sakura-quest/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sakura-quest/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sakura-quest/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sakura-quest/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "sakura-quest/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "sakura-quest/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "sakura-quest/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "sakura-quest/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "sakura-quest/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "sakura-quest/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "sakura-quest/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "sakura-quest/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "sakura-quest/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "sakura-quest/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "sakura-quest/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "sakura-quest/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
