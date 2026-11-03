@@ -83929,6 +83929,31 @@
           "playlist": "gintama-silver-soul-arc-2/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-08-broly-the-legendary-super-saiyan",
+      "title": "Dragon Ball Z Movie 08: Broly - The Legendary Super Saiyan",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6c7bfe9024cca9c6d749d246989d3fcefb93162e/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6c7bfe9024cca9c6d749d246989d3fcefb93162e/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan/banner.jpg",
+      "synopsis": "As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Broly.\n(Source: ANN)",
+      "year": 1993,
+      "score": 7.2,
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "c693c1a2591c4843cb8cd85196f92dd1754a5b15",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-08-broly-the-legendary-super-saiyan/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
