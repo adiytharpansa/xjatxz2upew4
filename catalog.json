@@ -85087,6 +85087,73 @@
           "playlist": "tales-of-zestiria-the-x-2nd-season/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kino-s-journey-the-beautiful-world-the-animated-series",
+      "title": "Kino's Journey -the Beautiful World- the Animated Series",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@86f266fcdf88986819372dcb4b37b3fd9bbae3f9/kino-s-journey-the-beautiful-world-the-animated-series/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@86f266fcdf88986819372dcb4b37b3fd9bbae3f9/kino-s-journey-the-beautiful-world-the-animated-series/banner.jpg",
+      "synopsis": "The story follows the travels of Kino, a young adventurer who rides a talking motorcycle named Hermes. They explore the people and cultures of different places throughout their adventures, spending only three days at each location.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "8bbed30be6d0a55ae009136a072ffd54899ea40b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kino-s-journey-the-beautiful-world-the-animated-series/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
