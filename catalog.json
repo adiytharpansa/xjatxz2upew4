@@ -90540,6 +90540,124 @@
           "playlist": "isuca/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "needless",
+      "title": "Needless",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@801cb6f05eb5e5501f854e8f525521ea574895fc/needless/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@801cb6f05eb5e5501f854e8f525521ea574895fc/needless/banner.jpg",
+      "synopsis": "At the onset of World War III, nobody could have predicted the effect it would have on Japan. While it had officially ended fifty years ago in 2150, its battles still persist. Large, mysterious areas known as \"Blackspots\" appeared across the country, filled with the contaminated ruins of cities and countrysides. Those inside were trapped to halt the spread of contamination, and their powers began to mutate—be they shapeshifters, pyromancers, or controllers of gravity itself—they all became known as the Needless.\nAdam Blade is one such Needless, possessing remarkable regenerative abilities and incredible strength. In order to restore peace to a war-torn Japan, he and his allies must fight together to rise against a heinous research group by the name of Simeon.",
+      "year": 2009,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Future",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "6389e982095b59478e7fcc47b60fcd2f704b85d8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "needless/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "needless/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "needless/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "needless/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "needless/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "needless/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "needless/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "needless/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "needless/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "needless/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "needless/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "needless/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "needless/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "needless/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "needless/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "needless/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "needless/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "needless/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "needless/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "needless/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "needless/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "needless/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "needless/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "needless/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
