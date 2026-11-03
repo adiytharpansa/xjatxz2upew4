@@ -83979,6 +83979,747 @@
           "playlist": "fate-grand-order-first-order/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yu-gi-oh-gx",
+      "title": "Yu-Gi-Oh! GX",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b25bc43d518afe6a18fc0c5e16cc6e0d4b11549/yu-gi-oh-gx/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b25bc43d518afe6a18fc0c5e16cc6e0d4b11549/yu-gi-oh-gx/banner.jpg",
+      "synopsis": "Duel Academy, one of the most prestigious schools in Duel Monster's history. There students learn the fundamentals of becoming not just duelists, but large business owners.\nYuki Judai is a new student with only one thing on his mind, to become the next King Of Games. Judai meets several friends, teachers, and even enemies at the large Dueling school. There he'll have to face off against several different Dorms to become number one duelist. Slifer Red, Ra Yellow, and Obelisk Blue are the three dorms. Will Judai be able to pass all of them?\nBased on Kazuki Takahashi's world famous anime and manga Yu-Gi-Oh!.\n(Source: Otakufreakmk2)",
+      "year": 2004,
+      "score": 6.9,
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Friendship",
+        "Proxy Battles"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "c403c3ac49202c898d0c1504025c167ae7b6391e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yu-gi-oh-gx/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yu-gi-oh-gx/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yu-gi-oh-gx/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yu-gi-oh-gx/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yu-gi-oh-gx/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yu-gi-oh-gx/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yu-gi-oh-gx/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yu-gi-oh-gx/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yu-gi-oh-gx/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yu-gi-oh-gx/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yu-gi-oh-gx/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yu-gi-oh-gx/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "yu-gi-oh-gx/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "yu-gi-oh-gx/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "yu-gi-oh-gx/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "yu-gi-oh-gx/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "yu-gi-oh-gx/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "yu-gi-oh-gx/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "yu-gi-oh-gx/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "yu-gi-oh-gx/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "yu-gi-oh-gx/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "yu-gi-oh-gx/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "yu-gi-oh-gx/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "yu-gi-oh-gx/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "yu-gi-oh-gx/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "yu-gi-oh-gx/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "yu-gi-oh-gx/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "yu-gi-oh-gx/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "yu-gi-oh-gx/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "yu-gi-oh-gx/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "yu-gi-oh-gx/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "yu-gi-oh-gx/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "yu-gi-oh-gx/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "yu-gi-oh-gx/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "yu-gi-oh-gx/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "yu-gi-oh-gx/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "yu-gi-oh-gx/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "yu-gi-oh-gx/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "yu-gi-oh-gx/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "yu-gi-oh-gx/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "yu-gi-oh-gx/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "yu-gi-oh-gx/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "yu-gi-oh-gx/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "yu-gi-oh-gx/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "yu-gi-oh-gx/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "yu-gi-oh-gx/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "yu-gi-oh-gx/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "yu-gi-oh-gx/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "yu-gi-oh-gx/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "yu-gi-oh-gx/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "yu-gi-oh-gx/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "yu-gi-oh-gx/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "yu-gi-oh-gx/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "yu-gi-oh-gx/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "yu-gi-oh-gx/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "yu-gi-oh-gx/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "yu-gi-oh-gx/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "yu-gi-oh-gx/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "yu-gi-oh-gx/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "yu-gi-oh-gx/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "yu-gi-oh-gx/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "yu-gi-oh-gx/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "yu-gi-oh-gx/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "yu-gi-oh-gx/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "yu-gi-oh-gx/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "yu-gi-oh-gx/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "yu-gi-oh-gx/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "yu-gi-oh-gx/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "yu-gi-oh-gx/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "yu-gi-oh-gx/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "yu-gi-oh-gx/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "yu-gi-oh-gx/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "yu-gi-oh-gx/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "yu-gi-oh-gx/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "yu-gi-oh-gx/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "yu-gi-oh-gx/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "yu-gi-oh-gx/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "yu-gi-oh-gx/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "yu-gi-oh-gx/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "yu-gi-oh-gx/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "yu-gi-oh-gx/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "yu-gi-oh-gx/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "yu-gi-oh-gx/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "yu-gi-oh-gx/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "yu-gi-oh-gx/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "yu-gi-oh-gx/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "yu-gi-oh-gx/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "yu-gi-oh-gx/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "yu-gi-oh-gx/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "yu-gi-oh-gx/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "yu-gi-oh-gx/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "yu-gi-oh-gx/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "yu-gi-oh-gx/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "yu-gi-oh-gx/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "yu-gi-oh-gx/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "yu-gi-oh-gx/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "yu-gi-oh-gx/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "yu-gi-oh-gx/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "yu-gi-oh-gx/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "yu-gi-oh-gx/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "yu-gi-oh-gx/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "yu-gi-oh-gx/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "yu-gi-oh-gx/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "yu-gi-oh-gx/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "yu-gi-oh-gx/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "yu-gi-oh-gx/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "yu-gi-oh-gx/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "yu-gi-oh-gx/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "yu-gi-oh-gx/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "yu-gi-oh-gx/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "yu-gi-oh-gx/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "yu-gi-oh-gx/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "yu-gi-oh-gx/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "yu-gi-oh-gx/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "yu-gi-oh-gx/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "yu-gi-oh-gx/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "yu-gi-oh-gx/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "yu-gi-oh-gx/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "yu-gi-oh-gx/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "yu-gi-oh-gx/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "yu-gi-oh-gx/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "yu-gi-oh-gx/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "yu-gi-oh-gx/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "yu-gi-oh-gx/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "yu-gi-oh-gx/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "yu-gi-oh-gx/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "yu-gi-oh-gx/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "yu-gi-oh-gx/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "yu-gi-oh-gx/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "yu-gi-oh-gx/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "yu-gi-oh-gx/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "yu-gi-oh-gx/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "yu-gi-oh-gx/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "yu-gi-oh-gx/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "yu-gi-oh-gx/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "yu-gi-oh-gx/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "yu-gi-oh-gx/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "yu-gi-oh-gx/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "yu-gi-oh-gx/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "yu-gi-oh-gx/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "yu-gi-oh-gx/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "yu-gi-oh-gx/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "yu-gi-oh-gx/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "yu-gi-oh-gx/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "yu-gi-oh-gx/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "yu-gi-oh-gx/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "yu-gi-oh-gx/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "yu-gi-oh-gx/ep148/playlist.m3u8"
+        },
+        {
+          "number": 149,
+          "playlist": "yu-gi-oh-gx/ep149/playlist.m3u8"
+        },
+        {
+          "number": 150,
+          "playlist": "yu-gi-oh-gx/ep150/playlist.m3u8"
+        },
+        {
+          "number": 151,
+          "playlist": "yu-gi-oh-gx/ep151/playlist.m3u8"
+        },
+        {
+          "number": 152,
+          "playlist": "yu-gi-oh-gx/ep152/playlist.m3u8"
+        },
+        {
+          "number": 153,
+          "playlist": "yu-gi-oh-gx/ep153/playlist.m3u8"
+        },
+        {
+          "number": 154,
+          "playlist": "yu-gi-oh-gx/ep154/playlist.m3u8"
+        },
+        {
+          "number": 155,
+          "playlist": "yu-gi-oh-gx/ep155/playlist.m3u8"
+        },
+        {
+          "number": 156,
+          "playlist": "yu-gi-oh-gx/ep156/playlist.m3u8"
+        },
+        {
+          "number": 157,
+          "playlist": "yu-gi-oh-gx/ep157/playlist.m3u8"
+        },
+        {
+          "number": 158,
+          "playlist": "yu-gi-oh-gx/ep158/playlist.m3u8"
+        },
+        {
+          "number": 159,
+          "playlist": "yu-gi-oh-gx/ep159/playlist.m3u8"
+        },
+        {
+          "number": 160,
+          "playlist": "yu-gi-oh-gx/ep160/playlist.m3u8"
+        },
+        {
+          "number": 161,
+          "playlist": "yu-gi-oh-gx/ep161/playlist.m3u8"
+        },
+        {
+          "number": 162,
+          "playlist": "yu-gi-oh-gx/ep162/playlist.m3u8"
+        },
+        {
+          "number": 163,
+          "playlist": "yu-gi-oh-gx/ep163/playlist.m3u8"
+        },
+        {
+          "number": 164,
+          "playlist": "yu-gi-oh-gx/ep164/playlist.m3u8"
+        },
+        {
+          "number": 165,
+          "playlist": "yu-gi-oh-gx/ep165/playlist.m3u8"
+        },
+        {
+          "number": 166,
+          "playlist": "yu-gi-oh-gx/ep166/playlist.m3u8"
+        },
+        {
+          "number": 167,
+          "playlist": "yu-gi-oh-gx/ep167/playlist.m3u8"
+        },
+        {
+          "number": 168,
+          "playlist": "yu-gi-oh-gx/ep168/playlist.m3u8"
+        },
+        {
+          "number": 169,
+          "playlist": "yu-gi-oh-gx/ep169/playlist.m3u8"
+        },
+        {
+          "number": 170,
+          "playlist": "yu-gi-oh-gx/ep170/playlist.m3u8"
+        },
+        {
+          "number": 171,
+          "playlist": "yu-gi-oh-gx/ep171/playlist.m3u8"
+        },
+        {
+          "number": 172,
+          "playlist": "yu-gi-oh-gx/ep172/playlist.m3u8"
+        },
+        {
+          "number": 173,
+          "playlist": "yu-gi-oh-gx/ep173/playlist.m3u8"
+        },
+        {
+          "number": 174,
+          "playlist": "yu-gi-oh-gx/ep174/playlist.m3u8"
+        },
+        {
+          "number": 175,
+          "playlist": "yu-gi-oh-gx/ep175/playlist.m3u8"
+        },
+        {
+          "number": 176,
+          "playlist": "yu-gi-oh-gx/ep176/playlist.m3u8"
+        },
+        {
+          "number": 177,
+          "playlist": "yu-gi-oh-gx/ep177/playlist.m3u8"
+        },
+        {
+          "number": 178,
+          "playlist": "yu-gi-oh-gx/ep178/playlist.m3u8"
+        },
+        {
+          "number": 179,
+          "playlist": "yu-gi-oh-gx/ep179/playlist.m3u8"
+        },
+        {
+          "number": 180,
+          "playlist": "yu-gi-oh-gx/ep180/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
