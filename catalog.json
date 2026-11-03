@@ -86659,6 +86659,80 @@
           "playlist": "bottom-tier-character-tomozaki/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "amagami-ss-plus",
+      "title": "Amagami SS+ Plus",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d0453c6c46be7537f3613e36cac882fefbcdc263/amagami-ss-plus/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d0453c6c46be7537f3613e36cac882fefbcdc263/amagami-ss-plus/banner.jpg",
+      "synopsis": "A continuation of Amagami SS, showing what happens after each girl's respective arc. What if Tsukasa were to run for student council president...?",
+      "year": 2012,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Love Polygon",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "862314a029e65e71764993b4c500f4e9f427569a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "amagami-ss-plus/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "amagami-ss-plus/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "amagami-ss-plus/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "amagami-ss-plus/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "amagami-ss-plus/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "amagami-ss-plus/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "amagami-ss-plus/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "amagami-ss-plus/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "amagami-ss-plus/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "amagami-ss-plus/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "amagami-ss-plus/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "amagami-ss-plus/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "amagami-ss-plus/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
