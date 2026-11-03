@@ -91132,6 +91132,76 @@
           "playlist": "welcome-to-demon-school-iruma-kun-season-2/ep21/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "red-data-girl",
+      "title": "Red Data Girl",
+      "poster": "https://media.kitsu.app/anime/poster_images/7182/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/7182/large.jpg",
+      "synopsis": "Shy 15-year-old Izumiko has a hard time making personal connections. Oddly, she can't use computers or cell phones, either—they mysteriously crash when she touches them. When her childhood bully Miyuki shows up at the shrine where she was raised, their lives become involuntarily entwined. Izumiko learns she is the last vessel of a goddess—and Miyuki must serve as her dutiful guardian.\n\n(Source: Funimation)",
+      "year": 2013,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Ghost",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "e19f9b0d53e380f2f9b8825daeb149f3ce6dca5e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "red-data-girl/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "red-data-girl/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "red-data-girl/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "red-data-girl/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "red-data-girl/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "red-data-girl/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "red-data-girl/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "red-data-girl/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "red-data-girl/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "red-data-girl/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "red-data-girl/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "red-data-girl/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
