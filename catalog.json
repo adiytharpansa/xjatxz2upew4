@@ -82432,6 +82432,131 @@
           "playlist": "nodame-cantabile-finale/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "d-n-angel",
+      "title": "D.N.Angel",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@793e1efc0c081ca4ed02b356aabbc77f9b2ee302/d-n-angel/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@793e1efc0c081ca4ed02b356aabbc77f9b2ee302/d-n-angel/banner.jpg",
+      "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n[Written by MAL Rewrite]",
+      "year": 2003,
+      "score": 7.0,
+      "genres": [
+        "Magic",
+        "Angel",
+        "Super Power",
+        "Earth",
+        "Alternative Present",
+        "Love Polygon"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "a10e94835577aca757c34abe541e22e36e1705e2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "d-n-angel/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "d-n-angel/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "d-n-angel/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "d-n-angel/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "d-n-angel/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "d-n-angel/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "d-n-angel/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "d-n-angel/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "d-n-angel/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "d-n-angel/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "d-n-angel/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "d-n-angel/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "d-n-angel/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "d-n-angel/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "d-n-angel/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "d-n-angel/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "d-n-angel/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "d-n-angel/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "d-n-angel/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "d-n-angel/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "d-n-angel/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "d-n-angel/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "d-n-angel/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "d-n-angel/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "d-n-angel/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "d-n-angel/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
