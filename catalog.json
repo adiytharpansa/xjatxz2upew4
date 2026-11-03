@@ -90753,6 +90753,36 @@
           "playlist": "fighting-spirit-champion-road/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "baka-test-summon-the-beasts-ova",
+      "title": "Baka & Test - Summon the Beasts OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2ad18f9d17d6a07bc805ca514cdb0a204acb5621/baka-test-summon-the-beasts-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2ad18f9d17d6a07bc805ca514cdb0a204acb5621/baka-test-summon-the-beasts-ova/banner.jpg",
+      "synopsis": "OVA of Baka to Test to Shoukanjuu which was announced to be released before the start of the second series.",
+      "year": 2011,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Super Deformed",
+        "Slapstick"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "28af2bb67a53a8c3d98c82c0d85638beba0939b7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "baka-test-summon-the-beasts-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "baka-test-summon-the-beasts-ova/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
