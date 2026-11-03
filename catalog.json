@@ -86062,6 +86062,74 @@
           "playlist": "mobile-suit-gundam-seed/ep48/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "acca-13-territory-inspection-dept",
+      "title": "ACCA: 13-Territory Inspection Dept.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6f6153d8151279eaf91225d7e64f5ddca44e4b7d/acca-13-territory-inspection-dept/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6f6153d8151279eaf91225d7e64f5ddca44e4b7d/acca-13-territory-inspection-dept/banner.jpg",
+      "synopsis": "The kingdom of Dowa, which is subdivided into 13 states, is celebrating its monarch's 99th birthday. These 13 states have many agencies that are controlled by the giant organization known as ACCA. Within ACCA, Jean Otus is the second-in-command of the inspection agency. His agency has ten people placed in each of the 13 states, with a central office in the capital city. They keep track of all the activities of ACCA across the kingdom, and keep data on each state's ACCA office flowing toward the central office. Jean also often has business trips from the capital to the other districts to check on the situation and personnel there.\n\n(Source: MangaHelpers)",
+      "year": 2017,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Politics",
+        "Drama",
+        "Cops"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "f418590ff9e3cda0e2e5526a147217ac10766a49",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "acca-13-territory-inspection-dept/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "acca-13-territory-inspection-dept/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "acca-13-territory-inspection-dept/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "acca-13-territory-inspection-dept/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "acca-13-territory-inspection-dept/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "acca-13-territory-inspection-dept/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "acca-13-territory-inspection-dept/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "acca-13-territory-inspection-dept/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "acca-13-territory-inspection-dept/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "acca-13-territory-inspection-dept/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "acca-13-territory-inspection-dept/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "acca-13-territory-inspection-dept/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
