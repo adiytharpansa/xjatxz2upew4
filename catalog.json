@@ -87784,6 +87784,31 @@
           "playlist": "cencoroll/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong",
+      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e1743686cddf021bd2f0caa076dc108a1bd22c7/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e1743686cddf021bd2f0caa076dc108a1bd22c7/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong/banner.jpg",
+      "synopsis": "On their way back from the 18th floor, Hestia, Bell, and the others accidentally uncover a hidden, mystical hot spring, and they decide to stop by to refresh themselves until creatures lurking in the dark appear to attack them.",
+      "year": 2016,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "c73d5bc20fd242245fb51d814631b15d52d58e2a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
