@@ -82237,6 +82237,67 @@
           "playlist": "ghost-hound/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-kaleid-liner-prisma-illya-2wei",
+      "title": "Fate/Kaleid Liner Prisma Illya 2Wei!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@23c1cfc16a066a0c956d51565581109de0ab0af1/fate-kaleid-liner-prisma-illya-2wei/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@23c1cfc16a066a0c956d51565581109de0ab0af1/fate-kaleid-liner-prisma-illya-2wei/banner.jpg",
+      "synopsis": "The magical girls are back, and ready for another round of adventure! After successfully recovering the Class Cards, fifth graders-turned magical girls Illya and Miyu think they can finally take it easy. But as fate would have it, the girls are once again called back into active duty when they find out that the Cards have left some very nasty side effects on their world. However, their seemingly easy mission goes totally awry with the appearance of a dark stranger who looks just like Illya! Who is this new but familiar face, where did she come from, and what does she want from Illya? With the arrival of this new foe, it seems like Illya's finally met her match when her everyday life takes one dark turn!\n(Source: Crunchyroll)",
+      "year": 2014,
+      "score": 7.3,
+      "genres": [
+        "Elementary School",
+        "Magic",
+        "Magical Girl",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "287a8cd60da58120bee698e88315494f7daa4d91",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
