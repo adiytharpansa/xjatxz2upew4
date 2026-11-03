@@ -82642,6 +82642,127 @@
           "playlist": "the-disappearance-of-nagato-yuki-chan/ep16/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "log-horizon",
+      "title": "Log Horizon",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4dbc5268fb04de49aa3d0d072911d8dec65e1c19/log-horizon/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4dbc5268fb04de49aa3d0d072911d8dec65e1c19/log-horizon/banner.jpg",
+      "synopsis": "In the blink of an eye, thirty thousand bewildered Japanese gamers are whisked from their everyday lives into the world of the popular MMORPG, Elder Tale, after the game's latest update—unable to log out. Among them is the socially awkward college student Shiroe, whose confusion and shock lasts only a moment as, a veteran of the game, he immediately sets out to explore the limits of his new reality.\nShiroe must learn to live in this new world, leading others and negotiating with the NPC \"natives\" in order to bring stability to the virtual city of Akihabara. He is joined by his unfortunate friend Naotsugu, having logged in for the first time in years only to find himself trapped, and Akatsuki, a petite but fierce assassin who labels Shiroe as her master. A tale of fantasy, adventure, and politics, Log Horizon explores the elements of gaming through the eyes of a master strategist who attempts to make the best of a puzzling situation.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 8.0,
+      "genres": [
+        "Magic",
+        "Virtual Reality",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "be5c87967f037b0c5f2a933ad93930a72f8367d6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "log-horizon/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "log-horizon/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "log-horizon/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "log-horizon/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "log-horizon/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "log-horizon/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "log-horizon/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "log-horizon/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "log-horizon/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "log-horizon/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "log-horizon/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "log-horizon/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "log-horizon/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "log-horizon/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "log-horizon/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "log-horizon/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "log-horizon/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "log-horizon/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "log-horizon/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "log-horizon/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "log-horizon/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "log-horizon/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "log-horizon/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "log-horizon/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "log-horizon/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
