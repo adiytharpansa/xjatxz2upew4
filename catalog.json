@@ -81257,6 +81257,739 @@
           "playlist": "shikimori-s-not-just-a-cutie/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-prince-of-tennis",
+      "title": "The Prince of Tennis",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1b9251e2e1b908e4b249c954ac452113a5344548/the-prince-of-tennis/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1b9251e2e1b908e4b249c954ac452113a5344548/the-prince-of-tennis/banner.jpg",
+      "synopsis": "The world of tennis is harsh and highly competitive. Numerous schools from Japan battle it out to determine the best of the best. \nSeishin Gakuen Junior High School, more commonly known as Seigaku, is one of the most prominent contestants in this battle of the finest. Their team line-up gets even stronger with the sudden arrival of a young prodigy from the West, Ryouma Echizen, who is determined to prove himself and escape the towering shadow of his legendary father. This fine addition changes the team forever.Prince of Tennis follows the heartwarming and inspirational story of Ryouma on his quest to become one of the best tennis players the country has ever seen. He pushes himself hard so that he can one day surpass his father’s name and his own personal expectations. Alongside the rest of the Seigaku team, Ryouma fights to make his and his teammate's dreams come true.",
+      "year": 2001,
+      "score": 7.8,
+      "genres": [
+        "Middle School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Tennis"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "fdb2e8b7905d6efb23232386ea789fa6a6c06e47",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-prince-of-tennis/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-prince-of-tennis/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-prince-of-tennis/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-prince-of-tennis/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-prince-of-tennis/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-prince-of-tennis/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-prince-of-tennis/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-prince-of-tennis/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-prince-of-tennis/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-prince-of-tennis/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-prince-of-tennis/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-prince-of-tennis/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-prince-of-tennis/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "the-prince-of-tennis/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "the-prince-of-tennis/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "the-prince-of-tennis/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "the-prince-of-tennis/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "the-prince-of-tennis/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "the-prince-of-tennis/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "the-prince-of-tennis/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "the-prince-of-tennis/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "the-prince-of-tennis/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "the-prince-of-tennis/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "the-prince-of-tennis/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "the-prince-of-tennis/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "the-prince-of-tennis/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "the-prince-of-tennis/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "the-prince-of-tennis/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "the-prince-of-tennis/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "the-prince-of-tennis/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "the-prince-of-tennis/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "the-prince-of-tennis/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "the-prince-of-tennis/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "the-prince-of-tennis/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "the-prince-of-tennis/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "the-prince-of-tennis/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "the-prince-of-tennis/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "the-prince-of-tennis/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "the-prince-of-tennis/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "the-prince-of-tennis/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "the-prince-of-tennis/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "the-prince-of-tennis/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "the-prince-of-tennis/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "the-prince-of-tennis/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "the-prince-of-tennis/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "the-prince-of-tennis/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "the-prince-of-tennis/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "the-prince-of-tennis/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "the-prince-of-tennis/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "the-prince-of-tennis/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "the-prince-of-tennis/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "the-prince-of-tennis/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "the-prince-of-tennis/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "the-prince-of-tennis/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "the-prince-of-tennis/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "the-prince-of-tennis/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "the-prince-of-tennis/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "the-prince-of-tennis/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "the-prince-of-tennis/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "the-prince-of-tennis/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "the-prince-of-tennis/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "the-prince-of-tennis/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "the-prince-of-tennis/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "the-prince-of-tennis/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "the-prince-of-tennis/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "the-prince-of-tennis/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "the-prince-of-tennis/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "the-prince-of-tennis/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "the-prince-of-tennis/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "the-prince-of-tennis/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "the-prince-of-tennis/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "the-prince-of-tennis/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "the-prince-of-tennis/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "the-prince-of-tennis/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "the-prince-of-tennis/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "the-prince-of-tennis/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "the-prince-of-tennis/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "the-prince-of-tennis/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "the-prince-of-tennis/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "the-prince-of-tennis/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "the-prince-of-tennis/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "the-prince-of-tennis/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "the-prince-of-tennis/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "the-prince-of-tennis/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "the-prince-of-tennis/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "the-prince-of-tennis/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "the-prince-of-tennis/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "the-prince-of-tennis/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "the-prince-of-tennis/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "the-prince-of-tennis/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "the-prince-of-tennis/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "the-prince-of-tennis/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "the-prince-of-tennis/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "the-prince-of-tennis/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "the-prince-of-tennis/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "the-prince-of-tennis/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "the-prince-of-tennis/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "the-prince-of-tennis/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "the-prince-of-tennis/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "the-prince-of-tennis/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "the-prince-of-tennis/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "the-prince-of-tennis/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "the-prince-of-tennis/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "the-prince-of-tennis/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "the-prince-of-tennis/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "the-prince-of-tennis/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "the-prince-of-tennis/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "the-prince-of-tennis/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "the-prince-of-tennis/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "the-prince-of-tennis/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "the-prince-of-tennis/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "the-prince-of-tennis/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "the-prince-of-tennis/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "the-prince-of-tennis/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "the-prince-of-tennis/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "the-prince-of-tennis/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "the-prince-of-tennis/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "the-prince-of-tennis/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "the-prince-of-tennis/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "the-prince-of-tennis/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "the-prince-of-tennis/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "the-prince-of-tennis/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "the-prince-of-tennis/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "the-prince-of-tennis/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "the-prince-of-tennis/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "the-prince-of-tennis/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "the-prince-of-tennis/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "the-prince-of-tennis/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "the-prince-of-tennis/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "the-prince-of-tennis/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "the-prince-of-tennis/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "the-prince-of-tennis/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "the-prince-of-tennis/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "the-prince-of-tennis/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "the-prince-of-tennis/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "the-prince-of-tennis/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "the-prince-of-tennis/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "the-prince-of-tennis/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "the-prince-of-tennis/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "the-prince-of-tennis/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "the-prince-of-tennis/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "the-prince-of-tennis/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "the-prince-of-tennis/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "the-prince-of-tennis/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "the-prince-of-tennis/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "the-prince-of-tennis/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "the-prince-of-tennis/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "the-prince-of-tennis/ep148/playlist.m3u8"
+        },
+        {
+          "number": 149,
+          "playlist": "the-prince-of-tennis/ep149/playlist.m3u8"
+        },
+        {
+          "number": 150,
+          "playlist": "the-prince-of-tennis/ep150/playlist.m3u8"
+        },
+        {
+          "number": 151,
+          "playlist": "the-prince-of-tennis/ep151/playlist.m3u8"
+        },
+        {
+          "number": 152,
+          "playlist": "the-prince-of-tennis/ep152/playlist.m3u8"
+        },
+        {
+          "number": 153,
+          "playlist": "the-prince-of-tennis/ep153/playlist.m3u8"
+        },
+        {
+          "number": 154,
+          "playlist": "the-prince-of-tennis/ep154/playlist.m3u8"
+        },
+        {
+          "number": 155,
+          "playlist": "the-prince-of-tennis/ep155/playlist.m3u8"
+        },
+        {
+          "number": 156,
+          "playlist": "the-prince-of-tennis/ep156/playlist.m3u8"
+        },
+        {
+          "number": 157,
+          "playlist": "the-prince-of-tennis/ep157/playlist.m3u8"
+        },
+        {
+          "number": 158,
+          "playlist": "the-prince-of-tennis/ep158/playlist.m3u8"
+        },
+        {
+          "number": 159,
+          "playlist": "the-prince-of-tennis/ep159/playlist.m3u8"
+        },
+        {
+          "number": 160,
+          "playlist": "the-prince-of-tennis/ep160/playlist.m3u8"
+        },
+        {
+          "number": 161,
+          "playlist": "the-prince-of-tennis/ep161/playlist.m3u8"
+        },
+        {
+          "number": 162,
+          "playlist": "the-prince-of-tennis/ep162/playlist.m3u8"
+        },
+        {
+          "number": 163,
+          "playlist": "the-prince-of-tennis/ep163/playlist.m3u8"
+        },
+        {
+          "number": 164,
+          "playlist": "the-prince-of-tennis/ep164/playlist.m3u8"
+        },
+        {
+          "number": 165,
+          "playlist": "the-prince-of-tennis/ep165/playlist.m3u8"
+        },
+        {
+          "number": 166,
+          "playlist": "the-prince-of-tennis/ep166/playlist.m3u8"
+        },
+        {
+          "number": 167,
+          "playlist": "the-prince-of-tennis/ep167/playlist.m3u8"
+        },
+        {
+          "number": 168,
+          "playlist": "the-prince-of-tennis/ep168/playlist.m3u8"
+        },
+        {
+          "number": 169,
+          "playlist": "the-prince-of-tennis/ep169/playlist.m3u8"
+        },
+        {
+          "number": 170,
+          "playlist": "the-prince-of-tennis/ep170/playlist.m3u8"
+        },
+        {
+          "number": 171,
+          "playlist": "the-prince-of-tennis/ep171/playlist.m3u8"
+        },
+        {
+          "number": 172,
+          "playlist": "the-prince-of-tennis/ep172/playlist.m3u8"
+        },
+        {
+          "number": 173,
+          "playlist": "the-prince-of-tennis/ep173/playlist.m3u8"
+        },
+        {
+          "number": 174,
+          "playlist": "the-prince-of-tennis/ep174/playlist.m3u8"
+        },
+        {
+          "number": 175,
+          "playlist": "the-prince-of-tennis/ep175/playlist.m3u8"
+        },
+        {
+          "number": 176,
+          "playlist": "the-prince-of-tennis/ep176/playlist.m3u8"
+        },
+        {
+          "number": 177,
+          "playlist": "the-prince-of-tennis/ep177/playlist.m3u8"
+        },
+        {
+          "number": 178,
+          "playlist": "the-prince-of-tennis/ep178/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
