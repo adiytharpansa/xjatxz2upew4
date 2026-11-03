@@ -86130,6 +86130,80 @@
           "playlist": "acca-13-territory-inspection-dept/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dream-eater-merry",
+      "title": "Dream Eater Merry",
+      "poster": "https://media.kitsu.app/anime/poster_images/5679/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/5679/large.jpg",
+      "synopsis": "Yumekui Merry begins with Yumeji Fujiwara, a seemingly average high school student. But ten years ago, Yumeji gained the ability to see the dream auras of other people around him. This ability allows Yumeji to predict what type of dreams people are likely to have next. The dreams of others may not be a mystery to Yumeji, but his own dreams have recently left him puzzled. In dream after dream, Yumeji has been pursued by an army of cats lead by John Doe, who claims he needs Yumeji's body to enter the real world.\nThese strange occurrences get stranger when Yumeji meets Nightmare Merry, a dream demon seeking to return to her own world. Using his powers, Yumeji decides to assist Merry in getting back home. But Merry's very presence in the real world means that the barrier separating dreams and reality has been broken, and not all of the dream demons intend to come to Earth peacefully…",
+      "year": 2011,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "052458ea6780e3dc3d20c056e1a4aea4dfc1fc5f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dream-eater-merry/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dream-eater-merry/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dream-eater-merry/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dream-eater-merry/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dream-eater-merry/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dream-eater-merry/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dream-eater-merry/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dream-eater-merry/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dream-eater-merry/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dream-eater-merry/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dream-eater-merry/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dream-eater-merry/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dream-eater-merry/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
