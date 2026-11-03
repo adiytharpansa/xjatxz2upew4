@@ -90783,6 +90783,76 @@
           "playlist": "baka-test-summon-the-beasts-ova/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "honey-and-clover-ii",
+      "title": "Honey and Clover II",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@92018eb4ea6727439f1b82a06af78e5fa9f57289/honey-and-clover-ii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@92018eb4ea6727439f1b82a06af78e5fa9f57289/honey-and-clover-ii/banner.jpg",
+      "synopsis": "The sequel and final installment to the highly popular series once again delves into the life stories and love lives of Takemoto Yuuta, Mayama Takumi and Morita Shinobu. The story continues where the first season left off, after Takemoto's self-discovery journey around Japan. Of course, the love triangles and tribulations they face will continue, and eventually decide the paths to their future.\n(Source: ANN)",
+      "year": 2006,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "University",
+        "Japan",
+        "Love Polygon",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "d56e33e63ad3ad691a311fc707a7c2955284251f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "honey-and-clover-ii/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "honey-and-clover-ii/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "honey-and-clover-ii/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "honey-and-clover-ii/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "honey-and-clover-ii/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "honey-and-clover-ii/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "honey-and-clover-ii/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "honey-and-clover-ii/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "honey-and-clover-ii/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "honey-and-clover-ii/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "honey-and-clover-ii/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "honey-and-clover-ii/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
