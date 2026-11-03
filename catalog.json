@@ -91540,6 +91540,78 @@
           "playlist": "zom-100-bucket-list-of-the-dead/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "princess-connect-re-dive",
+      "title": "Princess Connect! Re:Dive",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed2baf45d409f1f46af4352ff54968960807e56f/princess-connect-re-dive/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed2baf45d409f1f46af4352ff54968960807e56f/princess-connect-re-dive/banner.jpg",
+      "synopsis": "In the beautiful land of Astraea where a gentle breeze blows, a young man named Yuuki awakens with no memory of his past. There he encounters a guide who has sworn to care for him—Kokkoro, a lovely swordswoman who's always feeling peckish—Pecorine, and a cat-eared sorceress with a prickly attitude—Karyl. Led by fate, these four come together to form the \"Gourmet Guild.\" And so their adventure begins...\n\n(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "2122e3f0ba820e2aec1c8022679c3c841992327c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "princess-connect-re-dive/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "princess-connect-re-dive/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "princess-connect-re-dive/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "princess-connect-re-dive/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "princess-connect-re-dive/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "princess-connect-re-dive/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "princess-connect-re-dive/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "princess-connect-re-dive/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "princess-connect-re-dive/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "princess-connect-re-dive/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "princess-connect-re-dive/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "princess-connect-re-dive/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "princess-connect-re-dive/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
