@@ -91982,6 +91982,74 @@
           "playlist": "negima/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hitoribocchi-no-marumaruseikatsu",
+      "title": "Hitoribocchi no Marumaruseikatsu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1cf7285f71276e0afdc972085dd73c9d878bd718/hitoribocchi-no-marumaruseikatsu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1cf7285f71276e0afdc972085dd73c9d878bd718/hitoribocchi-no-marumaruseikatsu/banner.jpg",
+      "synopsis": "Hitori Bocchi, a girl with extreme social anxiety, has had only one friend throughout elementary school. When Bocchi learns they'll be split up after graduation, she makes a promise to her: \"By the time of my middle school graduation, I'll make friends with everyone in my class.\" And if she can't... they won't be friends anymore?! But Bocchi has a hard time talking to people. When she gets nervous, her legs cramp. She can't look other people in the eye. She doesn't even know how to make friends! Every way she thinks of to make friends ends up failing. Will her friend-making plan pay off?!\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "e32a6e05b5c3b0483ecd079d73100851cff34068",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hitoribocchi-no-marumaruseikatsu/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
