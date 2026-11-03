@@ -92460,6 +92460,76 @@
           "playlist": "boogiepop-phantom/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "brave-10",
+      "title": "Brave 10",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7799ab019ed1f5676ed7006f50ff1272e0539bda/brave-10/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7799ab019ed1f5676ed7006f50ff1272e0539bda/brave-10/banner.jpg",
+      "synopsis": "Isanami, a young priestess of Izumo, is forced to watch as a group of evil ninja burn her temple to the ground and slaughter the people within, leaving her no choice but to flee into the forest to escape the same fate. By chance, she stumbles upon Saizou Kirigakure, a masterless ninja from the Iga school. The two travel to Ueda Castle to ask Yukimura Sanada for help. Isanami's possession of a strange and devastating power is revealed, and Sanada readily agrees to help her, gathering ten brave warriors to Isanami's side.\nThus begins Brave 10, a story set in the Warring States period. It follows Saizou and Isanami's journey throughout the war-laden lands in search of brave warriors to serve under Yukimura's banner, each possessing powerful skills of their own. They'll have to travel far and wide, all while trying to fend off those who would chase after the dark power that she possesses to make it their own.",
+      "year": 2012,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Bishounen",
+        "Ninja",
+        "Swordplay",
+        "Super Power",
+        "Past"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "07c1a681c945bc88b982676a8182424b2a242f38",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "brave-10/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "brave-10/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "brave-10/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "brave-10/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "brave-10/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "brave-10/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "brave-10/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "brave-10/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "brave-10/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "brave-10/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "brave-10/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "brave-10/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
