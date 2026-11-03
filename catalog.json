@@ -88432,6 +88432,74 @@
           "playlist": "angel-s-egg/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "brothers-conflict",
+      "title": "Brothers Conflict",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@84866128d1323aaeab20c1aa4da1dbe05fc2c5f3/brothers-conflict/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@84866128d1323aaeab20c1aa4da1dbe05fc2c5f3/brothers-conflict/banner.jpg",
+      "synopsis": "Imagine being the only child your whole life, and then suddenly finding yourself gaining 13 step-brothers!\nEma Hinata's lonely life takes a new and exciting turn when her single father Rintarou Hinata, a famous adventurer, falls in love and marries Miwa Asahina, an apparel maker. In order to give the newly-wed couple space, Ema starts living with her new step-brothers in a mansion called Sunrise Residence and for the first time, experiences being part of a lively and big family. She finally feels safe and content.\nEach brother has his own unique personality, and Ema soon realizes that it is not only family love that grows between them, but romance as well. Which brother will be the one to steal her heart in the end?",
+      "year": 2013,
+      "score": 6.0,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "Reverse Harem",
+        "Romance",
+        "Harem"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "06239bbe4fa5d6d40d294a4b7bd80d530d3a2778",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "brothers-conflict/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "brothers-conflict/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "brothers-conflict/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "brothers-conflict/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "brothers-conflict/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "brothers-conflict/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "brothers-conflict/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "brothers-conflict/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "brothers-conflict/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "brothers-conflict/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "brothers-conflict/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "brothers-conflict/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
