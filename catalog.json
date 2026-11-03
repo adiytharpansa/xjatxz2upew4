@@ -83335,6 +83335,75 @@
           "playlist": "how-a-realist-hero-rebuilt-the-kingdom/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "unlimited-psychic-squad",
+      "title": "Unlimited Psychic Squad",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0f7c63df800505154537f7dade84f6ba790c971f/unlimited-psychic-squad/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0f7c63df800505154537f7dade84f6ba790c971f/unlimited-psychic-squad/banner.jpg",
+      "synopsis": "Kyousuke Hyoubu, an ESPer who was betrayed many years ago, is now one of the most powerful ESPers—and also a fugitive. However, behind that glare lies a kind heart. His main mission is to save ESPers who are mistreated by humans, even if that be by force. Through his methods, he has saved many ESPer lives and gained the loyalty of those he has saved. The name of his group: P.A.N.D.R.A.\n(Source: ANN)",
+      "year": 2013,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Contemporary Fantasy",
+        "Action",
+        "Science Fiction",
+        "Crime"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "65d8bd1a5a3ee08b5e5d6abc55494864ae0ed250",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "unlimited-psychic-squad/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "unlimited-psychic-squad/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "unlimited-psychic-squad/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "unlimited-psychic-squad/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "unlimited-psychic-squad/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "unlimited-psychic-squad/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "unlimited-psychic-squad/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "unlimited-psychic-squad/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "unlimited-psychic-squad/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "unlimited-psychic-squad/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "unlimited-psychic-squad/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "unlimited-psychic-squad/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
