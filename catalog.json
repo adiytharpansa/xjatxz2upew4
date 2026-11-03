@@ -92530,6 +92530,32 @@
           "playlist": "brave-10/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tales-from-earthsea",
+      "title": "Tales from Earthsea",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e4acbc416097cc93223d100223b7d7b50dafc620/tales-from-earthsea/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e4acbc416097cc93223d100223b7d7b50dafc620/tales-from-earthsea/banner.jpg",
+      "synopsis": "In the land of Earthsea, crops are dwindling, dragons have reappeared, and humanity is giving way to chaos. Journey with Lord Archmage Sparrowhawk, a master wizard, and Arren, a troubled young prince, on a tale of redemption and self-discovery as they search for the force behind the mysterious imbalance that threatens to destroy their world.\n\n(Source: Disney)",
+      "year": 2006,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Past",
+        "Fantasy World",
+        "Violence",
+        "Parallel Universe",
+        "Angst"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "ff9a9704f1ad1c1462b6092221d205120e23c4b9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tales-from-earthsea/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
