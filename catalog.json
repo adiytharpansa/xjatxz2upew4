@@ -90953,6 +90953,80 @@
           "playlist": "dragon-ball-z-movie-12-fusion-reborn/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "senki-zesshou-symphogear",
+      "title": "Senki Zesshou Symphogear",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f08212833fee5a476dd96a3145e18f24e3c1cd12/senki-zesshou-symphogear/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f08212833fee5a476dd96a3145e18f24e3c1cd12/senki-zesshou-symphogear/poster.jpg",
+      "synopsis": "Two years ago, a pair of idols, Tsubasa Kazanari and Kanade Amou, collectively known as ZweiWing, fought against an alien race known as Noise using armor known as Symphogear. To protect a girl named Hibiki Tachibana, who got severely wounded by the Noise, Kanade sacrificed herself. Two years later, as Tsubasa has fought the Noise alone, Hibiki ends up gaining the same power as Kanade.\n(Source: ANN, Wikipedia)",
+      "year": 2012,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Present",
+        "Earth",
+        "Power Suit",
+        "Japan",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "3a76cbf2b3bf4cfd9e418cae14af8d25415a53f2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "senki-zesshou-symphogear/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "senki-zesshou-symphogear/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "senki-zesshou-symphogear/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "senki-zesshou-symphogear/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "senki-zesshou-symphogear/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "senki-zesshou-symphogear/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "senki-zesshou-symphogear/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "senki-zesshou-symphogear/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "senki-zesshou-symphogear/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "senki-zesshou-symphogear/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "senki-zesshou-symphogear/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "senki-zesshou-symphogear/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "senki-zesshou-symphogear/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
