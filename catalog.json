@@ -87758,6 +87758,32 @@
           "playlist": "the-daily-life-of-the-immortal-king/ep15/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cencoroll",
+      "title": "Cencoroll",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a38a23a62a6b23c30911bc44326a4ce74caefcad/cencoroll/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a38a23a62a6b23c30911bc44326a4ce74caefcad/cencoroll/banner.jpg",
+      "synopsis": "When a gigantic, unearthly monster suddenly looms on the skyline of a Japanese city, the expected occurs—the Japan Self-Defense Forces roll out the tanks while the public panics. Nobody knows what it is or where it came from, but Yuki, a bold and inquisitive teenage girl, has a secret but might be a useful clue. Her friend Tetsu has been clandestinely caring for a bizarre creature called Cenco, which will soon prove itself to have some remarkable, even impossible characteristics. Another teenage boy, a stranger with some mysterious link to the monstrosity attacking the city, shows up, and his unwelcome interest in Tetsu's pet snuffs out any doubt of a connection—and lights the fuse for the coming battle.\n(Source: Rupert Bottenberg, Fantasia Genre Film Festival)",
+      "year": 2009,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "fda0b9fa8f2c61fd4be3505ed364cde0d8def345",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cencoroll/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
