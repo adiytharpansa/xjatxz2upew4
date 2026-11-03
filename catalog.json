@@ -89691,6 +89691,29 @@
           "playlist": "rahxephon/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "goblin-slayer-goblin-s-crown",
+      "title": "Goblin Slayer: Goblin's Crown",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4575b72aef931f1fd5662739a1f1f8920e058662/goblin-slayer-goblin-s-crown/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4575b72aef931f1fd5662739a1f1f8920e058662/goblin-slayer-goblin-s-crown/poster.jpg",
+      "synopsis": "Goblin Slayer and his party head up to the snowy mountains in the north after receiving a request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin Slayer.\n\nThe first 25 minutes is a recap of the first season. The movie that follows is an adaptation of the fifth light novel.\n\n(Source: Crunchyroll, Goblin Slayer Wiki)",
+      "year": 2020,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "66d57326e11aa8631abf70af0242264754004231",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "goblin-slayer-goblin-s-crown/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
