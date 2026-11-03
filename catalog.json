@@ -86591,6 +86591,74 @@
           "playlist": "mobile-suit-gundam-00-second-season/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bottom-tier-character-tomozaki",
+      "title": "Bottom-tier Character Tomozaki",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0c4af47d5e2e132670abc65a9701809613478c06/bottom-tier-character-tomozaki/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0c4af47d5e2e132670abc65a9701809613478c06/bottom-tier-character-tomozaki/banner.jpg",
+      "synopsis": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...\n\n(Source: Yen Press)",
+      "year": 2021,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "Harem",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "bf9948f0619841d55dd067cde6ef6ba5204b6b07",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bottom-tier-character-tomozaki/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bottom-tier-character-tomozaki/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bottom-tier-character-tomozaki/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bottom-tier-character-tomozaki/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bottom-tier-character-tomozaki/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bottom-tier-character-tomozaki/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bottom-tier-character-tomozaki/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bottom-tier-character-tomozaki/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bottom-tier-character-tomozaki/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bottom-tier-character-tomozaki/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bottom-tier-character-tomozaki/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bottom-tier-character-tomozaki/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
