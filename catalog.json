@@ -82763,6 +82763,36 @@
           "playlist": "log-horizon/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wotakoi-love-is-hard-for-otaku-ova",
+      "title": "Wotakoi: Love is Hard for Otaku OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d0f595601873cee4f72f5a66676b23d5f39d409d/wotakoi-love-is-hard-for-otaku-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d0f595601873cee4f72f5a66676b23d5f39d409d/wotakoi-love-is-hard-for-otaku-ova/banner.jpg",
+      "synopsis": "Bundled with the seventh volume of the Wotaku ni Koi wa Muzukashii manga.",
+      "year": 2019,
+      "score": 8.0,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "d78d6eac34824308b91719c2f35e39a745961ad7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wotakoi-love-is-hard-for-otaku-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wotakoi-love-is-hard-for-otaku-ova/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wotakoi-love-is-hard-for-otaku-ova/ep3/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
