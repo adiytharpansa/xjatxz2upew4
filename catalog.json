@@ -83156,6 +83156,111 @@
           "playlist": "school-rumble-2nd-semester/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "radiant",
+      "title": "Radiant",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@43db7ac461f8a3afa269dcbd8b540a21e48b596a/radiant/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@43db7ac461f8a3afa269dcbd8b540a21e48b596a/radiant/banner.jpg",
+      "synopsis": "Seth dreams of being a great sorcerer. He wants to be powerful and defeat the Némésis, monsters that come down from the sky. But his eagerness constantly gets him into trouble. He can’t seem to avoid angering the villagers and even his guardian, Alma. One day, an enormous Némésis really attacks the village! Determined to save the world, Seth embarks on a journey in search for the “Radiant,” the legendary lair of the Némésis. Making new friends, fighting tough enemies, and confronting hardships, Seth’s adventure begins!\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "b78736969cc93e84383f3ce68cfbd63c6de25a29",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "radiant/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "radiant/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "radiant/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "radiant/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "radiant/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "radiant/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "radiant/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "radiant/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "radiant/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "radiant/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "radiant/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "radiant/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "radiant/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "radiant/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "radiant/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "radiant/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "radiant/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "radiant/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "radiant/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "radiant/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "radiant/ep21/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
