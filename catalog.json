@@ -87522,6 +87522,41 @@
           "playlist": "free-dive-to-the-future/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "free-take-your-marks",
+      "title": "Free!: Take Your Marks",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@651341bb387a6fe2e84ccfeea68915d39cbe6882/free-take-your-marks/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@651341bb387a6fe2e84ccfeea68915d39cbe6882/free-take-your-marks/banner.jpg",
+      "synopsis": "A special sequel anime for Free! to screen on October 28, 2017.\n\nTitles:\n#1: Unmei no Choice! (Destined Choice!)\n#2: Hiyu no Cooling Down! (Secret Hot Spring Cooling Down!)\n#3: Kessoku no Butterfly! (United Butterfly!)\n#4: Tabitachi no Eternal Blue! (Departing Eternal Blue!)",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "School Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "1a72b24c59f1b3d05582a977940e86d3c9de5d54",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "free-take-your-marks/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "free-take-your-marks/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "free-take-your-marks/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "free-take-your-marks/ep4/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
