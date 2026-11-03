@@ -89714,6 +89714,32 @@
           "playlist": "goblin-slayer-goblin-s-crown/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "heaven-s-lost-property-the-movie-the-angeloid-of-clockwork",
+      "title": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d942fc57991fad5082febe9cba1b48e07ae36699/heaven-s-lost-property-the-movie-the-angeloid-of-clockwork/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d942fc57991fad5082febe9cba1b48e07ae36699/heaven-s-lost-property-the-movie-the-angeloid-of-clockwork/banner.jpg",
+      "synopsis": "Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc.",
+      "year": 2011,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Angel",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Slapstick"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "0e64054f2dad3db2c501aced80275f4406a48a00",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "heaven-s-lost-property-the-movie-the-angeloid-of-clockwork/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
