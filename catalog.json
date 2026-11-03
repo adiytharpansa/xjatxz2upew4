@@ -88776,6 +88776,72 @@
           "playlist": "a-certain-magical-index-the-movie-the-miracle-of-endymion/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "clockwork-planet",
+      "title": "Clockwork Planet",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@68848f94406f801c899f71dc9e4d995f7bd79097/clockwork-planet/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@68848f94406f801c899f71dc9e4d995f7bd79097/clockwork-planet/poster.jpg",
+      "synopsis": "This news may seem sudden... but this world died long ago. Earth died a thousand years ago, and a legendary clockmaker known only as \"Y\" rebuilt it using clockwork. Naoto Miura, a failing high school student, encounters RyuZU, an automaton that \"Y\" left behind, and the genius clockmaker Marie. When the abilities of these three come together, the gears of fate begin to turn. The cycle of failure and success repeats endlessly as the three of them work to repair the endangered \"Clockwork Planet\" in this clockpunk fantasy!\n\n(Source: Crunchyroll)",
+      "year": 2017,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "f8cf657ed457625aaf6953e367c0f7a8a9eef112",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "clockwork-planet/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "clockwork-planet/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "clockwork-planet/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "clockwork-planet/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "clockwork-planet/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "clockwork-planet/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "clockwork-planet/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "clockwork-planet/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "clockwork-planet/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "clockwork-planet/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "clockwork-planet/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "clockwork-planet/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
