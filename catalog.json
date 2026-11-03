@@ -88500,6 +88500,132 @@
           "playlist": "brothers-conflict/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "space-battleship-yamato-2199",
+      "title": "Space Battleship Yamato 2199",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9a6173a570f3fe85338b6beb1ca751639163601f/space-battleship-yamato-2199/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9a6173a570f3fe85338b6beb1ca751639163601f/space-battleship-yamato-2199/banner.jpg",
+      "synopsis": "In the year 2199, Earth faces its greatest crisis. Due to unrelenting bombings by the alien race known as \"Gamilas,\" the planet can no longer sustain its inhabitants. In exactly one year, humanity is set to become extinct.\nIn desperation, the people of Earth establish the Earth Defense Force, their last defense against the power-hungry Gamilas Empire. However, humanity finds a glimmer of hope after receiving a message from the mysterious planet Iscandar, which offers them a device that would restore Earth to its former glory. With salvation in sight, the Earth Defense Force calls on the prolific Space Battleship Yamato and swiftly assembles a crew to make the 148,000 light-year trek to Iscandar and receive their aid.\nAmong the crew are young officers Susumu Kodai and Daisuke Shima, along with several other newly promoted leaders, all under the command of the distinguished Captain Juuzou Okita. Forced to learn how to handle the ship's innovative technology while dealing with the onslaught of Gamilas fleets, the inexperienced cast of Uchuu Senkan Yamato 2199 must summon every inch of their resolve to survive the many hardships aboard the Yamato and complete their mission: to save humanity before it's too late.\n\n(Source: MAL)",
+      "year": 2012,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Space",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Humanoid Alien"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "c8fdccd63862b99455854f4e1a96b0f4535aab8e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "space-battleship-yamato-2199/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "space-battleship-yamato-2199/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "space-battleship-yamato-2199/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "space-battleship-yamato-2199/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "space-battleship-yamato-2199/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "space-battleship-yamato-2199/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "space-battleship-yamato-2199/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "space-battleship-yamato-2199/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "space-battleship-yamato-2199/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "space-battleship-yamato-2199/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "space-battleship-yamato-2199/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "space-battleship-yamato-2199/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "space-battleship-yamato-2199/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "space-battleship-yamato-2199/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "space-battleship-yamato-2199/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "space-battleship-yamato-2199/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "space-battleship-yamato-2199/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "space-battleship-yamato-2199/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "space-battleship-yamato-2199/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "space-battleship-yamato-2199/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "space-battleship-yamato-2199/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "space-battleship-yamato-2199/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "space-battleship-yamato-2199/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "space-battleship-yamato-2199/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "space-battleship-yamato-2199/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "space-battleship-yamato-2199/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
