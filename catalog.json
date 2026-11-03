@@ -82822,6 +82822,71 @@
         9,
         10
       ]
+    },
+    {
+      "id": "wandering-son",
+      "title": "Wandering Son",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@73aef9fe7e59ebcd3ad42c1035c2e68722d5624f/wandering-son/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@73aef9fe7e59ebcd3ad42c1035c2e68722d5624f/wandering-son/banner.jpg",
+      "synopsis": "Effeminate fifth grader Shuuichi Nitori is considered by most to be one of the prettiest girls in school, but much to her dismay, she is actually biologically male. Fortunately, Shuuichi has a childhood friend who has similar feelings of discomfort related to gender identity: the lanky tomboy Yoshino Takatsuki, who, though biologically female, does not identify as a girl. These two friends share a similar secret and find solace in one another; however, their lives become even more complicated when they must tread the unfamiliar waters of a new school, attempt to make new friends, and struggle to maintain old ones. Faced with nearly insurmountable odds, they must learn to deal with the harsh realities of growing up, transexuality, relationships, and acceptance.\nLauded as a decidedly serious take on gender identity and LGBT struggles, Takako Shimura's Hourou Musuko is about Shuuichi and Yoshino's attempts to discover their true selves as they enter puberty, make friends, fall in love, and face some very real and difficult choices.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 7.8,
+      "genres": [
+        "Middle School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "4a277f1fc1a9317141c59a9bd7ee06aea82375e7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wandering-son/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wandering-son/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wandering-son/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "wandering-son/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "wandering-son/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "wandering-son/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "wandering-son/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "wandering-son/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "wandering-son/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "wandering-son/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "wandering-son/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
