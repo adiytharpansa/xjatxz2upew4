@@ -87809,6 +87809,72 @@
           "playlist": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dr-stone-new-world",
+      "title": "Dr. Stone: New World",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@242151175ab0422aefe4def3d4421e4f5617fb61/dr-stone-new-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@242151175ab0422aefe4def3d4421e4f5617fb61/dr-stone-new-world/banner.jpg",
+      "synopsis": "The third season of Dr. STONE.\n\nSenku and the Kingdom of Science sail to new lands to uncover more scientific secrets!\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "25de8397f67662fad69249ec8bec60fcf1287d20",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dr-stone-new-world/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dr-stone-new-world/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dr-stone-new-world/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dr-stone-new-world/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dr-stone-new-world/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dr-stone-new-world/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dr-stone-new-world/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dr-stone-new-world/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dr-stone-new-world/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dr-stone-new-world/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dr-stone-new-world/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
