@@ -82956,6 +82956,80 @@
           "playlist": "mushoku-tensei-jobless-reincarnation-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "granblue-fantasy-the-animation",
+      "title": "Granblue Fantasy The Animation",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d7e701b370795fda8d299f7d3b12d30dea83ac70/granblue-fantasy-the-animation/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d7e701b370795fda8d299f7d3b12d30dea83ac70/granblue-fantasy-the-animation/banner.jpg",
+      "synopsis": "This is a world of the skies, where many islands drift in the sky. A boy named Gran and a talking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries. One day, they come across a girl named Lyria. Lyria had escaped from the Erste Empire, a military government that is trying to rule over this world using powerful military prowess. In order to escape from the Empire, Gran and Lyria head out into the vast skies, holding the letter Gran's father left behind - which said, \"I will be waiting at Estalucia, Island of Stars\".\n\n(Source: Aniplex of America)\n\nNote: Episodes 1 and 2 preaired on TV on January 21, 2017. Regular broadcasting begins on April 2, 2017.",
+      "year": 2017,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "de75ee5d43f5700ed568020e680212f1cb8a2a03",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "granblue-fantasy-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "granblue-fantasy-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "granblue-fantasy-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "granblue-fantasy-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "granblue-fantasy-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "granblue-fantasy-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "granblue-fantasy-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "granblue-fantasy-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "granblue-fantasy-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "granblue-fantasy-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "granblue-fantasy-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "granblue-fantasy-the-animation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "granblue-fantasy-the-animation/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
