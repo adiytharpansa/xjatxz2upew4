@@ -83954,6 +83954,31 @@
           "playlist": "dragon-ball-z-movie-08-broly-the-legendary-super-saiyan/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-grand-order-first-order",
+      "title": "Fate/Grand Order -First Order-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eac1e98fed7550899d08121a19518278b948e381/fate-grand-order-first-order/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eac1e98fed7550899d08121a19518278b948e381/fate-grand-order-first-order/banner.jpg",
+      "synopsis": "The Chaldea Security Organization was founded to focus on preserving the continuation of human history. They observe a world which magecraft couldn’t observe, and science couldn’t measure, all to prevent the certain extinction of humanity. But one day, the future that Chaldea continued to observe disappears and humanity’s extinction in 2017 becomes clear. Based on the assumption that Fuyuki, a provincial town in Japan, is the reason for humanity’s extinction, Chaldea issues an order to explore, investigate, and possibly destroy this singularity – a quest for the Holy Grail, the Grand Order. (Source: Crunchyroll)",
+      "year": 2016,
+      "score": 6.7,
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Alternative Present"
+      ],
+      "repo": "adiytharpansa/x43wdi1irrzu",
+      "pin": "ff1a7d2947e8f9ec05ba66d45efc8d76810f83fd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-grand-order-first-order/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
