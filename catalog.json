@@ -91470,6 +91470,76 @@
           "playlist": "mobile-suit-gundam/ep43/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "zom-100-bucket-list-of-the-dead",
+      "title": "Zom 100: Bucket List of the Dead",
+      "poster": "https://media.kitsu.app/anime/46954/poster_image/large-2adb6dcb745a6963b5377651868ba407.jpeg",
+      "banner": "https://media.kitsu.app/anime/46954/cover_image/large-22d9df9e83657c89a40b8c7d254efbe7.jpeg",
+      "synopsis": "With three years under his belt at the company from hell, Akira Tendo is mentally and physically spent. All at the ripe old age of twenty-four. Even his crush from Accounting, Saori, wants nothing to do with him. Then, just when life is beginning to look like one big disappointment, it happens. The zombie apocalypse descends on Japan! Surrounded by hordes of hungry zombies, Akira comes to a realization that will forever change his life…\n\n“Wait, does this mean I never have to go to work again?”\n\nConfess to… party like it's… travel Japan coast to…\n\nNow, with his nightmare job no longer, Akira's got his mojo back. Let the bucket listing begin!!\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Zombie",
+        "Action",
+        "Adventure",
+        "Horror",
+        "Comedy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "7ba6be620018bd90084ce4f2bd0c69d0502d0cc1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "zom-100-bucket-list-of-the-dead/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
