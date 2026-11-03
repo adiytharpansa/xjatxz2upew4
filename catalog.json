@@ -83594,6 +83594,123 @@
           "playlist": "overlord-iv/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "trinity-blood",
+      "title": "Trinity Blood",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aeaeb5289a8b2a815401ffc2ff6d69298738110d/trinity-blood/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aeaeb5289a8b2a815401ffc2ff6d69298738110d/trinity-blood/banner.jpg",
+      "synopsis": "The background is in the distant future after the destruction brought about by Armageddon. The war between the vampires and the humans continue to persist. In order to protect the humans from the vampires, the Vatican has to rely on other allies to counter the situation. The protagonist,  Abel Nightroad, is a traveling priest from the Vatican and a crusnik, a vampire that drinks the blood of vampires. He is a member of the \"Ax\", a special operations group led by Cardinal Catherina Sforza. He encounters a young girl called Esther, who decides to go with him to Rome and train at the Vatican. Soon after he meets her, the order of Rozencreuz, led by Abel's twin, Cain, tries to continue the war so they can rule the world. It's up to Abel and the AX to try and stop them.",
+      "year": 2005,
+      "score": 7.1,
+      "genres": [
+        "Vampire",
+        "Super Power",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xhakjmf0p3xu",
+      "pin": "5599250e63876b47037d9f8e6771c37ee4b9024b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "trinity-blood/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "trinity-blood/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "trinity-blood/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "trinity-blood/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "trinity-blood/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "trinity-blood/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "trinity-blood/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "trinity-blood/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "trinity-blood/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "trinity-blood/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "trinity-blood/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "trinity-blood/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "trinity-blood/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "trinity-blood/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "trinity-blood/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "trinity-blood/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "trinity-blood/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "trinity-blood/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "trinity-blood/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "trinity-blood/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "trinity-blood/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "trinity-blood/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "trinity-blood/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "trinity-blood/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
