@@ -89043,6 +89043,127 @@
           "playlist": "tsugumomo/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "baby-steps",
+      "title": "Baby Steps",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ae11c50285535d55f84c575bc8237e9e3b866af3/baby-steps/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ae11c50285535d55f84c575bc8237e9e3b866af3/baby-steps/banner.jpg",
+      "synopsis": "Diligent and methodical honor student Eiichirou Maruo decides to exercise more during the little free time he has available because he is worried about his health. For this reason, after seeing a flyer, he joins the Southern Tennis Club at the beginning of his freshman year.\nDuring his free trial at the club, he meets Natsu Takasaki, another first year student, who is determined on becoming a professional tennis player due to her love for the sport. In contrast, Eiichirou's study-oriented life exists because he believes that it is what he has to do, not because he enjoys it. However, his monotonous days come to an end as the more he plays tennis, the more he becomes fascinated by it.Baby Steps is the story of a boy who makes the most of his hard-working and perfectionist nature to develop his own unique playing style. Little by little, Eiichirou's skills begin to improve, and he hopes to stand on equal footing with tennis' best players.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Tennis",
+        "Slow When It Comes To Love",
+        "Romance",
+        "School Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "f7cea3a2d86768236c0b821b9a3cf98ceea25ea4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "baby-steps/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "baby-steps/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "baby-steps/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "baby-steps/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "baby-steps/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "baby-steps/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "baby-steps/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "baby-steps/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "baby-steps/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "baby-steps/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "baby-steps/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "baby-steps/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "baby-steps/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "baby-steps/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "baby-steps/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "baby-steps/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "baby-steps/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "baby-steps/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "baby-steps/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "baby-steps/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "baby-steps/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "baby-steps/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "baby-steps/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "baby-steps/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "baby-steps/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
