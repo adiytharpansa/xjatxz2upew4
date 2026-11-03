@@ -82298,6 +82298,75 @@
           "playlist": "fate-kaleid-liner-prisma-illya-2wei/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "spy-x-family-season-2",
+      "title": "SPY x FAMILY Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4084eb37606a79e976737ef20c8e85213cb2fabb/spy-x-family-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4084eb37606a79e976737ef20c8e85213cb2fabb/spy-x-family-season-2/banner.jpg",
+      "synopsis": "The second season of SPY×FAMILY.\n\nThe Forger family will face a new familial mission as Yor heads on a cruise ship expedition!\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 8.3,
+      "genres": [
+        "Assassin",
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural",
+        "Family"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "55c17ad6af12f0571d8c6b1324e86a0d970cba68",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "spy-x-family-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "spy-x-family-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "spy-x-family-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "spy-x-family-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "spy-x-family-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "spy-x-family-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "spy-x-family-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "spy-x-family-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "spy-x-family-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "spy-x-family-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "spy-x-family-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "spy-x-family-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
