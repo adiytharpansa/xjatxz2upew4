@@ -90658,6 +90658,75 @@
           "playlist": "needless/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-town-where-you-live",
+      "title": "A Town Where You Live",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@612b88c3b755689aa3ad67ad1a5a267c1786f94d/a-town-where-you-live/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@612b88c3b755689aa3ad67ad1a5a267c1786f94d/a-town-where-you-live/banner.jpg",
+      "synopsis": "Haruto Kirishima lived a calm life out in the countryside, away from the fast-paced life of the city. Then Yuzuki Eba appeared in his life out of nowhere, having come from Tokyo to briefly live with her family. Their time together left him enamored with the memories of that short period before she just as abruptly disappeared from his life, and left him full of questions.Kimi no Iru Machi begins some time later, after Haruto moves to Tokyo to live with his sister, in order to pursue a career as a cook. In reality though he wishes to be with Yuzuki. Things don't start good though. When he arrives he is mistaken for a burglar and attacked by his sister's neighbour Mishima Asuka. After the misunderstand is cleared his feelings begin to waver though. Is Eba, who keeps avoiding him for seemingly no reason, the one for him or is it Asuka? ",
+      "year": 2013,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Countryside",
+        "Love Polygon",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "d13c75c535c5bfa64e23659f1dfdfe51db6141e2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-town-where-you-live/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-town-where-you-live/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-town-where-you-live/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-town-where-you-live/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-town-where-you-live/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-town-where-you-live/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-town-where-you-live/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-town-where-you-live/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-town-where-you-live/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-town-where-you-live/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-town-where-you-live/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-town-where-you-live/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
