@@ -89164,6 +89164,76 @@
           "playlist": "baby-steps/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "medaka-box-abnormal",
+      "title": "Medaka Box Abnormal",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6a80f4122eb155c67e04060aa8b3356d145b7212/medaka-box-abnormal/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6a80f4122eb155c67e04060aa8b3356d145b7212/medaka-box-abnormal/banner.jpg",
+      "synopsis": "After the defeat of Myouri Unzen at the hands of Medaka Kurokami and her Student Council, peace has returned to Hakoniwa Academy—at least, for a short while. Soon, Medaka, Zenkichi Hitoyoshi, Kouki  Akune, and Mogana Kikaijima find themselves wrapped up in another sinister scheme, known as the \"Flask Plan,\" led by the school's principal himself.\nHowever, the council's first problem is to deal with a whole new group of superhuman students calling themselves the \"Thirteen Party,\" led by the egotistical but powerful Oudo Miyakonojou. With the mysterious Flask Plan, Oudo's tyranny, and the resurfacing of an old enemy, the state of Hakoniwa Academy is far from tranquil, and Medaka and her companions have their hands full as things only get a lot more abnormal. \n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Martial Arts",
+        "Super Power",
+        "Earth",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x7459ar76qnf",
+      "pin": "ed60d9490a0cfb9e88f80e365dff7f2851fc4269",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "medaka-box-abnormal/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "medaka-box-abnormal/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "medaka-box-abnormal/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "medaka-box-abnormal/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "medaka-box-abnormal/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "medaka-box-abnormal/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "medaka-box-abnormal/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "medaka-box-abnormal/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "medaka-box-abnormal/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "medaka-box-abnormal/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "medaka-box-abnormal/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "medaka-box-abnormal/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
