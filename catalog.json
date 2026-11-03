@@ -87676,6 +87676,88 @@
           "playlist": "sakura-quest/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-daily-life-of-the-immortal-king",
+      "title": "The Daily Life of the Immortal King",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8b6140737161d6e71e2d16f98b41c3637c2e97cb/the-daily-life-of-the-immortal-king/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8b6140737161d6e71e2d16f98b41c3637c2e97cb/the-daily-life-of-the-immortal-king/banner.jpg",
+      "synopsis": "As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he’s sixteen, he faces his greatest battle yet – Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away…\n\n(Source: NU)",
+      "year": 2020,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xiu6bxqbdf5h",
+      "pin": "ee4f9bf8c4fb58655657768b5184039a1adaed3c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-daily-life-of-the-immortal-king/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-daily-life-of-the-immortal-king/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-daily-life-of-the-immortal-king/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-daily-life-of-the-immortal-king/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-daily-life-of-the-immortal-king/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-daily-life-of-the-immortal-king/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-daily-life-of-the-immortal-king/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-daily-life-of-the-immortal-king/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-daily-life-of-the-immortal-king/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-daily-life-of-the-immortal-king/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-daily-life-of-the-immortal-king/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-daily-life-of-the-immortal-king/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-daily-life-of-the-immortal-king/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "the-daily-life-of-the-immortal-king/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "the-daily-life-of-the-immortal-king/ep15/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
