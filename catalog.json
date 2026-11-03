@@ -91716,6 +91716,76 @@
           "playlist": "fate-grand-order-absolute-demonic-front-babylonia/ep21/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yurikuma-arashi",
+      "title": "Yurikuma Arashi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@55394d143e6e5edb83bde251afac27068724ff2b/yurikuma-arashi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@55394d143e6e5edb83bde251afac27068724ff2b/yurikuma-arashi/banner.jpg",
+      "synopsis": "In the past, humanoid bears coexisted with humans. However, a meteor shower that fell onto Earth had a strange effect on bears throughout the world: they suddenly became violent and hungry for human flesh, spurring an endless cycle of bloodshed in which bear ate man and man shot bear, forgetting the lively relationship they once had. The \"Wall of Severance\" was thus built, separating the two civilizations and keeping peace.\nKureha Tsubaki and Sumika Izumino are two lovers attending Arashigaoka Academy, who, upon the arrival of two bears that have sneaked through the Wall of Severance and infiltrated the academy, find their relationship under a grave threat. The hungering yet affectionate bears, Ginko Yurishiro and Lulu Yurigasaki, seem to see the bear-hating Kureha as more than just another meal, and in getting closer to her, trigger an unraveling of secrets that Kureha may not be able to bear.\nWhen their relationships provoke the Invisible Storm, a group that keeps order within the ideological school, the girls must stand on trial with their love, embarking on a journey of self-discovery en route to attaining true love's \"promised kiss.\"\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Shoujo Ai",
+        "Fantasy",
+        "Ecchi",
+        "Anthropomorphism",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "aff7dce899859d0203ac454f24aa1c680b5a5084",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yurikuma-arashi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yurikuma-arashi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yurikuma-arashi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yurikuma-arashi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yurikuma-arashi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yurikuma-arashi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yurikuma-arashi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yurikuma-arashi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yurikuma-arashi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yurikuma-arashi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yurikuma-arashi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yurikuma-arashi/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
