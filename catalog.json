@@ -86733,6 +86733,74 @@
           "playlist": "amagami-ss-plus/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "magical-sempai",
+      "title": "Magical Sempai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3854cdac52f305b5bdb6d4805e3018090e10d75f/magical-sempai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3854cdac52f305b5bdb6d4805e3018090e10d75f/magical-sempai/banner.jpg",
+      "synopsis": "\"I encountered her… a cute, but ‘weird’ sempai!\" Magic-loving but stage-fright-addled, this sempai comes with a failure rate of 100%—but you can't take your eyes off her! The off-color, magical gag manga that's caused an uproar all over Japan is finally here! Here's to non-athletic hobbies!\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "School Life",
+        "Seinen"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "f1313244d5324ca741d8106f3e0f0776a4c6a395",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "magical-sempai/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magical-sempai/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magical-sempai/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magical-sempai/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magical-sempai/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magical-sempai/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magical-sempai/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magical-sempai/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magical-sempai/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magical-sempai/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magical-sempai/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magical-sempai/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
