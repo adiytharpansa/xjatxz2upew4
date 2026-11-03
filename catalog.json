@@ -86204,6 +86204,76 @@
           "playlist": "dream-eater-merry/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tsukimichi-moonlit-fantasy",
+      "title": "Tsukimichi -Moonlit Fantasy-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f61a448f7d0071f0940dd9954a1d33c41ad5faa8/tsukimichi-moonlit-fantasy/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f61a448f7d0071f0940dd9954a1d33c41ad5faa8/tsukimichi-moonlit-fantasy/banner.jpg",
+      "synopsis": "Makoto Misumi is an ordinary high school boy summoned to an alternate world as a brave warrior. Unfortunately, the goddess of the world said with disdain, \"Your face is ugly,\" stripped him of his title, and banished him to the outermost fringes of the wilderness. While wandering the wilderness, Makoto encountered dragons, spiders, orcs, dwarves, and all sorts of other non-human species. Due to differences in the environment from his home world, Makoto now exhibits extraordinary powers in magic and combat. Thus, he survives on this world while dealing with various encounters. The curtain rises on the alternate-world social reform fantasy of a boy forsaken by gods and humans.\n\n(Source: ANN)",
+      "year": 2021,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "25fe32e95bc9f249cfe7cf93a5694e89793e86c5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tsukimichi-moonlit-fantasy/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tsukimichi-moonlit-fantasy/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tsukimichi-moonlit-fantasy/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tsukimichi-moonlit-fantasy/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tsukimichi-moonlit-fantasy/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tsukimichi-moonlit-fantasy/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tsukimichi-moonlit-fantasy/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tsukimichi-moonlit-fantasy/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tsukimichi-moonlit-fantasy/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tsukimichi-moonlit-fantasy/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tsukimichi-moonlit-fantasy/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tsukimichi-moonlit-fantasy/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
