@@ -83711,6 +83711,74 @@
           "playlist": "trinity-blood/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime",
+      "title": "The Slime Diaries: That Time I Got Reincarnated as a Slime",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d33a18b032a6651f1a6bf0e1e152d5f5d699e119/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d33a18b032a6651f1a6bf0e1e152d5f5d699e119/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/banner.jpg",
+      "synopsis": "\"Dear diary... I got reincarnated as a slime.\"\n\nEven in another world, lives aren't always on the line. There's plenty of work to be done, from feeding the community and forging the items the community needs; as well as plenty of play ...and hijinks throughout! Join Rimuru and friends as they kick back and enjoy their daily lives.\n\n(Source: Kodansha Comics)",
+      "year": 2021,
+      "score": 7.7,
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "Shounen",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "30150240560af8f9e6ae145afc3ff4bbda3b4d71",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
