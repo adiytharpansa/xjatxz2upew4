@@ -88652,6 +88652,30 @@
           "playlist": "hal/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ride-your-wave",
+      "title": "Ride Your Wave",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@63f78bc9b62a07af1696bc0fb0ae22bd41472184/ride-your-wave/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@63f78bc9b62a07af1696bc0fb0ae22bd41472184/ride-your-wave/banner.jpg",
+      "synopsis": "Upon entering university, Hinako moves to a coastal town. She loves surfing, and when she's on the waves she's fearless, but still feels uncertain about her future. When a fire wreaks havoc in the town, Hinako encounters young firefighter Minato. As they surf and spend more time together, Hinako feels drawn to someone like Minato who devotes himself to helping other people. Hinako also holds a special place in Minato's heart.\n\n(Source: ANN)",
+      "year": 2019,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xnbrfpkkzzvk",
+      "pin": "59272ea04f5b670ccf8cde740a2d64cb2123ff39",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ride-your-wave/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
