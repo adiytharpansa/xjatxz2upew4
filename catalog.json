@@ -93777,6 +93777,78 @@
           "playlist": "initial-d-third-stage/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "umamusume-pretty-derby",
+      "title": "Umamusume: Pretty Derby",
+      "poster": "https://media.kitsu.app/anime/poster_images/13485/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/13485/large.jpg",
+      "synopsis": "This is a tale of a world where \"horse girls\" with glorious names and incredible running abilities live alongside humanity.Horse girl Special Week has moved from the country to the city to attend Tracen Academy. There, she and her classmates compete to win the Twinkle Series and earn the title of \"The County's #1 Horse Girl.\"(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Sports",
+        "Juujin"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "a4a1c643189a54e7ae1fb2f28401b9c52dcda345",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "umamusume-pretty-derby/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "umamusume-pretty-derby/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "umamusume-pretty-derby/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "umamusume-pretty-derby/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "umamusume-pretty-derby/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "umamusume-pretty-derby/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "umamusume-pretty-derby/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "umamusume-pretty-derby/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "umamusume-pretty-derby/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "umamusume-pretty-derby/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "umamusume-pretty-derby/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "umamusume-pretty-derby/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "umamusume-pretty-derby/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
