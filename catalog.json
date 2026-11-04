@@ -95285,6 +95285,66 @@
           "playlist": "the-heroic-legend-of-arslan-dust-storm-dance/ep8/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "super-lovers",
+      "title": "Super Lovers",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e2e5160da7e0f4d5f5886df3225b4ccdf9468608/super-lovers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e2e5160da7e0f4d5f5886df3225b4ccdf9468608/super-lovers/banner.jpg",
+      "synopsis": "While spending summer with his mother, Haru meets Ren, a boy newly adopted by his mother. Getting along with Ren isn't easy as Haru's goal is to \"civilize\" him by the time summer ends. Their relationship slowly improves as Haru spends more time with Ren and in return Ren steadily warms up to him. Can they really become a \"family\" at the end of summer?!\n(Source: Bliss)",
+      "year": 2016,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Shounen Ai",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "4e21840fff30b29d69ddef39595c021a9caa5cff",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "super-lovers/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "super-lovers/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "super-lovers/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "super-lovers/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "super-lovers/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "super-lovers/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "super-lovers/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "super-lovers/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "super-lovers/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "super-lovers/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
