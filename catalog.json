@@ -94004,6 +94004,36 @@
           "playlist": "pokemon-destiny-deoxys/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "samurai-x-reflection",
+      "title": "Samurai X: Reflection",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@86403d244ddadf1d94815a763627e4fb4f1ab3cf/samurai-x-reflection/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@86403d244ddadf1d94815a763627e4fb4f1ab3cf/samurai-x-reflection/banner.jpg",
+      "synopsis": "Kaoru goes to the harbor every day to see if Kenshin has returned. After a while, she starts looking back at her life with Kenshin and all the things that have happened.\n(Source: ANN)",
+      "year": 2001,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Bakumatsu   Meiji Period"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "47fd955bea1d635565fc880b12a7feec4c35fa7a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "samurai-x-reflection/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "samurai-x-reflection/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
