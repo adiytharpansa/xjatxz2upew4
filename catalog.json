@@ -96685,6 +96685,31 @@
           "playlist": "moriarty-the-patriot-2nd-season/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-04-lord-slug",
+      "title": "Dragon Ball Z Movie 04: Lord Slug",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb4908797a96d43c5b1ae3c9448de230b1a68740/dragon-ball-z-movie-04-lord-slug/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb4908797a96d43c5b1ae3c9448de230b1a68740/dragon-ball-z-movie-04-lord-slug/banner.jpg",
+      "synopsis": "A Super Namekian named Slug comes to invade Earth. But the Z Warriors do their best to stop Slug and his gang. \n(Source: ANN)",
+      "year": 1991,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "62fbe9f8c5d02c5efdaf7aa73054ec9ad6e49a46",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-04-lord-slug/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
