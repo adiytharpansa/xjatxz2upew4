@@ -94573,6 +94573,74 @@
           "playlist": "aria-the-natural/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "senryu-girl",
+      "title": "Senryu Girl",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cdcba192e4cb37a959c28c87160bd99275a001ba/senryu-girl/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cdcba192e4cb37a959c28c87160bd99275a001ba/senryu-girl/banner.jpg",
+      "synopsis": "Yukishiro Nanako may seem like a normal girl, but she expresses herself only through written senryu poetry! This means she communicates in 5-7-5 syllables as she and her ex-delinquent bestie, Busujima Eiji, run their high school’s Literature Club.\n\n(Source: HIDIVE)",
+      "year": 2019,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "77f32334812c26998624214846c4a98ef3f68adb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "senryu-girl/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "senryu-girl/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "senryu-girl/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "senryu-girl/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "senryu-girl/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "senryu-girl/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "senryu-girl/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "senryu-girl/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "senryu-girl/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "senryu-girl/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "senryu-girl/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "senryu-girl/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
