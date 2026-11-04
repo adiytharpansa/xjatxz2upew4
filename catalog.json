@@ -93978,6 +93978,32 @@
           "playlist": "digimon-adventure-1999/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pokemon-destiny-deoxys",
+      "title": "Pokemon: Destiny Deoxys",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ce963d4d8d8ee03a2147bdbdb3372b3ecda65b14/pokemon-destiny-deoxys/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ce963d4d8d8ee03a2147bdbdb3372b3ecda65b14/pokemon-destiny-deoxys/poster.jpg",
+      "synopsis": "Satoshi and his friends travel to LaRousse, where they meet a boy named Tooi who is afraid of Pokemon due to an incident that happened four years earlier. Meanwhile, Deoxys, a Pokemon from space, has reappeared, putting a barrier around the city and kidnapping people. Rayquaza, a Pokemon that lives in the atmosphere, comes to fight it.\n(Source: ANN)",
+      "year": 2004,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "ed6b573d30a812b3c685ecf25708207e28fc4892",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pokemon-destiny-deoxys/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
