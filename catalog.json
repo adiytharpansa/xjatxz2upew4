@@ -93927,6 +93927,31 @@
           "playlist": "bleach-the-sealed-sword-frenzy/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "orange-mirai",
+      "title": "Orange: Mirai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e28f38d9ee2526d143d2544b8df366ddf45561c4/orange-mirai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e28f38d9ee2526d143d2544b8df366ddf45561c4/orange-mirai/banner.jpg",
+      "synopsis": "The film will be narrated from the viewpoint of Suwa, as he continues to support Kakeru and Naho's relationship. It will also feature an original story written by the series' original creator Ichigo Takano, which takes place after the events in the manga and TV anime. The tagline in the key visual reads, \"Since that day, I've always wanted to show those two this future—.\"\n(Source: MAL News)",
+      "year": 2016,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "School Life",
+        "Drama",
+        "Shoujo"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "59bd00abf9c9dd050a0a96ab09e44cf0b8ecb636",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "orange-mirai/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
