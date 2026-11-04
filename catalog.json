@@ -93681,6 +93681,76 @@
           "playlist": "dragon-ball-z-movie-10-broly-second-coming/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "girlfriend-girlfriend",
+      "title": "Girlfriend, Girlfriend",
+      "poster": "https://media.kitsu.app/anime/poster_images/44165/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/44165/large.jpg",
+      "synopsis": "The protagonist, Naoya, is a first-year in high school. He asks out Saki, a girl he has been in love with, and she agrees to be his girlfriend. He's currently on cloud nine. But then, a beautiful girl named Nagisa comes up to Naoya one day and tells him that she wants to go out with him. Naoya feels himself wavering because Nagisa is such a good girl, and he comes to a decision! A new kind of romcom from a rather unexpected decision is about to begin!\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Love Polygon",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Harem"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "24eab5f75df6745d3f384d0f50825597494233c1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "girlfriend-girlfriend/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "girlfriend-girlfriend/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "girlfriend-girlfriend/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "girlfriend-girlfriend/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "girlfriend-girlfriend/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "girlfriend-girlfriend/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "girlfriend-girlfriend/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "girlfriend-girlfriend/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "girlfriend-girlfriend/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "girlfriend-girlfriend/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "girlfriend-girlfriend/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "girlfriend-girlfriend/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
