@@ -96015,6 +96015,32 @@
           "playlist": "hori-san-to-miyamura-kun/ep6/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "love-chunibyo-other-delusions-rikka-version",
+      "title": "Love, Chunibyo & Other Delusions!: Rikka Version",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e5ff1f4e7e80413de40e2e99b00c915bbd6dcfe4/love-chunibyo-other-delusions-rikka-version/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e5ff1f4e7e80413de40e2e99b00c915bbd6dcfe4/love-chunibyo-other-delusions-rikka-version/banner.jpg",
+      "synopsis": "Summary of the first season of the show, as seen from Rikka's perspective with new elements.",
+      "year": 2013,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "f29aa20d1f437717db99390d73c6016b1b480968",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "love-chunibyo-other-delusions-rikka-version/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
