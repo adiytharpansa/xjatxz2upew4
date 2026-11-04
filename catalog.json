@@ -96613,6 +96613,78 @@
           "playlist": "hakkenden-eight-dogs-of-the-east/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "moriarty-the-patriot-2nd-season",
+      "title": "Moriarty the Patriot 2nd Season",
+      "poster": "https://media.kitsu.app/anime/poster_images/43708/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/43708/large.jpg",
+      "synopsis": "Second half of Youkoku no Moriarty.",
+      "year": 2021,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Psychological",
+        "Mystery",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "606d57c8f97a1c3edfd0e15e819176003ea8b131",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "moriarty-the-patriot-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "moriarty-the-patriot-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "moriarty-the-patriot-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "moriarty-the-patriot-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "moriarty-the-patriot-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "moriarty-the-patriot-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "moriarty-the-patriot-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "moriarty-the-patriot-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "moriarty-the-patriot-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "moriarty-the-patriot-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "moriarty-the-patriot-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "moriarty-the-patriot-2nd-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "moriarty-the-patriot-2nd-season/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
