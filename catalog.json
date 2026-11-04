@@ -92992,6 +92992,76 @@
           "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "insomniacs-after-school",
+      "title": "Insomniacs After School",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F45746%2Fposter_image%2Flarge-45e04c601dd80245037ab7b8ec5a0c4a.jpeg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F45746%2Fcover_image%2Flarge-020e39f5779b2179fe4b467a4b7d838d.jpeg",
+      "synopsis": "Ganta Nakami is a high school student who suffers from insomnia. One day, he meets Isaki Magari, a girl with the same condition. A strange, but special relationship forms as they share a secret and catch up on their sleep in their school’s abandoned observatory…\n\n\n\n(Source: HIDIVE)",
+      "year": 2023,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "d7e8788775d7588e42ac02a36c0fa0ba1ef60b6b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "insomniacs-after-school/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "insomniacs-after-school/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "insomniacs-after-school/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "insomniacs-after-school/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "insomniacs-after-school/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "insomniacs-after-school/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "insomniacs-after-school/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "insomniacs-after-school/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "insomniacs-after-school/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "insomniacs-after-school/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "insomniacs-after-school/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "insomniacs-after-school/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "insomniacs-after-school/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
