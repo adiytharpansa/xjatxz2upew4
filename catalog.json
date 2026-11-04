@@ -93901,6 +93901,32 @@
           "playlist": "hanasaku-iroha-the-movie-home-sweet-home/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bleach-the-sealed-sword-frenzy",
+      "title": "Bleach: The Sealed Sword Frenzy",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5063854083381f185d8f5c89a57262ab8396dea/bleach-the-sealed-sword-frenzy/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5063854083381f185d8f5c89a57262ab8396dea/bleach-the-sealed-sword-frenzy/poster.jpg",
+      "synopsis": "A Shinigami named Baishin who was sealed by Soul Society long ago is set free on Earth. On a fateful day Ichigo encounters him and has roughly half of his reiatsu drained. Its now up to Ichigo and the Soul Society to finally put a stop to Baishin and his destruction.",
+      "year": 2006,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Drama",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "17412865f421e338537161b9bab6d8ff7bc1a9c5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bleach-the-sealed-sword-frenzy/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
