@@ -93558,6 +93558,80 @@
           "playlist": "a-certain-scientific-railgun-t/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-severing-crime-edge",
+      "title": "The Severing Crime Edge",
+      "poster": "https://media.kitsu.app/anime/poster_images/7411/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/7411/large.jpg",
+      "synopsis": "Haimura Kiri is a seemingly ordinary boy with one slight problem: he is obsessed with cutting other people's hair. One day he meets Mushiyanokouji Iwai, the \"Hair Queen\" who cannot cut her hair because of an inherited curse. Kiri finds out that his scissor, \"Dansai Bunri no Crime Edge\" is the only thing that can cut them. But little did he know that their meeting sparked the start of an old murder game to kill the \"Hair Queen\" using the cursed killing tools, the \"Killing Goods.\" Can Kiri protect Iwai from the Killing Goods Owners? Let the game begin! \n(Source: MU)",
+      "year": 2013,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Contemporary Fantasy",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Ecchi",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "d2e43ded134e564ebde28a5b248d146c671f90b7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-severing-crime-edge/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-severing-crime-edge/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-severing-crime-edge/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-severing-crime-edge/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-severing-crime-edge/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-severing-crime-edge/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-severing-crime-edge/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-severing-crime-edge/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-severing-crime-edge/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-severing-crime-edge/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-severing-crime-edge/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-severing-crime-edge/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-severing-crime-edge/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
