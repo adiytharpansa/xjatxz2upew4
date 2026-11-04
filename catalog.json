@@ -96255,6 +96255,124 @@
           "playlist": "remake-our-life/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nobunaga-the-fool",
+      "title": "Nobunaga the Fool",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cf59cb0d082cc3de50c21d85bd212c46e6ba5e98/nobunaga-the-fool/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cf59cb0d082cc3de50c21d85bd212c46e6ba5e98/nobunaga-the-fool/banner.jpg",
+      "synopsis": "Two planets, one to the East and another to the West, were once bound together by a chain called the Dragon Stream. But now, that chain is broken and the two halves are only joined in war.\nNobunaga the Fool is heir to the Eastern Country of Owari. Regarded as too foolish and carefree by many, including his friends, Nobunaga is thought to be a nuisance even by his father.\nA girl from the West named Jeanne Kaguya d'Arc has visions of a \"Savior-King.\" She is accompanied by Leonardo da Vinci as she journeys to the Eastern Planet in search of the person in her visions.\nLeonardo and Jeanne quickly fall victim to a military confrontation between powerful mecha, only to be saved by Nobunaga. Nobunaga takes control of Leonardo's mecha, intending to warn his family of the siege he suspects. Jeanne suspects that the lackadaisical Nobunaga might be the Savior-King she's envisioned. ",
+      "year": 2014,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Bishounen",
+        "Fantasy World",
+        "Mecha",
+        "Historical",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "4853c59aa7985883e519799dba42e0d5539d9e50",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nobunaga-the-fool/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nobunaga-the-fool/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nobunaga-the-fool/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nobunaga-the-fool/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nobunaga-the-fool/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nobunaga-the-fool/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nobunaga-the-fool/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nobunaga-the-fool/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nobunaga-the-fool/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nobunaga-the-fool/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nobunaga-the-fool/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nobunaga-the-fool/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "nobunaga-the-fool/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "nobunaga-the-fool/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "nobunaga-the-fool/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "nobunaga-the-fool/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "nobunaga-the-fool/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "nobunaga-the-fool/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "nobunaga-the-fool/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "nobunaga-the-fool/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "nobunaga-the-fool/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "nobunaga-the-fool/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "nobunaga-the-fool/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "nobunaga-the-fool/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
