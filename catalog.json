@@ -92923,6 +92923,75 @@
           "playlist": "walkure-romanze/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "toilet-bound-hanako-kun-season-2-part-2",
+      "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Ftoilet-bound-hanako-kun-season-2-part-2-dub.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Ftoilet-bound-hanako-kun-season-2-part-2-dub.jpg",
+      "synopsis": "Nene and Kou join Hanako to expose a traitor among the ranks of the Seven Wonders.\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "fcc950a3977b2b1cdc99a0c14f62e45ba8943234",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "toilet-bound-hanako-kun-season-2-part-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
