@@ -96469,6 +96469,76 @@
           "playlist": "valvrave-the-liberator-2nd-season/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "squid-girl-2",
+      "title": "Squid Girl 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b3ade98a0bf947dd90ff75919639b250d3d485a1/squid-girl-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b3ade98a0bf947dd90ff75919639b250d3d485a1/squid-girl-2/banner.jpg",
+      "synopsis": "The nefarious Squid Girl is back to continue her self-appointed mission to invade the surface world. Or that's what she would do, if she could just stop getting distracted by squidding movies, reading squidly manga, and making friends as only a squid could make them. Squid Girl must overcome not only danger found at every turn, but her own squidly good nature as well. \n(Source: ANN)",
+      "year": 2011,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Tentacle",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Asia",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "8fffafd6565023c2e229fe2d3a1dc79ba07a5e94",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "squid-girl-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "squid-girl-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "squid-girl-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "squid-girl-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "squid-girl-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "squid-girl-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "squid-girl-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "squid-girl-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "squid-girl-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "squid-girl-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "squid-girl-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "squid-girl-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
