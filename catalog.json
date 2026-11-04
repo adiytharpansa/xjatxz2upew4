@@ -94378,6 +94378,75 @@
           "playlist": "strawberry-marshmallow/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bloodivores",
+      "title": "Bloodivores",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ff4a29d535e3a8c7dcbe823d3c4fa0c9081ae32/bloodivores/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ff4a29d535e3a8c7dcbe823d3c4fa0c9081ae32/bloodivores/poster.jpg",
+      "synopsis": "60 years ago, a strange case of insomnia struck the population, forcing them to stay awake for more than a full week. The victims, completely sleep deprived, all went mad. To cure this illness, a new medicine was produced, but the side effects turned the patients into vampires. Humanity went to war against this new species and triumphed, but some of the vampires managed to survive. Born from a Human and a Vampire, the main character Mi Liu, \"The Child of Hope,\" is to represent the new hope that will connect the two species. Ringleader of a bank robbery, Mi Liu is arrested and transferred to a special prison of the National Defense Agency that monitors Vampires. Trying to break free with Anji, Mi Liu is attacked by strange monsters and he finds out that the prison location corresponds to the birthplace of Vampires, the old capital \"Blue Town.\" Why are Vampires trapped in Blue Town? What are those strange monsters attacking them? Our heroes must fight to solve those mysteries.\n(Source: Emon via ANN)",
+      "year": 2016,
+      "score": 5.4,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Action",
+        "Cyberpunk",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "d9e573038f333625d94eb15171d93d5429750ac5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bloodivores/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bloodivores/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bloodivores/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bloodivores/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bloodivores/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bloodivores/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bloodivores/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bloodivores/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bloodivores/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bloodivores/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bloodivores/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bloodivores/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
