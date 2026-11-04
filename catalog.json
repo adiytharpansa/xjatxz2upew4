@@ -95700,6 +95700,32 @@
           "playlist": "gourmet-girl-graffiti/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blood-the-last-vampire",
+      "title": "Blood: The Last Vampire",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9d6dba55061fcafff34fae684d040f5178f3c888/blood-the-last-vampire/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9d6dba55061fcafff34fae684d040f5178f3c888/blood-the-last-vampire/banner.jpg",
+      "synopsis": "Teropterids are evil beasts which pose as humans and live only to drink human blood. Fortunately for the human world there are groups dedicated to destroying them. A brooding and mysterious girl named Saya is the best teropterid slayer there is, and now, in 1960s Japan, she is sent to a U. S. army base which may be infested...\n(Source: ANN)",
+      "year": 2000,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Swordplay",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "920b423815033d978a2290a18d43cfcbe4843843",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blood-the-last-vampire/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
