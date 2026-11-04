@@ -93343,6 +93343,76 @@
           "playlist": "haruka-nogizaka-s-secret/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "laughing-under-the-clouds",
+      "title": "Laughing Under the Clouds",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7246e5184f9c2eeb4f748497df3cf97e8979641d/laughing-under-the-clouds/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7246e5184f9c2eeb4f748497df3cf97e8979641d/laughing-under-the-clouds/banner.jpg",
+      "synopsis": "When swords were outlawed in the eleventh year of the Meiji Era, the mighty samurai population began to dwindle. Those who rejected the ban on blades rebelled, causing violent unrest to erupt throughout the countryside. To combat the rise in criminal activity, an inescapable lake prison was constructed. Three young men, born of the Kumoh line, were given the duty of delivering criminals to their place of confinement—but could there be more to their mission than meets the eye?\n(Source: FUNimation)",
+      "year": 2014,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Swordplay",
+        "Past",
+        "Historical",
+        "Absurdist Humour",
+        "Slapstick"
+      ],
+      "repo": "adiytharpansa/xm935w8jn01p",
+      "pin": "3a55c484094a7b391bc30024bbade4256f7e8d49",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "laughing-under-the-clouds/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "laughing-under-the-clouds/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "laughing-under-the-clouds/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "laughing-under-the-clouds/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "laughing-under-the-clouds/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "laughing-under-the-clouds/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "laughing-under-the-clouds/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "laughing-under-the-clouds/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "laughing-under-the-clouds/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "laughing-under-the-clouds/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "laughing-under-the-clouds/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "laughing-under-the-clouds/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
