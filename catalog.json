@@ -96399,6 +96399,76 @@
           "playlist": "food-wars-the-third-plate-ova/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "valvrave-the-liberator-2nd-season",
+      "title": "Valvrave the Liberator 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f82cb246d6b9bfafe1446e908cd7ca5f30a780fa/valvrave-the-liberator-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f82cb246d6b9bfafe1446e908cd7ca5f30a780fa/valvrave-the-liberator-2nd-season/banner.jpg",
+      "synopsis": "Haruto and his comrades continue to fight against the forces of Dorssia. However, many things remain unanswered in the midst of battle, including the past of L-Elf and his fellow soldier's past, the destiny of the mysterious girl Liselotte, and the feelings of Haruto, Shouko, and Saki. The relationships and loyalty of each and every member of each army will be tested as the clash of ideals and power reaches its climax.\n(Source: ANN)",
+      "year": 2013,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Space",
+        "Mecha",
+        "Piloted Robot",
+        "Plot Continuity",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "c16a8c7812fe89ce0fc9bfbc698ed8041b429e46",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "valvrave-the-liberator-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "valvrave-the-liberator-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "valvrave-the-liberator-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "valvrave-the-liberator-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "valvrave-the-liberator-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "valvrave-the-liberator-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "valvrave-the-liberator-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "valvrave-the-liberator-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "valvrave-the-liberator-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "valvrave-the-liberator-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "valvrave-the-liberator-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "valvrave-the-liberator-2nd-season/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
