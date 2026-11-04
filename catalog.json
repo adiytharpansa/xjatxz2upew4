@@ -95541,6 +95541,32 @@
           "playlist": "girlish-number/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blood-lad-ova",
+      "title": "Blood Lad OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b48b60d64483172bca313fb5dae361b9275d0299/blood-lad-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b48b60d64483172bca313fb5dae361b9275d0299/blood-lad-ova/poster.jpg",
+      "synopsis": "Bundled with the tenth limited-edition volume of Blood Lad manga.",
+      "year": 2013,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Fantasy World",
+        "Demon",
+        "Contemporary Fantasy",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "b81d6368dc23519ddb94e5e620e591f7ebd3bef3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blood-lad-ova/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
