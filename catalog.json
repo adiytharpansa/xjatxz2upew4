@@ -96539,6 +96539,80 @@
           "playlist": "squid-girl-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hakkenden-eight-dogs-of-the-east",
+      "title": "Hakkenden -Eight Dogs of the East-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d8f7f92e085e396b4b934b67971dd8d29694e470/hakkenden-eight-dogs-of-the-east/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d8f7f92e085e396b4b934b67971dd8d29694e470/hakkenden-eight-dogs-of-the-east/banner.jpg",
+      "synopsis": "The village of Ootsuka—home to Shino Inuzuka, Sousuke Inukawa, and Hamaji—was lit on fire under the preconception that a virus had seen all of its life eradicated. Now surrounded by flames and on the verge of death, the three were approached by a strange man holding a sword. He tells them that they must reach a decision if they want to live. That night changed everything for these children.\nFive years later, the family of three now lives under the watchful eye of the small Imperial Church in a nearby village. All is fine and dandy until the Church attempts to reclaim the demonic sword of Murasame. To accomplish this, they kidnap Hamaji to lure Shino, now a bearer of Murasame's soul, and Sousuke, who possesses the ability to transform into a dog. The brothers must put their differences aside to rescue their beloved sister from the Church in the Imperial Capital, signalling the beginning of a very difficult journey.",
+      "year": 2013,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "Deity",
+        "Super Power",
+        "Past",
+        "Demon",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "e7ba453bc03603f1ffe4a2ed5120b62227e46682",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "hakkenden-eight-dogs-of-the-east/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
