@@ -95169,6 +95169,68 @@
           "playlist": "psychic-school-wars/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mysteria-friends",
+      "title": "Mysteria Friends",
+      "poster": "https://media.kitsu.app/anime/poster_images/11354/large.jpg",
+      "banner": "https://media.kitsu.app/anime/11354/cover_image/large-f1cb2a22a6fcc27f2a519c46acc1d895.jpeg",
+      "synopsis": "Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academy's students are Anne, a princess and honor student, and Grea, a princess born from a dragon and a human.\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Demon",
+        "High Fantasy",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "8aab822668b1f9df0878c010359d1832d17a7b82",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mysteria-friends/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mysteria-friends/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mysteria-friends/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mysteria-friends/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mysteria-friends/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mysteria-friends/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mysteria-friends/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mysteria-friends/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mysteria-friends/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mysteria-friends/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
