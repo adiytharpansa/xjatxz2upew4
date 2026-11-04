@@ -96115,6 +96115,76 @@
           "playlist": "mitsudomoe/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kemono-michi-rise-up",
+      "title": "Kemono Michi: Rise Up",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aafdf38d7e4201a14a220b4605163bc85db5cff6/kemono-michi-rise-up/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aafdf38d7e4201a14a220b4605163bc85db5cff6/kemono-michi-rise-up/banner.jpg",
+      "synopsis": "The manga follows masked wrestler Genzou Shibata, who likes all kinds of animals and creatures. One day he is summoned to another world, where a princess asks him to help kill magical beasts, but he gets mad and puts her in a German suplex. Instead, he begins life as a pet shop owner in the other world.\n\n(Source: ANN)",
+      "year": 2019,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "Juujin",
+        "Shounen",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "4bc9439652f2b1fc26571f2e367f8f42a5754e1b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kemono-michi-rise-up/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kemono-michi-rise-up/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kemono-michi-rise-up/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kemono-michi-rise-up/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kemono-michi-rise-up/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kemono-michi-rise-up/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kemono-michi-rise-up/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kemono-michi-rise-up/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kemono-michi-rise-up/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kemono-michi-rise-up/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kemono-michi-rise-up/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kemono-michi-rise-up/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
