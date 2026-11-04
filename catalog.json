@@ -93875,6 +93875,32 @@
           "playlist": "dragon-ball-z-movie-13-wrath-of-the-dragon/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hanasaku-iroha-the-movie-home-sweet-home",
+      "title": "Hanasaku Iroha the Movie ~Home Sweet Home~",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4834da68d759c65016c44658d8e3a57f59c383e8/hanasaku-iroha-the-movie-home-sweet-home/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4834da68d759c65016c44658d8e3a57f59c383e8/hanasaku-iroha-the-movie-home-sweet-home/banner.jpg",
+      "synopsis": "In the days before the Bonbori Festival, Ohana's friend Yuina comes to Kissuiso for training. While cleaning up after her, Ohana discovers a logbook kept by Beans from when her mother, Satsuki, was still a youth at Kissuisso. Through the logbook, Ohana catches a glimpse of her mother's struggles, and realizes that maybe the two of them aren't so different after all. Meanwhile, the rest of the inn staff are caught up in dealing with a blackout.\n",
+      "year": 2013,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "237cbf2984b7036fa7ebb51382d5eead9586a940",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hanasaku-iroha-the-movie-home-sweet-home/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
