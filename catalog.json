@@ -93632,6 +93632,29 @@
           "playlist": "the-severing-crime-edge/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "naruto-find-the-crimson-four-leaf-clover",
+      "title": "Naruto: Find the Crimson Four-leaf Clover!",
+      "poster": "https://media.kitsu.app/anime/poster_images/683/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/683/large.jpg",
+      "synopsis": "The grandson of the 3rd Hokage, Konohamaru, finally has a crush on a girl, but he has a big problem she is soon to be moving away from the hidden leaf village. Konohamaru trying to make her stay seeks out the legendary crimson four-leaf clover, which is rumored to grant one wish. \n(Source: ANN)",
+      "year": 2003,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "7fb9cae473e99d67a38774276318078846ea140d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "naruto-find-the-crimson-four-leaf-clover/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
