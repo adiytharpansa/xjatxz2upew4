@@ -95943,6 +95943,32 @@
           "playlist": "my-hero-academia-movie-2-heroes-rising-epilogue-plus/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mirai",
+      "title": "Mirai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f5f303c96f44c9b7a8ff70b26f1e4aba97b0d46b/mirai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f5f303c96f44c9b7a8ff70b26f1e4aba97b0d46b/mirai/banner.jpg",
+      "synopsis": "The film's story centers around a family living in a small house in an obscure corner of a certain city - in particular, the family's spoiled four-year-old boy Kun-chan. When Kun-chan gets a little sister named Mirai, he feels that his new sister stole his parents' love from him, and is overwhelmed by many experiences he undergoes for the first time in his life. In the midst of it all, he meets an older version of Mirai, who has come from the future.\n\n(Source: ANN)",
+      "year": 2018,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Time Travel",
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Coming Of Age",
+        "Family"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "389bccd9eaf2d474142ef484c81ebf7de34e33bd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mirai/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
