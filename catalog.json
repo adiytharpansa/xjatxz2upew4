@@ -94308,6 +94308,76 @@
           "playlist": "amanchu/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "strawberry-marshmallow",
+      "title": "Strawberry Marshmallow",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@14944f522fd96f8032a5f3de925e115ab21b4892/strawberry-marshmallow/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@14944f522fd96f8032a5f3de925e115ab21b4892/strawberry-marshmallow/banner.jpg",
+      "synopsis": "\"Cute girls doing cute things in cute ways.\"\nEveryday things make up the fabric of life—whether it's making friends, going to school, trying to make money, or celebrating a holiday. Ichigo Mashimaro is a heartwarming series that follows the daily lives of Itou Chika, her sister Nobue, and her friends Miu, Matsuri, and Ana.\n[Written by MAL Rewrite]",
+      "year": 2005,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Elementary School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "5ceda7168fd7c12161d522d86bf6ce10aafc85b7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "strawberry-marshmallow/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "strawberry-marshmallow/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "strawberry-marshmallow/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "strawberry-marshmallow/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "strawberry-marshmallow/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "strawberry-marshmallow/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "strawberry-marshmallow/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "strawberry-marshmallow/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "strawberry-marshmallow/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "strawberry-marshmallow/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "strawberry-marshmallow/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "strawberry-marshmallow/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
