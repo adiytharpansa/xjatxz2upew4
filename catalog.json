@@ -95751,6 +95751,31 @@
           "playlist": "saekano-how-to-raise-a-boring-girlfriend-fine/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mushishi-zoku-shou-odoro-no-michi",
+      "title": "Mushishi Zoku Shou: Odoro no Michi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@850699d04d17905d949f0dfc5557a154b5a70ec2/mushishi-zoku-shou-odoro-no-michi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@850699d04d17905d949f0dfc5557a154b5a70ec2/mushishi-zoku-shou-odoro-no-michi/banner.jpg",
+      "synopsis": "One hour special broadcast on August 20, 2014 and bundled with anime's third Blu-ray/DVD volume on November 26, 2014.\nAdapts \"Odoro no Michi\" (Path of Thorns) manga chapters.",
+      "year": 2014,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "e30e62b4f31fdef37b641b090c3d540ed3c99527",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mushishi-zoku-shou-odoro-no-michi/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
