@@ -96041,6 +96041,80 @@
           "playlist": "love-chunibyo-other-delusions-rikka-version/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mitsudomoe",
+      "title": "Mitsudomoe",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@51cfaf9a52e3ad36afee5f00fea5717627eaace9/mitsudomoe/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@51cfaf9a52e3ad36afee5f00fea5717627eaace9/mitsudomoe/banner.jpg",
+      "synopsis": "The 11-year-old Marui triplets could not be any more different. The oldest one, Mitsuba, is sadistic and kind of mature for her age. The middle one, Futaba, is perverted and very athletic and has the strength of a full-grown man. The youngest one, Hitoha, is generally very quiet and gentle but when push comes to shove, she might just be the strongest, the most perverted and the most sadistic out of the three.\nThe three are all in the same class, led by the newly graduated teacher Yabe Satoshi. He usually gets pushed around by the girls and, on occasion, abused but the triplets also try to lead him and the new school nurse, the clumsy Kuriyama Aiko, together. However, Yabe had no intention of dating Aiko and the methods the triplets use to accomplish their goal are highly unorthodox...",
+      "year": 2010,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Elementary School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "4bf94c9cc317e9cadb0ec9c366895affdcf7c28a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mitsudomoe/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mitsudomoe/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mitsudomoe/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mitsudomoe/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mitsudomoe/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mitsudomoe/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mitsudomoe/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mitsudomoe/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mitsudomoe/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mitsudomoe/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mitsudomoe/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mitsudomoe/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mitsudomoe/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
