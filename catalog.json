@@ -93952,6 +93952,32 @@
           "playlist": "orange-mirai/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "digimon-adventure-1999",
+      "title": "Digimon Adventure (1999)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb5d85364eea5b03fae80e85481cdf8508bbd445/digimon-adventure-1999/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb5d85364eea5b03fae80e85481cdf8508bbd445/digimon-adventure-1999/poster.jpg",
+      "synopsis": "A brother and sister discover the digital world is more than 1s and 0s when a living creature arrives out of the family computer. The adventures of a group of children start with the appearance of a Digital Monster in the real world.(Source: ANN)",
+      "year": 1999,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Japan",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "a99f365f35fde99f6f83e847ff093a0fcc75f2d5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "digimon-adventure-1999/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
