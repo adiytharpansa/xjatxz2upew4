@@ -94238,6 +94238,76 @@
           "playlist": "days/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "amanchu",
+      "title": "Amanchu!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8f2c00b4ec1decfcaf5d32ce7e5209f73fa64f55/amanchu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8f2c00b4ec1decfcaf5d32ce7e5209f73fa64f55/amanchu/banner.jpg",
+      "synopsis": "Hikari Kohinata is a cheerful 15-year-old girl who lives near the ocean and she spends much of her time diving as a result. On her first day of high school, she meets a teacher who also likes scuba diving. There's also a 16-year-old classmate, Futaba, who gets dragged along in Hikari's maelstrom as soon as they meet at school. ",
+      "year": 2016,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Super Deformed",
+        "Comedy",
+        "Friendship",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "1f86b56488962253f61f2387102f61e974666551",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "amanchu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "amanchu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "amanchu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "amanchu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "amanchu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "amanchu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "amanchu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "amanchu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "amanchu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "amanchu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "amanchu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "amanchu/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
