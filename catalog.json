@@ -93655,6 +93655,32 @@
           "playlist": "naruto-find-the-crimson-four-leaf-clover/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-10-broly-second-coming",
+      "title": "Dragon Ball Z Movie 10: Broly - Second Coming",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@155a011fd54bd1356912b27cfd02cca86323a5c4/dragon-ball-z-movie-10-broly-second-coming/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@155a011fd54bd1356912b27cfd02cca86323a5c4/dragon-ball-z-movie-10-broly-second-coming/banner.jpg",
+      "synopsis": "After his loss to Goku, Broly crash lands and hibernates on earth. After some time, he is awakened by Trunks and Goten, who Broly believes is Kakarott, and goes on a rampage to kill both of them. At the same time, Gohan is on his way to challenge the Legendary Super Saiyan alone.",
+      "year": 1994,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Demon",
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "d70c9c3ba09c0710b7a1f2a1f04422d6f1fd0f09",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-10-broly-second-coming/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
