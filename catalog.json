@@ -93439,6 +93439,125 @@
           "playlist": "kore-wa-zombie-desu-ka-of-the-dead-hai-minotake-ni-attemasu/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-certain-scientific-railgun-t",
+      "title": "A Certain Scientific Railgun T",
+      "poster": "https://media.kitsu.app/anime/poster_images/41979/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/41979/large.jpg",
+      "synopsis": "Third season of Toaru Kagaku no Railgun.",
+      "year": 2020,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction"
+      ],
+      "repo": "adiytharpansa/x56hfl2s2bw1",
+      "pin": "a0ffdb9c7bff4b313c2f9fca3118497eb8f601d0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-certain-scientific-railgun-t/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-certain-scientific-railgun-t/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-certain-scientific-railgun-t/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-certain-scientific-railgun-t/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-certain-scientific-railgun-t/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-certain-scientific-railgun-t/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-certain-scientific-railgun-t/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-certain-scientific-railgun-t/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-certain-scientific-railgun-t/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-certain-scientific-railgun-t/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-certain-scientific-railgun-t/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-certain-scientific-railgun-t/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "a-certain-scientific-railgun-t/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "a-certain-scientific-railgun-t/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "a-certain-scientific-railgun-t/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "a-certain-scientific-railgun-t/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "a-certain-scientific-railgun-t/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "a-certain-scientific-railgun-t/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "a-certain-scientific-railgun-t/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "a-certain-scientific-railgun-t/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "a-certain-scientific-railgun-t/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "a-certain-scientific-railgun-t/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "a-certain-scientific-railgun-t/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "a-certain-scientific-railgun-t/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "a-certain-scientific-railgun-t/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
