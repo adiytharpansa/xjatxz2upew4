@@ -94447,6 +94447,132 @@
           "playlist": "bloodivores/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "aria-the-natural",
+      "title": "Aria The Natural",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@98cf2db6b0aa343ee5ff1557e23e6badd72711a5/aria-the-natural/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@98cf2db6b0aa343ee5ff1557e23e6badd72711a5/aria-the-natural/banner.jpg",
+      "synopsis": "Akari, Aika and Alice are three girls who share a single dream: to become the most talented gondoliers in all of Neo-Venezia! Every day they train toward their goal, exploring all the wondrous sights that the water-covered planet Aqua has to offer. Whether it's spending a wild day at Carnevale, sharing a beautiful sunset, or even crossing paths with the mysterious spirits that dwell in Aqua's shadows, for these three friends, each day is a new adventure!\n\n(Source: Right Stuf)",
+      "year": 2006,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Space",
+        "Other Planet",
+        "Mars",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "8367a4c84049b03ab064aa6b7e41d7139684c3fc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "aria-the-natural/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "aria-the-natural/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "aria-the-natural/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "aria-the-natural/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "aria-the-natural/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "aria-the-natural/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "aria-the-natural/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "aria-the-natural/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "aria-the-natural/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "aria-the-natural/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "aria-the-natural/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "aria-the-natural/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "aria-the-natural/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "aria-the-natural/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "aria-the-natural/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "aria-the-natural/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "aria-the-natural/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "aria-the-natural/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "aria-the-natural/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "aria-the-natural/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "aria-the-natural/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "aria-the-natural/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "aria-the-natural/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "aria-the-natural/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "aria-the-natural/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "aria-the-natural/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
