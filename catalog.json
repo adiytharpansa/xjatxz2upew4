@@ -96373,6 +96373,32 @@
           "playlist": "nobunaga-the-fool/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "food-wars-the-third-plate-ova",
+      "title": "Food Wars! The Third Plate OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b84c40a284b8f1d5eba189185de105b61116c42/food-wars-the-third-plate-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b84c40a284b8f1d5eba189185de105b61116c42/food-wars-the-third-plate-ova/poster.jpg",
+      "synopsis": "Bundled with the 29th volume of the Shokugeki no Souma manga. It tells the story of what happened to Erina after she ran away from her father. \n\n(Source: MAL)",
+      "year": 2018,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Japan",
+        "Comedy",
+        "Ecchi",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "90f535bd6c6a319c585f95b301197cb578703a26",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "food-wars-the-third-plate-ova/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
