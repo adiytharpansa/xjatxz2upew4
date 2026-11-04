@@ -94123,6 +94123,121 @@
           "playlist": "sonny-boy/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "days",
+      "title": "DAYS",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a264490a42d6e174caa9f07ff0a7d6b52235b34f/days/poster.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/11748/large.jpg",
+      "synopsis": "The series is about two boys named Tsukushi and Jin. Tsukushi is a boy with no special talent or traits while Jin is considered a soccer genius. On one stormy night, Jin meets Tsukushi, and they get dragged into the world of soccer.\n(Source: MAL News)",
+      "year": 2016,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "School Life",
+        "Sports",
+        "Soccer"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "c2e554255de6a98fb29a2e0ec10344c0a946412e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "days/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "days/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "days/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "days/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "days/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "days/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "days/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "days/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "days/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "days/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "days/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "days/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "days/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "days/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "days/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "days/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "days/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "days/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "days/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "days/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "days/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "days/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "days/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "days/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
