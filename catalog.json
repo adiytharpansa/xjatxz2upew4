@@ -95633,6 +95633,73 @@
           "playlist": "welcome-to-irabu-s-office/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gourmet-girl-graffiti",
+      "title": "Gourmet Girl Graffiti",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@70047ddc3ab2ecd22f930e70005ceef13654eef1/gourmet-girl-graffiti/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@70047ddc3ab2ecd22f930e70005ceef13654eef1/gourmet-girl-graffiti/banner.jpg",
+      "synopsis": "The main protagonist of Koufuku Graffiti is a girl named Ryou Machiko who lives alone while attending art school. Ryou absolutely loves to cook (she learned how to from her grandmother who wanted her to grow up to be a fine wife) but lately, all of her dishes have been tasting horrible to her. One day, she gets a sudden call from her aunt who tells her that her second cousin Kirin will be staying with her on the weekends because she wants to attend the same art school as her.\nSoon after Kirin arrives, Ryou learns a valuable lesson and completely changes her perspective on cooking which is that good meals are meant to be eaten with loved ones and that's what makes them taste great. Over the course of the series, Ryou cooks a variety of dishes for her cousin, friends, neighbors and anyone else who drops by her apartment! This is not a series that you'll want to watch on an empty stomach!",
+      "year": 2015,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "804c7c732f72d83ebbc0d82dbeb4179f7944d65d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gourmet-girl-graffiti/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gourmet-girl-graffiti/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gourmet-girl-graffiti/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gourmet-girl-graffiti/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gourmet-girl-graffiti/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gourmet-girl-graffiti/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gourmet-girl-graffiti/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gourmet-girl-graffiti/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gourmet-girl-graffiti/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gourmet-girl-graffiti/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gourmet-girl-graffiti/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gourmet-girl-graffiti/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
