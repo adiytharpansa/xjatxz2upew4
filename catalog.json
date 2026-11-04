@@ -95776,6 +95776,80 @@
           "playlist": "mushishi-zoku-shou-odoro-no-michi/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-pilot-s-love-song",
+      "title": "The Pilot's Love Song",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@643b0e958094cec5b9d8ac17a5ccf72543a6800a/the-pilot-s-love-song/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@643b0e958094cec5b9d8ac17a5ccf72543a6800a/the-pilot-s-love-song/banner.jpg",
+      "synopsis": "In order to uncover the \"end of the sky,\" as spoken of in ancient mythology, Kal-el Albus is sent to Isla, an island in the sky. There he attends Cadoques High's Aerial Division, where he enjoys a carefree life with his schoolmates. That is...until a surprise attack by the air tribe drags Isla into a bloody war.\n(Source: NIS America)",
+      "year": 2014,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Air Force",
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Romance",
+        "Military"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "72c3bb5c2e2c856dab276a6011b51a0394aa5d23",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-pilot-s-love-song/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-pilot-s-love-song/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-pilot-s-love-song/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-pilot-s-love-song/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-pilot-s-love-song/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-pilot-s-love-song/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-pilot-s-love-song/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-pilot-s-love-song/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-pilot-s-love-song/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-pilot-s-love-song/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-pilot-s-love-song/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-pilot-s-love-song/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-pilot-s-love-song/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
