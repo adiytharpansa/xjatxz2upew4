@@ -95920,6 +95920,29 @@
           "playlist": "devils-and-realist/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-movie-2-heroes-rising-epilogue-plus",
+      "title": "My Hero Academia Movie 2: Heroes Rising Epilogue Plus",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@181061557e339a0a05056ff3baa35a96caf65c3f/my-hero-academia-movie-2-heroes-rising-epilogue-plus/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@181061557e339a0a05056ff3baa35a96caf65c3f/my-hero-academia-movie-2-heroes-rising-epilogue-plus/poster.jpg",
+      "synopsis": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
+      "year": 2020,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Comedy",
+        "Superhero"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "b7da6bf83693c589bdc18aaeca04c66cee9a61ef",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-movie-2-heroes-rising-epilogue-plus/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
