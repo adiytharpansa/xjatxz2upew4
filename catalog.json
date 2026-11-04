@@ -95471,6 +95471,76 @@
           "playlist": "touhai-densetsu-akagi-yami-ni-maiorita-tensai/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "girlish-number",
+      "title": "Girlish Number",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@106b0f587cf11e23ad2be260d6d27a5d29ca7c06/girlish-number/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@106b0f587cf11e23ad2be260d6d27a5d29ca7c06/girlish-number/banner.jpg",
+      "synopsis": "College student Chitose Karasuma is determined not to do boring things as she enters the adult world. To this end, this bad-mannered beauty barges into a facility that trains would-be voice actors and actresses, somehow landing a job at \"Number One Produce,\" a seiyuu agency managed by her older brother, Gojou. In Chitose's mind, she's poised for greatness, but finds herself at a loss when she continues to only get minor roles. As she clashes with other girls in the agency, including a cunning airhead and a girl with a Kansai accent, Chitose is about to learn that there's more to succeeding in this competitive industry than she imagined.\n(Source: ANN)",
+      "year": 2016,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Slice of Life",
+        "Working Life"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "9b7d045938484dcf053c26cd00f15ada1925541d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "girlish-number/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "girlish-number/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "girlish-number/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "girlish-number/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "girlish-number/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "girlish-number/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "girlish-number/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "girlish-number/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "girlish-number/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "girlish-number/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "girlish-number/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "girlish-number/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
