@@ -95025,6 +95025,124 @@
           "playlist": "magic-kaito-1412/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "trickster",
+      "title": "Trickster",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f30754ee26777cb715630e9e2d4318bc2b88505f/trickster/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f30754ee26777cb715630e9e2d4318bc2b88505f/trickster/poster.jpg",
+      "synopsis": "The time period is the 2030s. Before the mysterious detective Kogorou Akechi, the Boys' Detective Team is assembled. Their actions have led to the resolution of various small and large incidents. One day, team member Kensuke Hanasaki meets a mysterious boy named Yoshio Kobayashi. Kobayashi, who has an undying body because of an \"unidentified fog,\" wishes his own death and refuses contact with others. Hanasaki takes an interest in Kobayashi and invites him to join the Boys' Detective Team. The encounter eventually leads them to the connection between the criminal nicknamed the \"Fiend with Twenty Faces\" and Kogorou Akechi. The fate of the two begins to move...\n(Source: MAL News)",
+      "year": 2016,
+      "score": 6.0,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Crime"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "ed579a5f2b58808ddb0fd8cb1cd13da3ccf92e95",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "trickster/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "trickster/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "trickster/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "trickster/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "trickster/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "trickster/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "trickster/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "trickster/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "trickster/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "trickster/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "trickster/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "trickster/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "trickster/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "trickster/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "trickster/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "trickster/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "trickster/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "trickster/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "trickster/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "trickster/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "trickster/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "trickster/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "trickster/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "trickster/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
