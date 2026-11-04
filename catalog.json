@@ -93751,6 +93751,32 @@
           "playlist": "girlfriend-girlfriend/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "initial-d-third-stage",
+      "title": "Initial D Third Stage",
+      "poster": "https://media.kitsu.app/anime/poster_images/164/large.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/164/large.jpg",
+      "synopsis": "Shortly after graduating from high school, Takumi is approached by RedSuns leader Ryosuke Takahashi and offered to join him in forming a professional racing team. Before coming up with an answer to the proposal, Takumi seeks retribution by issuing a rematch to Emperor leader Kyouichi Sudou, who previously defeated him due to an engine failure. He is also challenged by Kai Kogashiwa, a second-generation street racer whose father was once a fierce rival of Takumi's father Bunta. ",
+      "year": 2001,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Motorsport",
+        "Street Racing"
+      ],
+      "repo": "adiytharpansa/xx383ms5dk0j",
+      "pin": "d4cab9cb269d48f21d924b5d8777243126a61d83",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "initial-d-third-stage/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
