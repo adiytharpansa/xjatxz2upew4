@@ -95969,6 +95969,52 @@
           "playlist": "mirai/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hori-san-to-miyamura-kun",
+      "title": "Hori-san to Miyamura-kun",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@af77227f92837a6647113711aaa99c81bd08fd48/hori-san-to-miyamura-kun/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@af77227f92837a6647113711aaa99c81bd08fd48/hori-san-to-miyamura-kun/banner.jpg",
+      "synopsis": "People say that the youthful days are always bittersweet, but maybe it's just bitter? \nKyouko Hori is a flashy high school girl, who, despite her ostentatious appearance, excels in academics and has a family-loving character. Izumi Miyamura is a bland high school boy, who, despite not wanting to stand out in class, secretly wears piercings outside of school and has a large body tattoo. \nOne day, Miyamura finds Hori's little brother injured and helps him back to Hori's house, where the relationship between Hori and Miyamura begins with Hori's discovery of Miyamura's secret.",
+      "year": 2012,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "9eee3433912347307c23ead2d6d9e5037e46f8bd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hori-san-to-miyamura-kun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hori-san-to-miyamura-kun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hori-san-to-miyamura-kun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hori-san-to-miyamura-kun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hori-san-to-miyamura-kun/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hori-san-to-miyamura-kun/ep6/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
