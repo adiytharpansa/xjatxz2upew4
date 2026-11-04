@@ -94641,6 +94641,80 @@
           "playlist": "senryu-girl/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "occult-academy",
+      "title": "Occult Academy",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1bf20a721f96e4845cdae13a9d54267705afbc27/occult-academy/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1bf20a721f96e4845cdae13a9d54267705afbc27/occult-academy/banner.jpg",
+      "synopsis": "The story revolves around Maya, the daughter of the former Headmaster of Waldstein Academy, and a time traveling agent Fumiaki Uchida. In the year 2012, the world had been invaded by aliens and time travelers were sent back to the year 1999 in order to find and destroy the Nostradamus Key, which Nostradamus Prophecy foretold as what would bring about the apocalypse. The series then turns to the year 1999, where Maya returns to the Academy with the intention of destroying the Academy by superseding her late father's position as the principal. Her plan was interrupted when she meets Fumiaki and learns of the forthcoming destruction. Despite being distrusting towards Fumiaki, they form a pact to look for the Nostradamus Key.\nIn order to find the Nostradamus Key, time agents were provided with specially created cell phones. When a user finds an object of interest, by thinking of destroying it and taking a photo, and if the resulting image is that of a peaceful world, then the subject is the Nostradamus Key. Conversely, if the subject is not the Nostradamus Key, then the photo displays destruction. By using the phone, Maya and Fumiaki investigates occult occurrences as they occur in the town.\n(Source: Wikipedia)",
+      "year": 2010,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Contemporary Fantasy",
+        "Japan",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "af90e0d9f1d0270f68e323d4d55947689b089eae",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "occult-academy/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "occult-academy/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "occult-academy/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "occult-academy/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "occult-academy/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "occult-academy/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "occult-academy/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "occult-academy/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "occult-academy/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "occult-academy/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "occult-academy/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "occult-academy/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "occult-academy/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
