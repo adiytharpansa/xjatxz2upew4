@@ -101071,6 +101071,124 @@
           "playlist": "ixion-saga-dt/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "witchblade",
+      "title": "Witchblade",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@49d4a274a6b7c2a7affa061dbee47b595456dcd6/witchblade/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@49d4a274a6b7c2a7affa061dbee47b595456dcd6/witchblade/banner.jpg",
+      "synopsis": "Masane Amaha and her daughter Rihoko are on the run from a government child welfare agency that wants to take Rihoko away from her mother. They are caught and Rihoko is taken away. Meanwhile, Masane is attacked by an advanced weapon that can disguise itself as a human being. When faced with the danger, a strange light emits from her wrist and she transforms into a powerful being. She destroys the weapon and consequently becomes involved in a power struggle between powerful organizations, with her at the center of their attention. Because she holds the greatest power of them all, the legendary Witchblade.\n(Source: AniDB)",
+      "year": 2006,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Future",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "821e38a1ed3500c4c9227b259acb1eeded2f3a9f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "witchblade/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "witchblade/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "witchblade/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "witchblade/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "witchblade/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "witchblade/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "witchblade/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "witchblade/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "witchblade/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "witchblade/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "witchblade/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "witchblade/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "witchblade/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "witchblade/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "witchblade/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "witchblade/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "witchblade/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "witchblade/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "witchblade/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "witchblade/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "witchblade/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "witchblade/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "witchblade/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "witchblade/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
