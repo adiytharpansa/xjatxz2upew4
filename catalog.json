@@ -101568,6 +101568,80 @@
           "playlist": "scrapped-princess/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "uncle-from-another-world",
+      "title": "Uncle from Another World",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a385618f2c763a637d339a511864929d90aa5d94/uncle-from-another-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a385618f2c763a637d339a511864929d90aa5d94/uncle-from-another-world/banner.jpg",
+      "synopsis": "When his game-obsessed uncle wakes up from a coma, Takafumi tries to help him catch up on nearly two decades of advancements, from smartphones to modern anime tropes. For starters, they create a YouTube channel showing off his uncle's magical powers.\n\n(Source: Netflix)",
+      "year": 2022,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Elf",
+        "Magic",
+        "Parody",
+        "Stereotypes",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "58009ab1ad056453c4a7ffdd70acaf0f6977474c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "uncle-from-another-world/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "uncle-from-another-world/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "uncle-from-another-world/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "uncle-from-another-world/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "uncle-from-another-world/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "uncle-from-another-world/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "uncle-from-another-world/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "uncle-from-another-world/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "uncle-from-another-world/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "uncle-from-another-world/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "uncle-from-another-world/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "uncle-from-another-world/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "uncle-from-another-world/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
