@@ -99955,6 +99955,32 @@
           "playlist": "the-qwaser-of-stigmata-ii/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-02-the-world-s-strongest",
+      "title": "Dragon Ball Z Movie 02: The World's Strongest",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7609e89d885950394365e3e69a0c2eca00fa2322/dragon-ball-z-movie-02-the-world-s-strongest/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7609e89d885950394365e3e69a0c2eca00fa2322/dragon-ball-z-movie-02-the-world-s-strongest/banner.jpg",
+      "synopsis": "The evil Dr. Wheelo has resurrected his brain into a robot and now desires to inhabit the body of the world's strongest warrior. This means he must face Son Goku and company in a fight for Goku's life. \n(Source: ANN)",
+      "year": 1990,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "8af03208264931abd4e28a9256de126a774e1048",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-02-the-world-s-strongest/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
