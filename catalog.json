@@ -99386,6 +99386,120 @@
           "playlist": "broken-blade/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "lupin-the-third",
+      "title": "Lupin the Third",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2042604b0f32411ba74fd3da885cc6624f010691/lupin-the-third/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2042604b0f32411ba74fd3da885cc6624f010691/lupin-the-third/banner.jpg",
+      "synopsis": "Hard-boiled, cocky, classy and silly. These words only begin to describe the amazing master thief Lupin the Third. With the help of some quick gunplay by his partner Jigen, Lupin takes on the world in elaborate heists, classic car chases, and nasty explosions. Fujiko, a buxom redhead with a penchant for betrayal, always gets tangled up in Lupin's capers. The stoic but swift swordsman Goemon is just as inclined to kill Lupin as he is to help him. And Lupin can never seem to lose the relentless Tokyo Police Inspector Zenigata. What sort of trouble will this band of misfits get into next?\n\n(Source: Discotek Media)",
+      "year": 1971,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Gunfights",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "84e67bfe734db878aac78c2101306ef9c38861ed",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "lupin-the-third/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "lupin-the-third/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "lupin-the-third/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "lupin-the-third/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "lupin-the-third/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "lupin-the-third/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "lupin-the-third/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "lupin-the-third/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "lupin-the-third/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "lupin-the-third/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "lupin-the-third/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "lupin-the-third/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "lupin-the-third/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "lupin-the-third/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "lupin-the-third/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "lupin-the-third/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "lupin-the-third/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "lupin-the-third/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "lupin-the-third/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "lupin-the-third/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "lupin-the-third/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "lupin-the-third/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "lupin-the-third/ep23/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
