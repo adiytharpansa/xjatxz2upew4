@@ -259,51 +259,51 @@
       "episodes": [
         {
           "number": 1,
-          "playlist": "mashle/ep1/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "mashle/ep2/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "mashle/ep3/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "mashle/ep4/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "mashle/ep5/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "mashle/ep6/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "mashle/ep7/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "mashle/ep8/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "mashle/ep9/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "mashle/ep10/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "mashle/ep11/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "mashle/ep12/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x4hrkxuim9k7@e58caded138012bb61462fa3955dd6c31fdbf067/mashle-subsfix/ep12/playlist.m3u8"
         }
       ]
     },
