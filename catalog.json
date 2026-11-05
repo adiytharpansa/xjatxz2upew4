@@ -102334,6 +102334,80 @@
           "playlist": "dance-with-devils/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kimi-ga-aruji-de-shitsuji-ga-ore-de",
+      "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4176913eccfde85c609544f1b36872813f882dc0/kimi-ga-aruji-de-shitsuji-ga-ore-de/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4176913eccfde85c609544f1b36872813f882dc0/kimi-ga-aruji-de-shitsuji-ga-ore-de/banner.jpg",
+      "synopsis": "Based On a Visual Novel developed by Minato Soft.\nDue to family troubles, Ren Uesugi and his sister, Mihato, leave their home. They end up moving to the city but find themselves with a lack of money. Somehow they are able to find work in the form of the Kuonji family's mansion, being employed as servants to the three sisters of the Kuonji family: Shinra, Miyu, and Yume. Being a servant also associates Ren with the mansion's additional servants and the Kuonji sisters' friends.\n(Source: Wikipedia)",
+      "year": 2008,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Maid",
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Stereotypes"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "26f40e79141ff50ea09578187ebc85da1b6e53b4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kimi-ga-aruji-de-shitsuji-ga-ore-de/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
