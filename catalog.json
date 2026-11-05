@@ -98524,6 +98524,76 @@
           "playlist": "aquarion-evol/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-channel",
+      "title": "A-Channel",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@72070bf7aacfb9432988953f9d99b443b07d347b/a-channel/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@72070bf7aacfb9432988953f9d99b443b07d347b/a-channel/banner.jpg",
+      "synopsis": "Tooru and Run have been best friends forever, so when Tooru learns that she's managed to get into the same high school as Run, she runs to tell her... only to find Run in a compromising position with yet another girl, Yuko. Needless to say, that makes things a bit awkward at school, with Tooru fending off those who might be interested in Run while Yuko and their other girlfriend, Nagi, have to deal with Run's own penchant for drama.\n(Source: Sentai Filmworks)",
+      "year": 2011,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "531a3529508c221b95efe26868ce7a1064679ef6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-channel/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-channel/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-channel/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-channel/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-channel/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-channel/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-channel/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-channel/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-channel/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-channel/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-channel/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-channel/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
