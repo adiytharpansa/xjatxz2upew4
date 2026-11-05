@@ -98594,6 +98594,164 @@
           "playlist": "a-channel/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sailor-moon-sailor-stars",
+      "title": "Sailor Moon Sailor Stars",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7b45dcc7b4728edc7a3862cf519336596b7c3e9c/sailor-moon-sailor-stars/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7b45dcc7b4728edc7a3862cf519336596b7c3e9c/sailor-moon-sailor-stars/banner.jpg",
+      "synopsis": "Like the R Season, SailorStars is divided into two arcs:\nThe first arc (also filler) solves some conflicts from the SuperS season, and also sees the return of the Outer Senshi, Haruka, Michiru, Setsuna, and Hotaru (now reborn as a child).\nThe second arc is the actual plot from the manga. Usagi bids farewell to Mamoru, who is going to America to study abroad. In his place comes the Three Lights, an idol trio consisting of three boys, Seiya, Taiki, and Yaten. The new enemy is Galaxia, a woman who desires to rule the entire galaxy by collecting the Star Seeds of humans. Three new Senshi appear, the Sailor Starlights, who also intend to stop Galaxia without Sailormoon's help.",
+      "year": 1996,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Demon",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "edb6dee41f9d86cb7f34a8dc8624662f2a05d77e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sailor-moon-sailor-stars/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sailor-moon-sailor-stars/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sailor-moon-sailor-stars/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sailor-moon-sailor-stars/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sailor-moon-sailor-stars/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sailor-moon-sailor-stars/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sailor-moon-sailor-stars/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sailor-moon-sailor-stars/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sailor-moon-sailor-stars/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sailor-moon-sailor-stars/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sailor-moon-sailor-stars/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sailor-moon-sailor-stars/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sailor-moon-sailor-stars/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "sailor-moon-sailor-stars/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "sailor-moon-sailor-stars/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "sailor-moon-sailor-stars/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "sailor-moon-sailor-stars/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "sailor-moon-sailor-stars/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "sailor-moon-sailor-stars/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "sailor-moon-sailor-stars/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "sailor-moon-sailor-stars/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "sailor-moon-sailor-stars/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "sailor-moon-sailor-stars/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "sailor-moon-sailor-stars/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "sailor-moon-sailor-stars/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "sailor-moon-sailor-stars/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "sailor-moon-sailor-stars/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "sailor-moon-sailor-stars/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "sailor-moon-sailor-stars/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "sailor-moon-sailor-stars/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "sailor-moon-sailor-stars/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "sailor-moon-sailor-stars/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "sailor-moon-sailor-stars/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "sailor-moon-sailor-stars/ep34/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
