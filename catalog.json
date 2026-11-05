@@ -102715,6 +102715,32 @@
           "playlist": "one-piece-film-strong-world-episode-0/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "shinmai-maou-no-testament-ova",
+      "title": "Shinmai Maou no Testament OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f00ec3f2a48fe9a674547be056ddd68cd6868cd7/shinmai-maou-no-testament-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f00ec3f2a48fe9a674547be056ddd68cd6868cd7/shinmai-maou-no-testament-ova/poster.jpg",
+      "synopsis": "An unaired episode of Shinmai Maou no Testament, bundled with the eighth light novel volume.",
+      "year": 2015,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Demon",
+        "Slapstick",
+        "Violent Retribution For Accidental Infringement",
+        "Stereotypes",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "f849d438490b784c95cff422e91efa8eaf91f00c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "shinmai-maou-no-testament-ova/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
