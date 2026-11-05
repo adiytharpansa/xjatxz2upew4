@@ -98282,6 +98282,76 @@
           "playlist": "naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-mu/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-faraway-paladin",
+      "title": "The Faraway Paladin",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6b7f1fe6c72648e07c7cb3b6b6d9dfe880a1d0be/the-faraway-paladin/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6b7f1fe6c72648e07c7cb3b6b6d9dfe880a1d0be/the-faraway-paladin/banner.jpg",
+      "synopsis": "In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know.\n\nBut one day, Will starts to wonder: \"Who am I?\" Will must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin.\n\n(Source: J-Novel Club)",
+      "year": 2021,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Psychological",
+        "Mystery",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "bcc37d0ec62d7d0c90e7dc2b092a7bbedad2c1c3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-faraway-paladin/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-faraway-paladin/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-faraway-paladin/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-faraway-paladin/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-faraway-paladin/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-faraway-paladin/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-faraway-paladin/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-faraway-paladin/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-faraway-paladin/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-faraway-paladin/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-faraway-paladin/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-faraway-paladin/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
