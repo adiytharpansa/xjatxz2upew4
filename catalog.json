@@ -97191,6 +97191,236 @@
         4,
         5
       ]
+    },
+    {
+      "id": "tokyo-mew-mew",
+      "title": "Tokyo Mew Mew",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c35f109b3cbc615d22e4021eb2737cd7a49ea9f9/tokyo-mew-mew/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c35f109b3cbc615d22e4021eb2737cd7a49ea9f9/tokyo-mew-mew/poster.jpg",
+      "synopsis": "The story of Tokyo Mew Mew begins when the main protagonist, Ichigo Momomiya, attends an endangered species exhibit with her crush (and hopefully future boyfriend) Masaya Aoyama. Their peaceful day takes a turn towards drastic when an earthquake strikes and Ichigo, as well as four other girls, are enveloped in a mysterious light. The next day, Ichigo begins to behave like a cat and learns from two scientists that her DNA has been combined with that of an iriomote cat as part of Project μ, which aims to protect the world from alien invaders!\nAliens have come to reclaim Earth in the name of their ancestors who inhabited the planet three million years ago. To get rid of the humans now inhabiting the planet, the aliens have released parasites that infect animals and turn them into monsters. With the DNA of the iriomote cat now inside her, Ichigo can transform into Mew Ichigo and use her powers to fight off the invaders. Ichigo will not have to fight alone, as the four other Mew Mews take to the stage and join in the battle to protect Earth.",
+      "year": 2002,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Alien",
+        "Waitress",
+        "Magical Girl",
+        "Super Power",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "1898f265fa2e286d9ad9d490c85738bfcee3b6da",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-mew-mew/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-mew-mew/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-mew-mew/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-mew-mew/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-mew-mew/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-mew-mew/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-mew-mew/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-mew-mew/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-mew-mew/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-mew-mew/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-mew-mew/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-mew-mew/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tokyo-mew-mew/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "tokyo-mew-mew/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "tokyo-mew-mew/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "tokyo-mew-mew/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "tokyo-mew-mew/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "tokyo-mew-mew/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "tokyo-mew-mew/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "tokyo-mew-mew/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "tokyo-mew-mew/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "tokyo-mew-mew/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "tokyo-mew-mew/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "tokyo-mew-mew/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "tokyo-mew-mew/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "tokyo-mew-mew/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "tokyo-mew-mew/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "tokyo-mew-mew/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "tokyo-mew-mew/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "tokyo-mew-mew/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "tokyo-mew-mew/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "tokyo-mew-mew/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "tokyo-mew-mew/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "tokyo-mew-mew/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "tokyo-mew-mew/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "tokyo-mew-mew/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "tokyo-mew-mew/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "tokyo-mew-mew/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "tokyo-mew-mew/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "tokyo-mew-mew/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "tokyo-mew-mew/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "tokyo-mew-mew/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "tokyo-mew-mew/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "tokyo-mew-mew/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "tokyo-mew-mew/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "tokyo-mew-mew/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "tokyo-mew-mew/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "tokyo-mew-mew/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "tokyo-mew-mew/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "tokyo-mew-mew/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "tokyo-mew-mew/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "tokyo-mew-mew/ep52/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
