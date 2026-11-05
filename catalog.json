@@ -101668,6 +101668,228 @@
           "playlist": "shigatsu-wa-kimi-no-uso-moments/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "erin",
+      "title": "Erin",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7683910d8bfe20a580db6a38947553fdac239792/erin/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7683910d8bfe20a580db6a38947553fdac239792/erin/banner.jpg",
+      "synopsis": "Erin is a young girl who lives with her mother in a village which raises war-lizards, called Touda. We see her daily life, which changes as she grows up. Meanwhile, there is growing tension between the two provinces of the country she lives in.\nBased on the fantasy series written by Uehashi Nahoko, also known for Seirei no Moribito.",
+      "year": 2009,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Fantasy World",
+        "Plot Continuity",
+        "Fantasy",
+        "Slice of Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "991576182cef64b1eff61353cc559a0df82f5c71",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "erin/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "erin/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "erin/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "erin/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "erin/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "erin/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "erin/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "erin/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "erin/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "erin/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "erin/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "erin/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "erin/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "erin/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "erin/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "erin/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "erin/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "erin/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "erin/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "erin/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "erin/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "erin/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "erin/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "erin/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "erin/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "erin/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "erin/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "erin/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "erin/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "erin/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "erin/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "erin/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "erin/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "erin/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "erin/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "erin/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "erin/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "erin/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "erin/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "erin/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "erin/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "erin/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "erin/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "erin/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "erin/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "erin/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "erin/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "erin/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "erin/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "erin/ep50/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
