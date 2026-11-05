@@ -100828,6 +100828,76 @@
           "playlist": "the-rose-of-versailles-2/ep40/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hidamari-sketch",
+      "title": "Hidamari Sketch",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@61df87989914ad81ec1be6cd77ce4b257961888d/hidamari-sketch/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@61df87989914ad81ec1be6cd77ce4b257961888d/hidamari-sketch/banner.jpg",
+      "synopsis": "For years, Yuno has dreamed of attending Yamabuki Arts High School, but now that she's been accepted, it means the scary prospect of moving away from her home and family for the first time! Fortunately, Yuno quickly learns that if her new neighbors at the eclectic Hidamari (Sunshine) Apartments aren't technically family, at least the majority share the bond of being fellow art students. From second year students like Hiro and Sae, who try to behave like helpful older sisters (mostly successfully) to her hyperactive new neighbor, classmate and best friend Miyako (who has the scariest apartment ever) Yuno begins to build the support network she'll need for dealing with strange characters like her oddly masculine landlady, her cosplay obsessed home room teacher, her tooth-chattering principal and all of the other odd denizens who inhabit her chosen world of art. \n(Source: Sentai Filmworks) ",
+      "year": 2007,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "c87ed6d6c753b6f039bd8e336645db69cd874120",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hidamari-sketch/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hidamari-sketch/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hidamari-sketch/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hidamari-sketch/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hidamari-sketch/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hidamari-sketch/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hidamari-sketch/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hidamari-sketch/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hidamari-sketch/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hidamari-sketch/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hidamari-sketch/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hidamari-sketch/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
