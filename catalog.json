@@ -99500,6 +99500,132 @@
           "playlist": "lupin-the-third/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "witch-hunter-robin",
+      "title": "Witch Hunter Robin",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8ab8c16b836a97e67a4c786f0402bd5954bfb086/witch-hunter-robin/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8ab8c16b836a97e67a4c786f0402bd5954bfb086/witch-hunter-robin/banner.jpg",
+      "synopsis": "Witches are individuals with special powers like ESP, telekinesis, mind control, etc. (not the typical hogwart and newt potions). Robin, a 15-year-old craft user, arrives from Italy to Japan to work for an organization named STN Japan Division (STN-J) as a replacement for one of STN-J's witch hunters who was recently killed. Unlike other divisions of STN, STN-J tries to capture the witches alive in order to learn why and how they became witches in the first place.\n(Source: ANN)",
+      "year": 2002,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "55b23d89903d532fc4479f5735171ef79ed33a18",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "witch-hunter-robin/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "witch-hunter-robin/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "witch-hunter-robin/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "witch-hunter-robin/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "witch-hunter-robin/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "witch-hunter-robin/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "witch-hunter-robin/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "witch-hunter-robin/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "witch-hunter-robin/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "witch-hunter-robin/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "witch-hunter-robin/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "witch-hunter-robin/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "witch-hunter-robin/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "witch-hunter-robin/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "witch-hunter-robin/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "witch-hunter-robin/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "witch-hunter-robin/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "witch-hunter-robin/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "witch-hunter-robin/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "witch-hunter-robin/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "witch-hunter-robin/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "witch-hunter-robin/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "witch-hunter-robin/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "witch-hunter-robin/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "witch-hunter-robin/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "witch-hunter-robin/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
