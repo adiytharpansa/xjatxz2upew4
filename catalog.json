@@ -102667,6 +102667,28 @@
           "playlist": "dog-days-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haikyuu-lev-appears",
+      "title": "Haikyuu!!: Lev Appears",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5271f36c0f0bc9bb128eb440a6dbe360ee0f290/haikyuu-lev-appears/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5271f36c0f0bc9bb128eb440a6dbe360ee0f290/haikyuu-lev-appears/banner.jpg",
+      "synopsis": "Haikyuu!!: Lev Genzan! tells an original story that reveals \"a surprising side of a popular player.\"\nIn Haikyuu!!: vs. Akaten, which takes place after the first season, Hinata and Kageyama fail a test and find that the make-up exam conflicts with their training camp.\n(Source: ANN)",
+      "year": 2015,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Sports",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "a0449624d91be75f1daa22b807583fb7dc770de1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haikyuu-lev-appears/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
