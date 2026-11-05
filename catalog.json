@@ -103797,6 +103797,58 @@
           "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x37spdridge1@df9ad62f/hand-shakers/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer",
+      "title": "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b158789c1a702ac54a7c13a7c28caab3b6fd119b/the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b158789c1a702ac54a7c13a7c28caab3b6fd119b/the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/banner.jpg",
+      "synopsis": "The story revolves around the protagonist \"I\" and the murders and mysteries he encounters. He tries in vain to stay out of the story, but instead he always gets dragged into the center of everything. Even though it seems that he contributes a lot, he always finds out that whatever he did was meaningless in the end.\n(Source: MAL News)",
+      "year": 2016,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "ac4ec8db1ba2f76f81dde21ca7ceac8a92d5fd95",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
