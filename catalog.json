@@ -96974,6 +96974,80 @@
           "playlist": "tomodachi-game/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "you-and-me-2",
+      "title": "You and Me 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0274aaa4edb06355d5042621b3cb9983fd946e10/you-and-me-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0274aaa4edb06355d5042621b3cb9983fd946e10/you-and-me-2/banner.jpg",
+      "synopsis": "\"No matter how many years go by, I'm sure we'll still be laughing together.\" \nTwins Yuta and Yuki, Kaname, and Shun have been childhood friends since kindergarten. When transfer student Chizuru joins them, their five man school life becomes all the more lively. Through the changing seasons, the boys will find laughter, surprises, love, and new encounters waiting for them. \nThe second season of the boys growing a little every day of their invaluable daily lives is about to begin! \n(Source: Crunchyroll) ",
+      "year": 2012,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "a2f2a18f15e7643952d9c4e673edfb1f099cb542",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "you-and-me-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "you-and-me-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "you-and-me-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "you-and-me-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "you-and-me-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "you-and-me-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "you-and-me-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "you-and-me-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "you-and-me-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "you-and-me-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "you-and-me-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "you-and-me-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "you-and-me-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
