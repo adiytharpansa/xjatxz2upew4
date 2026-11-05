@@ -96710,6 +96710,80 @@
           "playlist": "dragon-ball-z-movie-04-lord-slug/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "zakuro",
+      "title": "Zakuro",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4afc2653bd5ceb962a0afdded6c47062749c3a5/zakuro/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4afc2653bd5ceb962a0afdded6c47062749c3a5/zakuro/poster.jpg",
+      "synopsis": "Otome Youkai Zakuro takes place in an alternate version of Japan's Meiji Era. In this version of history, humans and spirits coexist side by side in the same world. However Japan is becoming more and more influenced by the West, and more people are accepting Western religions as their chosen faith rather than the more traditional Eastern faiths which have dominated the country for many centuries, leading to conflicts between humans and youkai.\nTo help ease tensions, an organization is established called the Ministry of Spirits made up of a group of male soldiers and a group of female youkai. Unfortunately things don't go as swimmingly as one would hope, as one of the soldiers, Kei Agemaki, is terribly afraid of youkai and one of the spirits, Zakuro, has an extreme dislike for humans who accept practices and traditions from the west. Life for these two is about to become a lot more interesting as they have to learn how to cooperate with their worst enemies!",
+      "year": 2010,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "Past",
+        "Earth",
+        "Alternative Past",
+        "Historical",
+        "Demon"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "cb62fab91872d91a1a77d09d7d9dc5b1169cdbca",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "zakuro/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "zakuro/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "zakuro/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "zakuro/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "zakuro/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "zakuro/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "zakuro/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "zakuro/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "zakuro/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "zakuro/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "zakuro/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "zakuro/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "zakuro/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
