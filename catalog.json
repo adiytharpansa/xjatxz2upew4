@@ -102932,6 +102932,76 @@
           "playlist": "monster-musume-no-oisha-san/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haruchika-haruta-chika",
+      "title": "Haruchika: Haruta & Chika",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6e3aa26b0605e11aa7f85900e2afddf0480612c8/haruchika-haruta-chika/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6e3aa26b0605e11aa7f85900e2afddf0480612c8/haruchika-haruta-chika/banner.jpg",
+      "synopsis": "Chika Homura begins her high school career with a goal: to develop a \"cute girl\" persona. After quitting the volleyball team despite her all-star status, Chika decides to join her school's underrated Wind Instrument Club and play the flute, believing it to be the most delicate and feminine instrument. For the first time in nine years, Chika reunites with her childhood friend and total opposite, Haruta Kamijou. Unfortunately for Chika, Haruta is not fooled by her efforts to become more endearing. But this does not deter Chika, and she develops a crush on the band instructor, Shinjirou Kusakabe—but so does Haruta!\nHowever, Chika's high school life just won't go according to plan, as mysteries begin appearing around her and her friends. The club members must work together to solve the mysteries plaguing the school, all while trying to find more members to compete in musical competitions.\n[Written by MAL Rewrite]",
+      "year": 2016,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Music"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "56846b21825ed4b0df55f5864bf5076db229dcac",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haruchika-haruta-chika/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haruchika-haruta-chika/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "haruchika-haruta-chika/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "haruchika-haruta-chika/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "haruchika-haruta-chika/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "haruchika-haruta-chika/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "haruchika-haruta-chika/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "haruchika-haruta-chika/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "haruchika-haruta-chika/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "haruchika-haruta-chika/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "haruchika-haruta-chika/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "haruchika-haruta-chika/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
