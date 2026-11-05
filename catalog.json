@@ -99765,6 +99765,126 @@
           "playlist": "house-of-five-leaves/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "utawarerumono-the-false-faces",
+      "title": "Utawarerumono: The False Faces",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@df9f4c95b216919bf0e4b28ba4acdf3499708b7e/utawarerumono-the-false-faces/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@df9f4c95b216919bf0e4b28ba4acdf3499708b7e/utawarerumono-the-false-faces/banner.jpg",
+      "synopsis": "When I came to, I realized I was standing in the middle of a vast, snowy plain I knew nothing of. I didn't know how I got there. And to add to that, I couldn't remember anything, not even my name. I stood there, dumbfounded at my absurd situation. But then, as if to spite me further, a gigantic monster suddenly appeared, an insect-like creature that began to bear down on me. I tried desperately to run, but it cornered me into a hopeless situation. It was then that the girl appeared. Her name was Kuon. It was this beautiful girl, who bore an animal's ears and tail, that saved my life.\n(Source: ANN)",
+      "year": 2015,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Harem",
+        "Juujin"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "4f0f24bf0a79137a62f964a46e10a0b221843b35",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "utawarerumono-the-false-faces/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "utawarerumono-the-false-faces/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "utawarerumono-the-false-faces/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "utawarerumono-the-false-faces/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "utawarerumono-the-false-faces/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "utawarerumono-the-false-faces/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "utawarerumono-the-false-faces/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "utawarerumono-the-false-faces/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "utawarerumono-the-false-faces/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "utawarerumono-the-false-faces/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "utawarerumono-the-false-faces/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "utawarerumono-the-false-faces/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "utawarerumono-the-false-faces/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "utawarerumono-the-false-faces/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "utawarerumono-the-false-faces/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "utawarerumono-the-false-faces/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "utawarerumono-the-false-faces/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "utawarerumono-the-false-faces/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "utawarerumono-the-false-faces/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "utawarerumono-the-false-faces/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "utawarerumono-the-false-faces/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "utawarerumono-the-false-faces/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "utawarerumono-the-false-faces/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "utawarerumono-the-false-faces/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "utawarerumono-the-false-faces/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
