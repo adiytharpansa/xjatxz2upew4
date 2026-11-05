@@ -102028,6 +102028,76 @@
           "playlist": "schwarzes-marken/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-kaleid-liner-prisma-illya-3rei",
+      "title": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ab73177b7aacbf75b98ba0a1986d09f3bfb78eeb/fate-kaleid-liner-prisma-illya-3rei/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ab73177b7aacbf75b98ba0a1986d09f3bfb78eeb/fate-kaleid-liner-prisma-illya-3rei/banner.jpg",
+      "synopsis": "Illya and the gang have finished their battle against the heroic spirit residing in the eighth class card. They're back in vacation mode again, looking to make the most of what they have left of summer break. But their hopes get crushed in the blink of an eye.\nAn all-too-unrealistic silhouette appears before them when they go to investigate the strange event at Mount Enzou. After a short skirmish, the entire space ends up being warped. Illya wakes up in a wintry Fuyuki City... in a parallel world.\nThis is the world where Miyu was born and raised.\n(Source: ANN)",
+      "year": 2016,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "dde808380fb5e500efe5629272a32cc2f7cff977",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
