@@ -99360,6 +99360,32 @@
           "playlist": "diabolik-lovers-ii-more-blood/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "broken-blade",
+      "title": "Broken Blade",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@916c79d594ab9942b3554613986fe016dcdfb1b1/broken-blade/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@916c79d594ab9942b3554613986fe016dcdfb1b1/broken-blade/poster.jpg",
+      "synopsis": "In the continent of Cruzon, an impending war between the Kingdom of Krisna and the nation of Athens is brimming. The people of this land are able to use quartz for whatever purpose they desire. Yet one person, Rygart Arrow, is not. He is an \"un-sorcerer,\" a person unable to use quartz. But this characteristic will enable him to pilot an ancient Golem, one strong enough to put up a fight against the invading army of Athens.",
+      "year": 2010,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Gunfights",
+        "Swordplay",
+        "Fantasy World",
+        "Mecha",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "ab7e6c1205d44d69682ff7238debba7794cbf719",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "broken-blade/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
