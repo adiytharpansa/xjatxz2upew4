@@ -100950,6 +100950,127 @@
           "playlist": "the-ocean-waves/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ixion-saga-dt",
+      "title": "Ixion Saga DT",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ec62c22ac688a481cc4e4dfbbc08858b3714223e/ixion-saga-dt/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ec62c22ac688a481cc4e4dfbbc08858b3714223e/ixion-saga-dt/poster.jpg",
+      "synopsis": "The game and anime follow Kon Hokaze, a boy who embarks on a journey from our world to an alternate world known as Mira, which is full a mysterious energy known as Alma. After saving Princess Ecarlate from attackers, he soon finds himself in the middle of a struggle around Alma.",
+      "year": 2012,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Parody",
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "87519acf066f157c4ca27e4379289948e1ce152f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ixion-saga-dt/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ixion-saga-dt/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ixion-saga-dt/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ixion-saga-dt/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ixion-saga-dt/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ixion-saga-dt/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ixion-saga-dt/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ixion-saga-dt/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ixion-saga-dt/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ixion-saga-dt/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ixion-saga-dt/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ixion-saga-dt/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ixion-saga-dt/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "ixion-saga-dt/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "ixion-saga-dt/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "ixion-saga-dt/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "ixion-saga-dt/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "ixion-saga-dt/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "ixion-saga-dt/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "ixion-saga-dt/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "ixion-saga-dt/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "ixion-saga-dt/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "ixion-saga-dt/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "ixion-saga-dt/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "ixion-saga-dt/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
