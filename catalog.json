@@ -100328,6 +100328,228 @@
           "playlist": "loving-yamada-at-lv999/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ahiru-no-sora",
+      "title": "Ahiru no Sora",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@af02bb86735d701fd569a44fcc60768bbd3def23/ahiru-no-sora/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@af02bb86735d701fd569a44fcc60768bbd3def23/ahiru-no-sora/poster.jpg",
+      "synopsis": "He may be short in stature, but Sora Kurumatani can soar and score on the basketball court! With a passion for the sport he inherited from his mother, Sora vows to her that he’ll take top prize at a high school basketball tournament… but there’s one problem. His new school’s basketball club has turned into a hangout for delinquents! Will Sora’s sheer tenacity and amazing three-point shooting change their minds and get the club up and running again?(Source: Sentai Filmworks)",
+      "year": 2019,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "School Clubs",
+        "Basketball",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "b88031273a82a2c848ab78731650c0c62b8d7d18",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ahiru-no-sora/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ahiru-no-sora/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ahiru-no-sora/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ahiru-no-sora/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ahiru-no-sora/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ahiru-no-sora/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ahiru-no-sora/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ahiru-no-sora/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ahiru-no-sora/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ahiru-no-sora/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ahiru-no-sora/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ahiru-no-sora/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ahiru-no-sora/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "ahiru-no-sora/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "ahiru-no-sora/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "ahiru-no-sora/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "ahiru-no-sora/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "ahiru-no-sora/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "ahiru-no-sora/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "ahiru-no-sora/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "ahiru-no-sora/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "ahiru-no-sora/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "ahiru-no-sora/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "ahiru-no-sora/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "ahiru-no-sora/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "ahiru-no-sora/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "ahiru-no-sora/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "ahiru-no-sora/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "ahiru-no-sora/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "ahiru-no-sora/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "ahiru-no-sora/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "ahiru-no-sora/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "ahiru-no-sora/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "ahiru-no-sora/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "ahiru-no-sora/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "ahiru-no-sora/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "ahiru-no-sora/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "ahiru-no-sora/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "ahiru-no-sora/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "ahiru-no-sora/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "ahiru-no-sora/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "ahiru-no-sora/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "ahiru-no-sora/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "ahiru-no-sora/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "ahiru-no-sora/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "ahiru-no-sora/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "ahiru-no-sora/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "ahiru-no-sora/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "ahiru-no-sora/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "ahiru-no-sora/ep50/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
