@@ -98165,6 +98165,32 @@
           "playlist": "konosuba-god-s-blessing-on-this-wonderful-world-3/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "metropolis",
+      "title": "Metropolis",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0d2309ad5e178c92ad3693b638945fe42fad0368/metropolis/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0d2309ad5e178c92ad3693b638945fe42fad0368/metropolis/banner.jpg",
+      "synopsis": "In the great city of Metropolis, severe community structures and prejudice dominate a world where humans and robots live together. Unrest and violence increase with each new day.\nSearching for the scientist Dr. Laughton, suspected to violate human rights by trading organs, the Japanese detective Shunsaku Ban and his nephew Kenichi arrive at Metropolis. In the scientist's laboratory, Kenichi discovers a girl without any memory of her past life. He decides to help her, so they run away together. His uncle follows him and penetrates the dark secrets of the city to find Duke Red, the man ruling from the shadows. Meanwhile, Kenichi desperately tries to protect the mysterious girl from the people hunting her. However, Duke Red and his adoptive son have their own deep reasons for chasing the girl. These reasons are connected to her true identity and the struggle for the domination of Metropolis...\n[Written by MAL Rewrite]",
+      "year": 2001,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Future",
+        "Fantasy World",
+        "Mecha",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "d5ad6e06a0059df7410e6f70d3ab149b6f56b8a2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "metropolis/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
