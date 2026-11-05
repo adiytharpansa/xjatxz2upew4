@@ -100898,6 +100898,32 @@
           "playlist": "hidamari-sketch/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-09-bojack-unbound",
+      "title": "Dragon Ball Z Movie 09: Bojack Unbound",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0c6bb34e656c7a7036359f1d82637c623f4464d2/dragon-ball-z-movie-09-bojack-unbound/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0c6bb34e656c7a7036359f1d82637c623f4464d2/dragon-ball-z-movie-09-bojack-unbound/banner.jpg",
+      "synopsis": "Mr. Money is holding another Tenka'ichi Budokai and Mr. Satan invites everyone in the world to join in. Little does he know that Bojack, an ancient villain who has escaped his prison, is competing. Since Goku is currently dead, it is up to Gohan, Vegeta, and Trunks to defeat Bojack and his henchman.",
+      "year": 1993,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "c3c5a079335209cd65ac2eeabe5799ee1bd900d5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-09-bojack-unbound/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
