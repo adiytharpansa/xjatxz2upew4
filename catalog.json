@@ -102098,6 +102098,78 @@
           "playlist": "fate-kaleid-liner-prisma-illya-3rei/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kono-oto-tomare-sounds-of-life-season-2",
+      "title": "Kono Oto Tomare!: Sounds of Life Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cd2880722f51f901d2e3579f5894ad21933b537/kono-oto-tomare-sounds-of-life-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cd2880722f51f901d2e3579f5894ad21933b537/kono-oto-tomare-sounds-of-life-season-2/poster.jpg",
+      "synopsis": "Second season of Kono Oto Tomare!",
+      "year": 2019,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Music",
+        "School Life",
+        "Drama",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "4ac7626217dbe9c2c42f9d1d368cacdc3bf414f1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kono-oto-tomare-sounds-of-life-season-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
