@@ -98075,6 +98075,30 @@
           "playlist": "prison-school-ova/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "girls-und-panzer-der-film",
+      "title": "Girls und Panzer der Film",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@35856cb318db44bff88b5085ae75f5838046d0f5/girls-und-panzer-der-film/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@35856cb318db44bff88b5085ae75f5838046d0f5/girls-und-panzer-der-film/banner.jpg",
+      "synopsis": "Sometime after the 63rd sensha-dou tournament, the Japanese Ministry of Education decides to move forward with its plan to decommission Ooarai Girls High School despite their recent triumph in the championship. In order to keep the school open, Miho and her team must win a match against a university sensha-dou team. For this difficult battle, Miho and the others count with the help of their friends from the other schools they previously faced, as well as assistance from new friends from the Chihatan Academy and Keizoku High School. Together, they will join forces to save Ooarai.\n(Source: Wikipedia)",
+      "year": 2015,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "School Life",
+        "Sports",
+        "Military"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "af1033814d9e0efcd5f0ac4a33d597cf464a0ed9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "girls-und-panzer-der-film/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
