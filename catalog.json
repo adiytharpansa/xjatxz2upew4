@@ -98051,6 +98051,30 @@
           "playlist": "sleepy-princess-in-the-demon-castle/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "prison-school-ova",
+      "title": "Prison School OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7e0800b06d99b1df98f3db9abd67f0bf82f18751/prison-school-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7e0800b06d99b1df98f3db9abd67f0bf82f18751/prison-school-ova/banner.jpg",
+      "synopsis": "The OVA featured the previously unanimated \"Mad Wax\" arc from the manga.\n\nBundled with a limited edition of the manga's 20th volume.",
+      "year": 2016,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "a1be2d6970e9643c4d389b1f587eaddbd6ab3a24",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "prison-school-ova/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
