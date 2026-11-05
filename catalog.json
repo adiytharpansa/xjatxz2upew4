@@ -98352,6 +98352,52 @@
           "playlist": "the-faraway-paladin/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "looking-up-at-the-half-moon",
+      "title": "Looking Up At The Half-Moon",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e2eb4121679b2c176cd63d745abc271b633dbdb8/looking-up-at-the-half-moon/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e2eb4121679b2c176cd63d745abc271b633dbdb8/looking-up-at-the-half-moon/poster.jpg",
+      "synopsis": "After contracting hepatitis A, Ezaki Yuuichi has been confined to a hospital, away from his friends and family, much to his displeasure. To relieve his boredom, he has taken to sneaking out of the hospital, usually putting himself on the receiving end of a beating from his nurse. Upon meeting a girl his age also staying in the hospital, he is immediately captivated by her beauty. Akiba Rika's personality is not quite as captivating as her beauty however. In fact, she is rather selfish, moody, and bossy. But as the two spend more time with each other, they become closer, sharing the ordinary joys and trials of a budding teenage romance, even when darkened with impending tragedy—for Rika's condition does not leave her much longer to live.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Angst"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "ba3f595e98c3e523d81158b9fa915c9958266999",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "looking-up-at-the-half-moon/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "looking-up-at-the-half-moon/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "looking-up-at-the-half-moon/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "looking-up-at-the-half-moon/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "looking-up-at-the-half-moon/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "looking-up-at-the-half-moon/ep6/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
