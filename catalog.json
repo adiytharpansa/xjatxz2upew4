@@ -99010,6 +99010,116 @@
           "playlist": "delicious-in-dungeon/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cardcaptor-sakura-clear-card",
+      "title": "Cardcaptor Sakura: Clear Card",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c7498ef832e4fcdbed79e0b520aec45de08d93af/cardcaptor-sakura-clear-card/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c7498ef832e4fcdbed79e0b520aec45de08d93af/cardcaptor-sakura-clear-card/banner.jpg",
+      "synopsis": "The January issue of Kodansha's Nakayoshi magazine revealed on December 1 that CLAMP's Cardcaptor Sakura Clear Card-hen sequel manga is getting a television anime series adaptation in January 2018.\n\nFourteen-year-old Sakura starts junior high school along her friends, including Syaoran, who had just returned to Tomoeda. After having a dream with a mysterious cloaked figure, all of Sakura's cards turn blank and are rendered powerless, thus she starts her quest to find out what is wrong. In doing so, Sakura and her allies discover and capture new transparent cards using a new key.\n\n(Source: Cardcaptor Sakura Wikia)",
+      "year": 2018,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "e80095b47c89a8aa5a0570102b93708394c40ae8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cardcaptor-sakura-clear-card/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cardcaptor-sakura-clear-card/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cardcaptor-sakura-clear-card/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cardcaptor-sakura-clear-card/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cardcaptor-sakura-clear-card/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cardcaptor-sakura-clear-card/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cardcaptor-sakura-clear-card/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cardcaptor-sakura-clear-card/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cardcaptor-sakura-clear-card/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cardcaptor-sakura-clear-card/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "cardcaptor-sakura-clear-card/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "cardcaptor-sakura-clear-card/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "cardcaptor-sakura-clear-card/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "cardcaptor-sakura-clear-card/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "cardcaptor-sakura-clear-card/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "cardcaptor-sakura-clear-card/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "cardcaptor-sakura-clear-card/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "cardcaptor-sakura-clear-card/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "cardcaptor-sakura-clear-card/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "cardcaptor-sakura-clear-card/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "cardcaptor-sakura-clear-card/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "cardcaptor-sakura-clear-card/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
