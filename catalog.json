@@ -103025,6 +103025,76 @@
           "playlist": "wagnaria-lord-of-the-takanashi/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "in-search-of-the-lost-future",
+      "title": "In Search of the Lost Future",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@32510edbf7ad881fe36f2d663463a9941d5dc349/in-search-of-the-lost-future/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@32510edbf7ad881fe36f2d663463a9941d5dc349/in-search-of-the-lost-future/banner.jpg",
+      "synopsis": "The astronomy club consists of Sou Akiyama, Kaori Sasaki, Airi Hasekura, Eitarou Osafune, and Nagisa Hanamiya. Though they say they spend their time studying the stars, certain members of the club have also been studying Sou.\nThis potential high school romance gets sidetracked as an increasingly bizarre series of events start happening in the soon-to-be-old school building. Ushinawareta Mirai wo Motomete finds the Astronomy Club of Uchihama Academy dealing with the appearances of ghosts, quelling civil unrest among different student clubs, coping with tragic accidents, and investigating an odd, relic-like cube. But perhaps the biggest task of all is unraveling the circumstances surrounding the sudden appearance of a transfer student named Yui.",
+      "year": 2014,
+      "score": 6.3,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Time Travel",
+        "Parallel Universe",
+        "Science Fiction",
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "3a9880ef299c1fa152f0af7c74e66c986c2edbbd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "in-search-of-the-lost-future/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "in-search-of-the-lost-future/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "in-search-of-the-lost-future/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "in-search-of-the-lost-future/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "in-search-of-the-lost-future/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "in-search-of-the-lost-future/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "in-search-of-the-lost-future/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "in-search-of-the-lost-future/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "in-search-of-the-lost-future/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "in-search-of-the-lost-future/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "in-search-of-the-lost-future/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "in-search-of-the-lost-future/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
