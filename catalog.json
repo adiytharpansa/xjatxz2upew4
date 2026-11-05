@@ -102741,6 +102741,60 @@
           "playlist": "shinmai-maou-no-testament-ova/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@808a7b16fae902af8ac82a5002203cf9021a64f7/demon-slayer-kimetsu-no-yaiba-hashira-training-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@808a7b16fae902af8ac82a5002203cf9021a64f7/demon-slayer-kimetsu-no-yaiba-hashira-training-arc/banner.jpg",
+      "synopsis": "The members of the Demon Slayer Corps and their highest-ranking swordsmen, the Hashira.\nIn preparation for the forthcoming final battle against Muzan Kibutsuji, the Hashira Training commences. While each carries faith and determination within their hearts, Tanjiro and the Hashira enter a new story.\n\n(Source: Crunchyroll)\n\nNotes:\n• The first episode has a runtime of ~1 hour and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen.",
+      "year": 2024,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Historical",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "32bad439c0095b5b04d08b0d565592565cc00166",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
