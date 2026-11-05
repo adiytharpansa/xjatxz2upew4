@@ -102862,6 +102862,76 @@
           "playlist": "chio-s-school-road/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "monster-musume-no-oisha-san",
+      "title": "Monster Musume no Oisha-san",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2615aaf9751a2f81704c71e2428a11fdb566ee7e/monster-musume-no-oisha-san/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2615aaf9751a2f81704c71e2428a11fdb566ee7e/monster-musume-no-oisha-san/banner.jpg",
+      "synopsis": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?(Source: Seven Seas Entertainment)",
+      "year": 2020,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "165367367d1178af1b190634d17078da67a440c6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "monster-musume-no-oisha-san/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "monster-musume-no-oisha-san/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "monster-musume-no-oisha-san/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "monster-musume-no-oisha-san/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "monster-musume-no-oisha-san/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "monster-musume-no-oisha-san/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "monster-musume-no-oisha-san/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "monster-musume-no-oisha-san/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "monster-musume-no-oisha-san/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "monster-musume-no-oisha-san/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "monster-musume-no-oisha-san/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "monster-musume-no-oisha-san/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
