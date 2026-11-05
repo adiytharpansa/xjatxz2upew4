@@ -98398,6 +98398,132 @@
           "playlist": "looking-up-at-the-half-moon/ep6/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "aquarion-evol",
+      "title": "Aquarion Evol",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@57ee8922189dc08a31cb2bff03596b3bc176a305/aquarion-evol/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@57ee8922189dc08a31cb2bff03596b3bc176a305/aquarion-evol/banner.jpg",
+      "synopsis": "After accidentally forming the legendary mecha \"Aquarion,\" Amata finds himself at a pilot-training academy where the girls are flirty and the boys seem more interested in exploring holes and big bangs than harnessing their Elemental superpowers. When a mysterious megalomaniac plots interplanetary disaster, the fate of the galaxy depends on whether or not the hormone-fueled coeds can come together.\n\n(Source: Funimation)",
+      "year": 2012,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Future",
+        "Mecha",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Slow When It Comes To Love"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "3a22a9b9dbb8acce711a40c619995f404309136c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "aquarion-evol/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "aquarion-evol/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "aquarion-evol/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "aquarion-evol/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "aquarion-evol/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "aquarion-evol/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "aquarion-evol/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "aquarion-evol/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "aquarion-evol/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "aquarion-evol/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "aquarion-evol/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "aquarion-evol/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "aquarion-evol/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "aquarion-evol/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "aquarion-evol/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "aquarion-evol/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "aquarion-evol/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "aquarion-evol/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "aquarion-evol/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "aquarion-evol/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "aquarion-evol/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "aquarion-evol/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "aquarion-evol/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "aquarion-evol/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "aquarion-evol/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "aquarion-evol/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
