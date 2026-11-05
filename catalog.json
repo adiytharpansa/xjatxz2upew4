@@ -103002,6 +103002,29 @@
           "playlist": "haruchika-haruta-chika/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wagnaria-lord-of-the-takanashi",
+      "title": "Wagnaria!!! Lord of the Takanashi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@34573debd1376f4fee5c61e9f2b07c80094c22d7/wagnaria-lord-of-the-takanashi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@34573debd1376f4fee5c61e9f2b07c80094c22d7/wagnaria-lord-of-the-takanashi/banner.jpg",
+      "synopsis": "Finale episode of Working!!!.",
+      "year": 2015,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Working Life"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "83d47836492f479cc3122ae25cb9d8ff7f7dae87",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wagnaria-lord-of-the-takanashi/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
