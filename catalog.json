@@ -100186,6 +100186,76 @@
           "playlist": "sarazanmai/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kodomo-no-jikan-tv",
+      "title": "Kodomo no Jikan (TV)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@afd7dc2407f1dd4e6d08c73b2589729f520b6275/kodomo-no-jikan-tv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@afd7dc2407f1dd4e6d08c73b2589729f520b6275/kodomo-no-jikan-tv/banner.jpg",
+      "synopsis": "3rd grade teacher Aoki Daisuke didn't expect the first class he ever taught to be one of the toughest obstacles of his life. After getting off on the wrong foot with the entire class, a moment of kind-heartedness instantly convinces one of his students, Rin Kokonoe, to make the ill-fated Aoki-sensei her lover. But what exactly are Rin's intentions for wanting to actively seduce Aoki-sensei, and will Aoki-sensei be able to help her to deal with them?",
+      "year": 2007,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Elementary School",
+        "Loli",
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "3e66dd63b14ee3493dd6bbf1ab45d92c9a135943",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kodomo-no-jikan-tv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kodomo-no-jikan-tv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kodomo-no-jikan-tv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kodomo-no-jikan-tv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kodomo-no-jikan-tv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kodomo-no-jikan-tv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kodomo-no-jikan-tv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kodomo-no-jikan-tv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kodomo-no-jikan-tv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kodomo-no-jikan-tv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kodomo-no-jikan-tv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kodomo-no-jikan-tv/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
