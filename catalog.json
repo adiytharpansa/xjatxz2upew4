@@ -104097,6 +104097,76 @@
           "playlist": "strawberry-100/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "berserk-2nd-season",
+      "title": "Berserk 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2ef00c3d3d8d53d743804a0fa8bd3814cb9d08c1/berserk-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2ef00c3d3d8d53d743804a0fa8bd3814cb9d08c1/berserk-2nd-season/poster.jpg",
+      "synopsis": "The sequel of Beserk (2016).",
+      "year": 2017,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Horror"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "e3189578748e6bca0ff9d5139d5cac3069d1ce3e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "berserk-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "berserk-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "berserk-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "berserk-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "berserk-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "berserk-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "berserk-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "berserk-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "berserk-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "berserk-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "berserk-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "berserk-2nd-season/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
