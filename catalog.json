@@ -102569,6 +102569,30 @@
           "playlist": "high-school-fleet/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dr-stone-ryusui",
+      "title": "Dr. STONE: Ryusui",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cd41c7d4cba765155f0a1d902f1e456a23be15dc/dr-stone-ryusui/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cd41c7d4cba765155f0a1d902f1e456a23be15dc/dr-stone-ryusui/banner.jpg",
+      "synopsis": "A television special that is set after the second season and will center around Ryuusui Nanami.",
+      "year": 2022,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "7e56f9f325b6e169d2e382baa5dd3656cd1f3c2d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dr-stone-ryusui/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
