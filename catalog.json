@@ -98752,6 +98752,76 @@
           "playlist": "sailor-moon-sailor-stars/ep34/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "level-e",
+      "title": "Level E",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f28ca3fc2d1b1aa1f98194b5c2e5d9882ec1e0d/level-e/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f28ca3fc2d1b1aa1f98194b5c2e5d9882ec1e0d/level-e/banner.jpg",
+      "synopsis": "This extraterrestrial adventure follows the alien genius, Prince Baka as he turns life on Earth into his own personal laugh track. The Prince has the biggest brain in the galaxy, and he’s also a sadistic prankster who loves to make humans squirm. Nostalgic anime fans will fall hard for this “undeniably clever” series that spoofs the television shows and video games they loved as kids.\n\n(Source: Funimation)",
+      "year": 2011,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "b40eb079b76111bf130b7e6e6af78064d5861625",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "level-e/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "level-e/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "level-e/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "level-e/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "level-e/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "level-e/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "level-e/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "level-e/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "level-e/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "level-e/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "level-e/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "level-e/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "level-e/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
