@@ -100256,6 +100256,78 @@
           "playlist": "kodomo-no-jikan-tv/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "loving-yamada-at-lv999",
+      "title": "Loving Yamada at LV999!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3b52164e9859823db6f3fa628c68e3890b17119e/loving-yamada-at-lv999/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3b52164e9859823db6f3fa628c68e3890b17119e/loving-yamada-at-lv999/banner.jpg",
+      "synopsis": "Recently dumped, Akane is just about to quit the game she used to play with her boyfriend, when she meets Yamada in the same RPG. Yamada in real life turns out to be somewhat of a legend. The only problem is - he is ONLY interested in the game. As Akane's feelings grow, will Yamada's focus stay on the game?\n\n(Source: Mangamo)",
+      "year": 2023,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama",
+        "Shoujo"
+      ],
+      "repo": "adiytharpansa/xhw0pb5jzs8u",
+      "pin": "83404380f1ed4ec278f525c7f81e53e3bcde934c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "loving-yamada-at-lv999/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "loving-yamada-at-lv999/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "loving-yamada-at-lv999/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "loving-yamada-at-lv999/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "loving-yamada-at-lv999/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "loving-yamada-at-lv999/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "loving-yamada-at-lv999/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "loving-yamada-at-lv999/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "loving-yamada-at-lv999/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "loving-yamada-at-lv999/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "loving-yamada-at-lv999/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "loving-yamada-at-lv999/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "loving-yamada-at-lv999/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
