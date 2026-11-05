@@ -99695,6 +99695,76 @@
           "playlist": "isekai-quartet-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "house-of-five-leaves",
+      "title": "House of Five Leaves",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@05f4116318a51cc04395c67d1e3f78290482b8ea/house-of-five-leaves/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@05f4116318a51cc04395c67d1e3f78290482b8ea/house-of-five-leaves/banner.jpg",
+      "synopsis": "Masterless samurai Akitsu Masanosuke is a skilled and loyal swordsman, but his naïve, diffident nature has time and again caused him to be let go by the lords who have employed him. Hungry and desperate, he becomes a bodyguard for Yaichi, the charismatic leader of a gang called \"Five Leaves.\" Although disturbed by the gang's sinister activities, Masa begins to suspect that Yaichi's motivations are not what they seem. And despite his misgivings, the deeper he's drawn into the world of the Five Leaves, the more he finds himself fascinated by these devious, mysterious outlaws.\n(Source: MU)",
+      "year": 2010,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Past",
+        "Historical",
+        "Japan",
+        "Tokugawa Period",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "ec9c01b220592a3ecf7dd72171f9fd078fe76c97",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "house-of-five-leaves/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "house-of-five-leaves/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "house-of-five-leaves/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "house-of-five-leaves/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "house-of-five-leaves/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "house-of-five-leaves/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "house-of-five-leaves/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "house-of-five-leaves/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "house-of-five-leaves/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "house-of-five-leaves/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "house-of-five-leaves/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "house-of-five-leaves/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
