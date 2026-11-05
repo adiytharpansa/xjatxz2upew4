@@ -101450,6 +101450,124 @@
           "playlist": "heroic-age/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "scrapped-princess",
+      "title": "Scrapped Princess",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ed44d876fe2e59f54cefdebbe2cf116cc9a2973/scrapped-princess/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ed44d876fe2e59f54cefdebbe2cf116cc9a2973/scrapped-princess/poster.jpg",
+      "synopsis": "Pacifica Casull is the most feared and hated person by the followers of the God Mauser. Known as the Scrapped Princess, she is the poison that will destroy the world. To avoid being killed by the zealots of Mauser, Pacifica and her adoptive brother and sister leave the village of Manhurin. Her brother, Shannon, is an expert with the sword while Racquel is proficient with magic. At every step of the way, however, someone is constantly trying to kill Pacifica, hoping to somehow avert the catastrophe that is supposed to befall the world on her 16th birthday.\n(Source: ANN)",
+      "year": 2003,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Super Power",
+        "Future",
+        "Earth",
+        "Mecha"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "c779e237edc0f966c06930c54582f6cf7944fe08",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "scrapped-princess/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "scrapped-princess/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "scrapped-princess/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "scrapped-princess/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "scrapped-princess/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "scrapped-princess/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "scrapped-princess/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "scrapped-princess/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "scrapped-princess/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "scrapped-princess/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "scrapped-princess/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "scrapped-princess/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "scrapped-princess/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "scrapped-princess/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "scrapped-princess/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "scrapped-princess/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "scrapped-princess/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "scrapped-princess/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "scrapped-princess/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "scrapped-princess/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "scrapped-princess/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "scrapped-princess/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "scrapped-princess/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "scrapped-princess/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
