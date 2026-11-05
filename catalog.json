@@ -101890,6 +101890,74 @@
           "playlist": "erin/ep50/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "adachi-and-shimamura",
+      "title": "Adachi and Shimamura",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b7458d56abb3a71ca2f34a7f24e073db9ee3bacd/adachi-and-shimamura/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b7458d56abb3a71ca2f34a7f24e073db9ee3bacd/adachi-and-shimamura/banner.jpg",
+      "synopsis": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.This was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.Keeping my head propped against the wall, I let out a small sigh.What was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.Not that I'm like that. I'm sure Shimamura isn’t either. It’s not even something worth repeating myself about, but really, it’s not like that.It's just that when she hears the word \"friend,\" I want her to think of me first. That's all. (Source: Baka-Tsuki)",
+      "year": 2020,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Shoujo Ai",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "e8573e4630ae97303bd853a4c203addcef32d7e6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "adachi-and-shimamura/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "adachi-and-shimamura/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "adachi-and-shimamura/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "adachi-and-shimamura/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "adachi-and-shimamura/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "adachi-and-shimamura/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "adachi-and-shimamura/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "adachi-and-shimamura/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "adachi-and-shimamura/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "adachi-and-shimamura/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "adachi-and-shimamura/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "adachi-and-shimamura/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
