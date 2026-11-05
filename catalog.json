@@ -97981,6 +97981,76 @@
           "playlist": "noein-to-your-other-self/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sleepy-princess-in-the-demon-castle",
+      "title": "Sleepy Princess in the Demon Castle",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@118627a74b179775228adc951c892d72635fc402/sleepy-princess-in-the-demon-castle/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@118627a74b179775228adc951c892d72635fc402/sleepy-princess-in-the-demon-castle/banner.jpg",
+      "synopsis": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
+      "year": 2020,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Demon",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "0f4f9434b48fb9753a60a6f7359a4f4e76f78c2c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sleepy-princess-in-the-demon-castle/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
