@@ -99626,6 +99626,75 @@
           "playlist": "witch-hunter-robin/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "isekai-quartet-2",
+      "title": "Isekai Quartet 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f1f9b386f2d4ead561eca2c817d7881abd7d5f37/isekai-quartet-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f1f9b386f2d4ead561eca2c817d7881abd7d5f37/isekai-quartet-2/banner.jpg",
+      "synopsis": "Second season of Isekai Quartet.",
+      "year": 2020,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Fantasy",
+        "Comedy",
+        "Isekai"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "22fc55374ea2d052ef243caf96a0c385550ff73e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "isekai-quartet-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "isekai-quartet-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "isekai-quartet-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "isekai-quartet-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "isekai-quartet-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "isekai-quartet-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "isekai-quartet-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "isekai-quartet-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "isekai-quartet-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "isekai-quartet-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "isekai-quartet-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "isekai-quartet-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
