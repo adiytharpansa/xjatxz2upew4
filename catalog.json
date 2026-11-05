@@ -100550,6 +100550,32 @@
           "playlist": "ahiru-no-sora/ep50/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "natsume-s-book-of-friends-sometime-on-a-snowy-day",
+      "title": "Natsume's Book of Friends: Sometime on a Snowy Day",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2bdcf2ec6f728f037ce56734445ceabef3b6f331/natsume-s-book-of-friends-sometime-on-a-snowy-day/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2bdcf2ec6f728f037ce56734445ceabef3b6f331/natsume-s-book-of-friends-sometime-on-a-snowy-day/banner.jpg",
+      "synopsis": "During a winter walk, Natsume meets a snowman youkai who is searching for something she's lost and can't seem to recall and decides to help her despite not knowing what exactly she's looking for.",
+      "year": 2014,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "c55ea98a6d73b6d9c67cd8c8308d8e18b6f021a7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "natsume-s-book-of-friends-sometime-on-a-snowy-day/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
