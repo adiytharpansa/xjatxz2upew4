@@ -99217,6 +99217,80 @@
           "playlist": "hajime-no-ippo-mashiba-vs-kimura/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sola",
+      "title": "Sola",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@882a6aa54cc7a71cc7d23393243ee251b42df8a4/sola/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@882a6aa54cc7a71cc7d23393243ee251b42df8a4/sola/banner.jpg",
+      "synopsis": "Yorito Morimiya is obsessed with the sky. He especially loves taking pictures of its array of different faces—sunrises, sunsets, clouds. On one of his early-morning excursions to photograph the sunrise, Yorito meets a strange girl engaged in an argument with a vending machine. By the time that Yorito forces the girl's tomato juice out of the machine, she's vanished without a trace.Sola follows the story of Yorito, his sister Aono, and their childhood friends Mana and Koyori Ishizuki, as well as that of a mysterious girl who appears and disappears, and who seems to harbor a dark secret. In a world where magic and the supernatural are never far below the surface and no one is who they seem to be, love and loneliness vie for supremacy beneath Yorito's sky. ",
+      "year": 2007,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Sudden Girlfriend Appearance"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "897b18e924de60ca3ab0d8011e1be0e22d267ae4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sola/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sola/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sola/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sola/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sola/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sola/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sola/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sola/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sola/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sola/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sola/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sola/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sola/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
