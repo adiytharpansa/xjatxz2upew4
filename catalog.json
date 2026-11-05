@@ -102689,6 +102689,32 @@
           "playlist": "haikyuu-lev-appears/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-piece-film-strong-world-episode-0",
+      "title": "One Piece Film: Strong World Episode 0",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5aed4aeae824db81fa97b34ce921f39ddbd42f64/one-piece-film-strong-world-episode-0/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5aed4aeae824db81fa97b34ce921f39ddbd42f64/one-piece-film-strong-world-episode-0/banner.jpg",
+      "synopsis": "Set over 20 years prior to the main One Piece story, this limited release OVA chronicles the confrontation between Gold Lion Shiki and Gold Roger as well as other events around the world around the time of the Pirate King's execution. ",
+      "year": 2010,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Pirate",
+        "Super Power",
+        "Past",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "1ea0dfa37dfc37259398d6aa0dbc04f0b5468d4d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-piece-film-strong-world-episode-0/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
