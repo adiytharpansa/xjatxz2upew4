@@ -102795,6 +102795,73 @@
           "playlist": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc/ep8/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "chio-s-school-road",
+      "title": "Chio's School Road",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@96d5a3232478f7f2cc181157633173f1155651aa/chio-s-school-road/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@96d5a3232478f7f2cc181157633173f1155651aa/chio-s-school-road/poster.jpg",
+      "synopsis": "This is a story of a nerdy bookworm girl on her way to school, and yes, that's the entire premise, as she's not getting to school any time soon. Taking her \"usual\" route to school, it becomes an increasingly unusual adventure, and all the more ridiculous as it carries on. It takes an unpleasant sentiment many can empathize with, the feeling of tardiness, and brings humor to it—making it a hilarious situation to look back upon.\n\n(Source: seventhstyle)",
+      "year": 2018,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Seinen"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "4c984c74924527eb3dea4f55726d298e5f066e85",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "chio-s-school-road/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "chio-s-school-road/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "chio-s-school-road/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "chio-s-school-road/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "chio-s-school-road/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "chio-s-school-road/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "chio-s-school-road/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "chio-s-school-road/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "chio-s-school-road/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "chio-s-school-road/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "chio-s-school-road/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "chio-s-school-road/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
