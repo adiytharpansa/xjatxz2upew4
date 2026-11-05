@@ -97647,6 +97647,76 @@
           "playlist": "ace-of-diamond-second-season/ep51/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fortune-arterial-akai-yakusoku",
+      "title": "Fortune Arterial: Akai Yakusoku",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80576455e04dd45fa5e9b2f1227c280de8f47db0/fortune-arterial-akai-yakusoku/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80576455e04dd45fa5e9b2f1227c280de8f47db0/fortune-arterial-akai-yakusoku/poster.jpg",
+      "synopsis": "Fortune Arterial's story revolves around the male protagonist Kohei Hasekura, who transfers into a prestigious public school in the style of an English six-year school encompassing junior-high and high school students. The school is on an island named Tamatsu Island off-shore from mainland Japan, and the only way to get there is by boat. Soon after transferring, he discovers that one of the student in the class next door to his, Sendo Erika, is in fact a type of vampire. \n(Source: Wikipedia)",
+      "year": 2010,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "High School",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "70330de5bdf1a128221ca1710300ca1231459860",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fortune-arterial-akai-yakusoku/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fortune-arterial-akai-yakusoku/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fortune-arterial-akai-yakusoku/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fortune-arterial-akai-yakusoku/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fortune-arterial-akai-yakusoku/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fortune-arterial-akai-yakusoku/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fortune-arterial-akai-yakusoku/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fortune-arterial-akai-yakusoku/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fortune-arterial-akai-yakusoku/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fortune-arterial-akai-yakusoku/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fortune-arterial-akai-yakusoku/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fortune-arterial-akai-yakusoku/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
