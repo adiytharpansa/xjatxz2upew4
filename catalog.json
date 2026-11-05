@@ -102478,6 +102478,27 @@
           "playlist": "the-eminence-in-shadow-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haikyuu-special-feature-the-spring-tournament-of-their-youth",
+      "title": "Haikyuu!! Special Feature! The Spring Tournament of Their Youth",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a866cf168c0e241923f0febf02749fa0f84dca67/haikyuu-special-feature-the-spring-tournament-of-their-youth/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a866cf168c0e241923f0febf02749fa0f84dca67/haikyuu-special-feature-the-spring-tournament-of-their-youth/poster.jpg",
+      "synopsis": "The OVA episode revisits the primary matches from the spring tournament and features interviews with players.\n\n(Source: MAL News)",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "127d9417f6be87ea0995dae7dc3d21ffa0db33d9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haikyuu-special-feature-the-spring-tournament-of-their-youth/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
