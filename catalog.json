@@ -98258,6 +98258,30 @@
           "playlist": "my-senpai-is-annoying/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-mu",
+      "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen taikai Kaisai!!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1fcbf9ff0d634c9832502506d1c7182370374bde/naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-mu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1fcbf9ff0d634c9832502506d1c7182370374bde/naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-mu/banner.jpg",
+      "synopsis": "A contest is made by the Fifth Hokage called Jonin vs Genin. The point is to collect crystals for points, with the higher-ranked Chunin and Jonin holding crystals worth more points. The Genin have blue crystals, while the Chunin and Jonin have red crystals.\nThe video shows various fights between the Genin and Jonin, which each instance ending in the Jonin unknowingly losing their crystal (or discarding it).\n(Source: Wikipedia)",
+      "year": 2005,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Virtual Reality",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "f6a789184070cf15b394c4e7094a2ea4a14743d6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-mu/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
