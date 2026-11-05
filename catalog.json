@@ -99120,6 +99120,77 @@
           "playlist": "cardcaptor-sakura-clear-card/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tomo-chan-is-a-girl",
+      "title": "Tomo-chan Is a Girl!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d9890398686fa1fe9e6b342e1814619e77a55839/tomo-chan-is-a-girl/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d9890398686fa1fe9e6b342e1814619e77a55839/tomo-chan-is-a-girl/banner.jpg",
+      "synopsis": "Tomboy Tomo couldn’t have picked a more awkward high school crush ’cause it’s on her childhood friend, Junichiro, but he only sees her as one of the guys. Despite her pretty looks and signals, nothing gets through to this meathead! Will Junichiro ever realize Tomo’s into him and see her for the cutesy girl she actually is?!\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xaon7ck9cnso",
+      "pin": "2cf1d655d47f86890d235c2b7231bed370a491c8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tomo-chan-is-a-girl/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tomo-chan-is-a-girl/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tomo-chan-is-a-girl/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tomo-chan-is-a-girl/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tomo-chan-is-a-girl/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tomo-chan-is-a-girl/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tomo-chan-is-a-girl/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tomo-chan-is-a-girl/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tomo-chan-is-a-girl/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tomo-chan-is-a-girl/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tomo-chan-is-a-girl/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tomo-chan-is-a-girl/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tomo-chan-is-a-girl/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
