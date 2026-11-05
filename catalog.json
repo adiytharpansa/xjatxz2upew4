@@ -102499,6 +102499,76 @@
           "playlist": "haikyuu-special-feature-the-spring-tournament-of-their-youth/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-school-fleet",
+      "title": "High School Fleet",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a44d81d79923e6535a49b21906ee9a82b9d14543/high-school-fleet/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a44d81d79923e6535a49b21906ee9a82b9d14543/high-school-fleet/banner.jpg",
+      "synopsis": "Living by the sea, protecting the sea, and journeying across the sea... They're the Blue Mermaids!\nBecause of a shift in tectonic plates around 100 years ago, Japan lost much of its area to submergence. To preserve Japan's territories, coastal cities sprung up, one after the other. Eventually, they became marine cities, and along with the expansion of sea-lanes to connect them, the need arose for a sizable staff to protect the seas.\nAt the same time, maritime jobs were becoming more popular among women. Hence, the Blue Mermaids, tasked with keeping the seas safe, had become every female student's dream job. This is when childhood friends Akeno Misaki and Moeka China enroll in a marine high school in Yokosuka, along with other girls who share their goal of becoming a Blue Mermaid.\n(Source: Aniplex USA)",
+      "year": 2016,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Action",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x4b5qo5eedit",
+      "pin": "8bc3ac99c337355eae946dbb150b76d13afa61f5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-school-fleet/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-school-fleet/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "high-school-fleet/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "high-school-fleet/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "high-school-fleet/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "high-school-fleet/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "high-school-fleet/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "high-school-fleet/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "high-school-fleet/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "high-school-fleet/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "high-school-fleet/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "high-school-fleet/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
