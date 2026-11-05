@@ -96784,6 +96784,72 @@
           "playlist": "zakuro/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nanbaka-season-2",
+      "title": "Nanbaka: Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@18934bd1b3b5243fe335b44286877d77578f41ba/nanbaka-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@18934bd1b3b5243fe335b44286877d77578f41ba/nanbaka-season-2/poster.jpg",
+      "synopsis": "The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.",
+      "year": 2017,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "fdf220c311923595450b6f3c9c23b8d975be2e5c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nanbaka-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nanbaka-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nanbaka-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nanbaka-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nanbaka-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nanbaka-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nanbaka-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nanbaka-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nanbaka-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nanbaka-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nanbaka-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nanbaka-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
