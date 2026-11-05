@@ -97166,6 +97166,31 @@
           "playlist": "eureka-seven-ao/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-clover-season-2",
+      "title": "Black Clover Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6312c2bdacc19b92ceb757fa38b265dccec2893e/black-clover-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6312c2bdacc19b92ceb757fa38b265dccec2893e/black-clover-season-2/banner.jpg",
+      "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 8.6,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xjatxz2upew4",
+      "pin": "dd6ed0c2920a1fd25fb8521794b2101be2ca5c95",
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
