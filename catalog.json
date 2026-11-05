@@ -100924,6 +100924,32 @@
           "playlist": "dragon-ball-z-movie-09-bojack-unbound/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-ocean-waves",
+      "title": "The Ocean Waves",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@52816c0ace3aad3202a2da5eb9f57b95796dcb2d/the-ocean-waves/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@52816c0ace3aad3202a2da5eb9f57b95796dcb2d/the-ocean-waves/banner.jpg",
+      "synopsis": "Ocean Waves is a high school love story set in Kochi, Japan. Morisaku Taku and Matsuno Yutaka are best friends when a girl from Tokyo named Muto Rikako transfers to their school. Excluding herself from group activities, she’s eventually labeled a snob. Matsuno has a crush on Rikako, so it’s no surprise that he gets a little jealous when Morisaku and Rikako start spending more time together. The rumors around school get worse, but Morisaku still insists there is nothing between him and Rikako.\n\n(Source: Anime News Network, edited)",
+      "year": 1993,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "e1f962fd357d268bdc92aad20baa244f4b45fd6f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-ocean-waves/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
