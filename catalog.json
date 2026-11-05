@@ -96850,6 +96850,36 @@
           "playlist": "nanbaka-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ao-haru-ride-ova",
+      "title": "Ao Haru Ride OVA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d2ae6e51bca705c93a6bb7fe9ac3fb0edc4ffaa2/ao-haru-ride-ova/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d2ae6e51bca705c93a6bb7fe9ac3fb0edc4ffaa2/ao-haru-ride-ova/banner.jpg",
+      "synopsis": "\"Unwritten\" - An episode about Futaba and Kou in middle school. Based on the chapter called \"Unwritten.\" also known as chapter 0 or Prologue.\n\"Page.13\" - An episode that continues the story after the television series's 12th and final episode.\n(Source: sakisaka10)",
+      "year": 2014,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Middle School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "810cb8934640a05adfd1d1a6ff17c7404dcf7d60",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ao-haru-ride-ova/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ao-haru-ride-ova/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
