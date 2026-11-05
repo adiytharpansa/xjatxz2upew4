@@ -101642,6 +101642,32 @@
           "playlist": "uncle-from-another-world/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "shigatsu-wa-kimi-no-uso-moments",
+      "title": "Shigatsu wa Kimi no Uso: Moments",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d2645d1e76057c029a5eacfea41905de26dbe92/shigatsu-wa-kimi-no-uso-moments/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d2645d1e76057c029a5eacfea41905de26dbe92/shigatsu-wa-kimi-no-uso-moments/banner.jpg",
+      "synopsis": "OVA bundled with the 11th Shigatsu wa Kimi no Uso manga volume.\nThe OVA will focus on Kousei, Emi, and Takeshi when they were younger, showing their troubles during their competitions and the beginning of their rivalry.\n(Source: Shigatsu wa Kimi no Uso Wikia)",
+      "year": 2015,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Music",
+        "Asia",
+        "Friendship"
+      ],
+      "repo": "adiytharpansa/x02at794fkh9",
+      "pin": "ae4eb41ec560ad22da7e64f6203a6c94ce7aa7bd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "shigatsu-wa-kimi-no-uso-moments/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
