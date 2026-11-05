@@ -99191,6 +99191,32 @@
           "playlist": "tomo-chan-is-a-girl/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hajime-no-ippo-mashiba-vs-kimura",
+      "title": "Hajime no Ippo: Mashiba vs. Kimura",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cd119ecf2b3523911ea759478ac1275e3e854940/hajime-no-ippo-mashiba-vs-kimura/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cd119ecf2b3523911ea759478ac1275e3e854940/hajime-no-ippo-mashiba-vs-kimura/banner.jpg",
+      "synopsis": "Kimura finally has his championship match. It takes place at the annual champion carnival. But now he must face the intense champion, Mashiba for the Junior Lightweight championship. \n(Source: ANN)",
+      "year": 2003,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Boxing",
+        "Martial Arts",
+        "Present",
+        "Japan",
+        "Combat",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "e60df50929c0378e3e6ea9b21c768a6a33f2c065",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hajime-no-ippo-mashiba-vs-kimura/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
