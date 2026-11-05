@@ -98892,6 +98892,124 @@
           "playlist": "didn-t-i-say-to-make-my-abilities-average-in-the-next-life/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "delicious-in-dungeon",
+      "title": "Delicious in Dungeon",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d30176aec013df2922038a30e542e04a24dd3a6d/delicious-in-dungeon/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d30176aec013df2922038a30e542e04a24dd3a6d/delicious-in-dungeon/banner.jpg",
+      "synopsis": "Dungeons, dragons...and delicious monster stew!? Adventurers foray into a cursed buried kingdom to save their friend, cooking up a storm along the way.\n\n(Source: Netflix)\n\nNote: A world premiere screening of Episode 1 was shown in the Studio TRIGGER panel at Anime Expo on July 1, 2023.",
+      "year": 2024,
+      "score": 8.5,
+      "status": "FINISHED",
+      "genres": [
+        "Elf",
+        "Cooking",
+        "Magic",
+        "Zombie",
+        "Dragon",
+        "Ghost"
+      ],
+      "repo": "adiytharpansa/xwhn6eklwh84",
+      "pin": "af514cd7bafcfd74d0758ecc85355c18246865b0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "delicious-in-dungeon/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "delicious-in-dungeon/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "delicious-in-dungeon/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "delicious-in-dungeon/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "delicious-in-dungeon/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "delicious-in-dungeon/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "delicious-in-dungeon/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "delicious-in-dungeon/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "delicious-in-dungeon/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "delicious-in-dungeon/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "delicious-in-dungeon/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "delicious-in-dungeon/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "delicious-in-dungeon/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "delicious-in-dungeon/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "delicious-in-dungeon/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "delicious-in-dungeon/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "delicious-in-dungeon/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "delicious-in-dungeon/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "delicious-in-dungeon/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "delicious-in-dungeon/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "delicious-in-dungeon/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "delicious-in-dungeon/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "delicious-in-dungeon/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "delicious-in-dungeon/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
