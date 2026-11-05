@@ -102593,6 +102593,80 @@
           "playlist": "dr-stone-ryusui/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dog-days-2",
+      "title": "Dog Days'",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@212b13e4ea82369ac85838732807d892333b41b1/dog-days-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@212b13e4ea82369ac85838732807d892333b41b1/dog-days-2/banner.jpg",
+      "synopsis": "Cinque returns to the land of Flonyard in Dog Days' to resume his duties as the hero of the Biscotti Republic and it's as though he never left!\nThe difference this time is that he's brought two friends with him who become heroes in their own right: childhood best friend Rebecca Anderson, who becomes the hero for the Principality of Pastillage at the urging of their leader Princess Couvert Eschenbach Pastillage, and his cousin Nanami Takatsuki, who becomes the hero for the Galette Lion Dominion.\nAs with the first season though, with so many secrets to be uncovered and mysteries to be solved, will there even be time for the athletic events that these three hyper and athletic teenagers love to participate in so much?",
+      "year": 2012,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x37spdridge1",
+      "pin": "efeb417b609e8477f1c7f8112b299c952dc21814",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dog-days-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dog-days-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dog-days-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dog-days-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dog-days-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dog-days-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dog-days-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dog-days-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dog-days-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dog-days-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dog-days-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dog-days-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dog-days-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
