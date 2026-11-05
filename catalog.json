@@ -100120,6 +100120,72 @@
           "playlist": "seven-senses-of-the-re-union/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sarazanmai",
+      "title": "Sarazanmai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7d084448f74b8bd506ae9136b994ccff8a5ccccc/sarazanmai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7d084448f74b8bd506ae9136b994ccff8a5ccccc/sarazanmai/banner.jpg",
+      "synopsis": "The setting is Asakusa. One day, second-years in middle school Kazuki Yasaka, Toi Kuji, and Enta Jinnai meet Keppi, a mysterious kappa-like creature, who steals their shirikodama and transforms them into kappas. \"To return to your original forms,\" Keppi tells them, \"you must fight the zombies and take the shirikodama from them.\" Can the boys connect with each other and steal the zombies' shirikodama?! This is the story of three boys who can't connect with someone important to them, learning about what it truly means to do so.\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Absurdist Humour",
+        "Japan",
+        "Fantasy",
+        "Henshin",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "33bcfee48558dd1aabd859d99c7058595cd0f00d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sarazanmai/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sarazanmai/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sarazanmai/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sarazanmai/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sarazanmai/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sarazanmai/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sarazanmai/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sarazanmai/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sarazanmai/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sarazanmai/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sarazanmai/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
