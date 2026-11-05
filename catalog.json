@@ -103705,6 +103705,32 @@
           "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/x8ncmsy74h3t@11485c54/toriko/ep147/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dead-leaves",
+      "title": "Dead Leaves",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80ff24a71859d23d994cb4c6cce83e9710d483f6/dead-leaves/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80ff24a71859d23d994cb4c6cce83e9710d483f6/dead-leaves/banner.jpg",
+      "synopsis": "Pandy and Retro awaken naked on Earth with no recollection of their past. They embark on a devastating crime spree in search of food, clothing and transportation, but are captured by authorities and sent to the infamous lunar penitentiary named Dead Leaves. While incarcerated, they quickly discover that Dead Leaves is also a top-secret cloning facility, occupied by villainous guards and deformed genetic experiments. Ultra-manic chaos and hyper-violent bedlam ensue as they organize a prison break with the aid of their fellow mutant inmates. ",
+      "year": 2004,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Cyborg",
+        "Gunfights",
+        "Super Power",
+        "Space",
+        "Slapstick",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/x8ncmsy74h3t",
+      "pin": "cf858aed88dec862eb0ab573d4dbfc72f5751db1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dead-leaves/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
