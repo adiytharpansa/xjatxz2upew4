@@ -102240,6 +102240,32 @@
           "playlist": "cuticle-detective-inaba/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z-movie-11-bio-broly",
+      "title": "Dragon Ball Z Movie 11: Bio-Broly",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3cc61056f96dead7bb889279ede91555ef1a60ed/dragon-ball-z-movie-11-bio-broly/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3cc61056f96dead7bb889279ede91555ef1a60ed/dragon-ball-z-movie-11-bio-broly/banner.jpg",
+      "synopsis": "Jaga Bada, Mr. Satan's old sparring partner, has invited Satan to his personal island to hold a grudge match. Trunks and Goten decide to come for the adventure and Android #18 is following Satan for the money he owes her. Little do they know that Jaga Bada's scientist have found a way to resurrect Broly, the legendary Super Saiyan.",
+      "year": 1994,
+      "score": 5.8,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x4hrkxuim9k7",
+      "pin": "45adf31fd586068591a67c563fa5d81467183c7d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z-movie-11-bio-broly/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
